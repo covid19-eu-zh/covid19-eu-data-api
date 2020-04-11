@@ -130,7 +130,7 @@ def get_datasets(dataset_path):
 if __name__ == "__main__":
 
     dataset_path = os.path.join(__CWD__, '..', 'dataset')
-    db_path = os.path.join(__CWD__, '..', 'db')
+    db_path = os.path.join(__CWD__, '..', 'api', 'db')
 
     dataset = get_datasets(dataset_path)
 

@@ -1,0 +1,30 @@
+{
+  "name": "covid19-eu-data-api",
+  "version": "0.0.1",
+  "description": "Data API for COVID-19 Data in EU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covid19-eu-zh/covid19-eu-data-api.git"
+  },
+  "keywords": [
+    "covid19"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/covid19-eu-zh/covid19-eu-data-api/issues"
+  },
+  "homepage": "https://github.com/covid19-eu-zh/covid19-eu-data-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
