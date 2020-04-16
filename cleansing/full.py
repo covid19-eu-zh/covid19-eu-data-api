@@ -12,6 +12,7 @@ __CWD__ = os.path.abspath(os.path.dirname(__file__))
 
 logging.basicConfig()
 logger = logging.getLogger('cleansing.full')
+logger.setLevel(logging.INFO)
 
 GEO_COLS = ['country','nuts_1', 'nuts_2', 'nuts_3', 'lau']
 

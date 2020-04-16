@@ -58,6 +58,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          repository: covid19-eu-zh/covid19-eu-data-api
           directory: covid19-eu-data-cleansing
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
