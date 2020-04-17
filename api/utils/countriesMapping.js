@@ -14,13 +14,13 @@ const countriesMapping = {
   pl: 'Poland',
   scotland: 'Scotland',
   se: 'Sweden',
-  si: '	Slovenia',
+  si: 'Slovenia',
   uk: 'United Kindom',
   wales: 'Wales'
 }
 
 module.exports = function getCountryName (initial) {
-  if (!countriesMapping(initial)) return 'No country name in the mapping'
+  if (!countriesMapping[initial]) return 'No country name in the mapping'
 
-  return countriesMapping(initial)
+  return countriesMapping[initial]
 }

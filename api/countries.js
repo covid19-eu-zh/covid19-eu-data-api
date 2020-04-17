@@ -12,8 +12,10 @@ module.exports = (req, res) => {
     var countries = []
     files.forEach(function (file) {
       const initial = file.split('.')[0]
-      countries.push({ initial: getCountryName(initial) })
+      countries.push({ [initial]: getCountryName(initial) })
     })
+
+    console.log('countries',countries)
 
     res.status(200).send({ countries: countries })
   })
