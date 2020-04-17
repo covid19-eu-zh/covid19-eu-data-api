@@ -7,7 +7,7 @@ module.exports = (req, res) => {
   fs.readdir(directoryPath, function (err, files) {
       //handling error
       if (err) {
-          return console.log('Unable to scan directory: ' + err);
+          res.status(503).send('Unable to scan directory: ' + err);
       }
       var countries = []
       files.forEach(function (file) {
@@ -15,6 +15,6 @@ module.exports = (req, res) => {
           countries.push(file.split('.')[0])
       });
 
-      res.send({countries:countries});
+      res.status(200).send({countries:countries});
     })
 }
