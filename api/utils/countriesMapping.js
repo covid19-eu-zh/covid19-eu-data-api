@@ -3,7 +3,7 @@ const countriesMapping = {
   ch: 'Switzerland',
   cz: 'Czech Republic',
   de: 'Germany',
-  ecdc: '??',
+  ecdc: 'Ecdc',
   england: 'England',
   fr: 'France',
   hu: 'Hungary',

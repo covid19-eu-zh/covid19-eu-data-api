@@ -1,22 +1,11 @@
-const path = require('path')
-const fs = require('fs')
-const getCountryName = require('./utils/countriesMapping')
-
 module.exports = (req, res) => {
-  const directoryPath = path.join(__dirname, './db/')
-  fs.readdir(directoryPath, function (err, files) {
-    // handling error
+
+  const alpha2 = req.params.alpha2
+  const dataPath = `./db/${alpha2}.json`
+  fs.readFile(dataPath, 'utf8', (err, data) => {
     if (err) {
-      res.status(503).send('Unable to scan directory: ' + err)
+      throw err
     }
-    var countries = []
-    files.forEach(function (file) {
-      const initial = file.split('.')[0]
-      countries.push({ [initial]: getCountryName(initial) })
-    })
-
-    console.log('countries',countries)
-
-    res.status(200).send({ countries: countries })
+    res.status(200).send(JSON.parse(data))
   })
 }
