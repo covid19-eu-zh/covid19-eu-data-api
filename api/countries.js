@@ -1,4 +1,6 @@
 const fs = require('fs')
+const path = require('path')
+
 // req.params doesn't get read in Zeit, so use req.query instead
 // res.status(200).send({
 //   body: req.body,
@@ -8,15 +10,26 @@ const fs = require('fs')
 // })
 
 module.exports = (req, res) => {
+  const directoryPath = path.join(__dirname, './db/', `${alpha2}.json`)
 
   const alpha2 = req.query.alpha2
   const dataPath = `./db/${alpha2}.json`
 
-  fs.readFile(dataPath, 'utf8', (err, data) => {
+  fs.readFile(directoryPath, 'utf8', (err, data) => {
     if (err) {
         res.status(503).send('Unable to scan directory: ' + err)
       throw err
     }
+    console.log('data',data)
     res.status(200).send(data)
   })
 }
+
+// const dataPath = `./db/at.json`
+
+// fs.readFile(directoryPath, 'utf8', (err, data) => {
+//   if (err) {
+//     throw err
+//   }
+//   console.log('data',data)
+// })
