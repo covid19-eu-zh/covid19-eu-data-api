@@ -1,12 +1,12 @@
 module.exports = (req, res) => {
 
-  const alpha2 = req.params.alpha2
-  const dataPath = `./db/${alpha2}.json`
+  // const alpha2 = req.params.alpha2
+  // const dataPath = `./db/${alpha2}.json`
   res.status(200).json({
     body: req.body,
     query: req.query,
     cookies: req.cookies,
-    param: req.param
+    params: req.params
   })
   // fs.readFile(dataPath, 'utf8', (err, data) => {
   //   if (err) {
