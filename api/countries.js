@@ -10,17 +10,17 @@ const path = require('path')
 // })
 
 module.exports = (req, res) => {
+  const alpha2 = req.query.alpha2
   const directoryPath = path.join(__dirname, './db/', `${alpha2}.json`)
 
-  const alpha2 = req.query.alpha2
-  const dataPath = `./db/${alpha2}.json`
+  // const dataPath = `./db/${alpha2}.json`
 
   fs.readFile(directoryPath, 'utf8', (err, data) => {
     if (err) {
-        res.status(503).send('Unable to scan directory: ' + err)
+      res.status(503).send('Unable to scan directory: ' + err)
       throw err
     }
-    console.log('data',data)
+    console.log('data', data)
     res.status(200).send(data)
   })
 }
