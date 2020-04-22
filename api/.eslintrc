@@ -6,7 +6,8 @@
         "node": true
     },
     "extends": [
-        "standard"
+        "plugin:prettier/recommended",
+        "prettier/standard"
     ],
     "globals": {
         "Atomics": "readonly",
@@ -15,6 +16,8 @@
     "parserOptions": {
         "ecmaVersion": 2018
     },
+    "plugins": ["prettier"],
     "rules": {
+        "prettier/prettier": "error"
     }
 }
