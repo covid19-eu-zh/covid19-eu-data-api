@@ -1,6 +1,6 @@
 const path = require('path')
 const fs = require('fs')
-const getCountryName = require('./utils/countriesMapping')
+const getCountryName = require('./_utils/countriesMapping')
 
 module.exports = (req, res) => {
   const directoryPath = path.join(__dirname, './db/')
@@ -15,7 +15,6 @@ module.exports = (req, res) => {
       countries.push({ [initial]: getCountryName(initial) })
     })
 
-    console.log('countries',countries)
 
     res.status(200).send({ countries: countries })
   })

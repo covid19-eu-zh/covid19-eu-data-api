@@ -1,3 +1,4 @@
+const fs = require('fs')
 // req.params doesn't get read in Zeit, so use req.query instead
 // res.status(200).send({
 //   body: req.body,
@@ -13,11 +14,9 @@ module.exports = (req, res) => {
 
   fs.readFile(dataPath, 'utf8', (err, data) => {
     if (err) {
-      if (err) {
         res.status(503).send('Unable to scan directory: ' + err)
-      }
       throw err
     }
-    res.status(200).send(JSON.parse(data))
+    res.status(200).send(data)
   })
 }
