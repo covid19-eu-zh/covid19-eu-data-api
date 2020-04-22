@@ -16,5 +16,5 @@ module.exports = (req, res) => {
   //     throw err
   //   }
   //   res.status(200).send(JSON.parse(data))
-  })
+  // })
 }
