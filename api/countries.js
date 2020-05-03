@@ -20,7 +20,6 @@ module.exports = (req, res) => {
       res.status(503).send('Unable to scan directory: ' + err)
       throw err
     }
-    console.log('data', data)
     res.status(200).send(data)
   })
 }
