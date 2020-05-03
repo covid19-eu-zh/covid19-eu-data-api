@@ -51,5 +51,5 @@ https://covid19-eu-data-api-gamma.now.sh/api/countryLookup
 
 ```
 // alpha2 ex: at, fr, de... etc 
-https://covid19-eu-data-api-gamma.now.sh//api/countries?alpha2=de
+https://covid19-eu-data-api-gamma.now.sh/api/countries?alpha2=de
 ```
