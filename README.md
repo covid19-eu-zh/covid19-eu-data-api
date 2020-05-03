@@ -10,7 +10,11 @@
 
 The API source code is located inside the `api` folder.
 
-0. `cd api`
+### To start a local server
+
+0. `cd server`
 1. `yarn`
 2. `yarn start`
 3. Validate the results: `http://localhost:3001`
+
+
