@@ -4,7 +4,8 @@ const fs = require('fs')
 const userRoutes = (app, fs) => {
   // list all countries
   app.get('/country', (req, res) => {
-    const directoryPath = path.join(__dirname, '../db/')
+    console.log('__dirname',__dirname)
+    const directoryPath = path.join(__dirname, '../../api/db/')
 
     fs.readdir(directoryPath, function (err, files) {
       // handling error
@@ -24,7 +25,7 @@ const userRoutes = (app, fs) => {
   // get specific country
   app.get('/country/:alpha2', (req, res) => {
     const alpha2 = req.params.alpha2
-    const dataPath = `./db/${alpha2}.json`
+    const dataPath = path.join(__dirname, `../../api/db/${alpha2}.json`)
     fs.readFile(dataPath, 'utf8', (err, data) => {
       if (err) {
         throw err
