@@ -15,6 +15,6 @@ module.exports = (req, res) => {
       countries.push({ [initial]: getCountryName(initial) })
     })
 
-    res.status(200).send({ countries: countries })
+    res.status(200).setHeader('Access-Control-Allow-Origin', '*').send({ countries: countries })
   })
 }
