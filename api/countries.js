@@ -20,7 +20,8 @@ module.exports = (req, res) => {
       res.status(503).send('Unable to scan directory: ' + err)
       throw err
     }
-    res.status(200).setHeader('Access-Control-Allow-Origin', '*').send(data)
+    res.setHeader('Access-Control-Allow-Origin', '*')
+    res.status(200).send(data)
   })
 }
 
