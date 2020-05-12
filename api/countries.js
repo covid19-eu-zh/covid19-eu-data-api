@@ -20,7 +20,8 @@ module.exports = (req, res) => {
       res.status(503).send('Unable to scan directory: ' + err)
       throw err
     }
-    const latestAccumulated = data[data.length-1]
+    const dataObj = JSON.parse(data)
+    const latestAccumulated = dataObj[dataObj.length-1]
     res.setHeader('Access-Control-Allow-Origin', '*')
     res.status(200).send(latestAccumulated)
   })
