@@ -49,7 +49,9 @@ https://covid19-eu-data-api-gamma.now.sh/api/countryLookup
 
 #### Get data from specific country
 
+By default the last 30 days of data is returned if not specified otherwise. 
 ```
 // alpha2 ex: at, fr, de... etc 
-https://covid19-eu-data-api-gamma.now.sh/api/countries?alpha2=de
+// optional query param: days
+https://covid19-eu-data-api-gamma.now.sh/api/countries?alpha2=de&days=1
 ```
