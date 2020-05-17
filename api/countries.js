@@ -11,6 +11,7 @@ const path = require('path')
 
 module.exports = (req, res) => {
   const alpha2 = req.query.alpha2
+  const days = req.query.days || 30 //getting the last 30 days data by default
   const directoryPath = path.join(__dirname, './db/', `${alpha2}.json`)
 
   // const dataPath = `./db/${alpha2}.json`
@@ -20,10 +21,9 @@ module.exports = (req, res) => {
       res.status(503).send('Unable to scan directory: ' + err)
       throw err
     }
-    const dataObj = JSON.parse(data)
-    const latestAccumulated = dataObj[dataObj.length-1]
+    const dataObj = JSON.parse(data).slice(-days)
     res.setHeader('Access-Control-Allow-Origin', '*')
-    res.status(200).send(latestAccumulated)
+    res.status(200).send(dataObj)
   })
 }
 
