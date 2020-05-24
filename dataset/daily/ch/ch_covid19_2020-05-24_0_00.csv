@@ -1,11 +1,11 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-05-24
+CH,Basel-Landschaft,BL,838.0,35.0,,2.0,0.0,2020-05-24
 CH,Berne,BE,1881.0,96.0,,20.0,3.0,2020-05-24
 CH,Ticino,TI,3305.0,347.0,,50.0,4.0,2020-05-24
 CH,,,30662.0,1906.0,34179.0,440.0,50.0,2020-05-24
 CH,Aargau,AG,,,,,,2020-05-24
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-05-24
-CH,Basel-Landschaft,BL,,,,,,2020-05-24
 CH,Basel-Stadt,BS,,,,,,2020-05-24
 CH,Fribourg,FR,,,,,,2020-05-24
 CH,Geneva,GE,,,,,,2020-05-24
