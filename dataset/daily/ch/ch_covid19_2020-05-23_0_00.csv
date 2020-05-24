@@ -1,10 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Uri,UR,93.0,7.0,,1.0,,2020-05-23
 CH,Nidwalden,NW,123.0,3.0,,0.0,0.0,2020-05-23
 CH,Schwyz,SZ,307.0,23.0,,,,2020-05-23
+CH,Lucerne,LU,733.0,20.0,,,,2020-05-23
 CH,Basel-Landschaft,BL,838.0,35.0,,2.0,0.0,2020-05-23
 CH,Berne,BE,1878.0,96.0,,,,2020-05-23
 CH,Ticino,TI,3304.0,346.0,,45.0,6.0,2020-05-23
-CH,,,30658.0,1905.0,34179.0,434.0,52.0,2020-05-23
+CH,,,30658.0,1905.0,34179.0,435.0,52.0,2020-05-23
 CH,Aargau,AG,,,,,,2020-05-23
 CH,Appenzell Innerrhoden,AI,,,,,,2020-05-23
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-05-23
@@ -14,14 +16,12 @@ CH,Geneva,GE,,,,,,2020-05-23
 CH,Glarus,GL,,,,,,2020-05-23
 CH,Grisons,GR,,,,,,2020-05-23
 CH,Jura,JU,,,,,,2020-05-23
-CH,Lucerne,LU,,,,,,2020-05-23
 CH,Neuchâtel,NE,,,,,,2020-05-23
 CH,Obwalden,OW,,,,,,2020-05-23
 CH,St. Gallen,SG,,,,,,2020-05-23
 CH,Schaffhausen,SH,,,,,,2020-05-23
 CH,Solothurn,SO,,,,,,2020-05-23
 CH,Thurgau,TG,,,,,,2020-05-23
-CH,Uri,UR,,,,,,2020-05-23
 CH,Vaud,VD,,,,,,2020-05-23
 CH,Valais,VS,,,,,,2020-05-23
 CH,Zug,ZG,,,,,,2020-05-23
