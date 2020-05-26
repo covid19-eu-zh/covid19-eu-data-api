@@ -2441,8 +2441,9 @@ CH,Jura,JU,204.0,7,,3,2,2020-05-25
 CH,Schwyz,SZ,307.0,23,,,,2020-05-25
 CH,Thurgau,TG,380.0,18,,5,2,2020-05-25
 CH,Solothurn,SO,439.0,17,,,,2020-05-25
-CH,Lucerne,LU,733.0,20,,,,2020-05-25
+CH,Lucerne,LU,733.0,20,,25,4,2020-05-25
 CH,St. Gallen,SG,807.0,36,,,,2020-05-25
+CH,Grisons,GR,826.0,48,,5,,2020-05-25
 CH,Basel-Landschaft,BL,838.0,35,,2,0,2020-05-25
 CH,Basel-Stadt,BS,976.0,50,,,,2020-05-25
 CH,Fribourg,FR,1156.0,84,,8,3,2020-05-25
@@ -2450,9 +2451,35 @@ CH,Aargau,AG,1198.0,45,,6,1,2020-05-25
 CH,Berne,BE,1881.0,96,,18,2,2020-05-25
 CH,Ticino,TI,3306.0,348,,49,4,2020-05-25
 CH,Zürich,ZH,3597.0,128,,23,,2020-05-25
-CH,,,30703.0,1913,35181,407,43,2020-05-25
+CH,,,30703.0,1913,35181,414,44,2020-05-25
 CH,Geneva,GE,,0,,143,2,2020-05-25
-CH,Grisons,GR,,0,,,,2020-05-25
 CH,Neuchâtel,NE,,0,,4,1,2020-05-25
 CH,Vaud,VD,,0,,,,2020-05-25
 CH,Valais,VS,,151,,32,4,2020-05-25
+CH,Zug,ZG,202.0,8,,1,1,2020-05-26
+CH,Solothurn,SO,439.0,17,,,,2020-05-26
+CH,Lucerne,LU,733.0,20,,25,4,2020-05-26
+CH,St. Gallen,SG,807.0,36,,,,2020-05-26
+CH,,,30703.0,1913,35181,414,45,2020-05-26
+CH,Aargau,AG,,0,,,,2020-05-26
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-05-26
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-05-26
+CH,Berne,BE,,0,,,,2020-05-26
+CH,Basel-Landschaft,BL,,0,,,,2020-05-26
+CH,Basel-Stadt,BS,,0,,,,2020-05-26
+CH,Fribourg,FR,,0,,,,2020-05-26
+CH,Geneva,GE,,0,,,,2020-05-26
+CH,Glarus,GL,,0,,,,2020-05-26
+CH,Grisons,GR,,0,,,,2020-05-26
+CH,Jura,JU,,0,,,,2020-05-26
+CH,Neuchâtel,NE,,0,,,,2020-05-26
+CH,Nidwalden,NW,,0,,,,2020-05-26
+CH,Obwalden,OW,,0,,,,2020-05-26
+CH,Schaffhausen,SH,,0,,,,2020-05-26
+CH,Schwyz,SZ,,0,,,,2020-05-26
+CH,Thurgau,TG,,0,,,,2020-05-26
+CH,Ticino,TI,,0,,,,2020-05-26
+CH,Uri,UR,,0,,,,2020-05-26
+CH,Vaud,VD,,0,,,,2020-05-26
+CH,Valais,VS,,0,,,,2020-05-26
+CH,Zürich,ZH,,0,,,,2020-05-26
