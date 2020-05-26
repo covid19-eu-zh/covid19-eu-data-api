@@ -1,21 +1,21 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Schaffhausen,SH,78.0,6.0,,8.0,2.0,2020-05-26
+CH,Glarus,GL,128.0,12.0,,0.0,,2020-05-26
 CH,Zug,ZG,202.0,8.0,,1.0,1.0,2020-05-26
 CH,Schwyz,SZ,307.0,23.0,,,,2020-05-26
 CH,Thurgau,TG,380.0,18.0,,5.0,2.0,2020-05-26
 CH,Solothurn,SO,439.0,17.0,,,,2020-05-26
-CH,Lucerne,LU,733.0,20.0,,25.0,4.0,2020-05-26
+CH,Lucerne,LU,734.0,20.0,,25.0,4.0,2020-05-26
 CH,St. Gallen,SG,807.0,36.0,,,,2020-05-26
+CH,Basel-Stadt,BS,976.0,50.0,,4.0,,2020-05-26
 CH,Berne,BE,1881.0,96.0,,18.0,2.0,2020-05-26
-CH,,,30702.0,1913.0,35181.0,417.0,46.0,2020-05-26
+CH,,,30705.0,1913.0,35181.0,402.0,44.0,2020-05-26
 CH,Aargau,AG,,,,,,2020-05-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-05-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-05-26
 CH,Basel-Landschaft,BL,,,,,,2020-05-26
-CH,Basel-Stadt,BS,,,,,,2020-05-26
 CH,Fribourg,FR,,,,,,2020-05-26
 CH,Geneva,GE,,,,,,2020-05-26
-CH,Glarus,GL,,,,,,2020-05-26
 CH,Grisons,GR,,,,,,2020-05-26
 CH,Jura,JU,,,,,,2020-05-26
 CH,Neuchâtel,NE,,,,,,2020-05-26
