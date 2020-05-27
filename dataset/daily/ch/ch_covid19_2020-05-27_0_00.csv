@@ -2,6 +2,7 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-05-27
 CH,Schaffhausen,SH,78.0,6.0,,6.0,2.0,2020-05-27
 CH,Obwalden,OW,82.0,0.0,,0.0,,2020-05-27
+CH,Uri,UR,93.0,7.0,,0.0,,2020-05-27
 CH,Appenzell Ausserrhoden,AR,99.0,3.0,,1.0,1.0,2020-05-27
 CH,Glarus,GL,128.0,12.0,,0.0,,2020-05-27
 CH,Zug,ZG,202.0,9.0,,0.0,0.0,2020-05-27
@@ -14,15 +15,14 @@ CH,Basel-Landschaft,BL,838.0,35.0,,0.0,0.0,2020-05-27
 CH,Basel-Stadt,BS,976.0,50.0,,,,2020-05-27
 CH,Fribourg,FR,1157.0,84.0,,7.0,3.0,2020-05-27
 CH,Berne,BE,1881.0,96.0,,11.0,2.0,2020-05-27
+CH,Valais,VS,1941.0,151.0,,23.0,3.0,2020-05-27
 CH,Ticino,TI,3308.0,348.0,,45.0,2.0,2020-05-27
 CH,Zürich,ZH,3605.0,130.0,,18.0,,2020-05-27
-CH,,,30720.0,1917.0,35181.0,370.0,38.0,2020-05-27
+CH,,,30725.0,1917.0,35181.0,369.0,37.0,2020-05-27
 CH,Aargau,AG,,,,,,2020-05-27
 CH,Geneva,GE,,,,,,2020-05-27
 CH,Grisons,GR,,,,,,2020-05-27
 CH,Jura,JU,,,,,,2020-05-27
 CH,Neuchâtel,NE,,,,,,2020-05-27
 CH,Nidwalden,NW,,,,,,2020-05-27
-CH,Uri,UR,,,,,,2020-05-27
 CH,Vaud,VD,,,,,,2020-05-27
-CH,Valais,VS,,,,,,2020-05-27
