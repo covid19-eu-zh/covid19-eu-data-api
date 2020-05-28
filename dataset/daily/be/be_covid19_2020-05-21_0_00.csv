@@ -1,7 +1,7 @@
 country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
 BE,MISSING,MISSING,1268.0,,,,2020-05-21
 BE,Wallonia,BrabantWallon,1408.0,,14.0,3.0,2020-05-21
-BE,Wallonia,Namur,2243.0,,68.0,16.0,2020-05-21
+BE,Wallonia,Namur,2242.0,,68.0,16.0,2020-05-21
 BE,Flanders,VlaamsBrabant,5197.0,,31.0,12.0,2020-05-21
 BE,Brussels,Brussels,5755.0,,258.0,51.0,2020-05-21
 BE,Flanders,Limburg,6077.0,,114.0,20.0,2020-05-21
