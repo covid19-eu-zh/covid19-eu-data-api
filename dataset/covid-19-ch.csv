@@ -2514,6 +2514,7 @@ CH,Schaffhausen,SH,78.0,6,,8,2,2020-05-28
 CH,Obwalden,OW,82.0,0,,0,,2020-05-28
 CH,Uri,UR,93.0,7,,0,,2020-05-28
 CH,Appenzell Ausserrhoden,AR,99.0,3,,1,1,2020-05-28
+CH,Nidwalden,NW,123.0,3,,0,0,2020-05-28
 CH,Glarus,GL,128.0,12,,0,,2020-05-28
 CH,Zug,ZG,202.0,9,,0,0,2020-05-28
 CH,Schwyz,SZ,307.0,23,,,,2020-05-28
@@ -2521,19 +2522,18 @@ CH,Thurgau,TG,380.0,18,,4,1,2020-05-28
 CH,Solothurn,SO,440.0,17,,,,2020-05-28
 CH,St. Gallen,SG,808.0,37,,,,2020-05-28
 CH,Basel-Landschaft,BL,840.0,35,,0,0,2020-05-28
+CH,Basel-Stadt,BS,976.0,50,,,2,2020-05-28
 CH,Aargau,AG,1201.0,46,,6,1,2020-05-28
 CH,Berne,BE,1883.0,96,,11,2,2020-05-28
+CH,Valais,VS,1942.0,151,,23,3,2020-05-28
 CH,Ticino,TI,3310.0,348,,43,2,2020-05-28
 CH,Zürich,ZH,3611.0,130,,20,,2020-05-28
-CH,,,30757.0,1919,36335,359,34,2020-05-28
+CH,,,30758.0,1919,36335,359,34,2020-05-28
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-05-28
-CH,Basel-Stadt,BS,,0,,,,2020-05-28
 CH,Fribourg,FR,,0,,,,2020-05-28
 CH,Geneva,GE,,0,,131,0,2020-05-28
 CH,Grisons,GR,,0,,,,2020-05-28
 CH,Jura,JU,,0,,,,2020-05-28
 CH,Lucerne,LU,,0,,,,2020-05-28
 CH,Neuchâtel,NE,,0,,,,2020-05-28
-CH,Nidwalden,NW,,0,,,,2020-05-28
 CH,Vaud,VD,,0,,,,2020-05-28
-CH,Valais,VS,,0,,,,2020-05-28
