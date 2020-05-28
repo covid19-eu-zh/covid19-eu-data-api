@@ -2,11 +2,13 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Schaffhausen,SH,78.0,6.0,,8.0,2.0,2020-05-28
 CH,Appenzell Ausserrhoden,AR,99.0,3.0,,1.0,1.0,2020-05-28
 CH,Zug,ZG,202.0,9.0,,0.0,0.0,2020-05-28
+CH,Schwyz,SZ,307.0,23.0,,,,2020-05-28
 CH,Thurgau,TG,380.0,18.0,,4.0,1.0,2020-05-28
 CH,Solothurn,SO,440.0,17.0,,,,2020-05-28
 CH,St. Gallen,SG,808.0,37.0,,,,2020-05-28
 CH,Berne,BE,1883.0,96.0,,11.0,2.0,2020-05-28
-CH,,,30734.0,1917.0,35181.0,371.0,36.0,2020-05-28
+CH,Ticino,TI,3310.0,348.0,,43.0,2.0,2020-05-28
+CH,,,30736.0,1917.0,35181.0,369.0,36.0,2020-05-28
 CH,Aargau,AG,,,,,,2020-05-28
 CH,Appenzell Innerrhoden,AI,,,,,,2020-05-28
 CH,Basel-Landschaft,BL,,,,,,2020-05-28
@@ -20,8 +22,6 @@ CH,Lucerne,LU,,,,,,2020-05-28
 CH,Neuchâtel,NE,,,,,,2020-05-28
 CH,Nidwalden,NW,,,,,,2020-05-28
 CH,Obwalden,OW,,,,,,2020-05-28
-CH,Schwyz,SZ,,,,,,2020-05-28
-CH,Ticino,TI,,,,,,2020-05-28
 CH,Uri,UR,,,,,,2020-05-28
 CH,Vaud,VD,,,,,,2020-05-28
 CH,Valais,VS,,,,,,2020-05-28
