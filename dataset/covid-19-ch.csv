@@ -2542,7 +2542,8 @@ CH,Appenzell Ausserrhoden,AR,100.0,3,,1,0,2020-05-29
 CH,Schwyz,SZ,307.0,23,,,,2020-05-29
 CH,Thurgau,TG,381.0,18,,4,1,2020-05-29
 CH,Solothurn,SO,440.0,17,,,,2020-05-29
-CH,,,30760.0,1919,36335,354,33,2020-05-29
+CH,Ticino,TI,3313.0,348,,42,1,2020-05-29
+CH,,,30763.0,1919,36335,353,32,2020-05-29
 CH,Aargau,AG,,0,,,,2020-05-29
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-05-29
 CH,Berne,BE,,0,,,,2020-05-29
@@ -2558,7 +2559,6 @@ CH,Neuchâtel,NE,,0,,,,2020-05-29
 CH,Nidwalden,NW,,0,,,,2020-05-29
 CH,Obwalden,OW,,0,,,,2020-05-29
 CH,St. Gallen,SG,,0,,,,2020-05-29
-CH,Ticino,TI,,0,,,,2020-05-29
 CH,Uri,UR,,0,,,,2020-05-29
 CH,Vaud,VD,,0,,,,2020-05-29
 CH,Valais,VS,,0,,,,2020-05-29
