@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Schaffhausen,SH,78.0,6.0,,5.0,2.0,2020-05-29
 CH,Obwalden,OW,82.0,0.0,,0.0,,2020-05-29
+CH,Uri,UR,93.0,7.0,,0.0,,2020-05-29
 CH,Appenzell Ausserrhoden,AR,100.0,3.0,,1.0,0.0,2020-05-29
 CH,Glarus,GL,128.0,12.0,,0.0,,2020-05-29
 CH,Schwyz,SZ,307.0,23.0,,,,2020-05-29
@@ -11,7 +12,7 @@ CH,Basel-Landschaft,BL,840.0,35.0,,0.0,0.0,2020-05-29
 CH,Basel-Stadt,BS,978.0,50.0,,2.0,,2020-05-29
 CH,Ticino,TI,3313.0,348.0,,42.0,1.0,2020-05-29
 CH,Zürich,ZH,3614.0,130.0,,15.0,,2020-05-29
-CH,,,30770.0,1919.0,36335.0,343.0,33.0,2020-05-29
+CH,,,30771.0,1919.0,36335.0,344.0,33.0,2020-05-29
 CH,Aargau,AG,,,,,,2020-05-29
 CH,Appenzell Innerrhoden,AI,,,,,,2020-05-29
 CH,Berne,BE,,,,,,2020-05-29
@@ -22,7 +23,6 @@ CH,Jura,JU,,,,,,2020-05-29
 CH,Neuchâtel,NE,,,,,,2020-05-29
 CH,Nidwalden,NW,,,,,,2020-05-29
 CH,St. Gallen,SG,,,,,,2020-05-29
-CH,Uri,UR,,,,,,2020-05-29
 CH,Vaud,VD,,,,,,2020-05-29
-CH,Valais,VS,,,,,,2020-05-29
+CH,Valais,VS,,151.0,,24.0,3.0,2020-05-29
 CH,Zug,ZG,,,,,,2020-05-29
