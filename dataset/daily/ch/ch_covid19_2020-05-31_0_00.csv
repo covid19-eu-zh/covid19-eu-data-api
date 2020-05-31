@@ -1,4 +1,5 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Lucerne,LU,735.0,20.0,,,,2020-05-31
 CH,Berne,BE,1910.0,97.0,,9.0,1.0,2020-05-31
 CH,,,30800.0,1920.0,36335.0,331.0,30.0,2020-05-31
 CH,Aargau,AG,,,,,,2020-05-31
@@ -11,7 +12,6 @@ CH,Geneva,GE,,,,,,2020-05-31
 CH,Glarus,GL,,,,,,2020-05-31
 CH,Grisons,GR,,,,,,2020-05-31
 CH,Jura,JU,,,,,,2020-05-31
-CH,Lucerne,LU,,,,,,2020-05-31
 CH,Neuchâtel,NE,,,,,,2020-05-31
 CH,Nidwalden,NW,,,,,,2020-05-31
 CH,Obwalden,OW,,,,,,2020-05-31
