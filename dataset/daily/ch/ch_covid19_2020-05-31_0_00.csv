@@ -1,12 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Lucerne,LU,735.0,20.0,,,,2020-05-31
+CH,Basel-Landschaft,BL,842.0,35.0,,0.0,0.0,2020-05-31
 CH,Berne,BE,1910.0,97.0,,9.0,1.0,2020-05-31
 CH,Ticino,TI,3315.0,348.0,,30.0,1.0,2020-05-31
-CH,,,30802.0,1920.0,36335.0,328.0,30.0,2020-05-31
+CH,,,30803.0,1920.0,36335.0,328.0,30.0,2020-05-31
 CH,Aargau,AG,,,,,,2020-05-31
 CH,Appenzell Innerrhoden,AI,,,,,,2020-05-31
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-05-31
-CH,Basel-Landschaft,BL,,,,,,2020-05-31
 CH,Basel-Stadt,BS,,,,,,2020-05-31
 CH,Fribourg,FR,,,,,,2020-05-31
 CH,Geneva,GE,,,,,,2020-05-31
