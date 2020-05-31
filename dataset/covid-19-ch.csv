@@ -2568,9 +2568,9 @@ CH,Uri,UR,93.0,7,,0,,2020-05-30
 CH,Schwyz,SZ,307.0,23,,,,2020-05-30
 CH,Lucerne,LU,735.0,20,,,,2020-05-30
 CH,Basel-Landschaft,BL,841.0,35,,0,0,2020-05-30
-CH,Berne,BE,1909.0,97,,9,0,2020-05-30
+CH,Berne,BE,1909.0,97,,9,1,2020-05-30
 CH,Ticino,TI,3313.0,348,,33,1,2020-05-30
-CH,,,30799.0,1920,36335,331,29,2020-05-30
+CH,,,30799.0,1920,36335,331,30,2020-05-30
 CH,Aargau,AG,,0,,,,2020-05-30
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-05-30
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-05-30
@@ -2591,11 +2591,11 @@ CH,Vaud,VD,,0,,,,2020-05-30
 CH,Valais,VS,,0,,,,2020-05-30
 CH,Zug,ZG,,0,,,,2020-05-30
 CH,Zürich,ZH,,0,,,,2020-05-30
-CH,,,30799.0,1920,36335,331,29,2020-05-31
+CH,Berne,BE,1910.0,97,,9,1,2020-05-31
+CH,,,30800.0,1920,36335,331,30,2020-05-31
 CH,Aargau,AG,,0,,,,2020-05-31
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-05-31
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-05-31
-CH,Berne,BE,,0,,,,2020-05-31
 CH,Basel-Landschaft,BL,,0,,,,2020-05-31
 CH,Basel-Stadt,BS,,0,,,,2020-05-31
 CH,Fribourg,FR,,0,,,,2020-05-31
