@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Uri,UR,93.0,7.0,,0.0,,2020-06-01
-CH,,,30804.0,1920.0,36335.0,329.0,30.0,2020-06-01
+CH,Ticino,TI,3315.0,348.0,,28.0,1.0,2020-06-01
+CH,,,30804.0,1920.0,36335.0,327.0,30.0,2020-06-01
 CH,Aargau,AG,,,,,,2020-06-01
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-01
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-01
@@ -21,7 +22,6 @@ CH,Schaffhausen,SH,,,,,,2020-06-01
 CH,Solothurn,SO,,,,,,2020-06-01
 CH,Schwyz,SZ,,,,,,2020-06-01
 CH,Thurgau,TG,,,,,,2020-06-01
-CH,Ticino,TI,,,,,,2020-06-01
 CH,Vaud,VD,,,,,,2020-06-01
 CH,Valais,VS,,,,,,2020-06-01
 CH,Zug,ZG,,,,,,2020-06-01
