@@ -2,19 +2,20 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-06-05
 CH,Schaffhausen,SH,78.0,6.0,,5.0,1.0,2020-06-05
 CH,Appenzell Ausserrhoden,AR,100.0,3.0,,1.0,0.0,2020-06-05
+CH,Glarus,GL,128.0,12.0,,0.0,,2020-06-05
 CH,Schwyz,SZ,307.0,23.0,,,,2020-06-05
 CH,Thurgau,TG,383.0,18.0,,1.0,0.0,2020-06-05
 CH,Solothurn,SO,446.0,17.0,,,,2020-06-05
 CH,Lucerne,LU,735.0,20.0,,,,2020-06-05
+CH,Basel-Landschaft,BL,845.0,35.0,,0.0,0.0,2020-06-05
 CH,Basel-Stadt,BS,982.0,50.0,,3.0,,2020-06-05
 CH,Fribourg,FR,1166.0,84.0,,5.0,2.0,2020-06-05
 CH,Berne,BE,1916.0,97.0,,5.0,0.0,2020-06-05
 CH,Ticino,TI,3316.0,348.0,,17.0,1.0,2020-06-05
-CH,,,30902.0,1921.0,37875.0,275.0,29.0,2020-06-05
+CH,Zürich,ZH,3637.0,130.0,,8.0,,2020-06-05
+CH,,,30909.0,1921.0,37875.0,274.0,29.0,2020-06-05
 CH,Aargau,AG,,,,,,2020-06-05
-CH,Basel-Landschaft,BL,,,,,,2020-06-05
 CH,Geneva,GE,,,,,,2020-06-05
-CH,Glarus,GL,,,,,,2020-06-05
 CH,Grisons,GR,,,,,,2020-06-05
 CH,Jura,JU,,,,,,2020-06-05
 CH,Neuchâtel,NE,,,,,,2020-06-05
@@ -25,4 +26,3 @@ CH,Uri,UR,,,,,,2020-06-05
 CH,Vaud,VD,,,,,,2020-06-05
 CH,Valais,VS,,,,,,2020-06-05
 CH,Zug,ZG,,,,,,2020-06-05
-CH,Zürich,ZH,,,,,,2020-06-05

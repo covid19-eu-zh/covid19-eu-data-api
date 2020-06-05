@@ -2729,19 +2729,20 @@ CH,Zug,ZG,,0,,,,2020-06-04
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-06-05
 CH,Schaffhausen,SH,78.0,6,,5,1,2020-06-05
 CH,Appenzell Ausserrhoden,AR,100.0,3,,1,0,2020-06-05
+CH,Glarus,GL,128.0,12,,0,,2020-06-05
 CH,Schwyz,SZ,307.0,23,,,,2020-06-05
 CH,Thurgau,TG,383.0,18,,1,0,2020-06-05
 CH,Solothurn,SO,446.0,17,,,,2020-06-05
 CH,Lucerne,LU,735.0,20,,,,2020-06-05
+CH,Basel-Landschaft,BL,845.0,35,,0,0,2020-06-05
 CH,Basel-Stadt,BS,982.0,50,,3,,2020-06-05
 CH,Fribourg,FR,1166.0,84,,5,2,2020-06-05
 CH,Berne,BE,1916.0,97,,5,0,2020-06-05
 CH,Ticino,TI,3316.0,348,,17,1,2020-06-05
-CH,,,30902.0,1921,37875,275,29,2020-06-05
+CH,Zürich,ZH,3637.0,130,,8,,2020-06-05
+CH,,,30909.0,1921,37875,274,29,2020-06-05
 CH,Aargau,AG,,0,,,,2020-06-05
-CH,Basel-Landschaft,BL,,0,,,,2020-06-05
 CH,Geneva,GE,,0,,,,2020-06-05
-CH,Glarus,GL,,0,,,,2020-06-05
 CH,Grisons,GR,,0,,,,2020-06-05
 CH,Jura,JU,,0,,,,2020-06-05
 CH,Neuchâtel,NE,,0,,,,2020-06-05
@@ -2752,4 +2753,3 @@ CH,Uri,UR,,0,,,,2020-06-05
 CH,Vaud,VD,,0,,,,2020-06-05
 CH,Valais,VS,,0,,,,2020-06-05
 CH,Zug,ZG,,0,,,,2020-06-05
-CH,Zürich,ZH,,0,,,,2020-06-05
