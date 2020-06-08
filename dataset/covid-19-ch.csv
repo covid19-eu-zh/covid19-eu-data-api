@@ -2754,9 +2754,11 @@ CH,Uri,UR,,0,,,,2020-06-05
 CH,Vaud,VD,,0,,,,2020-06-05
 CH,Zug,ZG,,0,,,,2020-06-05
 CH,Schwyz,SZ,307.0,23,,,,2020-06-06
+CH,Thurgau,TG,383.0,18,,1,0,2020-06-06
 CH,Basel-Landschaft,BL,845.0,35,,0,0,2020-06-06
 CH,Berne,BE,1918.0,97,,5,0,2020-06-06
-CH,,,30914.0,1921,37875,274,30,2020-06-06
+CH,Ticino,TI,3316.0,348,,15,1,2020-06-06
+CH,,,30914.0,1921,37875,272,30,2020-06-06
 CH,Aargau,AG,,0,,,,2020-06-06
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-06
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-06
@@ -2773,18 +2775,18 @@ CH,Obwalden,OW,,0,,,,2020-06-06
 CH,St. Gallen,SG,,0,,,,2020-06-06
 CH,Schaffhausen,SH,,0,,,,2020-06-06
 CH,Solothurn,SO,,0,,,,2020-06-06
-CH,Thurgau,TG,,0,,,,2020-06-06
-CH,Ticino,TI,,0,,,,2020-06-06
 CH,Uri,UR,,0,,,,2020-06-06
 CH,Vaud,VD,,0,,,,2020-06-06
 CH,Valais,VS,,0,,,,2020-06-06
 CH,Zug,ZG,,0,,,,2020-06-06
 CH,Zürich,ZH,,0,,,,2020-06-06
 CH,Schwyz,SZ,307.0,23,,,,2020-06-07
+CH,Thurgau,TG,383.0,18,,1,0,2020-06-07
 CH,Lucerne,LU,736.0,20,,,,2020-06-07
 CH,Basel-Landschaft,BL,845.0,35,,0,0,2020-06-07
 CH,Berne,BE,1918.0,97,,5,0,2020-06-07
-CH,,,30915.0,1921,37875,274,30,2020-06-07
+CH,Ticino,TI,3316.0,349,,14,2,2020-06-07
+CH,,,30915.0,1922,37875,271,31,2020-06-07
 CH,Aargau,AG,,0,,,,2020-06-07
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-07
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-07
@@ -2800,23 +2802,23 @@ CH,Obwalden,OW,,0,,,,2020-06-07
 CH,St. Gallen,SG,,0,,,,2020-06-07
 CH,Schaffhausen,SH,,0,,,,2020-06-07
 CH,Solothurn,SO,,0,,,,2020-06-07
-CH,Thurgau,TG,,0,,,,2020-06-07
-CH,Ticino,TI,,0,,,,2020-06-07
 CH,Uri,UR,,0,,,,2020-06-07
 CH,Vaud,VD,,0,,,,2020-06-07
 CH,Valais,VS,,0,,,,2020-06-07
 CH,Zug,ZG,,0,,,,2020-06-07
 CH,Zürich,ZH,,0,,,,2020-06-07
 CH,Schaffhausen,SH,79.0,7,,5,1,2020-06-08
+CH,Appenzell Ausserrhoden,AR,100.0,3,,0,0,2020-06-08
 CH,Glarus,GL,128.0,12,,0,,2020-06-08
 CH,Schwyz,SZ,307.0,23,,,,2020-06-08
+CH,Thurgau,TG,384.0,18,,1,0,2020-06-08
 CH,Solothurn,SO,446.0,17,,,,2020-06-08
 CH,Lucerne,LU,736.0,20,,,,2020-06-08
 CH,Basel-Stadt,BS,982.0,50,,,,2020-06-08
-CH,,,30916.0,1922,37875,274,30,2020-06-08
+CH,Ticino,TI,3316.0,349,,13,2,2020-06-08
+CH,,,30917.0,1923,37875,269,31,2020-06-08
 CH,Aargau,AG,,0,,,,2020-06-08
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-08
-CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-08
 CH,Berne,BE,,0,,,,2020-06-08
 CH,Basel-Landschaft,BL,,0,,,,2020-06-08
 CH,Fribourg,FR,,0,,,,2020-06-08
@@ -2827,8 +2829,6 @@ CH,Neuchâtel,NE,,0,,,,2020-06-08
 CH,Nidwalden,NW,,0,,,,2020-06-08
 CH,Obwalden,OW,,0,,,,2020-06-08
 CH,St. Gallen,SG,,0,,,,2020-06-08
-CH,Thurgau,TG,,0,,,,2020-06-08
-CH,Ticino,TI,,0,,,,2020-06-08
 CH,Uri,UR,,0,,,,2020-06-08
 CH,Vaud,VD,,0,,,,2020-06-08
 CH,Valais,VS,,0,,,,2020-06-08
