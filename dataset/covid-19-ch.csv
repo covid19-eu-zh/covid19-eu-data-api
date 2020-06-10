@@ -3727,17 +3727,18 @@ CH,St. Gallen,SG,,0,,,,2020-06-09
 CH,Uri,UR,,0,,,,2020-06-09
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-06-10
 CH,Schaffhausen,SH,79.0,7,,3,1,2020-06-10
+CH,Obwalden,OW,82.0,0,,0,,2020-06-10
 CH,Glarus,GL,128.0,12,,0,,2020-06-10
 CH,Zug,ZG,207.0,9,,1,0,2020-06-10
 CH,Schwyz,SZ,307.0,23,,,,2020-06-10
 CH,Thurgau,TG,384.0,18,,1,0,2020-06-10
-CH,Lucerne,LU,736.0,20,,,,2020-06-10
+CH,Lucerne,LU,736.0,20,,8,2,2020-06-10
 CH,Basel-Landschaft,BL,846.0,35,,0,0,2020-06-10
 CH,Basel-Stadt,BS,983.0,50,,,,2020-06-10
 CH,Berne,BE,1919.0,97,,4,0,2020-06-10
 CH,Ticino,TI,3316.0,349,,10,0,2020-06-10
 CH,Zürich,ZH,3644.0,130,,7,,2020-06-10
-CH,,,30978.0,1936,37875,225,23,2020-06-10
+CH,,,30978.0,1936,37875,228,22,2020-06-10
 CH,Aargau,AG,,0,,,,2020-06-10
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-10
 CH,Fribourg,FR,,0,,,,2020-06-10
@@ -3746,7 +3747,6 @@ CH,Grisons,GR,,0,,,,2020-06-10
 CH,Jura,JU,,0,,,,2020-06-10
 CH,Neuchâtel,NE,,0,,2,0,2020-06-10
 CH,Nidwalden,NW,,0,,,,2020-06-10
-CH,Obwalden,OW,,0,,,,2020-06-10
 CH,St. Gallen,SG,,0,,,,2020-06-10
 CH,Solothurn,SO,,0,,,,2020-06-10
 CH,Uri,UR,,0,,,,2020-06-10
