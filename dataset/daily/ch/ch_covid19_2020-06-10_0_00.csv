@@ -1,21 +1,21 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-06-10
 CH,Schaffhausen,SH,79.0,7.0,,3.0,1.0,2020-06-10
+CH,Glarus,GL,128.0,12.0,,0.0,,2020-06-10
 CH,Zug,ZG,207.0,9.0,,1.0,0.0,2020-06-10
 CH,Schwyz,SZ,307.0,23.0,,,,2020-06-10
+CH,Lucerne,LU,736.0,20.0,,,,2020-06-10
+CH,Basel-Stadt,BS,983.0,50.0,,,,2020-06-10
 CH,Ticino,TI,3316.0,349.0,,10.0,0.0,2020-06-10
 CH,,,30971.0,1934.0,37875.0,226.0,23.0,2020-06-10
 CH,Aargau,AG,,,,,,2020-06-10
-CH,Appenzell Innerrhoden,AI,,,,,,2020-06-10
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-10
 CH,Berne,BE,,,,,,2020-06-10
 CH,Basel-Landschaft,BL,,,,,,2020-06-10
-CH,Basel-Stadt,BS,,,,,,2020-06-10
 CH,Fribourg,FR,,,,,,2020-06-10
 CH,Geneva,GE,,,,,,2020-06-10
-CH,Glarus,GL,,,,,,2020-06-10
 CH,Grisons,GR,,,,,,2020-06-10
 CH,Jura,JU,,,,,,2020-06-10
-CH,Lucerne,LU,,,,,,2020-06-10
 CH,Neuchâtel,NE,,,,,,2020-06-10
 CH,Nidwalden,NW,,,,,,2020-06-10
 CH,Obwalden,OW,,,,,,2020-06-10
