@@ -3626,6 +3626,7 @@ CH,Neuchâtel,NE,733.0,0,,1,0,2020-06-06
 CH,Grisons,GR,828.0,49,,2,,2020-06-06
 CH,Basel-Landschaft,BL,845.0,35,,0,0,2020-06-06
 CH,Basel-Stadt,BS,982.0,50,,,,2020-06-06
+CH,Fribourg,FR,1166.0,84,,5,2,2020-06-06
 CH,Berne,BE,1918.0,97,,5,0,2020-06-06
 CH,Valais,VS,1957.0,152,,15,4,2020-06-06
 CH,Ticino,TI,3316.0,348,,15,1,2020-06-06
@@ -3636,7 +3637,6 @@ CH,,,30941.0,1934,37875,247,28,2020-06-06
 CH,Aargau,AG,,0,,,,2020-06-06
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-06
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-06
-CH,Fribourg,FR,,0,,5,2,2020-06-06
 CH,Glarus,GL,,0,,,,2020-06-06
 CH,Lucerne,LU,,0,,,,2020-06-06
 CH,Obwalden,OW,,0,,,,2020-06-06
@@ -3654,17 +3654,17 @@ CH,Lucerne,LU,736.0,20,,,,2020-06-07
 CH,Grisons,GR,828.0,49,,1,,2020-06-07
 CH,Basel-Landschaft,BL,845.0,35,,0,0,2020-06-07
 CH,Basel-Stadt,BS,982.0,50,,,,2020-06-07
+CH,Fribourg,FR,1168.0,84,,5,2,2020-06-07
 CH,Berne,BE,1918.0,97,,5,0,2020-06-07
 CH,Valais,VS,1960.0,152,,15,4,2020-06-07
 CH,Ticino,TI,3316.0,349,,14,2,2020-06-07
 CH,Zürich,ZH,3641.0,130,,7,,2020-06-07
 CH,Geneva,GE,5164.0,292,,,,2020-06-07
 CH,Vaud,VD,5459.0,406,,30,8,2020-06-07
-CH,,,30946.0,1935,37875,246,29,2020-06-07
+CH,,,30948.0,1935,37875,246,29,2020-06-07
 CH,Aargau,AG,,0,,,,2020-06-07
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-07
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-07
-CH,Fribourg,FR,,0,,5,2,2020-06-07
 CH,Glarus,GL,,0,,,,2020-06-07
 CH,Obwalden,OW,,0,,,,2020-06-07
 CH,St. Gallen,SG,,0,,,,2020-06-07
@@ -3711,16 +3711,16 @@ CH,Lucerne,LU,736.0,20,,,,2020-06-09
 CH,Grisons,GR,828.0,50,,0,,2020-06-09
 CH,Basel-Landschaft,BL,845.0,35,,0,0,2020-06-09
 CH,Basel-Stadt,BS,983.0,50,,1,,2020-06-09
+CH,Fribourg,FR,1172.0,84,,4,1,2020-06-09
 CH,Berne,BE,1919.0,97,,3,0,2020-06-09
 CH,Valais,VS,1966.0,152,,15,4,2020-06-09
 CH,Ticino,TI,3316.0,349,,12,1,2020-06-09
 CH,Zürich,ZH,3641.0,130,,6,,2020-06-09
 CH,Geneva,GE,5165.0,0,,118,1,2020-06-09
 CH,Vaud,VD,5462.0,406,,31,7,2020-06-09
-CH,,,30973.0,1937,37875,228,24,2020-06-09
+CH,,,30973.0,1937,37875,227,23,2020-06-09
 CH,Aargau,AG,,0,,,,2020-06-09
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-09
-CH,Fribourg,FR,,0,,,,2020-06-09
 CH,Jura,JU,,0,,,,2020-06-09
 CH,Neuchâtel,NE,,0,,2,0,2020-06-09
 CH,St. Gallen,SG,,0,,,,2020-06-09
@@ -3733,12 +3733,13 @@ CH,Zug,ZG,207.0,9,,1,0,2020-06-10
 CH,Schwyz,SZ,307.0,23,,,,2020-06-10
 CH,Thurgau,TG,384.0,18,,1,0,2020-06-10
 CH,Lucerne,LU,736.0,20,,8,2,2020-06-10
+CH,St. Gallen,SG,811.0,37,,,,2020-06-10
 CH,Basel-Landschaft,BL,846.0,35,,0,0,2020-06-10
 CH,Basel-Stadt,BS,983.0,50,,,,2020-06-10
 CH,Berne,BE,1919.0,97,,4,0,2020-06-10
 CH,Ticino,TI,3316.0,349,,10,0,2020-06-10
 CH,Zürich,ZH,3644.0,130,,7,,2020-06-10
-CH,,,30979.0,1937,37875,228,22,2020-06-10
+CH,,,30981.0,1937,37875,227,21,2020-06-10
 CH,Aargau,AG,,0,,,,2020-06-10
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-10
 CH,Fribourg,FR,,0,,,,2020-06-10
@@ -3747,8 +3748,34 @@ CH,Grisons,GR,,0,,,,2020-06-10
 CH,Jura,JU,,0,,,,2020-06-10
 CH,Neuchâtel,NE,,0,,2,0,2020-06-10
 CH,Nidwalden,NW,,0,,,,2020-06-10
-CH,St. Gallen,SG,,0,,,,2020-06-10
 CH,Solothurn,SO,,0,,,,2020-06-10
 CH,Uri,UR,,0,,,,2020-06-10
 CH,Vaud,VD,,0,,,,2020-06-10
 CH,Valais,VS,,0,,,,2020-06-10
+CH,,,30981.0,1937,37875,227,21,2020-06-11
+CH,Aargau,AG,,0,,,,2020-06-11
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-11
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-11
+CH,Berne,BE,,0,,,,2020-06-11
+CH,Basel-Landschaft,BL,,0,,,,2020-06-11
+CH,Basel-Stadt,BS,,0,,,,2020-06-11
+CH,Fribourg,FR,,0,,,,2020-06-11
+CH,Geneva,GE,,0,,,,2020-06-11
+CH,Glarus,GL,,0,,,,2020-06-11
+CH,Grisons,GR,,0,,,,2020-06-11
+CH,Jura,JU,,0,,,,2020-06-11
+CH,Lucerne,LU,,0,,,,2020-06-11
+CH,Neuchâtel,NE,,0,,,,2020-06-11
+CH,Nidwalden,NW,,0,,,,2020-06-11
+CH,Obwalden,OW,,0,,,,2020-06-11
+CH,St. Gallen,SG,,0,,,,2020-06-11
+CH,Schaffhausen,SH,,0,,,,2020-06-11
+CH,Solothurn,SO,,0,,,,2020-06-11
+CH,Schwyz,SZ,,0,,,,2020-06-11
+CH,Thurgau,TG,,0,,,,2020-06-11
+CH,Ticino,TI,,0,,,,2020-06-11
+CH,Uri,UR,,0,,,,2020-06-11
+CH,Vaud,VD,,0,,,,2020-06-11
+CH,Valais,VS,,0,,,,2020-06-11
+CH,Zug,ZG,,0,,,,2020-06-11
+CH,Zürich,ZH,,0,,,,2020-06-11
