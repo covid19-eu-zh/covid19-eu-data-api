@@ -1,7 +1,9 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Zug,ZG,211.0,9.0,,1.0,0.0,2020-06-14
+CH,Lucerne,LU,738.0,20.0,,,,2020-06-14
 CH,Basel-Landschaft,BL,846.0,35.0,,0.0,0.0,2020-06-14
 CH,Berne,BE,1933.0,97.0,,1.0,0.0,2020-06-14
-CH,,,31008.0,1938.0,37875.0,224.0,17.0,2020-06-14
+CH,,,31014.0,1938.0,37875.0,224.0,17.0,2020-06-14
 CH,Aargau,AG,,,,,,2020-06-14
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-14
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-14
@@ -11,7 +13,6 @@ CH,Geneva,GE,,,,,,2020-06-14
 CH,Glarus,GL,,,,,,2020-06-14
 CH,Grisons,GR,,,,,,2020-06-14
 CH,Jura,JU,,,,,,2020-06-14
-CH,Lucerne,LU,,,,,,2020-06-14
 CH,Neuchâtel,NE,,,,,,2020-06-14
 CH,Nidwalden,NW,,,,,,2020-06-14
 CH,Obwalden,OW,,,,,,2020-06-14
@@ -24,5 +25,4 @@ CH,Ticino,TI,,,,,,2020-06-14
 CH,Uri,UR,,,,,,2020-06-14
 CH,Vaud,VD,,,,,,2020-06-14
 CH,Valais,VS,,,,,,2020-06-14
-CH,Zug,ZG,,,,,,2020-06-14
 CH,Zürich,ZH,,,,,,2020-06-14
