@@ -2,6 +2,7 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Schaffhausen,SH,79.0,7.0,,,,2020-06-11
 CH,Nidwalden,NW,124.0,3.0,,0.0,0.0,2020-06-11
 CH,Glarus,GL,128.0,12.0,,0.0,,2020-06-11
+CH,Jura,JU,205.0,7.0,,1.0,0.0,2020-06-11
 CH,Zug,ZG,207.0,9.0,,1.0,0.0,2020-06-11
 CH,Schwyz,SZ,308.0,23.0,,,,2020-06-11
 CH,Thurgau,TG,384.0,18.0,,1.0,0.0,2020-06-11
@@ -12,16 +13,15 @@ CH,Basel-Stadt,BS,983.0,50.0,,3.0,2.0,2020-06-11
 CH,Fribourg,FR,1175.0,84.0,,3.0,1.0,2020-06-11
 CH,Aargau,AG,1222.0,46.0,,2.0,1.0,2020-06-11
 CH,Berne,BE,1924.0,97.0,,4.0,0.0,2020-06-11
-CH,Valais,VS,1973.0,152.0,,15.0,4.0,2020-06-11
+CH,Valais,VS,1973.0,152.0,,16.0,4.0,2020-06-11
 CH,Ticino,TI,3317.0,349.0,,10.0,0.0,2020-06-11
 CH,Zürich,ZH,3645.0,130.0,,8.0,,2020-06-11
 CH,Vaud,VD,5467.0,420.0,,31.0,3.0,2020-06-11
-CH,,,31008.0,1951.0,37875.0,227.0,18.0,2020-06-11
+CH,,,31008.0,1951.0,37875.0,228.0,18.0,2020-06-11
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-11
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-11
 CH,Geneva,GE,,,,,,2020-06-11
 CH,Grisons,GR,,,,,,2020-06-11
-CH,Jura,JU,,,,,,2020-06-11
 CH,Obwalden,OW,,,,,,2020-06-11
 CH,St. Gallen,SG,,,,,,2020-06-11
 CH,Solothurn,SO,,,,,,2020-06-11
