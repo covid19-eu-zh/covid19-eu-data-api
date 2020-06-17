@@ -2,12 +2,13 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-06-17
 CH,Schwyz,SZ,308.0,23.0,,,,2020-06-17
 CH,Solothurn,SO,449.0,17.0,,,,2020-06-17
-CH,,,31155.0,1954.0,37875.0,203.0,18.0,2020-06-17
+CH,Basel-Stadt,BS,984.0,50.0,,,,2020-06-17
+CH,Ticino,TI,3323.0,350.0,,6.0,0.0,2020-06-17
+CH,,,31158.0,1954.0,37875.0,203.0,18.0,2020-06-17
 CH,Aargau,AG,,,,,,2020-06-17
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-17
 CH,Berne,BE,,,,,,2020-06-17
 CH,Basel-Landschaft,BL,,,,,,2020-06-17
-CH,Basel-Stadt,BS,,,,,,2020-06-17
 CH,Fribourg,FR,,,,,,2020-06-17
 CH,Geneva,GE,,,,,,2020-06-17
 CH,Glarus,GL,,,,,,2020-06-17
@@ -20,7 +21,6 @@ CH,Obwalden,OW,,,,,,2020-06-17
 CH,St. Gallen,SG,,,,,,2020-06-17
 CH,Schaffhausen,SH,,,,,,2020-06-17
 CH,Thurgau,TG,,,,,,2020-06-17
-CH,Ticino,TI,,,,,,2020-06-17
 CH,Uri,UR,,,,,,2020-06-17
 CH,Vaud,VD,,,,,,2020-06-17
 CH,Valais,VS,,,,,,2020-06-17
