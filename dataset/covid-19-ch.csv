@@ -3916,10 +3916,12 @@ CH,Uri,UR,,0,,,,2020-06-16
 CH,Vaud,VD,,0,,,,2020-06-16
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-06-17
 CH,Schwyz,SZ,308.0,23,,,,2020-06-17
+CH,Thurgau,TG,385.0,18,,1,0,2020-06-17
 CH,Solothurn,SO,449.0,17,,,,2020-06-17
+CH,St. Gallen,SG,820.0,38,,,,2020-06-17
 CH,Basel-Stadt,BS,984.0,50,,,,2020-06-17
 CH,Ticino,TI,3323.0,350,,6,0,2020-06-17
-CH,,,31158.0,1954,37875,203,18,2020-06-17
+CH,,,31168.0,1955,37875,203,18,2020-06-17
 CH,Aargau,AG,,0,,,,2020-06-17
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-17
 CH,Berne,BE,,0,,,,2020-06-17
@@ -3933,9 +3935,7 @@ CH,Lucerne,LU,,0,,,,2020-06-17
 CH,Neuchâtel,NE,,0,,,,2020-06-17
 CH,Nidwalden,NW,,0,,,,2020-06-17
 CH,Obwalden,OW,,0,,,,2020-06-17
-CH,St. Gallen,SG,,0,,,,2020-06-17
 CH,Schaffhausen,SH,,0,,,,2020-06-17
-CH,Thurgau,TG,,0,,,,2020-06-17
 CH,Uri,UR,,0,,,,2020-06-17
 CH,Vaud,VD,,0,,,,2020-06-17
 CH,Valais,VS,,0,,,,2020-06-17
