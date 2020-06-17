@@ -1,7 +1,8 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Geneva,GE,1.0,0.0,479.0,1.0,0.0,2020-02-26
 CH,Ticino,TI,1.0,0.0,,0.0,0.0,2020-02-26
-CH,,,2.0,0.0,479.0,1.0,0.0,2020-02-26
+CH,Grisons,GR,2.0,0.0,,0.0,0.0,2020-02-26
+CH,,,4.0,0.0,479.0,1.0,0.0,2020-02-26
 CH,Aargau,AG,,,,,,2020-02-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-02-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-02-26
@@ -10,7 +11,6 @@ CH,Basel-Landschaft,BL,,,,,,2020-02-26
 CH,Basel-Stadt,BS,,,,,,2020-02-26
 CH,Fribourg,FR,,,,,,2020-02-26
 CH,Glarus,GL,,,,,,2020-02-26
-CH,Grisons,GR,,,,,,2020-02-26
 CH,Jura,JU,,,,,,2020-02-26
 CH,Lucerne,LU,,,,,,2020-02-26
 CH,Neuchâtel,NE,,,,,,2020-02-26
