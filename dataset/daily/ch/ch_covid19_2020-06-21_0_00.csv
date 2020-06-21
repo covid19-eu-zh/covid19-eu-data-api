@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
-CH,,,31235.0,1956.0,37875.0,204.0,16.0,2020-06-21
+CH,Lucerne,LU,744.0,20.0,,,,2020-06-21
+CH,,,31238.0,1956.0,37875.0,204.0,16.0,2020-06-21
 CH,Aargau,AG,,,,,,2020-06-21
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-21
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-21
@@ -11,7 +12,6 @@ CH,Geneva,GE,,,,,,2020-06-21
 CH,Glarus,GL,,,,,,2020-06-21
 CH,Grisons,GR,,,,,,2020-06-21
 CH,Jura,JU,,,,,,2020-06-21
-CH,Lucerne,LU,,,,,,2020-06-21
 CH,Neuchâtel,NE,,,,,,2020-06-21
 CH,Nidwalden,NW,,,,,,2020-06-21
 CH,Obwalden,OW,,,,,,2020-06-21
