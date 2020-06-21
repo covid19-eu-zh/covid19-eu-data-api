@@ -1,10 +1,10 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Lucerne,LU,744.0,20.0,,,,2020-06-21
+CH,Berne,BE,1939.0,97.0,,3.0,0.0,2020-06-21
 CH,,,31238.0,1956.0,37875.0,204.0,16.0,2020-06-21
 CH,Aargau,AG,,,,,,2020-06-21
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-21
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-21
-CH,Berne,BE,,,,,,2020-06-21
 CH,Basel-Landschaft,BL,,,,,,2020-06-21
 CH,Basel-Stadt,BS,,,,,,2020-06-21
 CH,Fribourg,FR,,,,,,2020-06-21
