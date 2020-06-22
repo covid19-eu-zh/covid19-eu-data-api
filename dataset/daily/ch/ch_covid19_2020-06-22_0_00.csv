@@ -1,13 +1,16 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Ausserrhoden,AR,100.0,3.0,,0.0,0.0,2020-06-22
+CH,Zug,ZG,216.0,9.0,,0.0,0.0,2020-06-22
+CH,Schwyz,SZ,313.0,23.0,,,,2020-06-22
 CH,Solothurn,SO,451.0,17.0,,,,2020-06-22
 CH,St. Gallen,SG,822.0,38.0,,,,2020-06-22
-CH,,,31241.0,1956.0,37875.0,204.0,16.0,2020-06-22
+CH,Basel-Stadt,BS,985.0,50.0,,,,2020-06-22
+CH,Ticino,TI,3326.0,350.0,,6.0,0.0,2020-06-22
+CH,,,31248.0,1956.0,37875.0,204.0,16.0,2020-06-22
 CH,Aargau,AG,,,,,,2020-06-22
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-22
-CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-22
 CH,Berne,BE,,,,,,2020-06-22
 CH,Basel-Landschaft,BL,,,,,,2020-06-22
-CH,Basel-Stadt,BS,,,,,,2020-06-22
 CH,Fribourg,FR,,,,,,2020-06-22
 CH,Geneva,GE,,,,,,2020-06-22
 CH,Glarus,GL,,,,,,2020-06-22
@@ -18,11 +21,8 @@ CH,Neuchâtel,NE,,,,,,2020-06-22
 CH,Nidwalden,NW,,,,,,2020-06-22
 CH,Obwalden,OW,,,,,,2020-06-22
 CH,Schaffhausen,SH,,,,,,2020-06-22
-CH,Schwyz,SZ,,,,,,2020-06-22
 CH,Thurgau,TG,,,,,,2020-06-22
-CH,Ticino,TI,,,,,,2020-06-22
 CH,Uri,UR,,,,,,2020-06-22
 CH,Vaud,VD,,,,,,2020-06-22
 CH,Valais,VS,,,,,,2020-06-22
-CH,Zug,ZG,,,,,,2020-06-22
 CH,Zürich,ZH,,,,,,2020-06-22
