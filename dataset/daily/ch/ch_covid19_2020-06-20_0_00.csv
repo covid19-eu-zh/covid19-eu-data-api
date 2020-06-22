@@ -1,5 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Schwyz,SZ,309.0,23.0,,,,2020-06-20
 CH,Lucerne,LU,741.0,20.0,,,,2020-06-20
+CH,Grisons,GR,830.0,50.0,,0.0,0.0,2020-06-20
 CH,Berne,BE,1939.0,97.0,,3.0,0.0,2020-06-20
 CH,,,31235.0,1956.0,37875.0,204.0,16.0,2020-06-20
 CH,Aargau,AG,,,,,,2020-06-20
@@ -10,7 +12,6 @@ CH,Basel-Stadt,BS,,,,,,2020-06-20
 CH,Fribourg,FR,,,,,,2020-06-20
 CH,Geneva,GE,,,,,,2020-06-20
 CH,Glarus,GL,,,,,,2020-06-20
-CH,Grisons,GR,,,,,,2020-06-20
 CH,Jura,JU,,,,,,2020-06-20
 CH,Neuchâtel,NE,,,,,,2020-06-20
 CH,Nidwalden,NW,,,,,,2020-06-20
@@ -18,7 +19,6 @@ CH,Obwalden,OW,,,,,,2020-06-20
 CH,St. Gallen,SG,,,,,,2020-06-20
 CH,Schaffhausen,SH,,,,,,2020-06-20
 CH,Solothurn,SO,,,,,,2020-06-20
-CH,Schwyz,SZ,,,,,,2020-06-20
 CH,Thurgau,TG,,,,,,2020-06-20
 CH,Ticino,TI,,,,,,2020-06-20
 CH,Uri,UR,,,,,,2020-06-20
