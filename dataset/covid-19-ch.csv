@@ -4001,14 +4001,14 @@ CH,Thurgau,TG,385.0,18,,0,0,2020-06-20
 CH,Lucerne,LU,741.0,20,,,,2020-06-20
 CH,Grisons,GR,830.0,50,,0,0,2020-06-20
 CH,Basel-Stadt,BS,985.0,50,,,,2020-06-20
+CH,Fribourg,FR,1191.0,84,,,,2020-06-20
 CH,Berne,BE,1939.0,97,,3,0,2020-06-20
 CH,Ticino,TI,3325.0,350,,6,0,2020-06-20
-CH,,,31236.0,1956,37875,204,16,2020-06-20
+CH,,,31241.0,1956,37875,204,16,2020-06-20
 CH,Aargau,AG,,0,,,,2020-06-20
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-20
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-20
 CH,Basel-Landschaft,BL,,0,,,,2020-06-20
-CH,Fribourg,FR,,0,,,,2020-06-20
 CH,Geneva,GE,,0,,,,2020-06-20
 CH,Glarus,GL,,0,,,,2020-06-20
 CH,Jura,JU,,0,,,,2020-06-20
@@ -4028,14 +4028,14 @@ CH,Thurgau,TG,385.0,18,,0,0,2020-06-21
 CH,Lucerne,LU,744.0,20,,,,2020-06-21
 CH,Grisons,GR,830.0,50,,0,0,2020-06-21
 CH,Basel-Stadt,BS,985.0,50,,,,2020-06-21
+CH,Fribourg,FR,1191.0,84,,3,0,2020-06-21
 CH,Berne,BE,1940.0,97,,3,0,2020-06-21
 CH,Ticino,TI,3325.0,350,,6,0,2020-06-21
-CH,,,31240.0,1956,37875,204,16,2020-06-21
+CH,,,31245.0,1956,37875,205,16,2020-06-21
 CH,Aargau,AG,,0,,,,2020-06-21
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-21
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-21
 CH,Basel-Landschaft,BL,,0,,,,2020-06-21
-CH,Fribourg,FR,,0,,,,2020-06-21
 CH,Geneva,GE,,0,,,,2020-06-21
 CH,Glarus,GL,,0,,,,2020-06-21
 CH,Jura,JU,,0,,,,2020-06-21
@@ -4059,11 +4059,11 @@ CH,Solothurn,SO,451.0,17,,,,2020-06-22
 CH,Lucerne,LU,745.0,20,,9,2,2020-06-22
 CH,St. Gallen,SG,822.0,38,,,,2020-06-22
 CH,Basel-Stadt,BS,985.0,50,,,,2020-06-22
+CH,Aargau,AG,1239.0,46,,,,2020-06-22
+CH,Berne,BE,1946.0,97,,2,0,2020-06-22
 CH,Ticino,TI,3326.0,350,,6,0,2020-06-22
-CH,,,31249.0,1956,37875,205,16,2020-06-22
-CH,Aargau,AG,,0,,,,2020-06-22
+CH,,,31264.0,1956,37875,205,16,2020-06-22
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-22
-CH,Berne,BE,,0,,,,2020-06-22
 CH,Basel-Landschaft,BL,,0,,,,2020-06-22
 CH,Fribourg,FR,,0,,,,2020-06-22
 CH,Geneva,GE,,0,,,,2020-06-22
