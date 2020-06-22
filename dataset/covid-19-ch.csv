@@ -4049,17 +4049,18 @@ CH,Uri,UR,,0,,,,2020-06-21
 CH,Vaud,VD,,0,,,,2020-06-21
 CH,Valais,VS,,0,,,,2020-06-21
 CH,Zürich,ZH,,0,,,,2020-06-21
+CH,Schaffhausen,SH,81.0,7,,3,0,2020-06-22
 CH,Appenzell Ausserrhoden,AR,100.0,3,,0,0,2020-06-22
 CH,Glarus,GL,128.0,13,,0,,2020-06-22
 CH,Zug,ZG,216.0,9,,0,0,2020-06-22
 CH,Schwyz,SZ,313.0,23,,,,2020-06-22
 CH,Thurgau,TG,385.0,18,,0,0,2020-06-22
 CH,Solothurn,SO,451.0,17,,,,2020-06-22
-CH,Lucerne,LU,745.0,20,,,,2020-06-22
+CH,Lucerne,LU,745.0,20,,9,2,2020-06-22
 CH,St. Gallen,SG,822.0,38,,,,2020-06-22
 CH,Basel-Stadt,BS,985.0,50,,,,2020-06-22
 CH,Ticino,TI,3326.0,350,,6,0,2020-06-22
-CH,,,31249.0,1956,37875,204,16,2020-06-22
+CH,,,31249.0,1956,37875,205,16,2020-06-22
 CH,Aargau,AG,,0,,,,2020-06-22
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-06-22
 CH,Berne,BE,,0,,,,2020-06-22
@@ -4071,7 +4072,6 @@ CH,Jura,JU,,0,,,,2020-06-22
 CH,Neuchâtel,NE,,0,,,,2020-06-22
 CH,Nidwalden,NW,,0,,,,2020-06-22
 CH,Obwalden,OW,,0,,,,2020-06-22
-CH,Schaffhausen,SH,,0,,,,2020-06-22
 CH,Uri,UR,,0,,,,2020-06-22
 CH,Vaud,VD,,0,,,,2020-06-22
 CH,Valais,VS,,0,,,,2020-06-22
