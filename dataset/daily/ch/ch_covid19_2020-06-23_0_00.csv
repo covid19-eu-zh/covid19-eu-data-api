@@ -2,12 +2,14 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-06-23
 CH,Schaffhausen,SH,81.0,7.0,,2.0,0.0,2020-06-23
 CH,Obwalden,OW,82.0,0.0,,0.0,,2020-06-23
+CH,Nidwalden,NW,124.0,3.0,,0.0,0.0,2020-06-23
 CH,Glarus,GL,128.0,13.0,,0.0,,2020-06-23
 CH,Zug,ZG,216.0,9.0,,0.0,0.0,2020-06-23
 CH,Schwyz,SZ,313.0,23.0,,,,2020-06-23
 CH,Thurgau,TG,386.0,18.0,,0.0,0.0,2020-06-23
 CH,Lucerne,LU,746.0,20.0,,,,2020-06-23
 CH,St. Gallen,SG,823.0,38.0,,,,2020-06-23
+CH,Basel-Landschaft,BL,849.0,35.0,,0.0,0.0,2020-06-23
 CH,Basel-Stadt,BS,985.0,50.0,,,,2020-06-23
 CH,Aargau,AG,1241.0,46.0,,,,2020-06-23
 CH,Berne,BE,1946.0,97.0,,2.0,0.0,2020-06-23
@@ -15,13 +17,11 @@ CH,Ticino,TI,3327.0,350.0,,6.0,0.0,2020-06-23
 CH,Zürich,ZH,3705.0,130.0,,10.0,,2020-06-23
 CH,,,31335.0,1956.0,37875.0,203.0,12.0,2020-06-23
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-23
-CH,Basel-Landschaft,BL,,,,,,2020-06-23
 CH,Fribourg,FR,,,,,,2020-06-23
 CH,Geneva,GE,,,,,,2020-06-23
 CH,Grisons,GR,,,,,,2020-06-23
 CH,Jura,JU,,,,,,2020-06-23
 CH,Neuchâtel,NE,,,,,,2020-06-23
-CH,Nidwalden,NW,,,,,,2020-06-23
 CH,Solothurn,SO,,,,,,2020-06-23
 CH,Uri,UR,,,,,,2020-06-23
 CH,Vaud,VD,,,,,,2020-06-23
