@@ -4104,6 +4104,7 @@ CH,Uri,UR,,0,,,,2020-06-23
 CH,Vaud,VD,,0,,,,2020-06-23
 CH,Valais,VS,,0,,,,2020-06-23
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-06-24
+CH,Glarus,GL,128.0,13,,0,,2020-06-24
 CH,Schwyz,SZ,316.0,23,,,,2020-06-24
 CH,Thurgau,TG,387.0,18,,0,0,2020-06-24
 CH,Solothurn,SO,452.0,17,,,,2020-06-24
@@ -4117,7 +4118,6 @@ CH,Berne,BE,,0,,,,2020-06-24
 CH,Basel-Landschaft,BL,,0,,,,2020-06-24
 CH,Fribourg,FR,,0,,,,2020-06-24
 CH,Geneva,GE,,0,,,,2020-06-24
-CH,Glarus,GL,,0,,,,2020-06-24
 CH,Grisons,GR,,0,,,,2020-06-24
 CH,Jura,JU,,0,,,,2020-06-24
 CH,Lucerne,LU,,0,,,,2020-06-24
