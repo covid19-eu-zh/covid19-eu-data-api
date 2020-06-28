@@ -1,11 +1,11 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Basel-Stadt,BS,985.0,50.0,,,,2020-06-28
 CH,,,31483.0,1962.0,37875.0,197.0,11.0,2020-06-28
 CH,Aargau,AG,,,,,,2020-06-28
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-28
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-28
 CH,Berne,BE,,,,,,2020-06-28
 CH,Basel-Landschaft,BL,,,,,,2020-06-28
-CH,Basel-Stadt,BS,,,,,,2020-06-28
 CH,Fribourg,FR,,,,,,2020-06-28
 CH,Geneva,GE,,,,,,2020-06-28
 CH,Glarus,GL,,,,,,2020-06-28
