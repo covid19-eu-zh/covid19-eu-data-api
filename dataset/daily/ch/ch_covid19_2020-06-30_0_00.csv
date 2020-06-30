@@ -1,13 +1,15 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-06-30
+CH,Schaffhausen,SH,83.0,7.0,,2.0,0.0,2020-06-30
+CH,Zug,ZG,225.0,9.0,,0.0,0.0,2020-06-30
 CH,Schwyz,SZ,328.0,23.0,,,,2020-06-30
 CH,Solothurn,SO,459.0,17.0,,,,2020-06-30
 CH,St. Gallen,SG,843.0,38.0,,,,2020-06-30
 CH,Basel-Stadt,BS,985.0,50.0,,,,2020-06-30
 CH,Aargau,AG,1282.0,47.0,,,,2020-06-30
-CH,,,31610.0,1962.0,37875.0,206.0,11.0,2020-06-30
+CH,Berne,BE,1937.0,97.0,,2.0,0.0,2020-06-30
+CH,,,31614.0,1962.0,37875.0,205.0,11.0,2020-06-30
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-30
-CH,Berne,BE,,,,,,2020-06-30
 CH,Basel-Landschaft,BL,,,,,,2020-06-30
 CH,Fribourg,FR,,,,,,2020-06-30
 CH,Geneva,GE,,,,,,2020-06-30
@@ -18,11 +20,9 @@ CH,Lucerne,LU,,,,,,2020-06-30
 CH,Neuchâtel,NE,,,,,,2020-06-30
 CH,Nidwalden,NW,,,,,,2020-06-30
 CH,Obwalden,OW,,,,,,2020-06-30
-CH,Schaffhausen,SH,,,,,,2020-06-30
 CH,Thurgau,TG,,,,,,2020-06-30
 CH,Ticino,TI,,,,,,2020-06-30
 CH,Uri,UR,,,,,,2020-06-30
 CH,Vaud,VD,,,,,,2020-06-30
 CH,Valais,VS,,,,,,2020-06-30
-CH,Zug,ZG,,,,,,2020-06-30
 CH,Zürich,ZH,,,,,,2020-06-30
