@@ -4271,11 +4271,12 @@ CH,Zug,ZG,225.0,9,,0,0,2020-06-30
 CH,Schwyz,SZ,328.0,23,,,,2020-06-30
 CH,Thurgau,TG,395.0,18,,2,0,2020-06-30
 CH,Solothurn,SO,459.0,17,,,,2020-06-30
+CH,Lucerne,LU,760.0,20,,,,2020-06-30
 CH,St. Gallen,SG,843.0,38,,,,2020-06-30
 CH,Basel-Stadt,BS,985.0,50,,,,2020-06-30
 CH,Aargau,AG,1282.0,47,,,,2020-06-30
 CH,Berne,BE,1937.0,97,,2,0,2020-06-30
-CH,,,31648.0,1962,37875,204,11,2020-06-30
+CH,,,31654.0,1962,37875,204,11,2020-06-30
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-06-30
 CH,Basel-Landschaft,BL,,0,,,,2020-06-30
 CH,Fribourg,FR,,0,,,,2020-06-30
@@ -4283,7 +4284,6 @@ CH,Geneva,GE,,0,,,,2020-06-30
 CH,Glarus,GL,,0,,,,2020-06-30
 CH,Grisons,GR,,0,,,,2020-06-30
 CH,Jura,JU,,0,,,,2020-06-30
-CH,Lucerne,LU,,0,,,,2020-06-30
 CH,Neuchâtel,NE,,0,,,,2020-06-30
 CH,Nidwalden,NW,,0,,,,2020-06-30
 CH,Obwalden,OW,,0,,,,2020-06-30
