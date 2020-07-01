@@ -1,8 +1,8 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-07-01
 CH,Obwalden,OW,83.0,0.0,,0.0,,2020-07-01
-CH,Uri,UR,100.0,7.0,,0.0,,2020-07-01
 CH,Appenzell Ausserrhoden,AR,103.0,3.0,,3.0,0.0,2020-07-01
+CH,Uri,UR,103.0,7.0,,0.0,,2020-07-01
 CH,Nidwalden,NW,124.0,3.0,,0.0,0.0,2020-07-01
 CH,Glarus,GL,129.0,13.0,,0.0,,2020-07-01
 CH,Zug,ZG,227.0,9.0,,0.0,0.0,2020-07-01
@@ -11,17 +11,17 @@ CH,Thurgau,TG,398.0,18.0,,3.0,0.0,2020-07-01
 CH,Solothurn,SO,461.0,17.0,,,,2020-07-01
 CH,Lucerne,LU,763.0,20.0,,9.0,2.0,2020-07-01
 CH,St. Gallen,SG,854.0,38.0,,,,2020-07-01
+CH,Basel-Landschaft,BL,860.0,35.0,,0.0,0.0,2020-07-01
 CH,Basel-Stadt,BS,985.0,50.0,,,,2020-07-01
 CH,Aargau,AG,1303.0,47.0,,,,2020-07-01
 CH,Berne,BE,1939.0,97.0,,7.0,0.0,2020-07-01
 CH,Zürich,ZH,3853.0,131.0,,13.0,,2020-07-01
-CH,,,31815.0,1670.0,37875.0,116.0,14.0,2020-07-01
-CH,Basel-Landschaft,BL,,,,,,2020-07-01
+CH,,,31822.0,1965.0,37875.0,115.0,14.0,2020-07-01
 CH,Fribourg,FR,,,,,,2020-07-01
 CH,Geneva,GE,,,,,,2020-07-01
 CH,Grisons,GR,,,,,,2020-07-01
 CH,Jura,JU,,,,,,2020-07-01
-CH,Neuchâtel,NE,,,,,,2020-07-01
+CH,Neuchâtel,NE,,,,1.0,0.0,2020-07-01
 CH,Schaffhausen,SH,,,,,,2020-07-01
 CH,Ticino,TI,,,,,,2020-07-01
 CH,Vaud,VD,,,,,,2020-07-01
