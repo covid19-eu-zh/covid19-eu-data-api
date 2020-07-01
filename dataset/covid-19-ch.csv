@@ -4293,16 +4293,17 @@ CH,Neuchâtel,NE,,0,,,,2020-06-30
 CH,Vaud,VD,,0,,,,2020-06-30
 CH,Valais,VS,,0,,,,2020-06-30
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-01
+CH,Uri,UR,100.0,7,,0,,2020-07-01
 CH,Appenzell Ausserrhoden,AR,103.0,3,,3,0,2020-07-01
 CH,Zug,ZG,227.0,9,,0,0,2020-07-01
 CH,Schwyz,SZ,332.0,23,,,,2020-07-01
 CH,Solothurn,SO,461.0,17,,,,2020-07-01
 CH,St. Gallen,SG,854.0,38,,,,2020-07-01
+CH,Basel-Stadt,BS,985.0,50,,,,2020-07-01
 CH,Aargau,AG,1303.0,47,,,,2020-07-01
-CH,,,31734.0,1963,37875,205,11,2020-07-01
+CH,,,31737.0,1963,37875,205,11,2020-07-01
 CH,Berne,BE,,0,,,,2020-07-01
 CH,Basel-Landschaft,BL,,0,,,,2020-07-01
-CH,Basel-Stadt,BS,,0,,,,2020-07-01
 CH,Fribourg,FR,,0,,,,2020-07-01
 CH,Geneva,GE,,0,,,,2020-07-01
 CH,Glarus,GL,,0,,,,2020-07-01
@@ -4315,7 +4316,6 @@ CH,Obwalden,OW,,0,,,,2020-07-01
 CH,Schaffhausen,SH,,0,,,,2020-07-01
 CH,Thurgau,TG,,0,,,,2020-07-01
 CH,Ticino,TI,,0,,,,2020-07-01
-CH,Uri,UR,,0,,,,2020-07-01
 CH,Vaud,VD,,0,,,,2020-07-01
 CH,Valais,VS,,0,,,,2020-07-01
 CH,Zürich,ZH,,0,,,,2020-07-01
