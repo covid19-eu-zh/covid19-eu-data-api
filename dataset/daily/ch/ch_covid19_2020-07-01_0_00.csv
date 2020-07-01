@@ -2,6 +2,7 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-07-01
 CH,Uri,UR,100.0,7.0,,0.0,,2020-07-01
 CH,Appenzell Ausserrhoden,AR,103.0,3.0,,3.0,0.0,2020-07-01
+CH,Glarus,GL,129.0,13.0,,0.0,,2020-07-01
 CH,Zug,ZG,227.0,9.0,,0.0,0.0,2020-07-01
 CH,Schwyz,SZ,332.0,23.0,,,,2020-07-01
 CH,Thurgau,TG,398.0,18.0,,3.0,0.0,2020-07-01
@@ -10,12 +11,11 @@ CH,Lucerne,LU,763.0,20.0,,,,2020-07-01
 CH,St. Gallen,SG,854.0,38.0,,,,2020-07-01
 CH,Basel-Stadt,BS,985.0,50.0,,,,2020-07-01
 CH,Aargau,AG,1303.0,47.0,,,,2020-07-01
-CH,,,31744.0,1963.0,37875.0,207.0,11.0,2020-07-01
+CH,,,31765.0,1670.0,37875.0,111.0,13.0,2020-07-01
 CH,Berne,BE,,,,,,2020-07-01
 CH,Basel-Landschaft,BL,,,,,,2020-07-01
 CH,Fribourg,FR,,,,,,2020-07-01
 CH,Geneva,GE,,,,,,2020-07-01
-CH,Glarus,GL,,,,,,2020-07-01
 CH,Grisons,GR,,,,,,2020-07-01
 CH,Jura,JU,,,,,,2020-07-01
 CH,Neuchâtel,NE,,,,,,2020-07-01
