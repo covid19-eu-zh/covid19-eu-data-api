@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-07-01
 CH,Obwalden,OW,83.0,0.0,,0.0,,2020-07-01
+CH,Schaffhausen,SH,83.0,7.0,,2.0,0.0,2020-07-01
 CH,Appenzell Ausserrhoden,AR,103.0,3.0,,3.0,0.0,2020-07-01
 CH,Uri,UR,103.0,7.0,,0.0,,2020-07-01
 CH,Nidwalden,NW,124.0,3.0,,0.0,0.0,2020-07-01
@@ -22,7 +23,6 @@ CH,Fribourg,FR,,,,,,2020-07-01
 CH,Geneva,GE,,,,,,2020-07-01
 CH,Jura,JU,,,,,,2020-07-01
 CH,Neuchâtel,NE,,,,1.0,0.0,2020-07-01
-CH,Schaffhausen,SH,,,,,,2020-07-01
 CH,Ticino,TI,,,,,,2020-07-01
 CH,Vaud,VD,,,,,,2020-07-01
 CH,Valais,VS,,,,,,2020-07-01
