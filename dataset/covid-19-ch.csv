@@ -4320,15 +4320,16 @@ CH,Ticino,TI,,0,,,,2020-07-01
 CH,Vaud,VD,,0,,,,2020-07-01
 CH,Valais,VS,,0,,,,2020-07-01
 CH,Schaffhausen,SH,83.0,7,,2,0,2020-07-02
+CH,Zug,ZG,229.0,9,,0,0,2020-07-02
 CH,Solothurn,SO,463.0,17,,,,2020-07-02
 CH,St. Gallen,SG,859.0,38,,,,2020-07-02
+CH,Basel-Stadt,BS,986.0,50,,,,2020-07-02
 CH,Aargau,AG,1316.0,47,,,,2020-07-02
 CH,Berne,BE,1945.0,97,,7,0,2020-07-02
-CH,,,31848.0,1965,37875,115,14,2020-07-02
+CH,,,31851.0,1965,37875,115,14,2020-07-02
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-02
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-02
 CH,Basel-Landschaft,BL,,0,,,,2020-07-02
-CH,Basel-Stadt,BS,,0,,,,2020-07-02
 CH,Fribourg,FR,,0,,,,2020-07-02
 CH,Geneva,GE,,0,,,,2020-07-02
 CH,Glarus,GL,,0,,,,2020-07-02
@@ -4344,5 +4345,4 @@ CH,Ticino,TI,,0,,,,2020-07-02
 CH,Uri,UR,,0,,,,2020-07-02
 CH,Vaud,VD,,0,,,,2020-07-02
 CH,Valais,VS,,0,,,,2020-07-02
-CH,Zug,ZG,,0,,,,2020-07-02
 CH,Zürich,ZH,,0,,,,2020-07-02
