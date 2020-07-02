@@ -2,13 +2,15 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Schaffhausen,SH,83.0,7.0,,2.0,0.0,2020-07-02
 CH,Glarus,GL,129.0,13.0,,0.0,,2020-07-02
 CH,Zug,ZG,229.0,9.0,,0.0,0.0,2020-07-02
+CH,Schwyz,SZ,336.0,23.0,,,,2020-07-02
 CH,Thurgau,TG,402.0,18.0,,3.0,0.0,2020-07-02
 CH,Solothurn,SO,463.0,17.0,,,,2020-07-02
+CH,Lucerne,LU,763.0,20.0,,9.0,2.0,2020-07-02
 CH,St. Gallen,SG,859.0,38.0,,,,2020-07-02
 CH,Basel-Stadt,BS,986.0,50.0,,,,2020-07-02
 CH,Aargau,AG,1316.0,47.0,,,,2020-07-02
 CH,Berne,BE,1945.0,97.0,,7.0,0.0,2020-07-02
-CH,,,31875.0,1965.0,37875.0,117.0,15.0,2020-07-02
+CH,,,31879.0,1965.0,37875.0,117.0,15.0,2020-07-02
 CH,Appenzell Innerrhoden,AI,,,,,,2020-07-02
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-02
 CH,Basel-Landschaft,BL,,,,,,2020-07-02
@@ -16,11 +18,9 @@ CH,Fribourg,FR,,,,,,2020-07-02
 CH,Geneva,GE,,,,,,2020-07-02
 CH,Grisons,GR,,,,,,2020-07-02
 CH,Jura,JU,,,,,,2020-07-02
-CH,Lucerne,LU,,,,,,2020-07-02
 CH,Neuchâtel,NE,,,,,,2020-07-02
 CH,Nidwalden,NW,,,,,,2020-07-02
 CH,Obwalden,OW,,,,,,2020-07-02
-CH,Schwyz,SZ,,,,,,2020-07-02
 CH,Ticino,TI,,,,,,2020-07-02
 CH,Uri,UR,,,,,,2020-07-02
 CH,Vaud,VD,,,,,,2020-07-02
