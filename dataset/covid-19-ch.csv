@@ -4321,6 +4321,7 @@ CH,Ticino,TI,,0,,,,2020-07-01
 CH,Valais,VS,,0,,,,2020-07-01
 CH,Schaffhausen,SH,83.0,7,,2,0,2020-07-02
 CH,Appenzell Ausserrhoden,AR,104.0,3,,1,0,2020-07-02
+CH,Nidwalden,NW,124.0,3,,0,0,2020-07-02
 CH,Glarus,GL,129.0,13,,0,,2020-07-02
 CH,Zug,ZG,229.0,9,,0,0,2020-07-02
 CH,Schwyz,SZ,336.0,23,,,,2020-07-02
@@ -4328,21 +4329,20 @@ CH,Thurgau,TG,402.0,18,,3,0,2020-07-02
 CH,Solothurn,SO,463.0,17,,,,2020-07-02
 CH,Lucerne,LU,763.0,20,,9,2,2020-07-02
 CH,St. Gallen,SG,859.0,38,,,,2020-07-02
+CH,Basel-Landschaft,BL,861.0,35,,0,0,2020-07-02
 CH,Basel-Stadt,BS,986.0,50,,,,2020-07-02
 CH,Aargau,AG,1316.0,47,,,,2020-07-02
 CH,Berne,BE,1945.0,97,,7,0,2020-07-02
-CH,,,31880.0,1965,37875,115,15,2020-07-02
+CH,Zürich,ZH,3910.0,131,,10,,2020-07-02
+CH,,,31938.0,1965,37875,112,15,2020-07-02
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-02
-CH,Basel-Landschaft,BL,,0,,,,2020-07-02
 CH,Fribourg,FR,,0,,,,2020-07-02
 CH,Geneva,GE,,0,,,,2020-07-02
 CH,Grisons,GR,,0,,,,2020-07-02
 CH,Jura,JU,,0,,,,2020-07-02
 CH,Neuchâtel,NE,,0,,,,2020-07-02
-CH,Nidwalden,NW,,0,,,,2020-07-02
 CH,Obwalden,OW,,0,,,,2020-07-02
 CH,Ticino,TI,,0,,,,2020-07-02
 CH,Uri,UR,,0,,,,2020-07-02
 CH,Vaud,VD,,0,,,,2020-07-02
 CH,Valais,VS,,0,,,,2020-07-02
-CH,Zürich,ZH,,0,,,,2020-07-02
