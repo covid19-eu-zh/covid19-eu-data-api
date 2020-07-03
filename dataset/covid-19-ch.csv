@@ -4350,12 +4350,13 @@ CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-03
 CH,Zug,ZG,233.0,9,,0,0,2020-07-03
 CH,Schwyz,SZ,339.0,23,,,,2020-07-03
 CH,Solothurn,SO,464.0,17,,,,2020-07-03
+CH,Lucerne,LU,767.0,20,,9,2,2020-07-03
 CH,St. Gallen,SG,870.0,38,,,,2020-07-03
 CH,Basel-Stadt,BS,988.0,50,,,,2020-07-03
-CH,Fribourg,FR,1243.0,85,,5,1,2020-07-03
+CH,Fribourg,FR,1243.0,85,,4,1,2020-07-03
 CH,Aargau,AG,1329.0,47,,,,2020-07-03
 CH,Ticino,TI,3341.0,350,,1,0,2020-07-03
-CH,,,32018.0,1965,37875,108,15,2020-07-03
+CH,,,32022.0,1965,37875,107,15,2020-07-03
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-03
 CH,Berne,BE,,0,,,,2020-07-03
 CH,Basel-Landschaft,BL,,0,,,,2020-07-03
@@ -4363,7 +4364,6 @@ CH,Geneva,GE,,0,,,,2020-07-03
 CH,Glarus,GL,,0,,,,2020-07-03
 CH,Grisons,GR,,0,,,,2020-07-03
 CH,Jura,JU,,0,,,,2020-07-03
-CH,Lucerne,LU,,0,,,,2020-07-03
 CH,Neuchâtel,NE,,0,,,,2020-07-03
 CH,Nidwalden,NW,,0,,,,2020-07-03
 CH,Obwalden,OW,,0,,,,2020-07-03
