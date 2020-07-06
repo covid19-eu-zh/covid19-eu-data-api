@@ -4375,12 +4375,14 @@ CH,Vaud,VD,,0,,,,2020-07-03
 CH,Valais,VS,,0,,,,2020-07-03
 CH,Jura,JU,238.0,7,,0,0,2020-07-04
 CH,Schwyz,SZ,342.0,23,,,,2020-07-04
+CH,Thurgau,TG,402.0,18,,3,0,2020-07-04
 CH,Grisons,GR,838.0,50,,0,0,2020-07-04
 CH,Basel-Stadt,BS,989.0,50,,2,,2020-07-04
 CH,Fribourg,FR,1246.0,85,,4,1,2020-07-04
 CH,Berne,BE,1953.0,97,,4,1,2020-07-04
+CH,Ticino,TI,3342.0,350,,0,0,2020-07-04
 CH,Zürich,ZH,3946.0,131,,9,,2020-07-04
-CH,,,32092.0,1965,37875,108,16,2020-07-04
+CH,,,32093.0,1965,37875,107,16,2020-07-04
 CH,Aargau,AG,,0,,,,2020-07-04
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-04
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-04
@@ -4394,21 +4396,21 @@ CH,Obwalden,OW,,0,,,,2020-07-04
 CH,St. Gallen,SG,,0,,,,2020-07-04
 CH,Schaffhausen,SH,,0,,,,2020-07-04
 CH,Solothurn,SO,,0,,,,2020-07-04
-CH,Thurgau,TG,,0,,,,2020-07-04
-CH,Ticino,TI,,0,,,,2020-07-04
 CH,Uri,UR,,0,,,,2020-07-04
 CH,Vaud,VD,,0,,,,2020-07-04
 CH,Valais,VS,,0,,,,2020-07-04
 CH,Zug,ZG,,0,,,,2020-07-04
 CH,Uri,UR,105.0,7,,0,,2020-07-05
 CH,Schwyz,SZ,342.0,23,,,,2020-07-05
+CH,Thurgau,TG,404.0,18,,3,0,2020-07-05
 CH,Solothurn,SO,468.0,17,,,,2020-07-05
 CH,Lucerne,LU,771.0,20,,,,2020-07-05
 CH,Basel-Stadt,BS,990.0,50,,3,,2020-07-05
 CH,Fribourg,FR,1251.0,85,,4,1,2020-07-05
 CH,Berne,BE,1959.0,97,,4,1,2020-07-05
+CH,Ticino,TI,3346.0,350,,0,0,2020-07-05
 CH,Zürich,ZH,3954.0,131,,11,,2020-07-05
-CH,,,32121.0,1965,37875,111,16,2020-07-05
+CH,,,32128.0,1965,37875,110,16,2020-07-05
 CH,Aargau,AG,,0,,,,2020-07-05
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-05
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-05
@@ -4422,33 +4424,31 @@ CH,Nidwalden,NW,,0,,,,2020-07-05
 CH,Obwalden,OW,,0,,,,2020-07-05
 CH,St. Gallen,SG,,0,,,,2020-07-05
 CH,Schaffhausen,SH,,0,,,,2020-07-05
-CH,Thurgau,TG,,0,,,,2020-07-05
-CH,Ticino,TI,,0,,,,2020-07-05
 CH,Vaud,VD,,0,,,,2020-07-05
 CH,Valais,VS,,0,,,,2020-07-05
 CH,Zug,ZG,,0,,,,2020-07-05
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-06
 CH,Schaffhausen,SH,85.0,7,,2,0,2020-07-06
+CH,Appenzell Ausserrhoden,AR,104.0,3,,1,0,2020-07-06
 CH,Schwyz,SZ,342.0,23,,,,2020-07-06
+CH,Thurgau,TG,404.0,18,,3,1,2020-07-06
+CH,Lucerne,LU,771.0,20,,,,2020-07-06
 CH,St. Gallen,SG,881.0,39,,,,2020-07-06
 CH,Basel-Stadt,BS,990.0,50,,3,,2020-07-06
 CH,Fribourg,FR,1253.0,85,,4,1,2020-07-06
 CH,Aargau,AG,1338.0,47,,,,2020-07-06
-CH,,,32145.0,1966,37875,109,16,2020-07-06
-CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-06
+CH,Ticino,TI,3351.0,350,,0,0,2020-07-06
+CH,,,32157.0,1966,37875,108,17,2020-07-06
 CH,Berne,BE,,0,,,,2020-07-06
 CH,Basel-Landschaft,BL,,0,,,,2020-07-06
 CH,Geneva,GE,,0,,,,2020-07-06
 CH,Glarus,GL,,0,,,,2020-07-06
 CH,Grisons,GR,,0,,,,2020-07-06
 CH,Jura,JU,,0,,,,2020-07-06
-CH,Lucerne,LU,,0,,,,2020-07-06
 CH,Neuchâtel,NE,,0,,2,0,2020-07-06
 CH,Nidwalden,NW,,0,,,,2020-07-06
 CH,Obwalden,OW,,0,,,,2020-07-06
 CH,Solothurn,SO,,0,,,,2020-07-06
-CH,Thurgau,TG,,0,,,,2020-07-06
-CH,Ticino,TI,,0,,,,2020-07-06
 CH,Uri,UR,,0,,,,2020-07-06
 CH,Vaud,VD,,0,,,,2020-07-06
 CH,Valais,VS,,0,,,,2020-07-06
