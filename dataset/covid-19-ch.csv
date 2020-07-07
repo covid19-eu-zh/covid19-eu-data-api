@@ -4458,11 +4458,14 @@ CH,Schaffhausen,SH,86.0,7,,1,0,2020-07-07
 CH,Appenzell Ausserrhoden,AR,104.0,3,,1,0,2020-07-07
 CH,Zug,ZG,240.0,9,,2,0,2020-07-07
 CH,Schwyz,SZ,349.0,23,,,,2020-07-07
+CH,Thurgau,TG,404.0,18,,3,1,2020-07-07
+CH,Lucerne,LU,772.0,20,,,,2020-07-07
 CH,St. Gallen,SG,883.0,39,,,,2020-07-07
 CH,Basel-Stadt,BS,993.0,50,,4,,2020-07-07
 CH,Fribourg,FR,1255.0,85,,4,1,2020-07-07
 CH,Aargau,AG,1345.0,47,,,,2020-07-07
-CH,,,32424.0,1966,37875,112,18,2020-07-07
+CH,Ticino,TI,3555.0,350,,0,0,2020-07-07
+CH,,,32629.0,1966,37875,112,18,2020-07-07
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-07
 CH,Berne,BE,,0,,,,2020-07-07
 CH,Basel-Landschaft,BL,,0,,,,2020-07-07
@@ -4470,13 +4473,10 @@ CH,Geneva,GE,,0,,,,2020-07-07
 CH,Glarus,GL,,0,,,,2020-07-07
 CH,Grisons,GR,,0,,,,2020-07-07
 CH,Jura,JU,,0,,,,2020-07-07
-CH,Lucerne,LU,,0,,,,2020-07-07
 CH,Neuchâtel,NE,,0,,,,2020-07-07
 CH,Nidwalden,NW,,0,,,,2020-07-07
 CH,Obwalden,OW,,0,,,,2020-07-07
 CH,Solothurn,SO,,0,,,,2020-07-07
-CH,Thurgau,TG,,0,,,,2020-07-07
-CH,Ticino,TI,,0,,,,2020-07-07
 CH,Uri,UR,,0,,,,2020-07-07
 CH,Vaud,VD,,0,,,,2020-07-07
 CH,Valais,VS,,0,,,,2020-07-07
