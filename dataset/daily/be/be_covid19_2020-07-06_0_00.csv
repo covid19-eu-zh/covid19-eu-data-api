@@ -1,0 +1,12 @@
+country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
+BE,Flanders,VlaamsBrabant,,,10.0,1.0,2020-07-06
+BE,Flanders,Antwerpen,,,30.0,7.0,2020-07-06
+BE,Flanders,Limburg,,,11.0,1.0,2020-07-06
+BE,Flanders,OostVlaanderen,,,24.0,2.0,2020-07-06
+BE,Flanders,WestVlaanderen,,,27.0,2.0,2020-07-06
+BE,Wallonia,BrabantWallon,,,2.0,0.0,2020-07-06
+BE,Wallonia,Hainaut,,,15.0,2.0,2020-07-06
+BE,Wallonia,Liège,,,13.0,1.0,2020-07-06
+BE,Wallonia,Luxembourg,,,6.0,0.0,2020-07-06
+BE,Brussels,Brussels,,,26.0,11.0,2020-07-06
+BE,Wallonia,Namur,,,5.0,0.0,2020-07-06
