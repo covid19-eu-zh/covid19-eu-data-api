@@ -4537,18 +4537,18 @@ CH,Neuchâtel,NE,,0,,1,0,2020-07-09
 CH,Vaud,VD,,0,,,,2020-07-09
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-10
 CH,Schaffhausen,SH,86.0,7,,3,0,2020-07-10
+CH,Appenzell Ausserrhoden,AR,105.0,3,,0,0,2020-07-10
 CH,Glarus,GL,131.0,13,,0,,2020-07-10
 CH,Zug,ZG,245.0,9,,1,0,2020-07-10
 CH,Schwyz,SZ,358.0,23,,,,2020-07-10
 CH,Thurgau,TG,410.0,18,,4,1,2020-07-10
-CH,Lucerne,LU,784.0,20,,,,2020-07-10
+CH,Lucerne,LU,784.0,20,,5,2,2020-07-10
 CH,St. Gallen,SG,910.0,39,,,,2020-07-10
 CH,Basel-Stadt,BS,1003.0,50,,5,,2020-07-10
 CH,Fribourg,FR,1262.0,85,,3,1,2020-07-10
 CH,Aargau,AG,1370.0,47,,,,2020-07-10
 CH,Ticino,TI,3367.0,350,,3,0,2020-07-10
-CH,,,32757.0,1966,37875,90,17,2020-07-10
-CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-10
+CH,,,32756.0,1966,37875,90,17,2020-07-10
 CH,Berne,BE,,0,,,,2020-07-10
 CH,Basel-Landschaft,BL,,0,,,,2020-07-10
 CH,Geneva,GE,,0,,,,2020-07-10
