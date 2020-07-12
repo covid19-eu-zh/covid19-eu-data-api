@@ -1,34 +1,34 @@
 country,nuts_2,nuts_3,cases,datetime
-IT,Marche,In fase di definizione,0,2020-07-12T17:00:00
+IT,Marche,unassigned,0,2020-07-12T17:00:00
 IT,Friuli Venezia Giulia,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,Friuli Venezia Giulia,In fase di definizione,0,2020-07-12T17:00:00
-IT,Molise,In fase di definizione,0,2020-07-12T17:00:00
-IT,Calabria,In fase di definizione,0,2020-07-12T17:00:00
+IT,Friuli Venezia Giulia,unassigned,0,2020-07-12T17:00:00
+IT,Molise,unassigned,0,2020-07-12T17:00:00
+IT,Calabria,unassigned,0,2020-07-12T17:00:00
 IT,P.A. Bolzano,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,P.A. Bolzano,In fase di definizione,0,2020-07-12T17:00:00
+IT,P.A. Bolzano,unassigned,0,2020-07-12T17:00:00
 IT,P.A. Trento,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,P.A. Trento,In fase di definizione,0,2020-07-12T17:00:00
+IT,P.A. Trento,unassigned,0,2020-07-12T17:00:00
 IT,Sardegna,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,Puglia,In fase di definizione,0,2020-07-12T17:00:00
-IT,Sardegna,In fase di definizione,0,2020-07-12T17:00:00
+IT,Puglia,unassigned,0,2020-07-12T17:00:00
+IT,Sardegna,unassigned,0,2020-07-12T17:00:00
 IT,Sicilia,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,Toscana,In fase di definizione,0,2020-07-12T17:00:00
-IT,Umbria,In fase di definizione,0,2020-07-12T17:00:00
+IT,Toscana,unassigned,0,2020-07-12T17:00:00
+IT,Umbria,unassigned,0,2020-07-12T17:00:00
 IT,Valle d'Aosta,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,Valle d'Aosta,In fase di definizione,0,2020-07-12T17:00:00
-IT,Basilicata,In fase di definizione,0,2020-07-12T17:00:00
+IT,Valle d'Aosta,unassigned,0,2020-07-12T17:00:00
+IT,Basilicata,unassigned,0,2020-07-12T17:00:00
 IT,Campania,Fuori Regione / Provincia Autonoma,0,2020-07-12T17:00:00
-IT,Abruzzo,In fase di definizione,3,2020-07-12T17:00:00
+IT,Abruzzo,unassigned,3,2020-07-12T17:00:00
 IT,Basilicata,Fuori Regione / Provincia Autonoma,4,2020-07-12T17:00:00
-IT,Emilia-Romagna,In fase di definizione,18,2020-07-12T17:00:00
+IT,Emilia-Romagna,unassigned,18,2020-07-12T17:00:00
 IT,Molise,Fuori Regione / Provincia Autonoma,20,2020-07-12T17:00:00
-IT,Veneto,In fase di definizione,22,2020-07-12T17:00:00
-IT,Lazio,In fase di definizione,24,2020-07-12T17:00:00
-IT,Sicilia,In fase di definizione,24,2020-07-12T17:00:00
+IT,Veneto,unassigned,22,2020-07-12T17:00:00
+IT,Lazio,unassigned,24,2020-07-12T17:00:00
+IT,Sicilia,unassigned,24,2020-07-12T17:00:00
 IT,Abruzzo,Fuori Regione / Provincia Autonoma,26,2020-07-12T17:00:00
 IT,Calabria,Fuori Regione / Provincia Autonoma,28,2020-07-12T17:00:00
 IT,Puglia,Fuori Regione / Provincia Autonoma,30,2020-07-12T17:00:00
-IT,Campania,In fase di definizione,48,2020-07-12T17:00:00
+IT,Campania,unassigned,48,2020-07-12T17:00:00
 IT,Umbria,Fuori Regione / Provincia Autonoma,57,2020-07-12T17:00:00
 IT,Sardegna,Oristano,61,2020-07-12T17:00:00
 IT,Molise,Isernia,62,2020-07-12T17:00:00
@@ -36,7 +36,7 @@ IT,Lazio,Fuori Regione / Provincia Autonoma,78,2020-07-12T17:00:00
 IT,Sardegna,Nuoro,78,2020-07-12T17:00:00
 IT,Calabria,Vibo Valentia,86,2020-07-12T17:00:00
 IT,Sicilia,Ragusa,90,2020-07-12T17:00:00
-IT,Piemonte,In fase di definizione,97,2020-07-12T17:00:00
+IT,Piemonte,unassigned,97,2020-07-12T17:00:00
 IT,Sardegna,Sud Sardegna,101,2020-07-12T17:00:00
 IT,Calabria,Crotone,121,2020-07-12T17:00:00
 IT,Sicilia,Trapani,137,2020-07-12T17:00:00
@@ -47,7 +47,7 @@ IT,Campania,Benevento,209,2020-07-12T17:00:00
 IT,Basilicata,Matera,211,2020-07-12T17:00:00
 IT,Calabria,Catanzaro,215,2020-07-12T17:00:00
 IT,Friuli Venezia Giulia,Gorizia,219,2020-07-12T17:00:00
-IT,Liguria,In fase di definizione,231,2020-07-12T17:00:00
+IT,Liguria,unassigned,231,2020-07-12T17:00:00
 IT,Marche,Fuori Regione / Provincia Autonoma,237,2020-07-12T17:00:00
 IT,Abruzzo,L'Aquila,241,2020-07-12T17:00:00
 IT,Liguria,Fuori Regione / Provincia Autonoma,248,2020-07-12T17:00:00
@@ -106,7 +106,7 @@ IT,Veneto,Belluno,1200,2020-07-12T17:00:00
 IT,Piemonte,Vercelli,1344,2020-07-12T17:00:00
 IT,Toscana,Lucca,1362,2020-07-12T17:00:00
 IT,Friuli Venezia Giulia,Trieste,1405,2020-07-12T17:00:00
-IT,Lombardia,In fase di definizione,1470,2020-07-12T17:00:00
+IT,Lombardia,unassigned,1470,2020-07-12T17:00:00
 IT,Puglia,Bari,1494,2020-07-12T17:00:00
 IT,Liguria,Imperia,1517,2020-07-12T17:00:00
 IT,Liguria,Savona,1550,2020-07-12T17:00:00
