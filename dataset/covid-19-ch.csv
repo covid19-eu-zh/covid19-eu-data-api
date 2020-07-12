@@ -4589,10 +4589,11 @@ CH,Uri,UR,,0,,,,2020-07-11
 CH,Vaud,VD,,0,,,,2020-07-11
 CH,Valais,VS,,0,,,,2020-07-11
 CH,Zug,ZG,,0,,,,2020-07-11
+CH,Grisons,GR,848.0,50,,2,0,2020-07-12
 CH,Basel-Stadt,BS,1008.0,50,,4,,2020-07-12
 CH,Berne,BE,1991.0,97,,,,2020-07-12
 CH,Zürich,ZH,4092.0,133,,20,,2020-07-12
-CH,,,32849.0,1968,37875,103,18,2020-07-12
+CH,,,32851.0,1968,37875,103,18,2020-07-12
 CH,Aargau,AG,,0,,,,2020-07-12
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-12
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-12
@@ -4600,7 +4601,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-07-12
 CH,Fribourg,FR,,0,,,,2020-07-12
 CH,Geneva,GE,,0,,,,2020-07-12
 CH,Glarus,GL,,0,,,,2020-07-12
-CH,Grisons,GR,,0,,,,2020-07-12
 CH,Jura,JU,,0,,,,2020-07-12
 CH,Lucerne,LU,,0,,,,2020-07-12
 CH,Neuchâtel,NE,,0,,,,2020-07-12
