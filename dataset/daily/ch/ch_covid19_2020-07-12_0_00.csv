@@ -1,9 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Schwyz,SZ,362.0,23.0,,,,2020-07-12
+CH,Thurgau,TG,411.0,18.0,,4.0,1.0,2020-07-12
 CH,Grisons,GR,848.0,50.0,,2.0,0.0,2020-07-12
 CH,Basel-Stadt,BS,1008.0,50.0,,4.0,,2020-07-12
 CH,Berne,BE,1991.0,97.0,,,,2020-07-12
+CH,Ticino,TI,3370.0,350.0,,4.0,1.0,2020-07-12
 CH,Zürich,ZH,4092.0,133.0,,20.0,,2020-07-12
-CH,,,32851.0,1968.0,37875.0,103.0,18.0,2020-07-12
+CH,,,32859.0,1968.0,37875.0,104.0,19.0,2020-07-12
 CH,Aargau,AG,,,,,,2020-07-12
 CH,Appenzell Innerrhoden,AI,,,,,,2020-07-12
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-12
@@ -19,9 +22,6 @@ CH,Obwalden,OW,,,,,,2020-07-12
 CH,St. Gallen,SG,,,,,,2020-07-12
 CH,Schaffhausen,SH,,,,,,2020-07-12
 CH,Solothurn,SO,,,,,,2020-07-12
-CH,Schwyz,SZ,,,,,,2020-07-12
-CH,Thurgau,TG,,,,,,2020-07-12
-CH,Ticino,TI,,,,,,2020-07-12
 CH,Uri,UR,,,,,,2020-07-12
 CH,Vaud,VD,,,,,,2020-07-12
 CH,Valais,VS,,,,,,2020-07-12
