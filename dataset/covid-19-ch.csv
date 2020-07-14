@@ -4644,13 +4644,15 @@ CH,Geneva,GE,,0,,,,2020-07-13
 CH,Neuchâtel,NE,,0,,2,0,2020-07-13
 CH,Vaud,VD,,0,,,,2020-07-13
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-14
+CH,Schaffhausen,SH,94.0,7,,5,0,2020-07-14
 CH,Appenzell Ausserrhoden,AR,106.0,3,,3,1,2020-07-14
 CH,Schwyz,SZ,366.0,23,,,,2020-07-14
 CH,St. Gallen,SG,920.0,39,,,,2020-07-14
 CH,Basel-Stadt,BS,1014.0,50,,4,,2020-07-14
 CH,Fribourg,FR,1274.0,85,,1,1,2020-07-14
 CH,Aargau,AG,1403.0,47,,,,2020-07-14
-CH,,,33040.0,1968,37875,115,19,2020-07-14
+CH,Ticino,TI,3376.0,350,,4,1,2020-07-14
+CH,,,33045.0,1968,37875,113,19,2020-07-14
 CH,Berne,BE,,0,,,,2020-07-14
 CH,Basel-Landschaft,BL,,0,,,,2020-07-14
 CH,Geneva,GE,,0,,,,2020-07-14
@@ -4661,10 +4663,8 @@ CH,Lucerne,LU,,0,,,,2020-07-14
 CH,Neuchâtel,NE,,0,,,,2020-07-14
 CH,Nidwalden,NW,,0,,,,2020-07-14
 CH,Obwalden,OW,,0,,,,2020-07-14
-CH,Schaffhausen,SH,,0,,,,2020-07-14
 CH,Solothurn,SO,,0,,,,2020-07-14
 CH,Thurgau,TG,,0,,,,2020-07-14
-CH,Ticino,TI,,0,,,,2020-07-14
 CH,Uri,UR,,0,,,,2020-07-14
 CH,Vaud,VD,,0,,,,2020-07-14
 CH,Valais,VS,,0,,,,2020-07-14
