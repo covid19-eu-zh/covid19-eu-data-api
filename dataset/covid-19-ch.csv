@@ -4725,6 +4725,7 @@ CH,Geneva,GE,,0,,,,2020-07-16
 CH,Neuchâtel,NE,,0,,1,0,2020-07-16
 CH,Vaud,VD,,0,,,,2020-07-16
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-17
+CH,Obwalden,OW,88.0,0,,0,,2020-07-17
 CH,Schaffhausen,SH,100.0,7,,7,0,2020-07-17
 CH,Appenzell Ausserrhoden,AR,107.0,3,,0,0,2020-07-17
 CH,Glarus,GL,136.0,13,,0,,2020-07-17
@@ -4734,20 +4735,19 @@ CH,Schwyz,SZ,374.0,24,,,,2020-07-17
 CH,Thurgau,TG,427.0,18,,4,1,2020-07-17
 CH,Solothurn,SO,500.0,17,,,,2020-07-17
 CH,Lucerne,LU,813.0,20,,6,4,2020-07-17
+CH,Basel-Landschaft,BL,901.0,35,,3,0,2020-07-17
 CH,Basel-Stadt,BS,1022.0,50,,,,2020-07-17
 CH,Fribourg,FR,1284.0,85,,2,1,2020-07-17
 CH,Aargau,AG,1440.0,47,,,,2020-07-17
+CH,Berne,BE,2024.0,97,,4,3,2020-07-17
 CH,Valais,VS,2101.0,153,,7,1,2020-07-17
 CH,Ticino,TI,3393.0,350,,4,2,2020-07-17
 CH,Zürich,ZH,4209.0,133,,26,,2020-07-17
-CH,,,33430.0,1969,37875,107,21,2020-07-17
-CH,Berne,BE,,0,,,,2020-07-17
-CH,Basel-Landschaft,BL,,0,,,,2020-07-17
+CH,,,33444.0,1969,37875,110,23,2020-07-17
 CH,Geneva,GE,,0,,,,2020-07-17
 CH,Grisons,GR,,0,,,,2020-07-17
-CH,Neuchâtel,NE,,0,,,,2020-07-17
+CH,Neuchâtel,NE,,0,,2,1,2020-07-17
 CH,Nidwalden,NW,,0,,,,2020-07-17
-CH,Obwalden,OW,,0,,,,2020-07-17
 CH,St. Gallen,SG,,0,,,,2020-07-17
 CH,Uri,UR,,0,,,,2020-07-17
 CH,Vaud,VD,,0,,,,2020-07-17
