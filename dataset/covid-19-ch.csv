@@ -4751,6 +4751,7 @@ CH,Nidwalden,NW,,0,,,,2020-07-17
 CH,St. Gallen,SG,,0,,,,2020-07-17
 CH,Uri,UR,,0,,,,2020-07-17
 CH,Vaud,VD,,0,,,,2020-07-17
+CH,Jura,JU,259.0,0,,1,0,2020-07-18
 CH,Grisons,GR,853.0,50,,1,0,2020-07-18
 CH,Basel-Stadt,BS,1024.0,50,,,,2020-07-18
 CH,Berne,BE,2031.0,97,,,,2020-07-18
@@ -4763,7 +4764,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-07-18
 CH,Fribourg,FR,,0,,,,2020-07-18
 CH,Geneva,GE,,0,,,,2020-07-18
 CH,Glarus,GL,,0,,,,2020-07-18
-CH,Jura,JU,,0,,,,2020-07-18
 CH,Lucerne,LU,,0,,,,2020-07-18
 CH,Neuchâtel,NE,,0,,,,2020-07-18
 CH,Nidwalden,NW,,0,,,,2020-07-18
