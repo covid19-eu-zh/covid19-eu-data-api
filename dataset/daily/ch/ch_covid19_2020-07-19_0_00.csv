@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Berne,BE,2041.0,97.0,,,,2020-07-19
-CH,,,33479.0,1969.0,37875.0,108.0,23.0,2020-07-19
+CH,Zürich,ZH,4237.0,133.0,,24.0,,2020-07-19
+CH,,,33492.0,1969.0,37875.0,108.0,23.0,2020-07-19
 CH,Aargau,AG,,,,,,2020-07-19
 CH,Appenzell Innerrhoden,AI,,,,,,2020-07-19
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-19
@@ -25,4 +26,3 @@ CH,Uri,UR,,,,,,2020-07-19
 CH,Vaud,VD,,,,,,2020-07-19
 CH,Valais,VS,,,,,,2020-07-19
 CH,Zug,ZG,,,,,,2020-07-19
-CH,Zürich,ZH,,,,,,2020-07-19
