@@ -1,10 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Nidwalden,NW,128.0,3.0,,0.0,0.0,2020-07-18
 CH,Jura,JU,259.0,,,1.0,0.0,2020-07-18
+CH,Schwyz,SZ,375.0,24.0,,,,2020-07-18
 CH,Grisons,GR,853.0,50.0,,1.0,0.0,2020-07-18
 CH,Basel-Stadt,BS,1024.0,50.0,,,,2020-07-18
 CH,Berne,BE,2031.0,97.0,,,,2020-07-18
 CH,Zürich,ZH,4224.0,133.0,,24.0,,2020-07-18
-CH,,,33469.0,1969.0,37875.0,108.0,23.0,2020-07-18
+CH,,,33471.0,1969.0,37875.0,109.0,23.0,2020-07-18
 CH,Aargau,AG,,,,,,2020-07-18
 CH,Appenzell Innerrhoden,AI,,,,,,2020-07-18
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-18
@@ -12,14 +14,12 @@ CH,Basel-Landschaft,BL,,,,,,2020-07-18
 CH,Fribourg,FR,,,,,,2020-07-18
 CH,Geneva,GE,,,,,,2020-07-18
 CH,Glarus,GL,,,,,,2020-07-18
-CH,Lucerne,LU,,,,,,2020-07-18
+CH,Lucerne,LU,,,,7.0,4.0,2020-07-18
 CH,Neuchâtel,NE,,,,,,2020-07-18
-CH,Nidwalden,NW,,,,,,2020-07-18
 CH,Obwalden,OW,,,,,,2020-07-18
 CH,St. Gallen,SG,,,,,,2020-07-18
 CH,Schaffhausen,SH,,,,,,2020-07-18
 CH,Solothurn,SO,,,,,,2020-07-18
-CH,Schwyz,SZ,,,,,,2020-07-18
 CH,Thurgau,TG,,,,,,2020-07-18
 CH,Ticino,TI,,,,,,2020-07-18
 CH,Uri,UR,,,,,,2020-07-18
