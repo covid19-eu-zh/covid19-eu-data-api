@@ -4757,15 +4757,15 @@ CH,Schwyz,SZ,375.0,24,,,,2020-07-18
 CH,Thurgau,TG,430.0,18,,4,1,2020-07-18
 CH,Neuchâtel,NE,765.0,0,,,,2020-07-18
 CH,Grisons,GR,853.0,50,,1,0,2020-07-18
+CH,Basel-Landschaft,BL,901.0,35,,0,0,2020-07-18
 CH,Basel-Stadt,BS,1024.0,50,,,,2020-07-18
 CH,Fribourg,FR,1292.0,85,,2,1,2020-07-18
 CH,Berne,BE,2031.0,97,,,,2020-07-18
 CH,Zürich,ZH,4224.0,133,,24,,2020-07-18
-CH,,,33486.0,1969,37875,110,24,2020-07-18
+CH,,,33486.0,1969,37875,107,24,2020-07-18
 CH,Aargau,AG,,0,,,,2020-07-18
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-18
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-18
-CH,Basel-Landschaft,BL,,0,,,,2020-07-18
 CH,Geneva,GE,,0,,,,2020-07-18
 CH,Glarus,GL,,0,,,,2020-07-18
 CH,Lucerne,LU,,0,,7,4,2020-07-18
@@ -4783,15 +4783,15 @@ CH,Schwyz,SZ,375.0,24,,,,2020-07-19
 CH,Thurgau,TG,432.0,18,,5,1,2020-07-19
 CH,Lucerne,LU,819.0,20,,,,2020-07-19
 CH,Grisons,GR,853.0,50,,1,0,2020-07-19
+CH,Basel-Landschaft,BL,901.0,35,,0,0,2020-07-19
 CH,Basel-Stadt,BS,1025.0,50,,,,2020-07-19
 CH,Fribourg,FR,1297.0,85,,3,1,2020-07-19
 CH,Berne,BE,2041.0,97,,,,2020-07-19
 CH,Zürich,ZH,4237.0,133,,24,,2020-07-19
-CH,,,33523.0,1969,37875,112,24,2020-07-19
+CH,,,33523.0,1969,37875,109,24,2020-07-19
 CH,Aargau,AG,,0,,,,2020-07-19
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-19
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-19
-CH,Basel-Landschaft,BL,,0,,,,2020-07-19
 CH,Geneva,GE,,0,,,,2020-07-19
 CH,Glarus,GL,,0,,,,2020-07-19
 CH,Jura,JU,,0,,,,2020-07-19
@@ -4808,22 +4808,22 @@ CH,Zug,ZG,,0,,,,2020-07-19
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-20
 CH,Schaffhausen,SH,101.0,7,,3,0,2020-07-20
 CH,Appenzell Ausserrhoden,AR,107.0,3,,0,0,2020-07-20
+CH,Glarus,GL,136.0,13,,0,,2020-07-20
 CH,Schwyz,SZ,376.0,24,,,,2020-07-20
 CH,Thurgau,TG,436.0,18,,5,1,2020-07-20
 CH,Solothurn,SO,503.0,18,,,,2020-07-20
+CH,Lucerne,LU,819.0,20,,7,4,2020-07-20
+CH,Basel-Landschaft,BL,901.0,35,,0,0,2020-07-20
 CH,St. Gallen,SG,944.0,39,,,,2020-07-20
 CH,Basel-Stadt,BS,1026.0,50,,,,2020-07-20
 CH,Fribourg,FR,1304.0,85,,3,1,2020-07-20
 CH,Aargau,AG,1461.0,47,,,,2020-07-20
 CH,Berne,BE,2045.0,97,,7,4,2020-07-20
 CH,Ticino,TI,3407.0,350,,6,2,2020-07-20
-CH,,,33591.0,1970,37875,113,25,2020-07-20
-CH,Basel-Landschaft,BL,,0,,,,2020-07-20
+CH,,,33591.0,1970,37875,110,25,2020-07-20
 CH,Geneva,GE,,0,,,,2020-07-20
-CH,Glarus,GL,,0,,,,2020-07-20
 CH,Grisons,GR,,0,,,,2020-07-20
 CH,Jura,JU,,0,,,,2020-07-20
-CH,Lucerne,LU,,0,,,,2020-07-20
 CH,Neuchâtel,NE,,0,,,,2020-07-20
 CH,Nidwalden,NW,,0,,,,2020-07-20
 CH,Obwalden,OW,,0,,,,2020-07-20
