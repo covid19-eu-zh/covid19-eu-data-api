@@ -4832,15 +4832,19 @@ CH,,,33705.0,1971,37875,112,25,2020-07-20
 CH,Geneva,GE,,0,,,,2020-07-20
 CH,Neuchâtel,NE,,0,,,,2020-07-20
 CH,Vaud,VD,,0,,,,2020-07-20
+CH,Schaffhausen,SH,102.0,7,,6,0,2020-07-21
+CH,Schwyz,SZ,378.0,25,,,,2020-07-21
+CH,Thurgau,TG,438.0,18,,5,1,2020-07-21
 CH,St. Gallen,SG,948.0,39,,,,2020-07-21
 CH,Basel-Stadt,BS,1031.0,50,,,,2020-07-21
-CH,,,33714.0,1971,37875,112,25,2020-07-21
-CH,Aargau,AG,,0,,,,2020-07-21
+CH,Fribourg,FR,1305.0,85,,2,1,2020-07-21
+CH,Aargau,AG,1480.0,47,,,,2020-07-21
+CH,Ticino,TI,3413.0,350,,5,1,2020-07-21
+CH,,,33745.0,1972,37875,113,24,2020-07-21
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-21
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-21
 CH,Berne,BE,,0,,,,2020-07-21
 CH,Basel-Landschaft,BL,,0,,,,2020-07-21
-CH,Fribourg,FR,,0,,,,2020-07-21
 CH,Geneva,GE,,0,,,,2020-07-21
 CH,Glarus,GL,,0,,,,2020-07-21
 CH,Grisons,GR,,0,,,,2020-07-21
@@ -4849,11 +4853,7 @@ CH,Lucerne,LU,,0,,,,2020-07-21
 CH,Neuchâtel,NE,,0,,,,2020-07-21
 CH,Nidwalden,NW,,0,,,,2020-07-21
 CH,Obwalden,OW,,0,,,,2020-07-21
-CH,Schaffhausen,SH,,0,,,,2020-07-21
 CH,Solothurn,SO,,0,,,,2020-07-21
-CH,Schwyz,SZ,,0,,,,2020-07-21
-CH,Thurgau,TG,,0,,,,2020-07-21
-CH,Ticino,TI,,0,,,,2020-07-21
 CH,Uri,UR,,0,,,,2020-07-21
 CH,Vaud,VD,,0,,,,2020-07-21
 CH,Valais,VS,,0,,,,2020-07-21
