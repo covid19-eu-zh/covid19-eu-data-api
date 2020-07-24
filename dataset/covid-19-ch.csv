@@ -4914,6 +4914,7 @@ CH,Geneva,GE,,0,,,,2020-07-23
 CH,Neuchâtel,NE,,0,,,,2020-07-23
 CH,Vaud,VD,,0,,,,2020-07-23
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-24
+CH,Obwalden,OW,90.0,0,,0,,2020-07-24
 CH,Schaffhausen,SH,105.0,7,,7,1,2020-07-24
 CH,Appenzell Ausserrhoden,AR,108.0,3,,1,0,2020-07-24
 CH,Zug,ZG,271.0,9,,1,0,2020-07-24
@@ -4923,10 +4924,10 @@ CH,Solothurn,SO,511.0,18,,1,,2020-07-24
 CH,St. Gallen,SG,974.0,40,,,,2020-07-24
 CH,Basel-Stadt,BS,1034.0,51,,4,2,2020-07-24
 CH,Fribourg,FR,1315.0,85,,2,1,2020-07-24
+CH,Aargau,AG,1511.0,48,,,,2020-07-24
+CH,Berne,BE,2059.0,97,,7,2,2020-07-24
 CH,Ticino,TI,3417.0,350,,6,1,2020-07-24
-CH,,,34105.0,1976,52434,106,21,2020-07-24
-CH,Aargau,AG,,0,,,,2020-07-24
-CH,Berne,BE,,0,,,,2020-07-24
+CH,,,34122.0,1977,52434,106,20,2020-07-24
 CH,Basel-Landschaft,BL,,0,,,,2020-07-24
 CH,Geneva,GE,,0,,,,2020-07-24
 CH,Glarus,GL,,0,,,,2020-07-24
@@ -4935,7 +4936,6 @@ CH,Jura,JU,,0,,,,2020-07-24
 CH,Lucerne,LU,,0,,,,2020-07-24
 CH,Neuchâtel,NE,,0,,,,2020-07-24
 CH,Nidwalden,NW,,0,,,,2020-07-24
-CH,Obwalden,OW,,0,,,,2020-07-24
 CH,Uri,UR,,0,,,,2020-07-24
 CH,Vaud,VD,,0,,,,2020-07-24
 CH,Valais,VS,,0,,,,2020-07-24
