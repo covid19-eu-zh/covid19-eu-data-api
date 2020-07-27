@@ -4940,6 +4940,7 @@ CH,Zürich,ZH,4364.0,136,,26,,2020-07-24
 CH,,,34170.0,1977,52434,109,20,2020-07-24
 CH,Geneva,GE,,0,,,,2020-07-24
 CH,Vaud,VD,,0,,,,2020-07-24
+CH,Jura,JU,259.0,0,,1,0,2020-07-25
 CH,Zug,ZG,271.0,9,,1,0,2020-07-25
 CH,Schwyz,SZ,386.0,25,,,,2020-07-25
 CH,Thurgau,TG,448.0,18,,2,0,2020-07-25
@@ -4955,7 +4956,6 @@ CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-25
 CH,Berne,BE,,0,,,,2020-07-25
 CH,Geneva,GE,,0,,,,2020-07-25
 CH,Glarus,GL,,0,,,,2020-07-25
-CH,Jura,JU,,0,,,,2020-07-25
 CH,Lucerne,LU,,0,,,,2020-07-25
 CH,Neuchâtel,NE,,0,,2,0,2020-07-25
 CH,Nidwalden,NW,,0,,,,2020-07-25
@@ -4967,6 +4967,7 @@ CH,Ticino,TI,,0,,,,2020-07-25
 CH,Uri,UR,,0,,,,2020-07-25
 CH,Vaud,VD,,0,,,,2020-07-25
 CH,Valais,VS,,0,,,,2020-07-25
+CH,Jura,JU,259.0,0,,1,0,2020-07-26
 CH,Zug,ZG,271.0,9,,1,0,2020-07-26
 CH,Schwyz,SZ,386.0,25,,,,2020-07-26
 CH,Thurgau,TG,452.0,18,,2,0,2020-07-26
@@ -4983,7 +4984,6 @@ CH,Appenzell Innerrhoden,AI,,0,,,,2020-07-26
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-07-26
 CH,Geneva,GE,,0,,,,2020-07-26
 CH,Glarus,GL,,0,,,,2020-07-26
-CH,Jura,JU,,0,,,,2020-07-26
 CH,Neuchâtel,NE,,0,,2,0,2020-07-26
 CH,Nidwalden,NW,,0,,,,2020-07-26
 CH,Obwalden,OW,,0,,,,2020-07-26
@@ -4998,6 +4998,7 @@ CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-07-27
 CH,Schaffhausen,SH,106.0,7,,4,1,2020-07-27
 CH,Appenzell Ausserrhoden,AR,108.0,3,,1,0,2020-07-27
 CH,Glarus,GL,138.0,13,,1,,2020-07-27
+CH,Jura,JU,259.0,0,,1,0,2020-07-27
 CH,Zug,ZG,272.0,9,,0,0,2020-07-27
 CH,Schwyz,SZ,386.0,25,,,,2020-07-27
 CH,Thurgau,TG,454.0,18,,2,0,2020-07-27
@@ -5014,7 +5015,6 @@ CH,Zürich,ZH,4404.0,136,,26,,2020-07-27
 CH,,,34317.0,1978,52434,105,20,2020-07-27
 CH,Geneva,GE,,0,,,,2020-07-27
 CH,Grisons,GR,,0,,,,2020-07-27
-CH,Jura,JU,,0,,,,2020-07-27
 CH,Neuchâtel,NE,,0,,,,2020-07-27
 CH,Nidwalden,NW,,0,,,,2020-07-27
 CH,Obwalden,OW,,0,,,,2020-07-27

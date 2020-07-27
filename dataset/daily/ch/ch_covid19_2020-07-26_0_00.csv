@@ -1,4 +1,5 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Jura,JU,259.0,,,1.0,0.0,2020-07-26
 CH,Zug,ZG,271.0,9.0,,1.0,0.0,2020-07-26
 CH,Schwyz,SZ,386.0,25.0,,,,2020-07-26
 CH,Thurgau,TG,452.0,18.0,,2.0,0.0,2020-07-26
@@ -15,7 +16,6 @@ CH,Appenzell Innerrhoden,AI,,,,,,2020-07-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-26
 CH,Geneva,GE,,,,,,2020-07-26
 CH,Glarus,GL,,,,,,2020-07-26
-CH,Jura,JU,,,,,,2020-07-26
 CH,Neuchâtel,NE,,,,2.0,0.0,2020-07-26
 CH,Nidwalden,NW,,,,,,2020-07-26
 CH,Obwalden,OW,,,,,,2020-07-26
