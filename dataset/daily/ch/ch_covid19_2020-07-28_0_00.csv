@@ -1,17 +1,18 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Ausserrhoden,AR,108.0,3.0,,1.0,0.0,2020-07-28
 CH,Schaffhausen,SH,109.0,7.0,,3.0,1.0,2020-07-28
 CH,Uri,UR,115.0,7.0,,1.0,,2020-07-28
 CH,Zug,ZG,273.0,9.0,,0.0,0.0,2020-07-28
 CH,Schwyz,SZ,390.0,25.0,,,,2020-07-28
 CH,Solothurn,SO,522.0,18.0,,2.0,,2020-07-28
+CH,Basel-Stadt,BS,1039.0,52.0,,3.0,2.0,2020-07-28
+CH,Fribourg,FR,1325.0,85.0,,1.0,1.0,2020-07-28
 CH,Aargau,AG,1543.0,48.0,,,,2020-07-28
-CH,,,34563.0,1978.0,52434.0,109.0,20.0,2020-07-28
+CH,Ticino,TI,3424.0,350.0,,3.0,1.0,2020-07-28
+CH,,,34571.0,1978.0,52434.0,109.0,20.0,2020-07-28
 CH,Appenzell Innerrhoden,AI,,,,,,2020-07-28
-CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-28
 CH,Berne,BE,,,,,,2020-07-28
 CH,Basel-Landschaft,BL,,,,,,2020-07-28
-CH,Basel-Stadt,BS,,,,,,2020-07-28
-CH,Fribourg,FR,,,,,,2020-07-28
 CH,Geneva,GE,,,,,,2020-07-28
 CH,Glarus,GL,,,,,,2020-07-28
 CH,Grisons,GR,,,,,,2020-07-28
@@ -22,7 +23,6 @@ CH,Nidwalden,NW,,,,,,2020-07-28
 CH,Obwalden,OW,,,,,,2020-07-28
 CH,St. Gallen,SG,,,,,,2020-07-28
 CH,Thurgau,TG,,,,,,2020-07-28
-CH,Ticino,TI,,,,,,2020-07-28
 CH,Vaud,VD,,,,,,2020-07-28
 CH,Valais,VS,,,,,,2020-07-28
 CH,Zürich,ZH,,,,,,2020-07-28
