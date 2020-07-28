@@ -2,7 +2,8 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Jura,JU,259.0,,,1.0,0.0,2020-07-26
 CH,Zug,ZG,271.0,9.0,,1.0,0.0,2020-07-26
 CH,Schwyz,SZ,386.0,25.0,,,,2020-07-26
-CH,Thurgau,TG,452.0,18.0,,2.0,0.0,2020-07-26
+CH,Thurgau,TG,452.0,18.0,,1.0,0.0,2020-07-26
+CH,Neuchâtel,NE,772.0,,,2.0,0.0,2020-07-26
 CH,Lucerne,LU,841.0,20.0,,6.0,3.0,2020-07-26
 CH,Grisons,GR,909.0,50.0,,1.0,0.0,2020-07-26
 CH,Basel-Landschaft,BL,914.0,35.0,,1.0,0.0,2020-07-26
@@ -12,12 +13,11 @@ CH,Berne,BE,2072.0,97.0,,,,2020-07-26
 CH,Valais,VS,2119.0,153.0,,6.0,2.0,2020-07-26
 CH,Zürich,ZH,4384.0,136.0,,24.0,,2020-07-26
 CH,Geneva,GE,5739.0,295.0,,,,2020-07-26
-CH,,,34443.0,1978.0,52434.0,109.0,20.0,2020-07-26
+CH,,,34444.0,1978.0,52434.0,108.0,20.0,2020-07-26
 CH,Aargau,AG,,,,,,2020-07-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-07-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-07-26
 CH,Glarus,GL,,,,,,2020-07-26
-CH,Neuchâtel,NE,,,,2.0,0.0,2020-07-26
 CH,Nidwalden,NW,,,,,,2020-07-26
 CH,Obwalden,OW,,,,,,2020-07-26
 CH,St. Gallen,SG,,,,,,2020-07-26
