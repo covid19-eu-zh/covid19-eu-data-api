@@ -1,12 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Schwyz,SZ,405.0,25.0,,,,2020-08-01
-CH,,,35318.0,1981.0,55021.0,133.0,22.0,2020-08-01
+CH,Basel-Stadt,BS,1064.0,52.0,,,,2020-08-01
+CH,,,35328.0,1981.0,55021.0,133.0,22.0,2020-08-01
 CH,Aargau,AG,,,,,,2020-08-01
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-01
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-01
 CH,Berne,BE,,,,,,2020-08-01
 CH,Basel-Landschaft,BL,,,,,,2020-08-01
-CH,Basel-Stadt,BS,,,,,,2020-08-01
 CH,Fribourg,FR,,,,,,2020-08-01
 CH,Geneva,GE,,,,,,2020-08-01
 CH,Glarus,GL,,,,,,2020-08-01
