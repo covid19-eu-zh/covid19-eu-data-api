@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Schwyz,SZ,405.0,25.0,,,,2020-08-01
+CH,Thurgau,TG,465.0,19.0,,2.0,0.0,2020-08-01
 CH,Lucerne,LU,878.0,20.0,,13.0,8.0,2020-08-01
 CH,Grisons,GR,930.0,50.0,,1.0,0.0,2020-08-01
 CH,Basel-Stadt,BS,1064.0,52.0,,,,2020-08-01
@@ -20,7 +21,6 @@ CH,Obwalden,OW,,,,,,2020-08-01
 CH,St. Gallen,SG,,,,,,2020-08-01
 CH,Schaffhausen,SH,,,,,,2020-08-01
 CH,Solothurn,SO,,,,,,2020-08-01
-CH,Thurgau,TG,,,,,,2020-08-01
 CH,Ticino,TI,,,,,,2020-08-01
 CH,Uri,UR,,,,,,2020-08-01
 CH,Vaud,VD,,,,,,2020-08-01
