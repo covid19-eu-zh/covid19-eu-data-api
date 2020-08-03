@@ -5129,6 +5129,7 @@ CH,Zürich,ZH,4535.0,137,,34,,2020-07-31
 CH,Geneva,GE,5993.0,295,,14,1,2020-07-31
 CH,,,35351.0,1981,55021,135,22,2020-07-31
 CH,Vaud,VD,,0,,,,2020-07-31
+CH,Jura,JU,260.0,7,,0,0,2020-08-01
 CH,Zug,ZG,288.0,9,,2,0,2020-08-01
 CH,Schwyz,SZ,405.0,25,,,,2020-08-01
 CH,Thurgau,TG,467.0,19,,2,0,2020-08-01
@@ -5145,7 +5146,6 @@ CH,Aargau,AG,,0,,,,2020-08-01
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-01
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-01
 CH,Glarus,GL,,0,,,,2020-08-01
-CH,Jura,JU,,0,,,,2020-08-01
 CH,Neuchâtel,NE,,0,,2,0,2020-08-01
 CH,Nidwalden,NW,,0,,,,2020-08-01
 CH,Obwalden,OW,,0,,,,2020-08-01
@@ -5156,6 +5156,7 @@ CH,Ticino,TI,,0,,,,2020-08-01
 CH,Uri,UR,,0,,,,2020-08-01
 CH,Vaud,VD,,0,,,,2020-08-01
 CH,Valais,VS,,0,,,,2020-08-01
+CH,Jura,JU,260.0,7,,0,0,2020-08-02
 CH,Zug,ZG,288.0,9,,2,0,2020-08-02
 CH,Schwyz,SZ,405.0,25,,,,2020-08-02
 CH,Thurgau,TG,468.0,19,,2,0,2020-08-02
@@ -5171,7 +5172,6 @@ CH,Aargau,AG,,0,,,,2020-08-02
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-02
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-02
 CH,Glarus,GL,,0,,,,2020-08-02
-CH,Jura,JU,,0,,,,2020-08-02
 CH,Lucerne,LU,,0,,,,2020-08-02
 CH,Neuchâtel,NE,,0,,2,0,2020-08-02
 CH,Nidwalden,NW,,0,,,,2020-08-02
@@ -5187,6 +5187,7 @@ CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-08-03
 CH,Obwalden,OW,92.0,0,,0,,2020-08-03
 CH,Appenzell Ausserrhoden,AR,110.0,3,,0,0,2020-08-03
 CH,Schaffhausen,SH,121.0,7,,9,2,2020-08-03
+CH,Jura,JU,260.0,7,,0,0,2020-08-03
 CH,Zug,ZG,293.0,9,,2,0,2020-08-03
 CH,Schwyz,SZ,405.0,25,,,,2020-08-03
 CH,Thurgau,TG,470.0,19,,2,0,2020-08-03
@@ -5196,15 +5197,14 @@ CH,Basel-Landschaft,BL,929.0,35,,1,1,2020-08-03
 CH,St. Gallen,SG,1022.0,40,,,,2020-08-03
 CH,Basel-Stadt,BS,1069.0,52,,,,2020-08-03
 CH,Fribourg,FR,1360.0,85,,1,1,2020-08-03
+CH,Aargau,AG,1615.0,49,,,,2020-08-03
 CH,Berne,BE,2148.0,97,,10,2,2020-08-03
 CH,Ticino,TI,3442.0,350,,2,0,2020-08-03
 CH,Zürich,ZH,4581.0,137,,36,,2020-08-03
-CH,,,35572.0,1981,55021,135,25,2020-08-03
-CH,Aargau,AG,,0,,,,2020-08-03
+CH,,,35600.0,1981,55021,135,25,2020-08-03
 CH,Geneva,GE,,0,,,,2020-08-03
 CH,Glarus,GL,,0,,,,2020-08-03
 CH,Grisons,GR,,0,,,,2020-08-03
-CH,Jura,JU,,0,,,,2020-08-03
 CH,Neuchâtel,NE,,0,,,,2020-08-03
 CH,Nidwalden,NW,,0,,,,2020-08-03
 CH,Uri,UR,,0,,,,2020-08-03
