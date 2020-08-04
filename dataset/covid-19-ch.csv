@@ -4817,7 +4817,7 @@ CH,Zug,ZG,261.0,9,,2,0,2020-07-20
 CH,Schwyz,SZ,376.0,24,,,,2020-07-20
 CH,Thurgau,TG,436.0,18,,2,1,2020-07-20
 CH,Solothurn,SO,503.0,18,,2,,2020-07-20
-CH,Neuchâtel,NE,767.0,0,,2,0,2020-07-20
+CH,Neuchâtel,NE,767.0,83,,2,0,2020-07-20
 CH,Lucerne,LU,819.0,20,,7,4,2020-07-20
 CH,Grisons,GR,855.0,50,,1,0,2020-07-20
 CH,Basel-Landschaft,BL,901.0,35,,0,0,2020-07-20
@@ -5133,6 +5133,7 @@ CH,Jura,JU,260.0,7,,0,0,2020-08-01
 CH,Zug,ZG,288.0,9,,2,0,2020-08-01
 CH,Schwyz,SZ,405.0,25,,,,2020-08-01
 CH,Thurgau,TG,467.0,19,,2,0,2020-08-01
+CH,Neuchâtel,NE,785.0,0,,2,0,2020-08-01
 CH,Lucerne,LU,878.0,20,,13,8,2020-08-01
 CH,Basel-Landschaft,BL,926.0,35,,2,1,2020-08-01
 CH,Grisons,GR,930.0,50,,1,0,2020-08-01
@@ -5141,12 +5142,11 @@ CH,Fribourg,FR,1353.0,85,,2,1,2020-08-01
 CH,Berne,BE,2125.0,97,,,,2020-08-01
 CH,Zürich,ZH,4558.0,137,,36,,2020-08-01
 CH,Geneva,GE,6020.0,295,,,,2020-08-01
-CH,,,35445.0,1981,55021,139,26,2020-08-01
+CH,,,35448.0,1981,55021,139,26,2020-08-01
 CH,Aargau,AG,,0,,,,2020-08-01
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-01
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-01
 CH,Glarus,GL,,0,,,,2020-08-01
-CH,Neuchâtel,NE,,0,,2,0,2020-08-01
 CH,Nidwalden,NW,,0,,,,2020-08-01
 CH,Obwalden,OW,,0,,,,2020-08-01
 CH,St. Gallen,SG,,0,,,,2020-08-01
@@ -5160,6 +5160,7 @@ CH,Jura,JU,260.0,7,,0,0,2020-08-02
 CH,Zug,ZG,288.0,9,,2,0,2020-08-02
 CH,Schwyz,SZ,405.0,25,,,,2020-08-02
 CH,Thurgau,TG,468.0,19,,2,0,2020-08-02
+CH,Neuchâtel,NE,785.0,0,,2,0,2020-08-02
 CH,Basel-Landschaft,BL,927.0,35,,2,1,2020-08-02
 CH,Grisons,GR,932.0,50,,1,0,2020-08-02
 CH,Basel-Stadt,BS,1068.0,52,,7,1,2020-08-02
@@ -5167,13 +5168,12 @@ CH,Fribourg,FR,1358.0,85,,1,1,2020-08-02
 CH,Berne,BE,2143.0,97,,,,2020-08-02
 CH,Zürich,ZH,4569.0,137,,36,,2020-08-02
 CH,Geneva,GE,6043.0,295,,,,2020-08-02
-CH,,,35510.0,1981,55021,140,26,2020-08-02
+CH,,,35513.0,1981,55021,140,26,2020-08-02
 CH,Aargau,AG,,0,,,,2020-08-02
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-02
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-02
 CH,Glarus,GL,,0,,,,2020-08-02
 CH,Lucerne,LU,,0,,,,2020-08-02
-CH,Neuchâtel,NE,,0,,2,0,2020-08-02
 CH,Nidwalden,NW,,0,,,,2020-08-02
 CH,Obwalden,OW,,0,,,,2020-08-02
 CH,St. Gallen,SG,,0,,,,2020-08-02
@@ -5193,8 +5193,10 @@ CH,Zug,ZG,293.0,9,,2,0,2020-08-03
 CH,Schwyz,SZ,405.0,25,,,,2020-08-03
 CH,Thurgau,TG,470.0,19,,2,0,2020-08-03
 CH,Solothurn,SO,535.0,18,,3,,2020-08-03
+CH,Neuchâtel,NE,786.0,0,,2,0,2020-08-03
 CH,Lucerne,LU,882.0,20,,13,8,2020-08-03
 CH,Basel-Landschaft,BL,929.0,35,,1,1,2020-08-03
+CH,Grisons,GR,932.0,50,,1,0,2020-08-03
 CH,St. Gallen,SG,1022.0,40,,,,2020-08-03
 CH,Basel-Stadt,BS,1069.0,52,,8,1,2020-08-03
 CH,Fribourg,FR,1360.0,85,,1,1,2020-08-03
@@ -5202,11 +5204,36 @@ CH,Aargau,AG,1615.0,49,,,,2020-08-03
 CH,Berne,BE,2148.0,97,,10,2,2020-08-03
 CH,Ticino,TI,3442.0,350,,2,0,2020-08-03
 CH,Zürich,ZH,4581.0,137,,36,,2020-08-03
-CH,,,35601.0,1981,55021,140,26,2020-08-03
+CH,,,35605.0,1981,55021,140,26,2020-08-03
 CH,Geneva,GE,,0,,,,2020-08-03
 CH,Glarus,GL,,0,,,,2020-08-03
-CH,Grisons,GR,,0,,,,2020-08-03
-CH,Neuchâtel,NE,,0,,,,2020-08-03
 CH,Nidwalden,NW,,0,,,,2020-08-03
 CH,Vaud,VD,,0,,,,2020-08-03
 CH,Valais,VS,,0,,,,2020-08-03
+CH,Schaffhausen,SH,124.0,7,,4,2,2020-08-04
+CH,Schwyz,SZ,408.0,25,,,,2020-08-04
+CH,St. Gallen,SG,1025.0,40,,,,2020-08-04
+CH,Fribourg,FR,1360.0,85,,1,1,2020-08-04
+CH,,,35614.0,1981,55021,135,26,2020-08-04
+CH,Aargau,AG,,0,,,,2020-08-04
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-04
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-04
+CH,Berne,BE,,0,,,,2020-08-04
+CH,Basel-Landschaft,BL,,0,,,,2020-08-04
+CH,Basel-Stadt,BS,,0,,,,2020-08-04
+CH,Geneva,GE,,0,,,,2020-08-04
+CH,Glarus,GL,,0,,,,2020-08-04
+CH,Grisons,GR,,0,,,,2020-08-04
+CH,Jura,JU,,0,,,,2020-08-04
+CH,Lucerne,LU,,0,,,,2020-08-04
+CH,Neuchâtel,NE,,0,,,,2020-08-04
+CH,Nidwalden,NW,,0,,,,2020-08-04
+CH,Obwalden,OW,,0,,,,2020-08-04
+CH,Solothurn,SO,,0,,,,2020-08-04
+CH,Thurgau,TG,,0,,,,2020-08-04
+CH,Ticino,TI,,0,,,,2020-08-04
+CH,Uri,UR,,0,,,,2020-08-04
+CH,Vaud,VD,,0,,,,2020-08-04
+CH,Valais,VS,,0,,,,2020-08-04
+CH,Zug,ZG,,0,,,,2020-08-04
+CH,Zürich,ZH,,0,,,,2020-08-04
