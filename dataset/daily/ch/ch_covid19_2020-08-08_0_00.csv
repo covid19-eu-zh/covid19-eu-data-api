@@ -1,9 +1,9 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
-CH,,,36309.0,1986.0,58680.0,123.0,22.0,2020-08-08
+CH,Berne,BE,2198.0,98.0,,,,2020-08-08
+CH,,,36317.0,1987.0,58680.0,123.0,22.0,2020-08-08
 CH,Aargau,AG,,,,,,2020-08-08
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-08
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-08
-CH,Berne,BE,,,,,,2020-08-08
 CH,Basel-Landschaft,BL,,,,,,2020-08-08
 CH,Basel-Stadt,BS,,,,,,2020-08-08
 CH,Fribourg,FR,,,,,,2020-08-08
