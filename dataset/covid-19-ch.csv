@@ -5318,8 +5318,9 @@ CH,Grisons,GR,,0,,,,2020-08-07
 CH,Neuchâtel,NE,,0,,,,2020-08-07
 CH,Vaud,VD,,0,,,,2020-08-07
 CH,Valais,VS,,0,,,,2020-08-07
+CH,Lucerne,LU,924.0,21,,11,3,2020-08-08
 CH,Berne,BE,2198.0,98,,,,2020-08-08
-CH,,,36317.0,1987,58680,123,22,2020-08-08
+CH,,,36325.0,1987,58680,122,21,2020-08-08
 CH,Aargau,AG,,0,,,,2020-08-08
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-08
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-08
@@ -5330,7 +5331,6 @@ CH,Geneva,GE,,0,,,,2020-08-08
 CH,Glarus,GL,,0,,,,2020-08-08
 CH,Grisons,GR,,0,,,,2020-08-08
 CH,Jura,JU,,0,,,,2020-08-08
-CH,Lucerne,LU,,0,,,,2020-08-08
 CH,Neuchâtel,NE,,0,,,,2020-08-08
 CH,Nidwalden,NW,,0,,,,2020-08-08
 CH,Obwalden,OW,,0,,,,2020-08-08

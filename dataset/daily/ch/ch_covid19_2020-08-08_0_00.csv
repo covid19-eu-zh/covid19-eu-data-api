@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Lucerne,LU,924.0,21.0,,11.0,3.0,2020-08-08
 CH,Berne,BE,2198.0,98.0,,,,2020-08-08
-CH,,,36317.0,1987.0,58680.0,123.0,22.0,2020-08-08
+CH,,,36325.0,1987.0,58680.0,122.0,21.0,2020-08-08
 CH,Aargau,AG,,,,,,2020-08-08
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-08
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-08
@@ -11,7 +12,6 @@ CH,Geneva,GE,,,,,,2020-08-08
 CH,Glarus,GL,,,,,,2020-08-08
 CH,Grisons,GR,,,,,,2020-08-08
 CH,Jura,JU,,,,,,2020-08-08
-CH,Lucerne,LU,,,,,,2020-08-08
 CH,Neuchâtel,NE,,,,,,2020-08-08
 CH,Nidwalden,NW,,,,,,2020-08-08
 CH,Obwalden,OW,,,,,,2020-08-08
