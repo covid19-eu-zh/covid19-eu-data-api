@@ -2,10 +2,11 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Nidwalden,NW,131.0,3.0,,0.0,0.0,2020-08-09
 CH,Zug,ZG,297.0,,,0.0,,2020-08-09
 CH,Schwyz,SZ,418.0,25.0,,,,2020-08-09
+CH,Thurgau,TG,488.0,19.0,,3.0,0.0,2020-08-09
 CH,Grisons,GR,940.0,50.0,,1.0,0.0,2020-08-09
 CH,Basel-Stadt,BS,1085.0,52.0,,,,2020-08-09
 CH,Zürich,ZH,4768.0,139.0,,28.0,,2020-08-09
-CH,,,36391.0,1987.0,58680.0,125.0,21.0,2020-08-09
+CH,,,36404.0,1987.0,58680.0,126.0,21.0,2020-08-09
 CH,Aargau,AG,,,,,,2020-08-09
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-09
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-09
@@ -16,12 +17,11 @@ CH,Geneva,GE,,,,,,2020-08-09
 CH,Glarus,GL,,,,,,2020-08-09
 CH,Jura,JU,,,,,,2020-08-09
 CH,Lucerne,LU,,,,,,2020-08-09
-CH,Neuchâtel,NE,,,,,,2020-08-09
+CH,Neuchâtel,NE,,,,1.0,0.0,2020-08-09
 CH,Obwalden,OW,,,,,,2020-08-09
 CH,St. Gallen,SG,,,,,,2020-08-09
 CH,Schaffhausen,SH,,,,,,2020-08-09
 CH,Solothurn,SO,,,,,,2020-08-09
-CH,Thurgau,TG,,,,,,2020-08-09
 CH,Ticino,TI,,,,,,2020-08-09
 CH,Uri,UR,,,,,,2020-08-09
 CH,Vaud,VD,,,,,,2020-08-09
