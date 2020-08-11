@@ -5401,6 +5401,8 @@ CH,Geneva,GE,,0,,16,2,2020-08-10
 CH,Nidwalden,NW,,0,,,,2020-08-10
 CH,Appenzell Ausserrhoden,AR,113.0,3,,1,0,2020-08-11
 CH,Schaffhausen,SH,139.0,7,,5,2,2020-08-11
+CH,Glarus,GL,147.0,13,,0,,2020-08-11
+CH,Zug,ZG,305.0,9,,0,,2020-08-11
 CH,Schwyz,SZ,427.0,25,,,,2020-08-11
 CH,Thurgau,TG,499.0,19,,3,2,2020-08-11
 CH,Solothurn,SO,563.0,18,,2,,2020-08-11
@@ -5410,12 +5412,11 @@ CH,Basel-Stadt,BS,1092.0,53,,8,0,2020-08-11
 CH,Fribourg,FR,1393.0,85,,2,1,2020-08-11
 CH,Berne,BE,2221.0,98,,,,2020-08-11
 CH,Ticino,TI,3458.0,350,,1,0,2020-08-11
-CH,,,36841.0,1990,58680,120,22,2020-08-11
+CH,,,36845.0,1990,58680,118,22,2020-08-11
 CH,Aargau,AG,,0,,,,2020-08-11
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-11
 CH,Basel-Landschaft,BL,,0,,,,2020-08-11
 CH,Geneva,GE,,0,,,,2020-08-11
-CH,Glarus,GL,,0,,,,2020-08-11
 CH,Grisons,GR,,0,,,,2020-08-11
 CH,Jura,JU,,0,,,,2020-08-11
 CH,Neuchâtel,NE,,0,,,,2020-08-11
@@ -5424,5 +5425,4 @@ CH,Obwalden,OW,,0,,,,2020-08-11
 CH,Uri,UR,,0,,,,2020-08-11
 CH,Vaud,VD,,0,,,,2020-08-11
 CH,Valais,VS,,0,,,,2020-08-11
-CH,Zug,ZG,,0,,,,2020-08-11
 CH,Zürich,ZH,,0,,,,2020-08-11
