@@ -1,13 +1,17 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Ausserrhoden,AR,113.0,3.0,,1.0,0.0,2020-08-11
+CH,Schaffhausen,SH,139.0,7.0,,5.0,2.0,2020-08-11
 CH,Schwyz,SZ,427.0,25.0,,,,2020-08-11
+CH,Solothurn,SO,563.0,18.0,,2.0,,2020-08-11
+CH,St. Gallen,SG,1089.0,40.0,,,,2020-08-11
+CH,Basel-Stadt,BS,1092.0,53.0,,8.0,0.0,2020-08-11
 CH,Fribourg,FR,1393.0,85.0,,2.0,1.0,2020-08-11
-CH,,,36670.0,1987.0,58680.0,134.0,21.0,2020-08-11
+CH,Ticino,TI,3458.0,350.0,,1.0,0.0,2020-08-11
+CH,,,36722.0,1989.0,58680.0,126.0,21.0,2020-08-11
 CH,Aargau,AG,,,,,,2020-08-11
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-11
-CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-11
 CH,Berne,BE,,,,,,2020-08-11
 CH,Basel-Landschaft,BL,,,,,,2020-08-11
-CH,Basel-Stadt,BS,,,,,,2020-08-11
 CH,Geneva,GE,,,,,,2020-08-11
 CH,Glarus,GL,,,,,,2020-08-11
 CH,Grisons,GR,,,,,,2020-08-11
@@ -16,11 +20,7 @@ CH,Lucerne,LU,,,,,,2020-08-11
 CH,Neuchâtel,NE,,,,,,2020-08-11
 CH,Nidwalden,NW,,,,,,2020-08-11
 CH,Obwalden,OW,,,,,,2020-08-11
-CH,St. Gallen,SG,,,,,,2020-08-11
-CH,Schaffhausen,SH,,,,,,2020-08-11
-CH,Solothurn,SO,,,,,,2020-08-11
 CH,Thurgau,TG,,,,,,2020-08-11
-CH,Ticino,TI,,,,,,2020-08-11
 CH,Uri,UR,,,,,,2020-08-11
 CH,Vaud,VD,,,,,,2020-08-11
 CH,Valais,VS,,,,,,2020-08-11
