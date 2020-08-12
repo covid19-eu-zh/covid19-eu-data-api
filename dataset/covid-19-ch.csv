@@ -5376,6 +5376,7 @@ CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-08-10
 CH,Obwalden,OW,95.0,0,,0,,2020-08-10
 CH,Appenzell Ausserrhoden,AR,113.0,3,,3,0,2020-08-10
 CH,Uri,UR,117.0,7,,0,,2020-08-10
+CH,Nidwalden,NW,131.0,3,,0,0,2020-08-10
 CH,Schaffhausen,SH,137.0,7,,9,2,2020-08-10
 CH,Glarus,GL,146.0,13,,0,,2020-08-10
 CH,Jura,JU,260.0,7,,0,0,2020-08-10
@@ -5398,10 +5399,10 @@ CH,Zürich,ZH,4807.0,140,,27,,2020-08-10
 CH,Vaud,VD,6193.0,425,,11,4,2020-08-10
 CH,Geneva,GE,6312.0,296,,16,2,2020-08-10
 CH,,,36825.0,1990,58680,122,20,2020-08-10
-CH,Nidwalden,NW,,0,,,,2020-08-10
 CH,Obwalden,OW,95.0,0,,0,,2020-08-11
 CH,Appenzell Ausserrhoden,AR,113.0,3,,1,0,2020-08-11
 CH,Uri,UR,119.0,7,,0,,2020-08-11
+CH,Nidwalden,NW,131.0,3,,0,0,2020-08-11
 CH,Schaffhausen,SH,139.0,7,,5,2,2020-08-11
 CH,Glarus,GL,147.0,13,,0,,2020-08-11
 CH,Jura,JU,260.0,7,,0,0,2020-08-11
@@ -5424,9 +5425,9 @@ CH,Zürich,ZH,4871.0,140,,27,,2020-08-11
 CH,,,36999.0,1991,58680,113,22,2020-08-11
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-11
 CH,Geneva,GE,,0,,15,2,2020-08-11
-CH,Nidwalden,NW,,0,,,,2020-08-11
 CH,Vaud,VD,,0,,,,2020-08-11
 CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-08-12
+CH,Nidwalden,NW,131.0,3,,0,0,2020-08-12
 CH,Schaffhausen,SH,147.0,7,,7,2,2020-08-12
 CH,Glarus,GL,149.0,13,,0,,2020-08-12
 CH,Zug,ZG,307.0,9,,1,,2020-08-12
@@ -5434,22 +5435,21 @@ CH,Schwyz,SZ,429.0,25,,,,2020-08-12
 CH,Thurgau,TG,505.0,19,,3,2,2020-08-12
 CH,Solothurn,SO,573.0,18,,1,,2020-08-12
 CH,Lucerne,LU,940.0,21,,9,4,2020-08-12
+CH,Basel-Landschaft,BL,957.0,35,,1,0,2020-08-12
 CH,Basel-Stadt,BS,1098.0,53,,,,2020-08-12
 CH,St. Gallen,SG,1099.0,40,,,,2020-08-12
 CH,Berne,BE,2234.0,98,,10,3,2020-08-12
 CH,Ticino,TI,3460.0,350,,1,0,2020-08-12
-CH,,,37068.0,1991,58680,116,23,2020-08-12
+CH,Zürich,ZH,4924.0,140,,27,,2020-08-12
+CH,,,37125.0,1991,58680,116,23,2020-08-12
 CH,Aargau,AG,,0,,,,2020-08-12
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-12
-CH,Basel-Landschaft,BL,,0,,,,2020-08-12
 CH,Fribourg,FR,,0,,,,2020-08-12
 CH,Geneva,GE,,0,,,,2020-08-12
 CH,Grisons,GR,,0,,,,2020-08-12
 CH,Jura,JU,,0,,,,2020-08-12
 CH,Neuchâtel,NE,,0,,,,2020-08-12
-CH,Nidwalden,NW,,0,,,,2020-08-12
 CH,Obwalden,OW,,0,,,,2020-08-12
 CH,Uri,UR,,0,,,,2020-08-12
 CH,Vaud,VD,,0,,,,2020-08-12
 CH,Valais,VS,,0,,,,2020-08-12
-CH,Zürich,ZH,,0,,,,2020-08-12
