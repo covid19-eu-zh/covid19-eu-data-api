@@ -5534,6 +5534,7 @@ CH,Uri,UR,,0,,,,2020-08-15
 CH,Vaud,VD,,0,,,,2020-08-15
 CH,Valais,VS,,0,,,,2020-08-15
 CH,Zug,ZG,,0,,,,2020-08-15
+CH,Grisons,GR,952.0,50,,0,0,2020-08-16
 CH,Basel-Stadt,BS,1140.0,53,,,,2020-08-16
 CH,Berne,BE,2309.0,98,,,,2020-08-16
 CH,Zürich,ZH,5125.0,140,,29,,2020-08-16
@@ -5545,7 +5546,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-08-16
 CH,Fribourg,FR,,0,,,,2020-08-16
 CH,Geneva,GE,,0,,,,2020-08-16
 CH,Glarus,GL,,0,,,,2020-08-16
-CH,Grisons,GR,,0,,,,2020-08-16
 CH,Jura,JU,,0,,,,2020-08-16
 CH,Lucerne,LU,,0,,,,2020-08-16
 CH,Neuchâtel,NE,,0,,,,2020-08-16

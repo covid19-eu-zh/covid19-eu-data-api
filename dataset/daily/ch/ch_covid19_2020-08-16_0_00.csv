@@ -1,4 +1,5 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Grisons,GR,952.0,50.0,,0.0,0.0,2020-08-16
 CH,Basel-Stadt,BS,1140.0,53.0,,,,2020-08-16
 CH,Berne,BE,2309.0,98.0,,,,2020-08-16
 CH,Zürich,ZH,5125.0,140.0,,29.0,,2020-08-16
@@ -10,7 +11,6 @@ CH,Basel-Landschaft,BL,,,,,,2020-08-16
 CH,Fribourg,FR,,,,,,2020-08-16
 CH,Geneva,GE,,,,,,2020-08-16
 CH,Glarus,GL,,,,,,2020-08-16
-CH,Grisons,GR,,,,,,2020-08-16
 CH,Jura,JU,,,,,,2020-08-16
 CH,Lucerne,LU,,,,,,2020-08-16
 CH,Neuchâtel,NE,,,,,,2020-08-16
