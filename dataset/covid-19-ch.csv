@@ -5512,15 +5512,15 @@ CH,Schwyz,SZ,436.0,25,,,,2020-08-15
 CH,Thurgau,TG,523.0,19,,5,2,2020-08-15
 CH,Neuchâtel,NE,820.0,0,,0,0,2020-08-15
 CH,Grisons,GR,952.0,50,,0,0,2020-08-15
-CH,Basel-Stadt,BS,1135.0,53,,,,2020-08-15
+CH,Basel-Landschaft,BL,975.0,35,,1,1,2020-08-15
+CH,Basel-Stadt,BS,1135.0,53,,9,0,2020-08-15
 CH,Fribourg,FR,1418.0,85,,3,1,2020-08-15
 CH,Berne,BE,2296.0,98,,,,2020-08-15
 CH,Zürich,ZH,5096.0,140,,26,,2020-08-15
-CH,,,37835.0,1991,61887,116,24,2020-08-15
+CH,,,37847.0,1991,61887,120,24,2020-08-15
 CH,Aargau,AG,,0,,,,2020-08-15
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-15
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-15
-CH,Basel-Landschaft,BL,,0,,,,2020-08-15
 CH,Geneva,GE,,0,,,,2020-08-15
 CH,Glarus,GL,,0,,,,2020-08-15
 CH,Jura,JU,,0,,,,2020-08-15
@@ -5539,15 +5539,15 @@ CH,Schwyz,SZ,436.0,25,,,,2020-08-16
 CH,Thurgau,TG,524.0,19,,5,2,2020-08-16
 CH,Neuchâtel,NE,821.0,0,,0,0,2020-08-16
 CH,Grisons,GR,952.0,50,,0,0,2020-08-16
-CH,Basel-Stadt,BS,1140.0,53,,,,2020-08-16
+CH,Basel-Landschaft,BL,975.0,35,,1,1,2020-08-16
+CH,Basel-Stadt,BS,1140.0,53,,8,0,2020-08-16
 CH,Fribourg,FR,1425.0,85,,3,1,2020-08-16
 CH,Berne,BE,2309.0,98,,,,2020-08-16
 CH,Zürich,ZH,5125.0,140,,29,,2020-08-16
-CH,,,37891.0,1991,61887,119,24,2020-08-16
+CH,,,37903.0,1991,61887,122,24,2020-08-16
 CH,Aargau,AG,,0,,,,2020-08-16
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-16
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-16
-CH,Basel-Landschaft,BL,,0,,,,2020-08-16
 CH,Geneva,GE,,0,,,,2020-08-16
 CH,Glarus,GL,,0,,,,2020-08-16
 CH,Jura,JU,,0,,,,2020-08-16
@@ -5566,16 +5566,16 @@ CH,Schaffhausen,SH,157.0,7,,6,0,2020-08-17
 CH,Schwyz,SZ,439.0,25,,,,2020-08-17
 CH,Thurgau,TG,528.0,19,,4,1,2020-08-17
 CH,Solothurn,SO,613.0,18,,3,,2020-08-17
+CH,Basel-Landschaft,BL,978.0,35,,1,1,2020-08-17
 CH,Lucerne,LU,984.0,21,,10,4,2020-08-17
-CH,Basel-Stadt,BS,1144.0,53,,,,2020-08-17
+CH,Basel-Stadt,BS,1144.0,53,,8,0,2020-08-17
 CH,Fribourg,FR,1428.0,85,,3,1,2020-08-17
 CH,Berne,BE,2315.0,98,,7,1,2020-08-17
 CH,Ticino,TI,3470.0,350,,1,0,2020-08-17
-CH,,,37951.0,1991,61887,120,21,2020-08-17
+CH,,,37966.0,1991,61887,123,21,2020-08-17
 CH,Aargau,AG,,0,,,,2020-08-17
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-17
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-17
-CH,Basel-Landschaft,BL,,0,,,,2020-08-17
 CH,Geneva,GE,,0,,,,2020-08-17
 CH,Grisons,GR,,0,,,,2020-08-17
 CH,Jura,JU,,0,,,,2020-08-17
