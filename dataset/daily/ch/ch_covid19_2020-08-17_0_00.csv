@@ -1,7 +1,8 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Schwyz,SZ,439.0,25.0,,,,2020-08-17
 CH,Fribourg,FR,1428.0,85.0,,3.0,1.0,2020-08-17
-CH,,,37882.0,1991.0,61887.0,118.0,24.0,2020-08-17
+CH,Ticino,TI,3470.0,350.0,,1.0,0.0,2020-08-17
+CH,,,37896.0,1991.0,61887.0,118.0,24.0,2020-08-17
 CH,Aargau,AG,,,,,,2020-08-17
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-17
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-17
@@ -20,7 +21,6 @@ CH,St. Gallen,SG,,,,,,2020-08-17
 CH,Schaffhausen,SH,,,,,,2020-08-17
 CH,Solothurn,SO,,,,,,2020-08-17
 CH,Thurgau,TG,,,,,,2020-08-17
-CH,Ticino,TI,,,,,,2020-08-17
 CH,Uri,UR,,,,,,2020-08-17
 CH,Vaud,VD,,,,,,2020-08-17
 CH,Valais,VS,,,,,,2020-08-17
