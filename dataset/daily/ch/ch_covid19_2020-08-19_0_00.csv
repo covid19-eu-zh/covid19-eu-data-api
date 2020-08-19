@@ -3,6 +3,7 @@ CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-08-19
 CH,Obwalden,OW,99.0,0.0,,1.0,,2020-08-19
 CH,Appenzell Ausserrhoden,AR,123.0,3.0,,2.0,0.0,2020-08-19
 CH,Uri,UR,129.0,7.0,,0.0,,2020-08-19
+CH,Nidwalden,NW,131.0,3.0,,0.0,0.0,2020-08-19
 CH,Glarus,GL,154.0,13.0,,0.0,,2020-08-19
 CH,Schaffhausen,SH,159.0,8.0,,8.0,0.0,2020-08-19
 CH,Jura,JU,262.0,7.0,,0.0,0.0,2020-08-19
@@ -22,7 +23,6 @@ CH,Aargau,AG,,,,,,2020-08-19
 CH,Geneva,GE,,,,11.0,0.0,2020-08-19
 CH,Grisons,GR,,,,,,2020-08-19
 CH,Neuchâtel,NE,,,,,,2020-08-19
-CH,Nidwalden,NW,,,,,,2020-08-19
 CH,St. Gallen,SG,,,,,,2020-08-19
 CH,Vaud,VD,,,,,,2020-08-19
 CH,Valais,VS,,,,,,2020-08-19
