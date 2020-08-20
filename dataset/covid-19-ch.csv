@@ -5644,14 +5644,16 @@ CH,Vaud,VD,,0,,,,2020-08-19
 CH,Valais,VS,,0,,,,2020-08-19
 CH,Zug,ZG,321.0,9,,0,,2020-08-20
 CH,Schwyz,SZ,452.0,25,,,,2020-08-20
+CH,Thurgau,TG,549.0,19,,4,1,2020-08-20
+CH,Basel-Stadt,BS,1165.0,53,,,,2020-08-20
 CH,Fribourg,FR,1464.0,85,,2,1,2020-08-20
-CH,,,38803.0,1998,61887,110,15,2020-08-20
+CH,Ticino,TI,3492.0,350,,0,0,2020-08-20
+CH,,,38821.0,1998,61887,110,15,2020-08-20
 CH,Aargau,AG,,0,,,,2020-08-20
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-20
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-20
 CH,Berne,BE,,0,,,,2020-08-20
 CH,Basel-Landschaft,BL,,0,,,,2020-08-20
-CH,Basel-Stadt,BS,,0,,,,2020-08-20
 CH,Geneva,GE,,0,,,,2020-08-20
 CH,Glarus,GL,,0,,,,2020-08-20
 CH,Grisons,GR,,0,,,,2020-08-20
@@ -5663,8 +5665,6 @@ CH,Obwalden,OW,,0,,,,2020-08-20
 CH,St. Gallen,SG,,0,,,,2020-08-20
 CH,Schaffhausen,SH,,0,,,,2020-08-20
 CH,Solothurn,SO,,0,,,,2020-08-20
-CH,Thurgau,TG,,0,,,,2020-08-20
-CH,Ticino,TI,,0,,,,2020-08-20
 CH,Uri,UR,,0,,,,2020-08-20
 CH,Vaud,VD,,0,,,,2020-08-20
 CH,Valais,VS,,0,,,,2020-08-20
