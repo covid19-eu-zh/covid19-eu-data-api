@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-08-21
+CH,Obwalden,OW,101.0,0.0,,1.0,,2020-08-21
 CH,Appenzell Ausserrhoden,AR,127.0,3.0,,2.0,0.0,2020-08-21
 CH,Uri,UR,129.0,7.0,,0.0,,2020-08-21
 CH,Nidwalden,NW,131.0,3.0,,0.0,0.0,2020-08-21
@@ -18,11 +19,10 @@ CH,Valais,VS,2269.0,154.0,,8.0,1.0,2020-08-21
 CH,Berne,BE,2373.0,98.0,,5.0,2.0,2020-08-21
 CH,Ticino,TI,3500.0,350.0,,0.0,0.0,2020-08-21
 CH,Zürich,ZH,5463.0,140.0,,25.0,,2020-08-21
-CH,,,39334.0,2000.0,64284.0,110.0,15.0,2020-08-21
+CH,,,39335.0,2000.0,64284.0,110.0,15.0,2020-08-21
 CH,Aargau,AG,,,,,,2020-08-21
 CH,Geneva,GE,,,,,,2020-08-21
 CH,Grisons,GR,,,,,,2020-08-21
 CH,Neuchâtel,NE,,,,,,2020-08-21
-CH,Obwalden,OW,,,,,,2020-08-21
 CH,St. Gallen,SG,,,,9.0,1.0,2020-08-21
 CH,Vaud,VD,,,,,,2020-08-21
