@@ -5696,10 +5696,11 @@ CH,Geneva,GE,,0,,,,2020-08-21
 CH,Neuchâtel,NE,,0,,,,2020-08-21
 CH,St. Gallen,SG,,0,,9,1,2020-08-21
 CH,Vaud,VD,,0,,,,2020-08-21
+CH,Grisons,GR,979.0,50,,1,0,2020-08-22
 CH,Basel-Stadt,BS,1179.0,53,,,,2020-08-22
 CH,Berne,BE,2382.0,98,,,,2020-08-22
 CH,Zürich,ZH,5507.0,140,,23,,2020-08-22
-CH,,,39400.0,2000,64284,108,15,2020-08-22
+CH,,,39406.0,2000,64284,108,15,2020-08-22
 CH,Aargau,AG,,0,,,,2020-08-22
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-22
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-22
@@ -5707,7 +5708,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-08-22
 CH,Fribourg,FR,,0,,,,2020-08-22
 CH,Geneva,GE,,0,,,,2020-08-22
 CH,Glarus,GL,,0,,,,2020-08-22
-CH,Grisons,GR,,0,,,,2020-08-22
 CH,Jura,JU,,0,,,,2020-08-22
 CH,Lucerne,LU,,0,,,,2020-08-22
 CH,Neuchâtel,NE,,0,,,,2020-08-22
