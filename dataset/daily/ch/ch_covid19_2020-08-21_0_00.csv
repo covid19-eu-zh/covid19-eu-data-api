@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-08-21
+CH,Nidwalden,NW,131.0,3.0,,0.0,0.0,2020-08-21
 CH,Glarus,GL,157.0,13.0,,0.0,,2020-08-21
 CH,Schaffhausen,SH,160.0,8.0,,5.0,0.0,2020-08-21
 CH,Zug,ZG,323.0,9.0,,0.0,,2020-08-21
@@ -9,20 +10,19 @@ CH,Solothurn,SO,643.0,18.0,,2.0,,2020-08-21
 CH,Lucerne,LU,1004.0,21.0,,8.0,3.0,2020-08-21
 CH,Basel-Stadt,BS,1169.0,53.0,,8.0,0.0,2020-08-21
 CH,Fribourg,FR,1487.0,85.0,,2.0,0.0,2020-08-21
+CH,Aargau,AG,1913.0,51.0,,,,2020-08-21
+CH,Valais,VS,2289.0,154.0,,9.0,1.0,2020-08-21
 CH,Berne,BE,2373.0,98.0,,5.0,2.0,2020-08-21
 CH,Ticino,TI,3500.0,350.0,,0.0,0.0,2020-08-21
-CH,,,39190.0,1998.0,64284.0,112.0,15.0,2020-08-21
-CH,Aargau,AG,,,,,,2020-08-21
+CH,,,39249.0,1999.0,64284.0,115.0,15.0,2020-08-21
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-21
 CH,Basel-Landschaft,BL,,,,,,2020-08-21
 CH,Geneva,GE,,,,,,2020-08-21
 CH,Grisons,GR,,,,,,2020-08-21
 CH,Jura,JU,,,,,,2020-08-21
 CH,Neuchâtel,NE,,,,,,2020-08-21
-CH,Nidwalden,NW,,,,,,2020-08-21
 CH,Obwalden,OW,,,,,,2020-08-21
 CH,St. Gallen,SG,,,,,,2020-08-21
 CH,Uri,UR,,,,,,2020-08-21
 CH,Vaud,VD,,,,,,2020-08-21
-CH,Valais,VS,,,,,,2020-08-21
 CH,Zürich,ZH,,,,,,2020-08-21
