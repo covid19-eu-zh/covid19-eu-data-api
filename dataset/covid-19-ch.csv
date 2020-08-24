@@ -5725,6 +5725,7 @@ CH,Valais,VS,,0,,,,2020-08-22
 CH,Zug,ZG,,0,,,,2020-08-22
 CH,Schwyz,SZ,460.0,25,,,,2020-08-23
 CH,Thurgau,TG,557.0,19,,4,1,2020-08-23
+CH,Grisons,GR,979.0,50,,1,0,2020-08-23
 CH,Basel-Stadt,BS,1183.0,53,,,,2020-08-23
 CH,St. Gallen,SG,1217.0,41,,9,1,2020-08-23
 CH,Fribourg,FR,1550.0,85,,3,1,2020-08-23
@@ -5737,7 +5738,6 @@ CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-23
 CH,Basel-Landschaft,BL,,0,,,,2020-08-23
 CH,Geneva,GE,,0,,,,2020-08-23
 CH,Glarus,GL,,0,,,,2020-08-23
-CH,Grisons,GR,,0,,,,2020-08-23
 CH,Jura,JU,,0,,,,2020-08-23
 CH,Lucerne,LU,,0,,,,2020-08-23
 CH,Neuchâtel,NE,,0,,0,0,2020-08-23
@@ -5755,10 +5755,11 @@ CH,Schaffhausen,SH,161.0,8,,2,0,2020-08-24
 CH,Schwyz,SZ,464.0,25,,,,2020-08-24
 CH,Thurgau,TG,558.0,19,,4,1,2020-08-24
 CH,Solothurn,SO,651.0,18,,3,,2020-08-24
+CH,Lucerne,LU,1013.0,21,,8,3,2020-08-24
 CH,Basel-Stadt,BS,1185.0,53,,,,2020-08-24
 CH,Fribourg,FR,1561.0,85,,3,1,2020-08-24
 CH,Ticino,TI,3512.0,350,,1,0,2020-08-24
-CH,,,39602.0,2001,64284,110,16,2020-08-24
+CH,,,39611.0,2001,64284,110,16,2020-08-24
 CH,Aargau,AG,,0,,,,2020-08-24
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-24
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-24
@@ -5767,7 +5768,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-08-24
 CH,Geneva,GE,,0,,,,2020-08-24
 CH,Grisons,GR,,0,,,,2020-08-24
 CH,Jura,JU,,0,,,,2020-08-24
-CH,Lucerne,LU,,0,,,,2020-08-24
 CH,Neuchâtel,NE,,0,,,,2020-08-24
 CH,Nidwalden,NW,,0,,,,2020-08-24
 CH,Obwalden,OW,,0,,,,2020-08-24
