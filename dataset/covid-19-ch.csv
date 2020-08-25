@@ -5777,10 +5777,14 @@ CH,Aargau,AG,,0,,,,2020-08-24
 CH,Geneva,GE,,0,,,,2020-08-24
 CH,Neuchâtel,NE,,0,,0,0,2020-08-24
 CH,Vaud,VD,,0,,,,2020-08-24
+CH,Glarus,GL,162.0,13,,0,,2020-08-25
+CH,Schaffhausen,SH,162.0,8,,5,0,2020-08-25
+CH,Zug,ZG,338.0,9,,3,,2020-08-25
 CH,Thurgau,TG,560.0,19,,3,1,2020-08-25
+CH,Lucerne,LU,1017.0,21,,9,3,2020-08-25
 CH,Basel-Stadt,BS,1185.0,53,,7,0,2020-08-25
 CH,Ticino,TI,3519.0,350,,1,0,2020-08-25
-CH,,,39861.0,2001,64284,109,15,2020-08-25
+CH,,,39871.0,2001,64284,113,15,2020-08-25
 CH,Aargau,AG,,0,,,,2020-08-25
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-25
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-25
@@ -5788,19 +5792,15 @@ CH,Berne,BE,,0,,,,2020-08-25
 CH,Basel-Landschaft,BL,,0,,,,2020-08-25
 CH,Fribourg,FR,,0,,,,2020-08-25
 CH,Geneva,GE,,0,,,,2020-08-25
-CH,Glarus,GL,,0,,,,2020-08-25
 CH,Grisons,GR,,0,,,,2020-08-25
 CH,Jura,JU,,0,,,,2020-08-25
-CH,Lucerne,LU,,0,,,,2020-08-25
 CH,Neuchâtel,NE,,0,,,,2020-08-25
 CH,Nidwalden,NW,,0,,,,2020-08-25
 CH,Obwalden,OW,,0,,,,2020-08-25
 CH,St. Gallen,SG,,0,,,,2020-08-25
-CH,Schaffhausen,SH,,0,,,,2020-08-25
 CH,Solothurn,SO,,0,,,,2020-08-25
 CH,Schwyz,SZ,,0,,,,2020-08-25
 CH,Uri,UR,,0,,,,2020-08-25
 CH,Vaud,VD,,0,,,,2020-08-25
 CH,Valais,VS,,0,,,,2020-08-25
-CH,Zug,ZG,,0,,,,2020-08-25
 CH,Zürich,ZH,,0,,,,2020-08-25
