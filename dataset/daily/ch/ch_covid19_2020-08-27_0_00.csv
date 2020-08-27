@@ -1,7 +1,9 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-08-27
+CH,Obwalden,OW,105.0,0.0,,3.0,,2020-08-27
 CH,Appenzell Ausserrhoden,AR,131.0,3.0,,1.0,0.0,2020-08-27
 CH,Nidwalden,NW,133.0,3.0,,0.0,0.0,2020-08-27
+CH,Uri,UR,136.0,7.0,,0.0,,2020-08-27
 CH,Schaffhausen,SH,162.0,8.0,,1.0,0.0,2020-08-27
 CH,Glarus,GL,163.0,13.0,,0.0,,2020-08-27
 CH,Jura,JU,266.0,7.0,,1.0,0.0,2020-08-27
@@ -13,16 +15,14 @@ CH,Basel-Landschaft,BL,1024.0,35.0,,3.0,1.0,2020-08-27
 CH,Lucerne,LU,1034.0,21.0,,10.0,3.0,2020-08-27
 CH,Basel-Stadt,BS,1196.0,53.0,,6.0,0.0,2020-08-27
 CH,Fribourg,FR,1613.0,85.0,,2.0,0.0,2020-08-27
+CH,Valais,VS,2340.0,154.0,,4.0,1.0,2020-08-27
 CH,Berne,BE,2462.0,99.0,,,,2020-08-27
 CH,Ticino,TI,3531.0,350.0,,1.0,0.0,2020-08-27
 CH,Zürich,ZH,5844.0,141.0,,18.0,,2020-08-27
-CH,,,40990.0,2003.0,64284.0,110.0,18.0,2020-08-27
+CH,,,41002.0,2003.0,64284.0,110.0,18.0,2020-08-27
 CH,Aargau,AG,,,,,,2020-08-27
 CH,Geneva,GE,,,,19.0,0.0,2020-08-27
 CH,Grisons,GR,,,,,,2020-08-27
 CH,Neuchâtel,NE,,,,,,2020-08-27
-CH,Obwalden,OW,,,,,,2020-08-27
 CH,St. Gallen,SG,,,,5.0,3.0,2020-08-27
-CH,Uri,UR,,,,,,2020-08-27
 CH,Vaud,VD,,,,,,2020-08-27
-CH,Valais,VS,,,,,,2020-08-27
