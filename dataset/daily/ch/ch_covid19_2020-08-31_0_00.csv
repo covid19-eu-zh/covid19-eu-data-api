@@ -1,24 +1,24 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Ausserrhoden,AR,133.0,3.0,,1.0,0.0,2020-08-31
+CH,Glarus,GL,164.0,13.0,,0.0,,2020-08-31
 CH,Schaffhausen,SH,164.0,8.0,,1.0,0.0,2020-08-31
+CH,Solothurn,SO,701.0,18.0,,1.0,,2020-08-31
+CH,Lucerne,LU,1060.0,21.0,,10.0,4.0,2020-08-31
 CH,Basel-Stadt,BS,1215.0,54.0,,,,2020-08-31
 CH,Fribourg,FR,1686.0,85.0,,5.0,1.0,2020-08-31
 CH,Ticino,TI,3541.0,350.0,,1.0,0.0,2020-08-31
-CH,,,41507.0,2005.0,67515.0,118.0,20.0,2020-08-31
+CH,,,41538.0,2005.0,67515.0,116.0,21.0,2020-08-31
 CH,Aargau,AG,,,,,,2020-08-31
 CH,Appenzell Innerrhoden,AI,,,,,,2020-08-31
-CH,Appenzell Ausserrhoden,AR,,,,,,2020-08-31
 CH,Berne,BE,,,,,,2020-08-31
 CH,Basel-Landschaft,BL,,,,,,2020-08-31
 CH,Geneva,GE,,,,,,2020-08-31
-CH,Glarus,GL,,,,,,2020-08-31
 CH,Grisons,GR,,,,,,2020-08-31
 CH,Jura,JU,,,,,,2020-08-31
-CH,Lucerne,LU,,,,,,2020-08-31
 CH,Neuchâtel,NE,,,,,,2020-08-31
 CH,Nidwalden,NW,,,,,,2020-08-31
 CH,Obwalden,OW,,,,,,2020-08-31
 CH,St. Gallen,SG,,,,,,2020-08-31
-CH,Solothurn,SO,,,,,,2020-08-31
 CH,Schwyz,SZ,,,,,,2020-08-31
 CH,Thurgau,TG,,,,,,2020-08-31
 CH,Uri,UR,,,,,,2020-08-31
