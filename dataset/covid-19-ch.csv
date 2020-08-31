@@ -5887,14 +5887,14 @@ CH,Vaud,VD,,0,,,,2020-08-28
 CH,Valais,VS,,0,,,,2020-08-28
 CH,Grisons,GR,1000.0,50,,0,0,2020-08-29
 CH,Basel-Stadt,BS,1210.0,54,,,,2020-08-29
+CH,Fribourg,FR,1654.0,85,,3,0,2020-08-29
 CH,Berne,BE,2506.0,99,,,,2020-08-29
 CH,Zürich,ZH,5995.0,141,,19,,2020-08-29
-CH,,,41335.0,2005,67515,110,18,2020-08-29
+CH,,,41355.0,2005,67515,110,18,2020-08-29
 CH,Aargau,AG,,0,,,,2020-08-29
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-29
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-29
 CH,Basel-Landschaft,BL,,0,,,,2020-08-29
-CH,Fribourg,FR,,0,,,,2020-08-29
 CH,Geneva,GE,,0,,,,2020-08-29
 CH,Glarus,GL,,0,,,,2020-08-29
 CH,Jura,JU,,0,,,,2020-08-29
@@ -5914,14 +5914,15 @@ CH,Valais,VS,,0,,,,2020-08-29
 CH,Zug,ZG,,0,,,,2020-08-29
 CH,Grisons,GR,1001.0,50,,0,0,2020-08-30
 CH,Basel-Stadt,BS,1213.0,54,,,,2020-08-30
+CH,St. Gallen,SG,1260.0,42,,6,3,2020-08-30
+CH,Fribourg,FR,1679.0,85,,3,1,2020-08-30
 CH,Berne,BE,2529.0,99,,,,2020-08-30
 CH,Zürich,ZH,6051.0,141,,21,,2020-08-30
-CH,,,41418.0,2005,67515,112,18,2020-08-30
+CH,,,41474.0,2005,67515,114,19,2020-08-30
 CH,Aargau,AG,,0,,,,2020-08-30
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-30
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-30
 CH,Basel-Landschaft,BL,,0,,,,2020-08-30
-CH,Fribourg,FR,,0,,,,2020-08-30
 CH,Geneva,GE,,0,,,,2020-08-30
 CH,Glarus,GL,,0,,,,2020-08-30
 CH,Jura,JU,,0,,,,2020-08-30
@@ -5929,7 +5930,6 @@ CH,Lucerne,LU,,0,,,,2020-08-30
 CH,Neuchâtel,NE,,0,,,,2020-08-30
 CH,Nidwalden,NW,,0,,,,2020-08-30
 CH,Obwalden,OW,,0,,,,2020-08-30
-CH,St. Gallen,SG,,0,,,,2020-08-30
 CH,Schaffhausen,SH,,0,,,,2020-08-30
 CH,Solothurn,SO,,0,,,,2020-08-30
 CH,Schwyz,SZ,,0,,,,2020-08-30
@@ -5939,3 +5939,30 @@ CH,Uri,UR,,0,,,,2020-08-30
 CH,Vaud,VD,,0,,,,2020-08-30
 CH,Valais,VS,,0,,,,2020-08-30
 CH,Zug,ZG,,0,,,,2020-08-30
+CH,Schaffhausen,SH,164.0,8,,1,0,2020-08-31
+CH,Fribourg,FR,1686.0,85,,5,1,2020-08-31
+CH,,,41483.0,2005,67515,116,19,2020-08-31
+CH,Aargau,AG,,0,,,,2020-08-31
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-08-31
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-08-31
+CH,Berne,BE,,0,,,,2020-08-31
+CH,Basel-Landschaft,BL,,0,,,,2020-08-31
+CH,Basel-Stadt,BS,,0,,,,2020-08-31
+CH,Geneva,GE,,0,,,,2020-08-31
+CH,Glarus,GL,,0,,,,2020-08-31
+CH,Grisons,GR,,0,,,,2020-08-31
+CH,Jura,JU,,0,,,,2020-08-31
+CH,Lucerne,LU,,0,,,,2020-08-31
+CH,Neuchâtel,NE,,0,,,,2020-08-31
+CH,Nidwalden,NW,,0,,,,2020-08-31
+CH,Obwalden,OW,,0,,,,2020-08-31
+CH,St. Gallen,SG,,0,,,,2020-08-31
+CH,Solothurn,SO,,0,,,,2020-08-31
+CH,Schwyz,SZ,,0,,,,2020-08-31
+CH,Thurgau,TG,,0,,,,2020-08-31
+CH,Ticino,TI,,0,,,,2020-08-31
+CH,Uri,UR,,0,,,,2020-08-31
+CH,Vaud,VD,,0,,,,2020-08-31
+CH,Valais,VS,,0,,,,2020-08-31
+CH,Zug,ZG,,0,,,,2020-08-31
+CH,Zürich,ZH,,0,,,,2020-08-31
