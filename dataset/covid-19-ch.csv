@@ -5998,11 +5998,12 @@ CH,Schaffhausen,SH,166.0,8,,0,0,2020-09-02
 CH,Zug,ZG,354.0,9,,3,,2020-09-02
 CH,Schwyz,SZ,493.0,25,,,,2020-09-02
 CH,Thurgau,TG,583.0,19,,3,1,2020-09-02
+CH,Solothurn,SO,713.0,18,,0,,2020-09-02
 CH,Lucerne,LU,1067.0,21,,8,1,2020-09-02
 CH,Basel-Stadt,BS,1226.0,54,,,,2020-09-02
 CH,Fribourg,FR,1730.0,85,,5,0,2020-09-02
 CH,Ticino,TI,3548.0,350,,1,0,2020-09-02
-CH,,,42363.0,2011,67515,101,13,2020-09-02
+CH,,,42374.0,2011,67515,101,13,2020-09-02
 CH,Aargau,AG,,0,,,,2020-09-02
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-02
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-02
@@ -6015,7 +6016,6 @@ CH,Neuchâtel,NE,,0,,,,2020-09-02
 CH,Nidwalden,NW,,0,,,,2020-09-02
 CH,Obwalden,OW,,0,,,,2020-09-02
 CH,St. Gallen,SG,,0,,,,2020-09-02
-CH,Solothurn,SO,,0,,,,2020-09-02
 CH,Uri,UR,,0,,,,2020-09-02
 CH,Vaud,VD,,0,,,,2020-09-02
 CH,Valais,VS,,0,,,,2020-09-02
