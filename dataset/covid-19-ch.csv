@@ -6023,14 +6023,15 @@ CH,Valais,VS,,0,,,,2020-09-02
 CH,Schaffhausen,SH,166.0,8,,0,0,2020-09-03
 CH,Zug,ZG,361.0,9,,2,,2020-09-03
 CH,Schwyz,SZ,494.0,25,,,,2020-09-03
+CH,Basel-Stadt,BS,1229.0,54,,,,2020-09-03
 CH,Fribourg,FR,1765.0,85,,5,1,2020-09-03
-CH,,,42612.0,2012,67515,102,12,2020-09-03
+CH,Ticino,TI,3551.0,350,,1,0,2020-09-03
+CH,,,42618.0,2012,67515,102,12,2020-09-03
 CH,Aargau,AG,,0,,,,2020-09-03
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-03
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-03
 CH,Berne,BE,,0,,,,2020-09-03
 CH,Basel-Landschaft,BL,,0,,,,2020-09-03
-CH,Basel-Stadt,BS,,0,,,,2020-09-03
 CH,Geneva,GE,,0,,,,2020-09-03
 CH,Glarus,GL,,0,,,,2020-09-03
 CH,Grisons,GR,,0,,,,2020-09-03
@@ -6042,7 +6043,6 @@ CH,Obwalden,OW,,0,,,,2020-09-03
 CH,St. Gallen,SG,,0,,,,2020-09-03
 CH,Solothurn,SO,,0,,,,2020-09-03
 CH,Thurgau,TG,,0,,,,2020-09-03
-CH,Ticino,TI,,0,,,,2020-09-03
 CH,Uri,UR,,0,,,,2020-09-03
 CH,Vaud,VD,,0,,,,2020-09-03
 CH,Valais,VS,,0,,,,2020-09-03
