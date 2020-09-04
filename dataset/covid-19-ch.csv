@@ -6052,10 +6052,12 @@ CH,Schaffhausen,SH,167.0,8,,0,0,2020-09-04
 CH,Zug,ZG,371.0,9,,2,,2020-09-04
 CH,Schwyz,SZ,496.0,25,,,,2020-09-04
 CH,Thurgau,TG,587.0,19,,5,2,2020-09-04
+CH,Solothurn,SO,721.0,18,,0,,2020-09-04
+CH,Lucerne,LU,1083.0,21,,8,1,2020-09-04
 CH,Basel-Stadt,BS,1233.0,54,,5,2,2020-09-04
 CH,Fribourg,FR,1799.0,85,,6,1,2020-09-04
 CH,Ticino,TI,3556.0,350,,1,0,2020-09-04
-CH,,,43080.0,2013,72603,115,14,2020-09-04
+CH,,,43089.0,2013,72603,116,14,2020-09-04
 CH,Aargau,AG,,0,,,,2020-09-04
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-04
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-04
@@ -6065,12 +6067,10 @@ CH,Geneva,GE,,0,,,,2020-09-04
 CH,Glarus,GL,,0,,,,2020-09-04
 CH,Grisons,GR,,0,,,,2020-09-04
 CH,Jura,JU,,0,,,,2020-09-04
-CH,Lucerne,LU,,0,,,,2020-09-04
 CH,Neuchâtel,NE,,0,,,,2020-09-04
 CH,Nidwalden,NW,,0,,,,2020-09-04
 CH,Obwalden,OW,,0,,,,2020-09-04
 CH,St. Gallen,SG,,0,,,,2020-09-04
-CH,Solothurn,SO,,0,,,,2020-09-04
 CH,Vaud,VD,,0,,,,2020-09-04
 CH,Valais,VS,,0,,,,2020-09-04
 CH,Zürich,ZH,,0,,,,2020-09-04
