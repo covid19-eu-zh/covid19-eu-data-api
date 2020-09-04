@@ -6051,7 +6051,8 @@ CH,Schaffhausen,SH,167.0,8,,0,0,2020-09-04
 CH,Zug,ZG,371.0,9,,2,,2020-09-04
 CH,Schwyz,SZ,496.0,25,,,,2020-09-04
 CH,Fribourg,FR,1799.0,85,,6,1,2020-09-04
-CH,,,43063.0,2013,72603,115,14,2020-09-04
+CH,Ticino,TI,3556.0,350,,1,0,2020-09-04
+CH,,,43068.0,2013,72603,115,14,2020-09-04
 CH,Aargau,AG,,0,,,,2020-09-04
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-04
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-04
@@ -6069,7 +6070,6 @@ CH,Obwalden,OW,,0,,,,2020-09-04
 CH,St. Gallen,SG,,0,,,,2020-09-04
 CH,Solothurn,SO,,0,,,,2020-09-04
 CH,Thurgau,TG,,0,,,,2020-09-04
-CH,Ticino,TI,,0,,,,2020-09-04
 CH,Uri,UR,,0,,,,2020-09-04
 CH,Vaud,VD,,0,,,,2020-09-04
 CH,Valais,VS,,0,,,,2020-09-04
