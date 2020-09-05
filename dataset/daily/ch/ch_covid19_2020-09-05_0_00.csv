@@ -1,7 +1,8 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Basel-Stadt,BS,1237.0,54.0,,,,2020-09-05
 CH,Berne,BE,2650.0,99.0,,,,2020-09-05
-CH,,,43349.0,2013.0,72603.0,109.0,14.0,2020-09-05
+CH,Zürich,ZH,6471.0,142.0,,30.0,,2020-09-05
+CH,,,43425.0,2013.0,72603.0,111.0,14.0,2020-09-05
 CH,Aargau,AG,,,,,,2020-09-05
 CH,Appenzell Innerrhoden,AI,,,,,,2020-09-05
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-05
@@ -25,4 +26,3 @@ CH,Uri,UR,,,,,,2020-09-05
 CH,Vaud,VD,,,,,,2020-09-05
 CH,Valais,VS,,,,,,2020-09-05
 CH,Zug,ZG,,,,,,2020-09-05
-CH,Zürich,ZH,,,,,,2020-09-05
