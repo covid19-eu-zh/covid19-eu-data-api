@@ -6128,7 +6128,9 @@ CH,Solothurn,SO,,0,,,,2020-09-06
 CH,Ticino,TI,,0,,,,2020-09-06
 CH,Vaud,VD,,0,,,,2020-09-06
 CH,Valais,VS,,0,,,,2020-09-06
+CH,Appenzell Innerrhoden,AI,25.0,0,,,,2020-09-07
 CH,Uri,UR,137.0,7,,0,,2020-09-07
+CH,Glarus,GL,166.0,13,,0,,2020-09-07
 CH,Schaffhausen,SH,168.0,9,,0,0,2020-09-07
 CH,Zug,ZG,377.0,9,,1,,2020-09-07
 CH,Schwyz,SZ,508.0,25,,,,2020-09-07
@@ -6137,15 +6139,13 @@ CH,Solothurn,SO,731.0,18,,1,,2020-09-07
 CH,Lucerne,LU,1092.0,21,,8,2,2020-09-07
 CH,Basel-Stadt,BS,1247.0,54,,,,2020-09-07
 CH,Fribourg,FR,1898.0,87,,5,1,2020-09-07
+CH,Berne,BE,2681.0,99,,3,2,2020-09-07
 CH,Ticino,TI,3561.0,350,,0,0,2020-09-07
-CH,,,43692.0,2014,72603,111,15,2020-09-07
+CH,,,43700.0,2014,72603,110,15,2020-09-07
 CH,Aargau,AG,,0,,,,2020-09-07
-CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-07
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-07
-CH,Berne,BE,,0,,,,2020-09-07
 CH,Basel-Landschaft,BL,,0,,,,2020-09-07
 CH,Geneva,GE,,0,,,,2020-09-07
-CH,Glarus,GL,,0,,,,2020-09-07
 CH,Grisons,GR,,0,,,,2020-09-07
 CH,Jura,JU,,0,,,,2020-09-07
 CH,Neuchâtel,NE,,0,,,,2020-09-07
