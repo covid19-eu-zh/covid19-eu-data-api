@@ -1,4 +1,5 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Nidwalden,NW,138.0,3.0,,0.0,0.0,2020-09-05
 CH,Jura,JU,277.0,7.0,,4.0,0.0,2020-09-05
 CH,Zug,ZG,371.0,9.0,,2.0,,2020-09-05
 CH,Schwyz,SZ,500.0,25.0,,,,2020-09-05
@@ -14,13 +15,12 @@ CH,Valais,VS,2437.0,155.0,,3.0,0.0,2020-09-05
 CH,Berne,BE,2650.0,99.0,,,,2020-09-05
 CH,Zürich,ZH,6472.0,142.0,,30.0,,2020-09-05
 CH,Vaud,VD,7789.0,434.0,,16.0,3.0,2020-09-05
-CH,,,44028.0,2013.0,72603.0,115.0,13.0,2020-09-05
+CH,,,44032.0,2013.0,72603.0,115.0,13.0,2020-09-05
 CH,Appenzell Innerrhoden,AI,,,,,,2020-09-05
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-05
 CH,Geneva,GE,,,,,,2020-09-05
 CH,Glarus,GL,,,,,,2020-09-05
 CH,Lucerne,LU,,,,,,2020-09-05
-CH,Nidwalden,NW,,,,,,2020-09-05
 CH,Obwalden,OW,,,,,,2020-09-05
 CH,Schaffhausen,SH,,,,,,2020-09-05
 CH,Solothurn,SO,,,,,,2020-09-05
