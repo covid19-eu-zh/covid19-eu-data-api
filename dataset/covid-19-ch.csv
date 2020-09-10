@@ -6191,6 +6191,7 @@ CH,Zug,ZG,386.0,9,,0,,2020-09-09
 CH,Schwyz,SZ,512.0,25,,,,2020-09-09
 CH,Thurgau,TG,600.0,19,,3,2,2020-09-09
 CH,Solothurn,SO,737.0,18,,1,,2020-09-09
+CH,Grisons,GR,1033.0,50,,1,0,2020-09-09
 CH,Basel-Landschaft,BL,1079.0,35,,0,0,2020-09-09
 CH,Lucerne,LU,1097.0,21,,6,1,2020-09-09
 CH,Basel-Stadt,BS,1258.0,54,,,,2020-09-09
@@ -6199,25 +6200,26 @@ CH,Valais,VS,2452.0,155,,4,0,2020-09-09
 CH,Berne,BE,2722.0,99,,6,2,2020-09-09
 CH,Ticino,TI,3567.0,350,,0,0,2020-09-09
 CH,Zürich,ZH,6713.0,143,,29,,2020-09-09
-CH,,,45025.0,2019,72603,115,12,2020-09-09
+CH,,,45030.0,2019,72603,115,12,2020-09-09
 CH,Aargau,AG,,0,,,,2020-09-09
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-09
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-09
 CH,Geneva,GE,,0,,20,1,2020-09-09
 CH,Glarus,GL,,0,,,,2020-09-09
-CH,Grisons,GR,,0,,,,2020-09-09
 CH,Neuchâtel,NE,,0,,,,2020-09-09
 CH,St. Gallen,SG,,0,,,,2020-09-09
 CH,Vaud,VD,,0,,,,2020-09-09
+CH,Schaffhausen,SH,176.0,8,,0,0,2020-09-10
 CH,Schwyz,SZ,518.0,25,,,,2020-09-10
-CH,,,45031.0,2019,72603,115,12,2020-09-10
+CH,Basel-Stadt,BS,1263.0,54,,,,2020-09-10
+CH,Fribourg,FR,2017.0,88,,11,0,2020-09-10
+CH,Ticino,TI,3571.0,350,,0,0,2020-09-10
+CH,,,45088.0,2019,72603,120,12,2020-09-10
 CH,Aargau,AG,,0,,,,2020-09-10
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-10
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-10
 CH,Berne,BE,,0,,,,2020-09-10
 CH,Basel-Landschaft,BL,,0,,,,2020-09-10
-CH,Basel-Stadt,BS,,0,,,,2020-09-10
-CH,Fribourg,FR,,0,,,,2020-09-10
 CH,Geneva,GE,,0,,,,2020-09-10
 CH,Glarus,GL,,0,,,,2020-09-10
 CH,Grisons,GR,,0,,,,2020-09-10
@@ -6227,10 +6229,8 @@ CH,Neuchâtel,NE,,0,,,,2020-09-10
 CH,Nidwalden,NW,,0,,,,2020-09-10
 CH,Obwalden,OW,,0,,,,2020-09-10
 CH,St. Gallen,SG,,0,,,,2020-09-10
-CH,Schaffhausen,SH,,0,,,,2020-09-10
 CH,Solothurn,SO,,0,,,,2020-09-10
 CH,Thurgau,TG,,0,,,,2020-09-10
-CH,Ticino,TI,,0,,,,2020-09-10
 CH,Uri,UR,,0,,,,2020-09-10
 CH,Vaud,VD,,0,,,,2020-09-10
 CH,Valais,VS,,0,,,,2020-09-10
