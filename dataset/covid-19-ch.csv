@@ -6236,13 +6236,17 @@ CH,Aargau,AG,,0,,,,2020-09-10
 CH,Geneva,GE,,0,,,,2020-09-10
 CH,St. Gallen,SG,,0,,9,2,2020-09-10
 CH,Vaud,VD,,0,,,,2020-09-10
+CH,Uri,UR,138.0,7,,0,,2020-09-11
 CH,Schaffhausen,SH,177.0,8,,0,0,2020-09-11
 CH,Zug,ZG,392.0,0,,0,,2020-09-11
 CH,Schwyz,SZ,524.0,25,,,,2020-09-11
+CH,Thurgau,TG,616.0,19,,3,2,2020-09-11
+CH,Solothurn,SO,744.0,18,,1,,2020-09-11
+CH,Lucerne,LU,1115.0,21,,6,1,2020-09-11
 CH,Basel-Stadt,BS,1265.0,54,,2,1,2020-09-11
 CH,Fribourg,FR,2037.0,88,,18,1,2020-09-11
 CH,Ticino,TI,3577.0,350,,0,0,2020-09-11
-CH,,,45535.0,2020,72603,126,15,2020-09-11
+CH,,,45555.0,2020,72603,126,15,2020-09-11
 CH,Aargau,AG,,0,,,,2020-09-11
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-11
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-11
@@ -6252,14 +6256,10 @@ CH,Geneva,GE,,0,,,,2020-09-11
 CH,Glarus,GL,,0,,,,2020-09-11
 CH,Grisons,GR,,0,,,,2020-09-11
 CH,Jura,JU,,0,,,,2020-09-11
-CH,Lucerne,LU,,0,,,,2020-09-11
 CH,Neuchâtel,NE,,0,,,,2020-09-11
 CH,Nidwalden,NW,,0,,,,2020-09-11
 CH,Obwalden,OW,,0,,,,2020-09-11
 CH,St. Gallen,SG,,0,,,,2020-09-11
-CH,Solothurn,SO,,0,,,,2020-09-11
-CH,Thurgau,TG,,0,,,,2020-09-11
-CH,Uri,UR,,0,,,,2020-09-11
 CH,Vaud,VD,,0,,,,2020-09-11
 CH,Valais,VS,,0,,,,2020-09-11
 CH,Zürich,ZH,,0,,,,2020-09-11
