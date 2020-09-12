@@ -6263,10 +6263,11 @@ CH,Neuchâtel,NE,,0,,,,2020-09-11
 CH,Nidwalden,NW,,0,,,,2020-09-11
 CH,St. Gallen,SG,,0,,,,2020-09-11
 CH,Vaud,VD,,0,,,,2020-09-11
+CH,Grisons,GR,1049.0,50,,1,0,2020-09-12
 CH,Basel-Stadt,BS,1265.0,54,,,,2020-09-12
 CH,Berne,BE,2810.0,99,,,,2020-09-12
 CH,Zürich,ZH,6962.0,144,,22,,2020-09-12
-CH,,,45973.0,2021,72603,121,15,2020-09-12
+CH,,,45980.0,2021,72603,121,15,2020-09-12
 CH,Aargau,AG,,0,,,,2020-09-12
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-12
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-12
@@ -6274,7 +6275,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-09-12
 CH,Fribourg,FR,,0,,,,2020-09-12
 CH,Geneva,GE,,0,,,,2020-09-12
 CH,Glarus,GL,,0,,,,2020-09-12
-CH,Grisons,GR,,0,,,,2020-09-12
 CH,Jura,JU,,0,,,,2020-09-12
 CH,Lucerne,LU,,0,,,,2020-09-12
 CH,Neuchâtel,NE,,0,,,,2020-09-12
