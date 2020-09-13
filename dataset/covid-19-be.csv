@@ -35,8 +35,8 @@ BE,Brussels,Brussels,17.0,,,,2020-03-04
 BE,Flanders,VlaamsBrabant,32.0,,,,2020-03-04
 BE,Wallonia,Namur,3.0,,,,2020-03-05
 BE,Wallonia,BrabantWallon,9.0,,,,2020-03-05
-BE,Wallonia,Hainaut,17.0,,,,2020-03-05
 BE,Flanders,OostVlaanderen,17.0,,,,2020-03-05
+BE,Wallonia,Hainaut,17.0,,,,2020-03-05
 BE,Brussels,Brussels,19.0,,,,2020-03-05
 BE,Flanders,Limburg,20.0,,,,2020-03-05
 BE,Flanders,WestVlaanderen,21.0,,,,2020-03-05
@@ -57,8 +57,8 @@ BE,Flanders,WestVlaanderen,38.0,,,,2020-03-06
 BE,Flanders,VlaamsBrabant,66.0,,,,2020-03-06
 BE,Wallonia,BrabantWallon,14.0,,,,2020-03-07
 BE,Wallonia,Hainaut,22.0,,,,2020-03-07
-BE,Brussels,Brussels,33.0,,,,2020-03-07
 BE,Wallonia,Liège,33.0,,,,2020-03-07
+BE,Brussels,Brussels,33.0,,,,2020-03-07
 BE,Flanders,OostVlaanderen,34.0,,,,2020-03-07
 BE,Flanders,Limburg,40.0,,,,2020-03-07
 BE,Flanders,WestVlaanderen,42.0,,,,2020-03-07
@@ -68,10 +68,10 @@ BE,MISSING,MISSING,8.0,,,,2020-03-08
 BE,Wallonia,Namur,10.0,,,,2020-03-08
 BE,Wallonia,BrabantWallon,15.0,,,,2020-03-08
 BE,Wallonia,Hainaut,26.0,,,,2020-03-08
-BE,Flanders,OostVlaanderen,39.0,,,,2020-03-08
 BE,Brussels,Brussels,39.0,,,,2020-03-08
+BE,Flanders,OostVlaanderen,39.0,,,,2020-03-08
 BE,Wallonia,Liège,44.0,,,,2020-03-08
-BE,Flanders,Limburg,48.0,,,,2020-03-08
+BE,Flanders,Limburg,47.0,,,,2020-03-08
 BE,Flanders,Antwerpen,52.0,,,,2020-03-08
 BE,Flanders,WestVlaanderen,53.0,,,,2020-03-08
 BE,Flanders,VlaamsBrabant,72.0,,,,2020-03-08
@@ -81,7 +81,7 @@ BE,Wallonia,BrabantWallon,20.0,,,,2020-03-09
 BE,Wallonia,Hainaut,38.0,,,,2020-03-09
 BE,Flanders,OostVlaanderen,45.0,,,,2020-03-09
 BE,Brussels,Brussels,51.0,,,,2020-03-09
-BE,Flanders,Limburg,54.0,,,,2020-03-09
+BE,Flanders,Limburg,53.0,,,,2020-03-09
 BE,Flanders,WestVlaanderen,56.0,,,,2020-03-09
 BE,Flanders,Antwerpen,60.0,,,,2020-03-09
 BE,Wallonia,Liège,66.0,,,,2020-03-09
@@ -93,7 +93,7 @@ BE,Wallonia,Hainaut,45.0,,,,2020-03-10
 BE,Flanders,WestVlaanderen,59.0,,,,2020-03-10
 BE,Flanders,OostVlaanderen,61.0,,,,2020-03-10
 BE,Brussels,Brussels,64.0,,,,2020-03-10
-BE,Flanders,Limburg,66.0,,,,2020-03-10
+BE,Flanders,Limburg,65.0,,,,2020-03-10
 BE,Flanders,Antwerpen,74.0,,,,2020-03-10
 BE,Wallonia,Liège,76.0,,,,2020-03-10
 BE,Flanders,VlaamsBrabant,98.0,,,,2020-03-10
@@ -105,7 +105,7 @@ BE,Wallonia,Hainaut,58.0,,,,2020-03-11
 BE,Flanders,WestVlaanderen,71.0,,,,2020-03-11
 BE,Brussels,Brussels,83.0,,,,2020-03-11
 BE,Flanders,OostVlaanderen,86.0,,,,2020-03-11
-BE,Flanders,Limburg,88.0,,,,2020-03-11
+BE,Flanders,Limburg,87.0,,,,2020-03-11
 BE,Flanders,Antwerpen,95.0,,,,2020-03-11
 BE,Wallonia,Liège,101.0,,,,2020-03-11
 BE,Flanders,VlaamsBrabant,125.0,,,,2020-03-11
@@ -115,7 +115,7 @@ BE,MISSING,MISSING,24.0,,,,2020-03-12
 BE,Wallonia,BrabantWallon,32.0,,,,2020-03-12
 BE,Wallonia,Hainaut,86.0,,,,2020-03-12
 BE,Flanders,WestVlaanderen,92.0,,,,2020-03-12
-BE,Flanders,Limburg,113.0,,,,2020-03-12
+BE,Flanders,Limburg,112.0,,,,2020-03-12
 BE,Flanders,OostVlaanderen,117.0,,,,2020-03-12
 BE,Brussels,Brussels,118.0,,,,2020-03-12
 BE,Flanders,Antwerpen,128.0,,,,2020-03-12
@@ -127,7 +127,7 @@ BE,MISSING,MISSING,43.0,,,,2020-03-13
 BE,Wallonia,BrabantWallon,45.0,,,,2020-03-13
 BE,Flanders,WestVlaanderen,116.0,,,,2020-03-13
 BE,Wallonia,Hainaut,141.0,,,,2020-03-13
-BE,Flanders,Limburg,143.0,,,,2020-03-13
+BE,Flanders,Limburg,142.0,,,,2020-03-13
 BE,Flanders,OostVlaanderen,146.0,,,,2020-03-13
 BE,Brussels,Brussels,158.0,,,,2020-03-13
 BE,Wallonia,Liège,160.0,,,,2020-03-13
@@ -138,7 +138,7 @@ BE,Wallonia,Namur,31.0,,,,2020-03-14
 BE,Wallonia,BrabantWallon,49.0,,,,2020-03-14
 BE,MISSING,MISSING,50.0,,,,2020-03-14
 BE,Flanders,WestVlaanderen,135.0,,,,2020-03-14
-BE,Flanders,Limburg,154.0,,,,2020-03-14
+BE,Flanders,Limburg,153.0,,,,2020-03-14
 BE,Flanders,OostVlaanderen,159.0,,,,2020-03-14
 BE,Wallonia,Hainaut,176.0,,,,2020-03-14
 BE,Wallonia,Liège,182.0,,,,2020-03-14
@@ -151,7 +151,7 @@ BE,Wallonia,BrabantWallon,55.0,,5,2,2020-03-15
 BE,MISSING,MISSING,60.0,,,,2020-03-15
 BE,Flanders,WestVlaanderen,151.0,,19,3,2020-03-15
 BE,Flanders,OostVlaanderen,178.0,,16,5,2020-03-15
-BE,Flanders,Limburg,191.0,,20,6,2020-03-15
+BE,Flanders,Limburg,190.0,,20,6,2020-03-15
 BE,Wallonia,Liège,197.0,,22,2,2020-03-15
 BE,Wallonia,Hainaut,206.0,,56,13,2020-03-15
 BE,Brussels,Brussels,216.0,,58,11,2020-03-15
@@ -162,7 +162,7 @@ BE,MISSING,MISSING,69.0,,,,2020-03-16
 BE,Wallonia,BrabantWallon,72.0,,8,2,2020-03-16
 BE,Flanders,WestVlaanderen,191.0,,25,6,2020-03-16
 BE,Flanders,OostVlaanderen,214.0,,23,6,2020-03-16
-BE,Flanders,Limburg,226.0,,25,9,2020-03-16
+BE,Flanders,Limburg,225.0,,25,9,2020-03-16
 BE,Wallonia,Liège,245.0,,24,2,2020-03-16
 BE,Wallonia,Hainaut,252.0,,89,19,2020-03-16
 BE,Flanders,Antwerpen,266.0,,63,12,2020-03-16
@@ -176,7 +176,7 @@ BE,Wallonia,BrabantWallon,90.0,,10,2,2020-03-17
 BE,Flanders,WestVlaanderen,247.0,,35,5,2020-03-17
 BE,Flanders,OostVlaanderen,253.0,,32,8,2020-03-17
 BE,Wallonia,Liège,290.0,,29,5,2020-03-17
-BE,Flanders,Limburg,292.0,,34,13,2020-03-17
+BE,Flanders,Limburg,291.0,,34,13,2020-03-17
 BE,Wallonia,Hainaut,304.0,,108,25,2020-03-17
 BE,Brussels,Brussels,307.0,,115,23,2020-03-17
 BE,Flanders,VlaamsBrabant,316.0,,33,3,2020-03-17
@@ -188,7 +188,7 @@ BE,Wallonia,BrabantWallon,115.0,,14,3,2020-03-18
 BE,Flanders,WestVlaanderen,305.0,,50,9,2020-03-18
 BE,Flanders,OostVlaanderen,306.0,,52,12,2020-03-18
 BE,Wallonia,Liège,337.0,,41,2,2020-03-18
-BE,Flanders,Limburg,350.0,,57,18,2020-03-18
+BE,Flanders,Limburg,349.0,,57,18,2020-03-18
 BE,Brussels,Brussels,365.0,,124,29,2020-03-18
 BE,Flanders,Antwerpen,375.0,,125,19,2020-03-18
 BE,Flanders,VlaamsBrabant,377.0,,36,7,2020-03-18
@@ -201,7 +201,7 @@ BE,Flanders,OostVlaanderen,365.0,,59,16,2020-03-19
 BE,Flanders,WestVlaanderen,378.0,,75,10,2020-03-19
 BE,Wallonia,Liège,417.0,,59,5,2020-03-19
 BE,Brussels,Brussels,420.0,,156,35,2020-03-19
-BE,Flanders,Limburg,447.0,,77,18,2020-03-19
+BE,Flanders,Limburg,446.0,,77,18,2020-03-19
 BE,Flanders,VlaamsBrabant,447.0,,50,11,2020-03-19
 BE,Wallonia,Hainaut,453.0,,167,36,2020-03-19
 BE,Flanders,Antwerpen,457.0,,155,22,2020-03-19
@@ -216,7 +216,7 @@ BE,Wallonia,Liège,490.0,,78,18,2020-03-20
 BE,Flanders,VlaamsBrabant,524.0,,69,18,2020-03-20
 BE,Flanders,Antwerpen,524.0,,185,32,2020-03-20
 BE,Wallonia,Hainaut,532.0,,216,38,2020-03-20
-BE,Flanders,Limburg,558.0,,114,27,2020-03-20
+BE,Flanders,Limburg,557.0,,114,27,2020-03-20
 BE,Wallonia,Luxembourg,98.0,,36,9,2020-03-21
 BE,Wallonia,Namur,108.0,,22,4,2020-03-21
 BE,MISSING,MISSING,142.0,,,,2020-03-21
@@ -228,7 +228,7 @@ BE,Wallonia,Liège,564.0,,124,27,2020-03-21
 BE,Flanders,VlaamsBrabant,571.0,,84,20,2020-03-21
 BE,Flanders,Antwerpen,587.0,,219,38,2020-03-21
 BE,Wallonia,Hainaut,590.0,,224,50,2020-03-21
-BE,Flanders,Limburg,620.0,,146,29,2020-03-21
+BE,Flanders,Limburg,619.0,,146,29,2020-03-21
 BE,Wallonia,Luxembourg,110.0,,44,11,2020-03-22
 BE,Wallonia,Namur,124.0,,27,7,2020-03-22
 BE,MISSING,MISSING,157.0,,,,2020-03-22
@@ -240,7 +240,7 @@ BE,Flanders,VlaamsBrabant,614.0,,91,17,2020-03-22
 BE,Wallonia,Liège,624.0,,171,29,2020-03-22
 BE,Flanders,Antwerpen,642.0,,258,42,2020-03-22
 BE,Wallonia,Hainaut,654.0,,268,59,2020-03-22
-BE,Flanders,Limburg,665.0,,166,30,2020-03-22
+BE,Flanders,Limburg,664.0,,166,30,2020-03-22
 BE,Wallonia,Luxembourg,154.0,,47,18,2020-03-23
 BE,Wallonia,Namur,156.0,,34,7,2020-03-23
 BE,MISSING,MISSING,169.0,,,,2020-03-23
@@ -251,7 +251,7 @@ BE,Flanders,WestVlaanderen,716.0,,180,31,2020-03-23
 BE,Flanders,VlaamsBrabant,746.0,,136,25,2020-03-23
 BE,Wallonia,Hainaut,775.0,,308,65,2020-03-23
 BE,Wallonia,Liège,790.0,,194,31,2020-03-23
-BE,Flanders,Limburg,810.0,,181,38,2020-03-23
+BE,Flanders,Limburg,809.0,,181,38,2020-03-23
 BE,Flanders,Antwerpen,836.0,,308,56,2020-03-23
 BE,MISSING,MISSING,177.0,,,,2020-03-24
 BE,Wallonia,Luxembourg,177.0,,52,18,2020-03-24
@@ -262,7 +262,7 @@ BE,Brussels,Brussels,835.0,,319,77,2020-03-24
 BE,Flanders,WestVlaanderen,835.0,,216,37,2020-03-24
 BE,Flanders,VlaamsBrabant,851.0,,148,37,2020-03-24
 BE,Wallonia,Hainaut,905.0,,336,77,2020-03-24
-BE,Flanders,Limburg,945.0,,235,44,2020-03-24
+BE,Flanders,Limburg,944.0,,235,44,2020-03-24
 BE,Wallonia,Liège,953.0,,196,38,2020-03-24
 BE,Flanders,Antwerpen,1008.0,,373,70,2020-03-24
 BE,MISSING,MISSING,189.0,,,,2020-03-25
@@ -274,7 +274,7 @@ BE,Brussels,Brussels,977.0,,415,98,2020-03-25
 BE,Flanders,VlaamsBrabant,979.0,,172,42,2020-03-25
 BE,Flanders,WestVlaanderen,983.0,,298,55,2020-03-25
 BE,Wallonia,Hainaut,1019.0,,377,83,2020-03-25
-BE,Flanders,Limburg,1070.0,,290,59,2020-03-25
+BE,Flanders,Limburg,1069.0,,290,59,2020-03-25
 BE,Wallonia,Liège,1091.0,,252,58,2020-03-25
 BE,Flanders,Antwerpen,1179.0,,495,98,2020-03-25
 BE,MISSING,MISSING,206.0,,,,2020-03-26
@@ -286,8 +286,8 @@ BE,Brussels,Brussels,1126.0,,482,114,2020-03-26
 BE,Flanders,OostVlaanderen,1129.0,,326,85,2020-03-26
 BE,Wallonia,Hainaut,1131.0,,416,95,2020-03-26
 BE,Flanders,WestVlaanderen,1139.0,,352,66,2020-03-26
+BE,Flanders,Limburg,1248.0,,323,71,2020-03-26
 BE,Wallonia,Liège,1248.0,,286,68,2020-03-26
-BE,Flanders,Limburg,1249.0,,323,71,2020-03-26
 BE,Flanders,Antwerpen,1362.0,,522,96,2020-03-26
 BE,MISSING,MISSING,230.0,,,,2020-03-27
 BE,Wallonia,Luxembourg,273.0,,84,18,2020-03-27
@@ -299,7 +299,7 @@ BE,Brussels,Brussels,1312.0,,581,118,2020-03-27
 BE,Flanders,WestVlaanderen,1324.0,,413,77,2020-03-27
 BE,Wallonia,Liège,1345.0,,347,88,2020-03-27
 BE,Flanders,OostVlaanderen,1350.0,,393,99,2020-03-27
-BE,Flanders,Limburg,1430.0,,396,78,2020-03-27
+BE,Flanders,Limburg,1429.0,,396,78,2020-03-27
 BE,Flanders,Antwerpen,1552.0,,627,122,2020-03-27
 BE,MISSING,MISSING,243.0,,,,2020-03-28
 BE,Wallonia,Luxembourg,299.0,,90,17,2020-03-28
@@ -311,7 +311,7 @@ BE,Wallonia,Hainaut,1386.0,,548,115,2020-03-28
 BE,Flanders,WestVlaanderen,1401.0,,459,89,2020-03-28
 BE,Flanders,OostVlaanderen,1459.0,,456,103,2020-03-28
 BE,Brussels,Brussels,1459.0,,630,136,2020-03-28
-BE,Flanders,Limburg,1526.0,,418,89,2020-03-28
+BE,Flanders,Limburg,1525.0,,418,89,2020-03-28
 BE,Flanders,Antwerpen,1652.0,,725,140,2020-03-28
 BE,MISSING,MISSING,256.0,,,,2020-03-29
 BE,Wallonia,Luxembourg,313.0,,101,17,2020-03-29
@@ -323,7 +323,7 @@ BE,Flanders,WestVlaanderen,1463.0,,516,94,2020-03-29
 BE,Wallonia,Hainaut,1494.0,,610,126,2020-03-29
 BE,Flanders,OostVlaanderen,1529.0,,514,113,2020-03-29
 BE,Brussels,Brussels,1552.0,,656,131,2020-03-29
-BE,Flanders,Limburg,1598.0,,457,101,2020-03-29
+BE,Flanders,Limburg,1597.0,,457,101,2020-03-29
 BE,Flanders,Antwerpen,1754.0,,770,151,2020-03-29
 BE,MISSING,MISSING,284.0,,,,2020-03-30
 BE,Wallonia,Luxembourg,369.0,,107,18,2020-03-30
@@ -335,7 +335,7 @@ BE,Flanders,WestVlaanderen,1667.0,,538,91,2020-03-30
 BE,Wallonia,Liège,1674.0,,476,114,2020-03-30
 BE,Brussels,Brussels,1690.0,,790,164,2020-03-30
 BE,Flanders,OostVlaanderen,1747.0,,570,121,2020-03-30
-BE,Flanders,Limburg,1829.0,,481,110,2020-03-30
+BE,Flanders,Limburg,1828.0,,481,110,2020-03-30
 BE,Flanders,Antwerpen,1985.0,,818,162,2020-03-30
 BE,MISSING,MISSING,302.0,,,,2020-03-31
 BE,Wallonia,BrabantWallon,448.0,,64,18,2020-03-31
@@ -347,7 +347,7 @@ BE,Brussels,Brussels,1868.0,,818,176,2020-03-31
 BE,Wallonia,Liège,1881.0,,500,119,2020-03-31
 BE,Wallonia,Hainaut,1881.0,,637,132,2020-03-31
 BE,Flanders,OostVlaanderen,1965.0,,591,130,2020-03-31
-BE,Flanders,Limburg,1995.0,,512,112,2020-03-31
+BE,Flanders,Limburg,1994.0,,512,112,2020-03-31
 BE,Flanders,Antwerpen,2160.0,,816,179,2020-03-31
 BE,Flanders,,,1,,,2020-03-31
 BE,MISSING,MISSING,326.0,,,,2020-04-01
@@ -360,7 +360,7 @@ BE,Brussels,Brussels,2014.0,,843,183,2020-04-01
 BE,Wallonia,Hainaut,2015.0,,677,139,2020-04-01
 BE,Wallonia,Liège,2056.0,,523,130,2020-04-01
 BE,Flanders,OostVlaanderen,2139.0,,614,132,2020-04-01
-BE,Flanders,Limburg,2165.0,,503,109,2020-04-01
+BE,Flanders,Limburg,2164.0,,503,109,2020-04-01
 BE,Flanders,Antwerpen,2338.0,,862,202,2020-04-01
 BE,MISSING,MISSING,355.0,,,,2020-04-02
 BE,Wallonia,BrabantWallon,517.0,,65,19,2020-04-02
@@ -372,7 +372,7 @@ BE,Brussels,Brussels,2169.0,,902,196,2020-04-02
 BE,Flanders,WestVlaanderen,2172.0,,578,109,2020-04-02
 BE,Wallonia,Liège,2250.0,,570,135,2020-04-02
 BE,Flanders,OostVlaanderen,2292.0,,616,142,2020-04-02
-BE,Flanders,Limburg,2332.0,,500,105,2020-04-02
+BE,Flanders,Limburg,2331.0,,500,105,2020-04-02
 BE,Flanders,Antwerpen,2504.0,,875,211,2020-04-02
 BE,MISSING,MISSING,381.0,,,,2020-04-03
 BE,Wallonia,BrabantWallon,562.0,,64,17,2020-04-03
@@ -384,7 +384,7 @@ BE,Brussels,Brussels,2336.0,,914,196,2020-04-03
 BE,Wallonia,Hainaut,2346.0,,705,155,2020-04-03
 BE,Wallonia,Liège,2432.0,,573,145,2020-04-03
 BE,Flanders,OostVlaanderen,2486.0,,642,150,2020-04-03
-BE,Flanders,Limburg,2589.0,,516,105,2020-04-03
+BE,Flanders,Limburg,2588.0,,516,105,2020-04-03
 BE,Flanders,Antwerpen,2690.0,,851,214,2020-04-03
 BE,MISSING,MISSING,405.0,,,,2020-04-04
 BE,Wallonia,BrabantWallon,576.0,,57,17,2020-04-04
@@ -396,7 +396,7 @@ BE,Wallonia,Hainaut,2418.0,,706,154,2020-04-04
 BE,Brussels,Brussels,2438.0,,888,197,2020-04-04
 BE,Wallonia,Liège,2547.0,,585,147,2020-04-04
 BE,Flanders,OostVlaanderen,2617.0,,644,153,2020-04-04
-BE,Flanders,Limburg,2675.0,,506,109,2020-04-04
+BE,Flanders,Limburg,2674.0,,506,109,2020-04-04
 BE,Flanders,Antwerpen,2798.0,,916,230,2020-04-04
 BE,Flanders,,,5,,,2020-04-04
 BE,MISSING,MISSING,428.0,,,,2020-04-05
@@ -408,7 +408,7 @@ BE,Flanders,WestVlaanderen,2442.0,,661,128,2020-04-05
 BE,Wallonia,Hainaut,2496.0,,728,149,2020-04-05
 BE,Brussels,Brussels,2520.0,,899,203,2020-04-05
 BE,Wallonia,Liège,2643.0,,603,152,2020-04-05
-BE,Flanders,Limburg,2722.0,,485,103,2020-04-05
+BE,Flanders,Limburg,2721.0,,485,103,2020-04-05
 BE,Flanders,OostVlaanderen,2727.0,,659,151,2020-04-05
 BE,Flanders,Antwerpen,2877.0,,939,222,2020-04-05
 BE,MISSING,MISSING,467.0,,,,2020-04-06
@@ -421,7 +421,7 @@ BE,Brussels,Brussels,2689.0,,921,203,2020-04-06
 BE,Wallonia,Hainaut,2720.0,,726,145,2020-04-06
 BE,Wallonia,Liège,2833.0,,619,151,2020-04-06
 BE,Flanders,OostVlaanderen,2940.0,,691,154,2020-04-06
-BE,Flanders,Limburg,2980.0,,502,97,2020-04-06
+BE,Flanders,Limburg,2979.0,,502,97,2020-04-06
 BE,Flanders,Antwerpen,3124.0,,965,223,2020-04-06
 BE,MISSING,MISSING,499.0,,,,2020-04-07
 BE,Wallonia,BrabantWallon,673.0,,66,16,2020-04-07
@@ -433,7 +433,7 @@ BE,Brussels,Brussels,2829.0,,938,202,2020-04-07
 BE,Wallonia,Hainaut,2873.0,,707,147,2020-04-07
 BE,Wallonia,Liège,3035.0,,612,153,2020-04-07
 BE,Flanders,OostVlaanderen,3086.0,,691,157,2020-04-07
-BE,Flanders,Limburg,3201.0,,491,98,2020-04-07
+BE,Flanders,Limburg,3200.0,,491,98,2020-04-07
 BE,Flanders,Antwerpen,3303.0,,960,230,2020-04-07
 BE,MISSING,MISSING,533.0,,,,2020-04-08
 BE,Wallonia,BrabantWallon,713.0,,67,15,2020-04-08
@@ -445,7 +445,7 @@ BE,Brussels,Brussels,3003.0,,911,193,2020-04-08
 BE,Wallonia,Hainaut,3039.0,,682,150,2020-04-08
 BE,Wallonia,Liège,3195.0,,622,161,2020-04-08
 BE,Flanders,OostVlaanderen,3255.0,,670,161,2020-04-08
-BE,Flanders,Limburg,3415.0,,480,96,2020-04-08
+BE,Flanders,Limburg,3414.0,,480,96,2020-04-08
 BE,Flanders,Antwerpen,3519.0,,940,229,2020-04-08
 BE,MISSING,MISSING,576.0,,,,2020-04-09
 BE,Wallonia,BrabantWallon,766.0,,69,13,2020-04-09
@@ -457,7 +457,7 @@ BE,Flanders,WestVlaanderen,3276.0,,644,122,2020-04-09
 BE,Wallonia,Hainaut,3311.0,,712,154,2020-04-09
 BE,Wallonia,Liège,3431.0,,639,161,2020-04-09
 BE,Flanders,OostVlaanderen,3618.0,,677,163,2020-04-09
-BE,Flanders,Limburg,3670.0,,475,93,2020-04-09
+BE,Flanders,Limburg,3669.0,,475,93,2020-04-09
 BE,Flanders,Antwerpen,3821.0,,917,219,2020-04-09
 BE,MISSING,MISSING,624.0,,,,2020-04-10
 BE,Wallonia,BrabantWallon,800.0,,68,15,2020-04-10
@@ -468,7 +468,7 @@ BE,Brussels,Brussels,3306.0,,902,197,2020-04-10
 BE,Wallonia,Hainaut,3558.0,,741,146,2020-04-10
 BE,Flanders,WestVlaanderen,3619.0,,641,116,2020-04-10
 BE,Wallonia,Liège,3665.0,,629,156,2020-04-10
-BE,Flanders,Limburg,3994.0,,481,101,2020-04-10
+BE,Flanders,Limburg,3993.0,,481,101,2020-04-10
 BE,Flanders,OostVlaanderen,4019.0,,691,167,2020-04-10
 BE,Flanders,Antwerpen,4085.0,,907,216,2020-04-10
 BE,MISSING,MISSING,642.0,,,,2020-04-11
@@ -480,7 +480,7 @@ BE,Flanders,VlaamsBrabant,3441.0,,285,74,2020-04-11
 BE,Wallonia,Hainaut,3617.0,,764,145,2020-04-11
 BE,Wallonia,Liège,3803.0,,593,155,2020-04-11
 BE,Flanders,WestVlaanderen,3816.0,,633,119,2020-04-11
-BE,Flanders,Limburg,4087.0,,450,94,2020-04-11
+BE,Flanders,Limburg,4086.0,,450,94,2020-04-11
 BE,Flanders,OostVlaanderen,4113.0,,652,172,2020-04-11
 BE,Flanders,Antwerpen,4178.0,,895,208,2020-04-11
 BE,Flanders,,,7,,,2020-04-11
@@ -493,7 +493,7 @@ BE,Flanders,VlaamsBrabant,3501.0,,293,75,2020-04-12
 BE,Wallonia,Hainaut,3661.0,,748,140,2020-04-12
 BE,Flanders,WestVlaanderen,3867.0,,631,113,2020-04-12
 BE,Wallonia,Liège,3879.0,,587,155,2020-04-12
-BE,Flanders,Limburg,4140.0,,451,96,2020-04-12
+BE,Flanders,Limburg,4139.0,,451,96,2020-04-12
 BE,Flanders,OostVlaanderen,4155.0,,673,179,2020-04-12
 BE,Flanders,Antwerpen,4264.0,,877,212,2020-04-12
 BE,MISSING,MISSING,669.0,,,,2020-04-13
@@ -505,7 +505,7 @@ BE,Flanders,VlaamsBrabant,3587.0,,295,70,2020-04-13
 BE,Wallonia,Hainaut,3716.0,,758,137,2020-04-13
 BE,Flanders,WestVlaanderen,3920.0,,656,123,2020-04-13
 BE,Wallonia,Liège,3942.0,,582,153,2020-04-13
-BE,Flanders,Limburg,4180.0,,450,95,2020-04-13
+BE,Flanders,Limburg,4179.0,,450,95,2020-04-13
 BE,Flanders,OostVlaanderen,4219.0,,680,164,2020-04-13
 BE,Flanders,Antwerpen,4329.0,,856,212,2020-04-13
 BE,MISSING,MISSING,768.0,,,,2020-04-14
@@ -518,7 +518,7 @@ BE,Wallonia,Hainaut,3898.0,,763,134,2020-04-14
 BE,Flanders,WestVlaanderen,4060.0,,654,123,2020-04-14
 BE,Wallonia,Liège,4154.0,,575,150,2020-04-14
 BE,Flanders,OostVlaanderen,4357.0,,666,152,2020-04-14
-BE,Flanders,Limburg,4368.0,,463,98,2020-04-14
+BE,Flanders,Limburg,4367.0,,463,98,2020-04-14
 BE,Flanders,Antwerpen,4472.0,,843,207,2020-04-14
 BE,MISSING,MISSING,820.0,,,,2020-04-15
 BE,Wallonia,BrabantWallon,925.0,,67,12,2020-04-15
@@ -528,7 +528,7 @@ BE,Flanders,VlaamsBrabant,3792.0,,287,66,2020-04-15
 BE,Brussels,Brussels,3833.0,,857,174,2020-04-15
 BE,Wallonia,Hainaut,4043.0,,730,137,2020-04-15
 BE,Flanders,WestVlaanderen,4173.0,,656,123,2020-04-15
-BE,Flanders,Limburg,4464.0,,439,93,2020-04-15
+BE,Flanders,Limburg,4463.0,,439,93,2020-04-15
 BE,Flanders,OostVlaanderen,4514.0,,650,155,2020-04-15
 BE,Wallonia,Liège,4605.0,,552,147,2020-04-15
 BE,Flanders,Antwerpen,4647.0,,803,205,2020-04-15
@@ -541,7 +541,7 @@ BE,Flanders,VlaamsBrabant,3920.0,,272,60,2020-04-16
 BE,Brussels,Brussels,4024.0,,822,172,2020-04-16
 BE,Wallonia,Hainaut,4265.0,,714,135,2020-04-16
 BE,Flanders,WestVlaanderen,4356.0,,618,114,2020-04-16
-BE,Flanders,Limburg,4590.0,,411,91,2020-04-16
+BE,Flanders,Limburg,4589.0,,411,91,2020-04-16
 BE,Wallonia,Liège,4742.0,,519,142,2020-04-16
 BE,Flanders,OostVlaanderen,4754.0,,651,156,2020-04-16
 BE,Flanders,Antwerpen,4858.0,,817,200,2020-04-16
@@ -554,7 +554,7 @@ BE,Flanders,VlaamsBrabant,4036.0,,263,59,2020-04-17
 BE,Brussels,Brussels,4216.0,,824,174,2020-04-17
 BE,Wallonia,Hainaut,4439.0,,734,128,2020-04-17
 BE,Flanders,WestVlaanderen,4507.0,,610,116,2020-04-17
-BE,Flanders,Limburg,4724.0,,392,92,2020-04-17
+BE,Flanders,Limburg,4723.0,,392,92,2020-04-17
 BE,Flanders,OostVlaanderen,4925.0,,625,144,2020-04-17
 BE,Wallonia,Liège,4957.0,,501,135,2020-04-17
 BE,Flanders,Antwerpen,4968.0,,804,193,2020-04-17
@@ -566,7 +566,7 @@ BE,Flanders,VlaamsBrabant,4068.0,,244,58,2020-04-18
 BE,Brussels,Brussels,4263.0,,807,173,2020-04-18
 BE,Flanders,WestVlaanderen,4563.0,,584,113,2020-04-18
 BE,Wallonia,Hainaut,4660.0,,701,126,2020-04-18
-BE,Flanders,Limburg,4773.0,,381,88,2020-04-18
+BE,Flanders,Limburg,4772.0,,381,88,2020-04-18
 BE,Flanders,OostVlaanderen,4966.0,,587,130,2020-04-18
 BE,Flanders,Antwerpen,5031.0,,776,188,2020-04-18
 BE,Wallonia,Liège,5102.0,,490,128,2020-04-18
@@ -578,7 +578,7 @@ BE,Flanders,VlaamsBrabant,4091.0,,255,57,2020-04-19
 BE,Brussels,Brussels,4299.0,,798,175,2020-04-19
 BE,Flanders,WestVlaanderen,4596.0,,586,108,2020-04-19
 BE,Wallonia,Hainaut,4722.0,,695,121,2020-04-19
-BE,Flanders,Limburg,4802.0,,381,86,2020-04-19
+BE,Flanders,Limburg,4801.0,,381,86,2020-04-19
 BE,Flanders,OostVlaanderen,4991.0,,603,137,2020-04-19
 BE,Flanders,Antwerpen,5082.0,,793,184,2020-04-19
 BE,Wallonia,Liège,5195.0,,504,128,2020-04-19
@@ -590,7 +590,7 @@ BE,Flanders,VlaamsBrabant,4148.0,,248,56,2020-04-20
 BE,Brussels,Brussels,4450.0,,802,183,2020-04-20
 BE,Flanders,WestVlaanderen,4728.0,,603,110,2020-04-20
 BE,Wallonia,Hainaut,4892.0,,721,121,2020-04-20
-BE,Flanders,Limburg,4931.0,,376,84,2020-04-20
+BE,Flanders,Limburg,4930.0,,376,84,2020-04-20
 BE,Flanders,OostVlaanderen,5108.0,,617,143,2020-04-20
 BE,Flanders,Antwerpen,5249.0,,789,176,2020-04-20
 BE,Wallonia,Liège,5376.0,,502,128,2020-04-20
@@ -602,7 +602,7 @@ BE,Wallonia,Namur,1635.0,,184,39,2020-04-21
 BE,Flanders,VlaamsBrabant,4253.0,,242,56,2020-04-21
 BE,Brussels,Brussels,4564.0,,747,168,2020-04-21
 BE,Flanders,WestVlaanderen,4878.0,,574,105,2020-04-21
-BE,Flanders,Limburg,5008.0,,360,77,2020-04-21
+BE,Flanders,Limburg,5007.0,,360,77,2020-04-21
 BE,Flanders,OostVlaanderen,5189.0,,597,136,2020-04-21
 BE,Wallonia,Hainaut,5199.0,,693,116,2020-04-21
 BE,Flanders,Antwerpen,5433.0,,747,170,2020-04-21
@@ -614,7 +614,7 @@ BE,Wallonia,Namur,1666.0,,181,42,2020-04-22
 BE,Flanders,VlaamsBrabant,4358.0,,220,51,2020-04-22
 BE,Brussels,Brussels,4628.0,,723,170,2020-04-22
 BE,Flanders,WestVlaanderen,4957.0,,554,91,2020-04-22
-BE,Flanders,Limburg,5064.0,,341,79,2020-04-22
+BE,Flanders,Limburg,5063.0,,341,79,2020-04-22
 BE,Flanders,OostVlaanderen,5266.0,,542,135,2020-04-22
 BE,Wallonia,Hainaut,5299.0,,676,113,2020-04-22
 BE,Flanders,Antwerpen,5535.0,,702,164,2020-04-22
@@ -626,7 +626,7 @@ BE,Wallonia,Namur,1692.0,,168,43,2020-04-23
 BE,Flanders,VlaamsBrabant,4419.0,,210,49,2020-04-23
 BE,Brussels,Brussels,4719.0,,718,165,2020-04-23
 BE,Flanders,WestVlaanderen,5058.0,,535,91,2020-04-23
-BE,Flanders,Limburg,5128.0,,318,74,2020-04-23
+BE,Flanders,Limburg,5127.0,,318,74,2020-04-23
 BE,Flanders,OostVlaanderen,5346.0,,522,132,2020-04-23
 BE,Wallonia,Hainaut,5462.0,,653,115,2020-04-23
 BE,Flanders,Antwerpen,5667.0,,681,163,2020-04-23
@@ -638,7 +638,7 @@ BE,Wallonia,Namur,1753.0,,152,37,2020-04-24
 BE,Flanders,VlaamsBrabant,4524.0,,206,52,2020-04-24
 BE,Brussels,Brussels,4883.0,,706,165,2020-04-24
 BE,Flanders,WestVlaanderen,5113.0,,510,88,2020-04-24
-BE,Flanders,Limburg,5204.0,,315,76,2020-04-24
+BE,Flanders,Limburg,5203.0,,315,76,2020-04-24
 BE,Flanders,OostVlaanderen,5430.0,,481,130,2020-04-24
 BE,Wallonia,Hainaut,5534.0,,648,103,2020-04-24
 BE,Flanders,Antwerpen,5751.0,,650,154,2020-04-24
@@ -650,7 +650,7 @@ BE,Wallonia,Namur,1795.0,,142,35,2020-04-25
 BE,Flanders,VlaamsBrabant,4544.0,,200,50,2020-04-25
 BE,Brussels,Brussels,4915.0,,667,158,2020-04-25
 BE,Flanders,WestVlaanderen,5131.0,,480,86,2020-04-25
-BE,Flanders,Limburg,5224.0,,311,76,2020-04-25
+BE,Flanders,Limburg,5223.0,,311,76,2020-04-25
 BE,Flanders,OostVlaanderen,5470.0,,463,124,2020-04-25
 BE,Wallonia,Hainaut,5577.0,,583,94,2020-04-25
 BE,Flanders,Antwerpen,5789.0,,621,154,2020-04-25
@@ -663,7 +663,7 @@ BE,Wallonia,Namur,1806.0,,144,32,2020-04-26
 BE,Flanders,VlaamsBrabant,4562.0,,198,48,2020-04-26
 BE,Brussels,Brussels,4928.0,,671,156,2020-04-26
 BE,Flanders,WestVlaanderen,5149.0,,483,83,2020-04-26
-BE,Flanders,Limburg,5247.0,,308,79,2020-04-26
+BE,Flanders,Limburg,5246.0,,308,79,2020-04-26
 BE,Flanders,OostVlaanderen,5483.0,,462,121,2020-04-26
 BE,Wallonia,Hainaut,5615.0,,593,98,2020-04-26
 BE,Flanders,Antwerpen,5828.0,,607,157,2020-04-26
@@ -676,7 +676,7 @@ BE,Wallonia,Namur,1851.0,,144,31,2020-04-27
 BE,Flanders,VlaamsBrabant,4635.0,,189,40,2020-04-27
 BE,Brussels,Brussels,5016.0,,679,157,2020-04-27
 BE,Flanders,WestVlaanderen,5220.0,,474,84,2020-04-27
-BE,Flanders,Limburg,5306.0,,312,79,2020-04-27
+BE,Flanders,Limburg,5305.0,,312,79,2020-04-27
 BE,Flanders,OostVlaanderen,5578.0,,466,125,2020-04-27
 BE,Wallonia,Hainaut,5705.0,,599,92,2020-04-27
 BE,Flanders,Antwerpen,5980.0,,606,145,2020-04-27
@@ -688,7 +688,7 @@ BE,Wallonia,Namur,1881.0,,134,27,2020-04-28
 BE,Flanders,VlaamsBrabant,4690.0,,176,35,2020-04-28
 BE,Brussels,Brussels,5057.0,,651,147,2020-04-28
 BE,Flanders,WestVlaanderen,5275.0,,443,78,2020-04-28
-BE,Flanders,Limburg,5350.0,,295,72,2020-04-28
+BE,Flanders,Limburg,5349.0,,295,72,2020-04-28
 BE,Flanders,OostVlaanderen,5663.0,,424,111,2020-04-28
 BE,Wallonia,Hainaut,5753.0,,543,83,2020-04-28
 BE,Wallonia,Liège,6080.0,,364,85,2020-04-28
@@ -700,7 +700,7 @@ BE,Wallonia,Namur,1916.0,,130,25,2020-04-29
 BE,Flanders,VlaamsBrabant,4720.0,,170,30,2020-04-29
 BE,Brussels,Brussels,5124.0,,648,143,2020-04-29
 BE,Flanders,WestVlaanderen,5330.0,,431,80,2020-04-29
-BE,Flanders,Limburg,5409.0,,287,67,2020-04-29
+BE,Flanders,Limburg,5408.0,,287,67,2020-04-29
 BE,Flanders,OostVlaanderen,5714.0,,401,106,2020-04-29
 BE,Wallonia,Hainaut,5789.0,,529,80,2020-04-29
 BE,Wallonia,Liège,6123.0,,324,81,2020-04-29
@@ -712,7 +712,7 @@ BE,Wallonia,Namur,1937.0,,128,26,2020-04-30
 BE,Flanders,VlaamsBrabant,4759.0,,153,30,2020-04-30
 BE,Brussels,Brussels,5186.0,,615,140,2020-04-30
 BE,Flanders,WestVlaanderen,5385.0,,397,80,2020-04-30
-BE,Flanders,Limburg,5455.0,,272,59,2020-04-30
+BE,Flanders,Limburg,5454.0,,272,59,2020-04-30
 BE,Flanders,OostVlaanderen,5762.0,,369,101,2020-04-30
 BE,Wallonia,Hainaut,5855.0,,509,84,2020-04-30
 BE,Wallonia,Liège,6169.0,,302,79,2020-04-30
@@ -724,7 +724,7 @@ BE,Wallonia,Namur,1945.0,,115,26,2020-05-01
 BE,Flanders,VlaamsBrabant,4779.0,,136,30,2020-05-01
 BE,Brussels,Brussels,5197.0,,574,129,2020-05-01
 BE,Flanders,WestVlaanderen,5410.0,,370,74,2020-05-01
-BE,Flanders,Limburg,5479.0,,255,57,2020-05-01
+BE,Flanders,Limburg,5478.0,,255,57,2020-05-01
 BE,Flanders,OostVlaanderen,5782.0,,344,94,2020-05-01
 BE,Wallonia,Hainaut,5871.0,,429,68,2020-05-01
 BE,Wallonia,Liège,6196.0,,273,66,2020-05-01
@@ -736,7 +736,7 @@ BE,Wallonia,Namur,1958.0,,115,24,2020-05-02
 BE,Flanders,VlaamsBrabant,4814.0,,139,28,2020-05-02
 BE,Brussels,Brussels,5215.0,,558,124,2020-05-02
 BE,Flanders,WestVlaanderen,5441.0,,352,72,2020-05-02
-BE,Flanders,Limburg,5506.0,,252,61,2020-05-02
+BE,Flanders,Limburg,5505.0,,252,61,2020-05-02
 BE,Flanders,OostVlaanderen,5807.0,,349,86,2020-05-02
 BE,Wallonia,Hainaut,5918.0,,425,73,2020-05-02
 BE,Wallonia,Liège,6215.0,,276,69,2020-05-02
@@ -747,7 +747,7 @@ BE,Wallonia,Namur,1972.0,,113,24,2020-05-03
 BE,Flanders,VlaamsBrabant,4827.0,,140,28,2020-05-03
 BE,Brussels,Brussels,5230.0,,540,120,2020-05-03
 BE,Flanders,WestVlaanderen,5456.0,,351,68,2020-05-03
-BE,Flanders,Limburg,5513.0,,253,57,2020-05-03
+BE,Flanders,Limburg,5512.0,,253,57,2020-05-03
 BE,Flanders,OostVlaanderen,5816.0,,333,79,2020-05-03
 BE,Wallonia,Hainaut,5926.0,,428,74,2020-05-03
 BE,Wallonia,Liège,6225.0,,269,65,2020-05-03
@@ -759,7 +759,7 @@ BE,Wallonia,BrabantWallon,1309.0,,39,11,2020-05-04
 BE,Wallonia,Namur,2008.0,,121,23,2020-05-04
 BE,Flanders,VlaamsBrabant,4876.0,,141,28,2020-05-04
 BE,Brussels,Brussels,5291.0,,544,121,2020-05-04
-BE,Flanders,Limburg,5556.0,,260,57,2020-05-04
+BE,Flanders,Limburg,5555.0,,260,57,2020-05-04
 BE,Flanders,WestVlaanderen,5590.0,,353,70,2020-05-04
 BE,Flanders,OostVlaanderen,5876.0,,346,74,2020-05-04
 BE,Wallonia,Hainaut,5970.0,,431,70,2020-05-04
@@ -771,7 +771,7 @@ BE,Wallonia,BrabantWallon,1320.0,,29,9,2020-05-05
 BE,Wallonia,Namur,2043.0,,109,20,2020-05-05
 BE,Flanders,VlaamsBrabant,4913.0,,132,27,2020-05-05
 BE,Brussels,Brussels,5353.0,,502,109,2020-05-05
-BE,Flanders,Limburg,5592.0,,251,53,2020-05-05
+BE,Flanders,Limburg,5591.0,,251,53,2020-05-05
 BE,Flanders,WestVlaanderen,5661.0,,339,64,2020-05-05
 BE,Flanders,OostVlaanderen,5937.0,,320,73,2020-05-05
 BE,Wallonia,Hainaut,6019.0,,389,60,2020-05-05
@@ -784,7 +784,7 @@ BE,Wallonia,BrabantWallon,1333.0,,27,7,2020-05-06
 BE,Wallonia,Namur,2064.0,,104,20,2020-05-06
 BE,Flanders,VlaamsBrabant,4956.0,,115,24,2020-05-06
 BE,Brussels,Brussels,5401.0,,486,102,2020-05-06
-BE,Flanders,Limburg,5635.0,,226,53,2020-05-06
+BE,Flanders,Limburg,5634.0,,226,53,2020-05-06
 BE,Flanders,WestVlaanderen,5710.0,,304,56,2020-05-06
 BE,Flanders,OostVlaanderen,5994.0,,293,68,2020-05-06
 BE,Wallonia,Hainaut,6082.0,,366,54,2020-05-06
@@ -796,7 +796,7 @@ BE,Wallonia,BrabantWallon,1342.0,,27,6,2020-05-07
 BE,Wallonia,Namur,2096.0,,101,19,2020-05-07
 BE,Flanders,VlaamsBrabant,4975.0,,109,24,2020-05-07
 BE,Brussels,Brussels,5444.0,,452,94,2020-05-07
-BE,Flanders,Limburg,5674.0,,218,50,2020-05-07
+BE,Flanders,Limburg,5673.0,,218,50,2020-05-07
 BE,Flanders,WestVlaanderen,5779.0,,287,54,2020-05-07
 BE,Flanders,OostVlaanderen,6029.0,,263,60,2020-05-07
 BE,Wallonia,Hainaut,6118.0,,344,50,2020-05-07
@@ -808,7 +808,7 @@ BE,Wallonia,BrabantWallon,1355.0,,23,7,2020-05-08
 BE,Wallonia,Namur,2129.0,,94,18,2020-05-08
 BE,Flanders,VlaamsBrabant,5005.0,,104,26,2020-05-08
 BE,Brussels,Brussels,5477.0,,436,92,2020-05-08
-BE,Flanders,Limburg,5724.0,,201,48,2020-05-08
+BE,Flanders,Limburg,5723.0,,201,48,2020-05-08
 BE,Flanders,WestVlaanderen,5842.0,,267,55,2020-05-08
 BE,Flanders,OostVlaanderen,6074.0,,245,60,2020-05-08
 BE,Wallonia,Hainaut,6181.0,,329,50,2020-05-08
@@ -820,7 +820,7 @@ BE,Wallonia,BrabantWallon,1362.0,,23,7,2020-05-09
 BE,Wallonia,Namur,2140.0,,94,19,2020-05-09
 BE,Flanders,VlaamsBrabant,5016.0,,99,25,2020-05-09
 BE,Brussels,Brussels,5505.0,,433,94,2020-05-09
-BE,Flanders,Limburg,5739.0,,176,42,2020-05-09
+BE,Flanders,Limburg,5738.0,,176,42,2020-05-09
 BE,Flanders,WestVlaanderen,5869.0,,249,52,2020-05-09
 BE,Flanders,OostVlaanderen,6096.0,,236,52,2020-05-09
 BE,Wallonia,Hainaut,6209.0,,298,47,2020-05-09
@@ -831,7 +831,7 @@ BE,Wallonia,BrabantWallon,1368.0,,25,7,2020-05-10
 BE,Wallonia,Namur,2143.0,,95,19,2020-05-10
 BE,Flanders,VlaamsBrabant,5023.0,,100,23,2020-05-10
 BE,Brussels,Brussels,5517.0,,429,91,2020-05-10
-BE,Flanders,Limburg,5748.0,,172,43,2020-05-10
+BE,Flanders,Limburg,5747.0,,172,43,2020-05-10
 BE,Flanders,WestVlaanderen,5879.0,,251,51,2020-05-10
 BE,Flanders,OostVlaanderen,6099.0,,238,52,2020-05-10
 BE,Wallonia,Hainaut,6219.0,,300,50,2020-05-10
@@ -844,7 +844,7 @@ BE,Wallonia,BrabantWallon,1376.0,,26,7,2020-05-11
 BE,Wallonia,Namur,2170.0,,94,19,2020-05-11
 BE,Flanders,VlaamsBrabant,5057.0,,97,21,2020-05-11
 BE,Brussels,Brussels,5548.0,,416,89,2020-05-11
-BE,Flanders,Limburg,5802.0,,176,41,2020-05-11
+BE,Flanders,Limburg,5801.0,,176,41,2020-05-11
 BE,Flanders,WestVlaanderen,5976.0,,256,49,2020-05-11
 BE,Flanders,OostVlaanderen,6152.0,,225,50,2020-05-11
 BE,Wallonia,Hainaut,6259.0,,307,47,2020-05-11
@@ -856,7 +856,7 @@ BE,Wallonia,BrabantWallon,1379.0,,25,7,2020-05-12
 BE,Wallonia,Namur,2188.0,,90,16,2020-05-12
 BE,Flanders,VlaamsBrabant,5084.0,,88,20,2020-05-12
 BE,Brussels,Brussels,5579.0,,373,83,2020-05-12
-BE,Flanders,Limburg,5831.0,,164,36,2020-05-12
+BE,Flanders,Limburg,5830.0,,164,36,2020-05-12
 BE,Flanders,WestVlaanderen,6042.0,,246,45,2020-05-12
 BE,Flanders,OostVlaanderen,6189.0,,211,50,2020-05-12
 BE,Wallonia,Hainaut,6313.0,,281,44,2020-05-12
@@ -868,7 +868,7 @@ BE,Wallonia,BrabantWallon,1387.0,,17,6,2020-05-13
 BE,Wallonia,Namur,2208.0,,81,14,2020-05-13
 BE,Flanders,VlaamsBrabant,5109.0,,71,18,2020-05-13
 BE,Brussels,Brussels,5612.0,,360,78,2020-05-13
-BE,Flanders,Limburg,5862.0,,146,35,2020-05-13
+BE,Flanders,Limburg,5861.0,,146,35,2020-05-13
 BE,Flanders,WestVlaanderen,6098.0,,245,46,2020-05-13
 BE,Flanders,OostVlaanderen,6208.0,,204,48,2020-05-13
 BE,Wallonia,Hainaut,6345.0,,265,40,2020-05-13
@@ -880,7 +880,7 @@ BE,Wallonia,BrabantWallon,1396.0,,17,4,2020-05-14
 BE,Wallonia,Namur,2219.0,,86,15,2020-05-14
 BE,Flanders,VlaamsBrabant,5125.0,,69,18,2020-05-14
 BE,Brussels,Brussels,5653.0,,330,71,2020-05-14
-BE,Flanders,Limburg,5887.0,,134,30,2020-05-14
+BE,Flanders,Limburg,5886.0,,134,30,2020-05-14
 BE,Flanders,WestVlaanderen,6151.0,,244,44,2020-05-14
 BE,Flanders,OostVlaanderen,6236.0,,184,47,2020-05-14
 BE,Wallonia,Hainaut,6379.0,,252,41,2020-05-14
@@ -893,7 +893,7 @@ BE,Wallonia,BrabantWallon,1401.0,,17,4,2020-05-15
 BE,Wallonia,Namur,2228.0,,82,16,2020-05-15
 BE,Flanders,VlaamsBrabant,5137.0,,74,17,2020-05-15
 BE,Brussels,Brussels,5678.0,,298,66,2020-05-15
-BE,Flanders,Limburg,5920.0,,125,28,2020-05-15
+BE,Flanders,Limburg,5919.0,,125,28,2020-05-15
 BE,Flanders,WestVlaanderen,6216.0,,236,43,2020-05-15
 BE,Flanders,OostVlaanderen,6266.0,,173,46,2020-05-15
 BE,Wallonia,Hainaut,6426.0,,236,38,2020-05-15
@@ -904,7 +904,7 @@ BE,Wallonia,BrabantWallon,1405.0,,14,4,2020-05-16
 BE,Wallonia,Namur,2234.0,,79,14,2020-05-16
 BE,Flanders,VlaamsBrabant,5148.0,,54,15,2020-05-16
 BE,Brussels,Brussels,5697.0,,301,64,2020-05-16
-BE,Flanders,Limburg,5930.0,,116,28,2020-05-16
+BE,Flanders,Limburg,5929.0,,116,28,2020-05-16
 BE,Flanders,WestVlaanderen,6244.0,,219,42,2020-05-16
 BE,Flanders,OostVlaanderen,6289.0,,157,42,2020-05-16
 BE,Wallonia,Hainaut,6436.0,,220,37,2020-05-16
@@ -914,7 +914,7 @@ BE,Wallonia,BrabantWallon,1408.0,,16,4,2020-05-17
 BE,Wallonia,Namur,2235.0,,72,14,2020-05-17
 BE,Flanders,VlaamsBrabant,5155.0,,54,14,2020-05-17
 BE,Brussels,Brussels,5704.0,,288,64,2020-05-17
-BE,Flanders,Limburg,5939.0,,118,25,2020-05-17
+BE,Flanders,Limburg,5938.0,,118,25,2020-05-17
 BE,Flanders,WestVlaanderen,6262.0,,223,41,2020-05-17
 BE,Flanders,OostVlaanderen,6295.0,,154,38,2020-05-17
 BE,Wallonia,Hainaut,6442.0,,227,37,2020-05-17
@@ -927,7 +927,7 @@ BE,Wallonia,BrabantWallon,1414.0,,16,4,2020-05-18
 BE,Wallonia,Namur,2245.0,,72,13,2020-05-18
 BE,Flanders,VlaamsBrabant,5175.0,,58,13,2020-05-18
 BE,Brussels,Brussels,5736.0,,281,66,2020-05-18
-BE,Flanders,Limburg,5989.0,,122,28,2020-05-18
+BE,Flanders,Limburg,5988.0,,122,28,2020-05-18
 BE,Flanders,WestVlaanderen,6294.0,,235,43,2020-05-18
 BE,Flanders,OostVlaanderen,6336.0,,156,39,2020-05-18
 BE,Wallonia,Hainaut,6472.0,,228,37,2020-05-18
@@ -939,7 +939,7 @@ BE,Wallonia,BrabantWallon,1423.0,,14,4,2020-05-19
 BE,Wallonia,Namur,2252.0,,66,12,2020-05-19
 BE,Flanders,VlaamsBrabant,5191.0,,48,15,2020-05-19
 BE,Brussels,Brussels,5771.0,,272,62,2020-05-19
-BE,Flanders,Limburg,6034.0,,107,24,2020-05-19
+BE,Flanders,Limburg,6033.0,,107,24,2020-05-19
 BE,Flanders,WestVlaanderen,6338.0,,231,40,2020-05-19
 BE,Flanders,OostVlaanderen,6378.0,,142,34,2020-05-19
 BE,Wallonia,Hainaut,6491.0,,213,32,2020-05-19
@@ -951,7 +951,7 @@ BE,Wallonia,BrabantWallon,1432.0,,13,3,2020-05-20
 BE,Wallonia,Namur,2268.0,,68,12,2020-05-20
 BE,Flanders,VlaamsBrabant,5208.0,,35,11,2020-05-20
 BE,Brussels,Brussels,5802.0,,268,51,2020-05-20
-BE,Flanders,Limburg,6068.0,,109,21,2020-05-20
+BE,Flanders,Limburg,6067.0,,109,21,2020-05-20
 BE,Flanders,WestVlaanderen,6381.0,,226,40,2020-05-20
 BE,Flanders,OostVlaanderen,6417.0,,138,32,2020-05-20
 BE,Wallonia,Hainaut,6545.0,,197,26,2020-05-20
@@ -962,7 +962,7 @@ BE,Wallonia,BrabantWallon,1434.0,,14,3,2020-05-21
 BE,Wallonia,Namur,2270.0,,68,16,2020-05-21
 BE,Flanders,VlaamsBrabant,5211.0,,31,12,2020-05-21
 BE,Brussels,Brussels,5814.0,,258,51,2020-05-21
-BE,Flanders,Limburg,6076.0,,114,20,2020-05-21
+BE,Flanders,Limburg,6075.0,,114,20,2020-05-21
 BE,Flanders,WestVlaanderen,6394.0,,218,40,2020-05-21
 BE,Flanders,OostVlaanderen,6424.0,,132,30,2020-05-21
 BE,Wallonia,Hainaut,6552.0,,182,21,2020-05-21
@@ -975,7 +975,7 @@ BE,Wallonia,BrabantWallon,1438.0,,14,3,2020-05-22
 BE,Wallonia,Namur,2275.0,,65,11,2020-05-22
 BE,Flanders,VlaamsBrabant,5228.0,,31,12,2020-05-22
 BE,Brussels,Brussels,5841.0,,264,56,2020-05-22
-BE,Flanders,Limburg,6100.0,,104,20,2020-05-22
+BE,Flanders,Limburg,6099.0,,104,20,2020-05-22
 BE,Flanders,WestVlaanderen,6438.0,,215,38,2020-05-22
 BE,Flanders,OostVlaanderen,6456.0,,132,28,2020-05-22
 BE,Wallonia,Hainaut,6572.0,,166,18,2020-05-22
@@ -985,7 +985,7 @@ BE,Wallonia,BrabantWallon,1443.0,,12,2,2020-05-23
 BE,Wallonia,Namur,2276.0,,59,13,2020-05-23
 BE,Flanders,VlaamsBrabant,5233.0,,35,11,2020-05-23
 BE,Brussels,Brussels,5852.0,,251,54,2020-05-23
-BE,Flanders,Limburg,6111.0,,110,18,2020-05-23
+BE,Flanders,Limburg,6110.0,,110,18,2020-05-23
 BE,Flanders,WestVlaanderen,6456.0,,205,40,2020-05-23
 BE,Flanders,OostVlaanderen,6483.0,,118,29,2020-05-23
 BE,Wallonia,Hainaut,6585.0,,161,16,2020-05-23
@@ -997,7 +997,7 @@ BE,Wallonia,BrabantWallon,1447.0,,11,2,2020-05-24
 BE,Wallonia,Namur,2280.0,,59,11,2020-05-24
 BE,Flanders,VlaamsBrabant,5237.0,,34,11,2020-05-24
 BE,Brussels,Brussels,5859.0,,255,55,2020-05-24
-BE,Flanders,Limburg,6125.0,,107,19,2020-05-24
+BE,Flanders,Limburg,6124.0,,107,19,2020-05-24
 BE,Flanders,WestVlaanderen,6458.0,,217,41,2020-05-24
 BE,Flanders,OostVlaanderen,6490.0,,118,27,2020-05-24
 BE,Wallonia,Hainaut,6593.0,,159,15,2020-05-24
@@ -1008,7 +1008,7 @@ BE,Wallonia,BrabantWallon,1452.0,,10,1,2020-05-25
 BE,Wallonia,Namur,2291.0,,56,11,2020-05-25
 BE,Flanders,VlaamsBrabant,5251.0,,32,11,2020-05-25
 BE,Brussels,Brussels,5890.0,,251,57,2020-05-25
-BE,Flanders,Limburg,6154.0,,115,19,2020-05-25
+BE,Flanders,Limburg,6153.0,,115,19,2020-05-25
 BE,Flanders,WestVlaanderen,6494.0,,217,41,2020-05-25
 BE,Flanders,OostVlaanderen,6545.0,,118,26,2020-05-25
 BE,Wallonia,Hainaut,6658.0,,155,15,2020-05-25
@@ -1021,7 +1021,7 @@ BE,Wallonia,BrabantWallon,1456.0,,6,1,2020-05-26
 BE,Wallonia,Namur,2293.0,,36,9,2020-05-26
 BE,Flanders,VlaamsBrabant,5266.0,,28,10,2020-05-26
 BE,Brussels,Brussels,5908.0,,240,51,2020-05-26
-BE,Flanders,Limburg,6181.0,,93,18,2020-05-26
+BE,Flanders,Limburg,6180.0,,93,18,2020-05-26
 BE,Flanders,WestVlaanderen,6523.0,,193,33,2020-05-26
 BE,Flanders,OostVlaanderen,6577.0,,104,27,2020-05-26
 BE,Wallonia,Hainaut,6673.0,,133,15,2020-05-26
@@ -1033,7 +1033,7 @@ BE,Wallonia,BrabantWallon,1457.0,,5,1,2020-05-27
 BE,Wallonia,Namur,2298.0,,37,10,2020-05-27
 BE,Flanders,VlaamsBrabant,5281.0,,28,7,2020-05-27
 BE,Brussels,Brussels,5931.0,,207,45,2020-05-27
-BE,Flanders,Limburg,6205.0,,86,19,2020-05-27
+BE,Flanders,Limburg,6204.0,,86,19,2020-05-27
 BE,Flanders,WestVlaanderen,6543.0,,183,30,2020-05-27
 BE,Flanders,OostVlaanderen,6591.0,,97,26,2020-05-27
 BE,Wallonia,Hainaut,6697.0,,111,10,2020-05-27
@@ -1045,7 +1045,7 @@ BE,Wallonia,BrabantWallon,1460.0,,5,1,2020-05-28
 BE,Wallonia,Namur,2299.0,,32,8,2020-05-28
 BE,Flanders,VlaamsBrabant,5287.0,,25,6,2020-05-28
 BE,Brussels,Brussels,5941.0,,197,40,2020-05-28
-BE,Flanders,Limburg,6223.0,,77,16,2020-05-28
+BE,Flanders,Limburg,6222.0,,77,16,2020-05-28
 BE,Flanders,WestVlaanderen,6570.0,,157,22,2020-05-28
 BE,Flanders,OostVlaanderen,6612.0,,94,26,2020-05-28
 BE,Wallonia,Hainaut,6722.0,,98,8,2020-05-28
@@ -1057,7 +1057,7 @@ BE,Wallonia,BrabantWallon,1465.0,,3,1,2020-05-29
 BE,Wallonia,Namur,2312.0,,28,5,2020-05-29
 BE,Flanders,VlaamsBrabant,5298.0,,23,6,2020-05-29
 BE,Brussels,Brussels,5971.0,,189,38,2020-05-29
-BE,Flanders,Limburg,6238.0,,72,17,2020-05-29
+BE,Flanders,Limburg,6237.0,,72,17,2020-05-29
 BE,Flanders,WestVlaanderen,6595.0,,149,20,2020-05-29
 BE,Flanders,OostVlaanderen,6620.0,,97,25,2020-05-29
 BE,Wallonia,Hainaut,6728.0,,93,9,2020-05-29
@@ -1068,7 +1068,7 @@ BE,Wallonia,BrabantWallon,1468.0,,2,1,2020-05-30
 BE,Wallonia,Namur,2314.0,,25,5,2020-05-30
 BE,Flanders,VlaamsBrabant,5305.0,,18,2,2020-05-30
 BE,Brussels,Brussels,5978.0,,186,39,2020-05-30
-BE,Flanders,Limburg,6250.0,,71,16,2020-05-30
+BE,Flanders,Limburg,6249.0,,71,16,2020-05-30
 BE,Flanders,WestVlaanderen,6597.0,,137,23,2020-05-30
 BE,Flanders,OostVlaanderen,6630.0,,89,24,2020-05-30
 BE,Wallonia,Hainaut,6731.0,,85,8,2020-05-30
@@ -1080,7 +1080,7 @@ BE,Wallonia,BrabantWallon,1470.0,,2,1,2020-05-31
 BE,Wallonia,Namur,2318.0,,22,4,2020-05-31
 BE,Flanders,VlaamsBrabant,5307.0,,17,2,2020-05-31
 BE,Brussels,Brussels,5983.0,,179,40,2020-05-31
-BE,Flanders,Limburg,6257.0,,68,15,2020-05-31
+BE,Flanders,Limburg,6256.0,,68,15,2020-05-31
 BE,Flanders,WestVlaanderen,6601.0,,138,22,2020-05-31
 BE,Flanders,OostVlaanderen,6633.0,,92,20,2020-05-31
 BE,Wallonia,Hainaut,6735.0,,85,9,2020-05-31
@@ -1091,7 +1091,7 @@ BE,Wallonia,BrabantWallon,1472.0,,2,1,2020-06-01
 BE,Wallonia,Namur,2319.0,,22,4,2020-06-01
 BE,Flanders,VlaamsBrabant,5310.0,,16,2,2020-06-01
 BE,Brussels,Brussels,5990.0,,184,42,2020-06-01
-BE,Flanders,Limburg,6265.0,,68,16,2020-06-01
+BE,Flanders,Limburg,6264.0,,68,16,2020-06-01
 BE,Flanders,WestVlaanderen,6606.0,,142,24,2020-06-01
 BE,Flanders,OostVlaanderen,6645.0,,93,20,2020-06-01
 BE,Wallonia,Hainaut,6741.0,,84,8,2020-06-01
@@ -1103,7 +1103,7 @@ BE,Wallonia,BrabantWallon,1473.0,,3,1,2020-06-02
 BE,Wallonia,Namur,2325.0,,24,5,2020-06-02
 BE,Flanders,VlaamsBrabant,5322.0,,15,2,2020-06-02
 BE,Brussels,Brussels,6013.0,,190,47,2020-06-02
-BE,Flanders,Limburg,6288.0,,71,17,2020-06-02
+BE,Flanders,Limburg,6287.0,,71,17,2020-06-02
 BE,Flanders,WestVlaanderen,6620.0,,142,25,2020-06-02
 BE,Flanders,OostVlaanderen,6666.0,,93,17,2020-06-02
 BE,Wallonia,Hainaut,6762.0,,81,8,2020-06-02
@@ -1115,7 +1115,7 @@ BE,Wallonia,BrabantWallon,1480.0,,2,0,2020-06-03
 BE,Wallonia,Namur,2327.0,,22,4,2020-06-03
 BE,Flanders,VlaamsBrabant,5336.0,,16,3,2020-06-03
 BE,Brussels,Brussels,6036.0,,158,33,2020-06-03
-BE,Flanders,Limburg,6309.0,,66,16,2020-06-03
+BE,Flanders,Limburg,6308.0,,66,16,2020-06-03
 BE,Flanders,WestVlaanderen,6636.0,,129,24,2020-06-03
 BE,Flanders,OostVlaanderen,6679.0,,84,14,2020-06-03
 BE,Wallonia,Hainaut,6777.0,,69,7,2020-06-03
@@ -1127,7 +1127,7 @@ BE,Wallonia,BrabantWallon,1487.0,,3,0,2020-06-04
 BE,Wallonia,Namur,2334.0,,24,4,2020-06-04
 BE,Flanders,VlaamsBrabant,5351.0,,18,3,2020-06-04
 BE,Brussels,Brussels,6059.0,,139,36,2020-06-04
-BE,Flanders,Limburg,6330.0,,63,13,2020-06-04
+BE,Flanders,Limburg,6329.0,,63,13,2020-06-04
 BE,Flanders,WestVlaanderen,6660.0,,125,22,2020-06-04
 BE,Flanders,OostVlaanderen,6697.0,,83,13,2020-06-04
 BE,Wallonia,Hainaut,6788.0,,64,6,2020-06-04
@@ -1139,7 +1139,7 @@ BE,Wallonia,BrabantWallon,1490.0,,3,0,2020-06-05
 BE,Wallonia,Namur,2340.0,,19,3,2020-06-05
 BE,Flanders,VlaamsBrabant,5365.0,,16,2,2020-06-05
 BE,Brussels,Brussels,6083.0,,134,32,2020-06-05
-BE,Flanders,Limburg,6353.0,,58,12,2020-06-05
+BE,Flanders,Limburg,6352.0,,58,12,2020-06-05
 BE,Flanders,WestVlaanderen,6668.0,,115,20,2020-06-05
 BE,Flanders,OostVlaanderen,6709.0,,80,12,2020-06-05
 BE,Wallonia,Hainaut,6807.0,,57,5,2020-06-05
@@ -1149,7 +1149,7 @@ BE,Wallonia,Luxembourg,1407.0,,10,0,2020-06-06
 BE,Wallonia,BrabantWallon,1494.0,,2,0,2020-06-06
 BE,Flanders,VlaamsBrabant,5371.0,,16,2,2020-06-06
 BE,Brussels,Brussels,6087.0,,126,30,2020-06-06
-BE,Flanders,Limburg,6371.0,,51,11,2020-06-06
+BE,Flanders,Limburg,6370.0,,51,11,2020-06-06
 BE,Flanders,WestVlaanderen,6674.0,,103,19,2020-06-06
 BE,Flanders,OostVlaanderen,6716.0,,66,11,2020-06-06
 BE,Wallonia,Hainaut,6812.0,,45,4,2020-06-06
@@ -1159,7 +1159,7 @@ BE,Wallonia,Namur,,,19,3,2020-06-06
 BE,Wallonia,BrabantWallon,1495.0,,2,0,2020-06-07
 BE,Flanders,VlaamsBrabant,5375.0,,18,6,2020-06-07
 BE,Brussels,Brussels,6092.0,,140,32,2020-06-07
-BE,Flanders,Limburg,6386.0,,50,12,2020-06-07
+BE,Flanders,Limburg,6385.0,,50,12,2020-06-07
 BE,Flanders,WestVlaanderen,6676.0,,102,19,2020-06-07
 BE,Flanders,OostVlaanderen,6722.0,,67,12,2020-06-07
 BE,Wallonia,Hainaut,6819.0,,43,2,2020-06-07
@@ -1173,7 +1173,7 @@ BE,Wallonia,BrabantWallon,1496.0,,3,0,2020-06-08
 BE,Wallonia,Namur,2343.0,,17,3,2020-06-08
 BE,Flanders,VlaamsBrabant,5395.0,,18,6,2020-06-08
 BE,Brussels,Brussels,6114.0,,139,32,2020-06-08
-BE,Flanders,Limburg,6403.0,,52,11,2020-06-08
+BE,Flanders,Limburg,6402.0,,52,11,2020-06-08
 BE,Flanders,WestVlaanderen,6693.0,,95,18,2020-06-08
 BE,Flanders,OostVlaanderen,6734.0,,64,11,2020-06-08
 BE,Wallonia,Hainaut,6832.0,,46,3,2020-06-08
@@ -1185,7 +1185,7 @@ BE,Wallonia,BrabantWallon,1499.0,,3,0,2020-06-09
 BE,Wallonia,Namur,2348.0,,16,3,2020-06-09
 BE,Flanders,VlaamsBrabant,5407.0,,17,5,2020-06-09
 BE,Brussels,Brussels,6139.0,,131,27,2020-06-09
-BE,Flanders,Limburg,6419.0,,50,11,2020-06-09
+BE,Flanders,Limburg,6418.0,,50,11,2020-06-09
 BE,Flanders,WestVlaanderen,6709.0,,90,17,2020-06-09
 BE,Flanders,OostVlaanderen,6746.0,,54,10,2020-06-09
 BE,Wallonia,Hainaut,6850.0,,42,3,2020-06-09
@@ -1197,7 +1197,7 @@ BE,Wallonia,BrabantWallon,1503.0,,2,0,2020-06-10
 BE,Wallonia,Namur,2351.0,,15,2,2020-06-10
 BE,Flanders,VlaamsBrabant,5421.0,,17,4,2020-06-10
 BE,Brussels,Brussels,6159.0,,122,32,2020-06-10
-BE,Flanders,Limburg,6431.0,,47,10,2020-06-10
+BE,Flanders,Limburg,6430.0,,47,10,2020-06-10
 BE,Flanders,WestVlaanderen,6717.0,,76,11,2020-06-10
 BE,Flanders,OostVlaanderen,6755.0,,50,10,2020-06-10
 BE,Wallonia,Hainaut,6871.0,,41,3,2020-06-10
@@ -1209,7 +1209,7 @@ BE,Wallonia,BrabantWallon,1507.0,,3,0,2020-06-11
 BE,Wallonia,Namur,2352.0,,13,2,2020-06-11
 BE,Flanders,VlaamsBrabant,5427.0,,16,4,2020-06-11
 BE,Brussels,Brussels,6174.0,,125,24,2020-06-11
-BE,Flanders,Limburg,6445.0,,49,8,2020-06-11
+BE,Flanders,Limburg,6444.0,,49,8,2020-06-11
 BE,Flanders,WestVlaanderen,6725.0,,71,12,2020-06-11
 BE,Flanders,OostVlaanderen,6766.0,,50,11,2020-06-11
 BE,Wallonia,Hainaut,6889.0,,41,3,2020-06-11
@@ -1221,7 +1221,7 @@ BE,Wallonia,BrabantWallon,1509.0,,4,0,2020-06-12
 BE,Wallonia,Namur,2353.0,,11,2,2020-06-12
 BE,Flanders,VlaamsBrabant,5434.0,,19,4,2020-06-12
 BE,Brussels,Brussels,6193.0,,109,23,2020-06-12
-BE,Flanders,Limburg,6452.0,,40,8,2020-06-12
+BE,Flanders,Limburg,6451.0,,40,8,2020-06-12
 BE,Flanders,WestVlaanderen,6730.0,,66,13,2020-06-12
 BE,Flanders,OostVlaanderen,6772.0,,46,11,2020-06-12
 BE,Wallonia,Hainaut,6900.0,,38,4,2020-06-12
@@ -1233,7 +1233,7 @@ BE,Wallonia,BrabantWallon,1514.0,,4,0,2020-06-13
 BE,Wallonia,Namur,2355.0,,11,2,2020-06-13
 BE,Flanders,VlaamsBrabant,5437.0,,19,4,2020-06-13
 BE,Brussels,Brussels,6199.0,,101,23,2020-06-13
-BE,Flanders,Limburg,6457.0,,33,7,2020-06-13
+BE,Flanders,Limburg,6456.0,,33,7,2020-06-13
 BE,Flanders,WestVlaanderen,6735.0,,69,13,2020-06-13
 BE,Flanders,OostVlaanderen,6775.0,,44,9,2020-06-13
 BE,Wallonia,Hainaut,6904.0,,32,5,2020-06-13
@@ -1242,22 +1242,22 @@ BE,Flanders,Antwerpen,8328.0,,45,13,2020-06-13
 BE,MISSING,MISSING,1396.0,,,,2020-06-14
 BE,Flanders,VlaamsBrabant,5439.0,,18,4,2020-06-14
 BE,Brussels,Brussels,6201.0,,102,25,2020-06-14
-BE,Flanders,Limburg,6459.0,,36,8,2020-06-14
+BE,Flanders,Limburg,6458.0,,36,8,2020-06-14
 BE,Flanders,WestVlaanderen,6739.0,,67,14,2020-06-14
 BE,Flanders,OostVlaanderen,6776.0,,43,8,2020-06-14
 BE,Wallonia,Hainaut,6905.0,,33,5,2020-06-14
 BE,Wallonia,Liège,6945.0,,30,5,2020-06-14
 BE,Flanders,Antwerpen,8335.0,,47,14,2020-06-14
-BE,Wallonia,Luxembourg,,,8,0,2020-06-14
-BE,Wallonia,BrabantWallon,,,4,0,2020-06-14
 BE,Wallonia,Namur,,,12,2,2020-06-14
+BE,Wallonia,BrabantWallon,,,4,0,2020-06-14
+BE,Wallonia,Luxembourg,,,8,0,2020-06-14
 BE,MISSING,MISSING,1397.0,,,,2020-06-15
 BE,Wallonia,Luxembourg,1425.0,,8,0,2020-06-15
 BE,Wallonia,BrabantWallon,1517.0,,4,0,2020-06-15
 BE,Wallonia,Namur,2358.0,,12,1,2020-06-15
 BE,Flanders,VlaamsBrabant,5448.0,,17,4,2020-06-15
 BE,Brussels,Brussels,6219.0,,104,26,2020-06-15
-BE,Flanders,Limburg,6479.0,,36,6,2020-06-15
+BE,Flanders,Limburg,6478.0,,36,6,2020-06-15
 BE,Flanders,WestVlaanderen,6762.0,,63,12,2020-06-15
 BE,Flanders,OostVlaanderen,6788.0,,38,5,2020-06-15
 BE,Wallonia,Hainaut,6925.0,,30,2,2020-06-15
@@ -1269,7 +1269,7 @@ BE,Wallonia,BrabantWallon,1519.0,,4,0,2020-06-16
 BE,Wallonia,Namur,2359.0,,12,1,2020-06-16
 BE,Flanders,VlaamsBrabant,5456.0,,16,4,2020-06-16
 BE,Brussels,Brussels,6230.0,,98,22,2020-06-16
-BE,Flanders,Limburg,6494.0,,34,6,2020-06-16
+BE,Flanders,Limburg,6493.0,,34,6,2020-06-16
 BE,Flanders,WestVlaanderen,6780.0,,57,8,2020-06-16
 BE,Flanders,OostVlaanderen,6794.0,,34,3,2020-06-16
 BE,Wallonia,Hainaut,6935.0,,33,4,2020-06-16
@@ -1279,7 +1279,7 @@ BE,MISSING,MISSING,1401.0,,,,2020-06-17
 BE,Wallonia,Namur,2361.0,,12,1,2020-06-17
 BE,Flanders,VlaamsBrabant,5466.0,,15,4,2020-06-17
 BE,Brussels,Brussels,6237.0,,96,20,2020-06-17
-BE,Flanders,Limburg,6507.0,,31,6,2020-06-17
+BE,Flanders,Limburg,6506.0,,31,6,2020-06-17
 BE,Flanders,OostVlaanderen,6803.0,,32,3,2020-06-17
 BE,Flanders,WestVlaanderen,6809.0,,52,8,2020-06-17
 BE,Wallonia,Hainaut,6948.0,,29,3,2020-06-17
@@ -1293,7 +1293,7 @@ BE,Wallonia,BrabantWallon,1527.0,,3,0,2020-06-18
 BE,Wallonia,Namur,2363.0,,9,0,2020-06-18
 BE,Flanders,VlaamsBrabant,5474.0,,13,3,2020-06-18
 BE,Brussels,Brussels,6255.0,,93,19,2020-06-18
-BE,Flanders,Limburg,6512.0,,31,5,2020-06-18
+BE,Flanders,Limburg,6511.0,,31,5,2020-06-18
 BE,Flanders,OostVlaanderen,6809.0,,33,3,2020-06-18
 BE,Flanders,WestVlaanderen,6829.0,,51,7,2020-06-18
 BE,Wallonia,Hainaut,6953.0,,33,2,2020-06-18
@@ -1304,7 +1304,7 @@ BE,Wallonia,Luxembourg,1435.0,,8,0,2020-06-19
 BE,Wallonia,Namur,2365.0,,9,0,2020-06-19
 BE,Flanders,VlaamsBrabant,5479.0,,11,2,2020-06-19
 BE,Brussels,Brussels,6274.0,,77,17,2020-06-19
-BE,Flanders,Limburg,6526.0,,23,5,2020-06-19
+BE,Flanders,Limburg,6525.0,,23,5,2020-06-19
 BE,Flanders,OostVlaanderen,6820.0,,34,3,2020-06-19
 BE,Flanders,WestVlaanderen,6854.0,,48,6,2020-06-19
 BE,Wallonia,Hainaut,6961.0,,32,2,2020-06-19
@@ -1317,7 +1317,7 @@ BE,Wallonia,BrabantWallon,1530.0,,0,0,2020-06-20
 BE,Wallonia,Namur,2367.0,,7,0,2020-06-20
 BE,Flanders,VlaamsBrabant,5480.0,,11,2,2020-06-20
 BE,Brussels,Brussels,6277.0,,71,17,2020-06-20
-BE,Flanders,Limburg,6530.0,,22,5,2020-06-20
+BE,Flanders,Limburg,6529.0,,22,5,2020-06-20
 BE,Flanders,OostVlaanderen,6822.0,,27,3,2020-06-20
 BE,Flanders,WestVlaanderen,6860.0,,44,6,2020-06-20
 BE,Wallonia,Hainaut,6970.0,,35,4,2020-06-20
@@ -1325,14 +1325,14 @@ BE,Wallonia,Liège,6992.0,,18,4,2020-06-20
 BE,Flanders,Antwerpen,8458.0,,48,12,2020-06-20
 BE,Wallonia,Luxembourg,1440.0,,11,0,2020-06-21
 BE,Flanders,VlaamsBrabant,5482.0,,12,2,2020-06-21
-BE,Flanders,Limburg,6534.0,,28,6,2020-06-21
+BE,Flanders,Limburg,6533.0,,28,6,2020-06-21
 BE,Flanders,OostVlaanderen,6823.0,,28,3,2020-06-21
 BE,Flanders,WestVlaanderen,6864.0,,44,6,2020-06-21
 BE,Wallonia,Hainaut,6971.0,,34,2,2020-06-21
 BE,Wallonia,Liège,6995.0,,19,4,2020-06-21
 BE,Flanders,Antwerpen,8461.0,,49,11,2020-06-21
-BE,Brussels,Brussels,,,63,16,2020-06-21
 BE,Wallonia,BrabantWallon,,,0,0,2020-06-21
+BE,Brussels,Brussels,,,63,16,2020-06-21
 BE,Wallonia,Namur,,,7,0,2020-06-21
 BE,MISSING,MISSING,1415.0,,,,2020-06-22
 BE,Wallonia,Luxembourg,1446.0,,12,0,2020-06-22
@@ -1340,7 +1340,7 @@ BE,Wallonia,BrabantWallon,1536.0,,0,0,2020-06-22
 BE,Wallonia,Namur,2369.0,,7,0,2020-06-22
 BE,Flanders,VlaamsBrabant,5488.0,,12,2,2020-06-22
 BE,Brussels,Brussels,6294.0,,57,14,2020-06-22
-BE,Flanders,Limburg,6542.0,,33,5,2020-06-22
+BE,Flanders,Limburg,6541.0,,33,5,2020-06-22
 BE,Flanders,OostVlaanderen,6828.0,,29,2,2020-06-22
 BE,Flanders,WestVlaanderen,6884.0,,38,6,2020-06-22
 BE,Wallonia,Hainaut,7004.0,,33,2,2020-06-22
@@ -1352,7 +1352,7 @@ BE,Wallonia,BrabantWallon,1540.0,,0,0,2020-06-23
 BE,Wallonia,Namur,2372.0,,7,0,2020-06-23
 BE,Flanders,VlaamsBrabant,5492.0,,10,2,2020-06-23
 BE,Brussels,Brussels,6308.0,,59,15,2020-06-23
-BE,Flanders,Limburg,6558.0,,27,5,2020-06-23
+BE,Flanders,Limburg,6557.0,,27,5,2020-06-23
 BE,Flanders,OostVlaanderen,6836.0,,27,3,2020-06-23
 BE,Flanders,WestVlaanderen,6900.0,,37,4,2020-06-23
 BE,Wallonia,Liège,7013.0,,24,4,2020-06-23
@@ -1364,7 +1364,7 @@ BE,Wallonia,BrabantWallon,1541.0,,1,0,2020-06-24
 BE,Wallonia,Namur,2374.0,,7,0,2020-06-24
 BE,Flanders,VlaamsBrabant,5497.0,,5,2,2020-06-24
 BE,Brussels,Brussels,6316.0,,53,15,2020-06-24
-BE,Flanders,Limburg,6574.0,,29,4,2020-06-24
+BE,Flanders,Limburg,6573.0,,29,4,2020-06-24
 BE,Flanders,OostVlaanderen,6842.0,,24,2,2020-06-24
 BE,Flanders,WestVlaanderen,6917.0,,36,3,2020-06-24
 BE,Wallonia,Liège,7021.0,,26,2,2020-06-24
@@ -1376,7 +1376,7 @@ BE,Wallonia,BrabantWallon,1544.0,,1,0,2020-06-25
 BE,Wallonia,Namur,2375.0,,7,0,2020-06-25
 BE,Flanders,VlaamsBrabant,5506.0,,11,2,2020-06-25
 BE,Brussels,Brussels,6325.0,,47,17,2020-06-25
-BE,Flanders,Limburg,6579.0,,30,3,2020-06-25
+BE,Flanders,Limburg,6578.0,,30,3,2020-06-25
 BE,Flanders,OostVlaanderen,6850.0,,24,3,2020-06-25
 BE,Flanders,WestVlaanderen,6920.0,,32,4,2020-06-25
 BE,Wallonia,Liège,7022.0,,24,2,2020-06-25
@@ -1387,7 +1387,7 @@ BE,Wallonia,BrabantWallon,1546.0,,1,0,2020-06-26
 BE,Wallonia,Namur,2376.0,,7,0,2020-06-26
 BE,Flanders,VlaamsBrabant,5511.0,,12,2,2020-06-26
 BE,Brussels,Brussels,6348.0,,43,15,2020-06-26
-BE,Flanders,Limburg,6589.0,,31,5,2020-06-26
+BE,Flanders,Limburg,6588.0,,31,5,2020-06-26
 BE,Flanders,OostVlaanderen,6859.0,,22,2,2020-06-26
 BE,Flanders,WestVlaanderen,6939.0,,26,3,2020-06-26
 BE,Wallonia,Liège,7028.0,,24,3,2020-06-26
@@ -1400,7 +1400,7 @@ BE,Wallonia,BrabantWallon,1547.0,,2,0,2020-06-27
 BE,Wallonia,Namur,2377.0,,5,0,2020-06-27
 BE,Flanders,VlaamsBrabant,5514.0,,13,2,2020-06-27
 BE,Brussels,Brussels,6355.0,,40,13,2020-06-27
-BE,Flanders,Limburg,6590.0,,28,7,2020-06-27
+BE,Flanders,Limburg,6589.0,,28,7,2020-06-27
 BE,Flanders,OostVlaanderen,6865.0,,22,1,2020-06-27
 BE,Flanders,WestVlaanderen,6946.0,,26,2,2020-06-27
 BE,Wallonia,Liège,7031.0,,18,3,2020-06-27
@@ -1413,18 +1413,18 @@ BE,Flanders,OostVlaanderen,6867.0,,23,2,2020-06-28
 BE,Flanders,WestVlaanderen,6952.0,,28,2,2020-06-28
 BE,Wallonia,Hainaut,7064.0,,29,1,2020-06-28
 BE,Flanders,Antwerpen,8570.0,,42,6,2020-06-28
-BE,Wallonia,Namur,,,5,0,2020-06-28
-BE,Wallonia,Liège,,,18,3,2020-06-28
-BE,Wallonia,BrabantWallon,,,2,0,2020-06-28
-BE,Flanders,Limburg,,,26,8,2020-06-28
 BE,Brussels,Brussels,,,42,12,2020-06-28
+BE,Wallonia,Namur,,,5,0,2020-06-28
+BE,Flanders,Limburg,,,26,8,2020-06-28
+BE,Wallonia,BrabantWallon,,,2,0,2020-06-28
+BE,Wallonia,Liège,,,18,3,2020-06-28
 BE,MISSING,MISSING,1436.0,,,,2020-06-29
 BE,Wallonia,Luxembourg,1463.0,,11,1,2020-06-29
 BE,Wallonia,BrabantWallon,1550.0,,2,0,2020-06-29
 BE,Wallonia,Namur,2380.0,,5,0,2020-06-29
 BE,Flanders,VlaamsBrabant,5523.0,,12,2,2020-06-29
 BE,Brussels,Brussels,6384.0,,45,13,2020-06-29
-BE,Flanders,Limburg,6599.0,,26,8,2020-06-29
+BE,Flanders,Limburg,6598.0,,26,8,2020-06-29
 BE,Flanders,OostVlaanderen,6873.0,,26,3,2020-06-29
 BE,Flanders,WestVlaanderen,6975.0,,29,3,2020-06-29
 BE,Wallonia,Liège,7036.0,,17,3,2020-06-29
@@ -1436,7 +1436,7 @@ BE,Wallonia,BrabantWallon,1551.0,,2,0,2020-06-30
 BE,Wallonia,Namur,2384.0,,5,0,2020-06-30
 BE,Flanders,VlaamsBrabant,5528.0,,10,2,2020-06-30
 BE,Brussels,Brussels,6407.0,,32,11,2020-06-30
-BE,Flanders,Limburg,6605.0,,23,6,2020-06-30
+BE,Flanders,Limburg,6604.0,,23,6,2020-06-30
 BE,Flanders,OostVlaanderen,6882.0,,26,3,2020-06-30
 BE,Flanders,WestVlaanderen,6987.0,,32,2,2020-06-30
 BE,Wallonia,Liège,7043.0,,15,3,2020-06-30
@@ -1447,7 +1447,7 @@ BE,Wallonia,Luxembourg,1466.0,,11,1,2020-07-01
 BE,Wallonia,BrabantWallon,1552.0,,1,0,2020-07-01
 BE,Flanders,VlaamsBrabant,5535.0,,9,2,2020-07-01
 BE,Brussels,Brussels,6429.0,,29,11,2020-07-01
-BE,Flanders,Limburg,6614.0,,17,4,2020-07-01
+BE,Flanders,Limburg,6613.0,,17,4,2020-07-01
 BE,Flanders,OostVlaanderen,6894.0,,27,3,2020-07-01
 BE,Flanders,WestVlaanderen,7007.0,,32,2,2020-07-01
 BE,Wallonia,Liège,7044.0,,14,3,2020-07-01
@@ -1459,7 +1459,7 @@ BE,Wallonia,BrabantWallon,1553.0,,0,0,2020-07-02
 BE,Wallonia,Namur,2385.0,,5,0,2020-07-02
 BE,Flanders,VlaamsBrabant,5548.0,,9,2,2020-07-02
 BE,Brussels,Brussels,6451.0,,28,11,2020-07-02
-BE,Flanders,Limburg,6620.0,,14,4,2020-07-02
+BE,Flanders,Limburg,6619.0,,14,4,2020-07-02
 BE,Flanders,OostVlaanderen,6901.0,,26,4,2020-07-02
 BE,Flanders,WestVlaanderen,7016.0,,27,1,2020-07-02
 BE,Wallonia,Hainaut,7108.0,,16,3,2020-07-02
@@ -1470,7 +1470,7 @@ BE,Wallonia,BrabantWallon,1556.0,,0,0,2020-07-03
 BE,Wallonia,Namur,2387.0,,5,0,2020-07-03
 BE,Flanders,VlaamsBrabant,5550.0,,9,2,2020-07-03
 BE,Brussels,Brussels,6461.0,,25,10,2020-07-03
-BE,Flanders,Limburg,6624.0,,12,3,2020-07-03
+BE,Flanders,Limburg,6623.0,,12,3,2020-07-03
 BE,Flanders,OostVlaanderen,6913.0,,22,4,2020-07-03
 BE,Flanders,WestVlaanderen,7030.0,,24,0,2020-07-03
 BE,Wallonia,Liège,7048.0,,12,1,2020-07-03
@@ -1483,7 +1483,7 @@ BE,Wallonia,BrabantWallon,1557.0,,0,0,2020-07-04
 BE,Wallonia,Namur,2388.0,,5,0,2020-07-04
 BE,Flanders,VlaamsBrabant,5553.0,,10,3,2020-07-04
 BE,Brussels,Brussels,6464.0,,27,10,2020-07-04
-BE,Flanders,Limburg,6631.0,,14,1,2020-07-04
+BE,Flanders,Limburg,6630.0,,14,1,2020-07-04
 BE,Flanders,OostVlaanderen,6916.0,,21,2,2020-07-04
 BE,Flanders,WestVlaanderen,7036.0,,26,1,2020-07-04
 BE,Wallonia,Liège,7053.0,,15,1,2020-07-04
@@ -1493,21 +1493,21 @@ BE,MISSING,MISSING,1461.0,,,,2020-07-05
 BE,Wallonia,Luxembourg,1472.0,,6,0,2020-07-05
 BE,Wallonia,BrabantWallon,1558.0,,0,0,2020-07-05
 BE,Brussels,Brussels,6465.0,,27,10,2020-07-05
-BE,Flanders,Limburg,6632.0,,11,1,2020-07-05
+BE,Flanders,Limburg,6631.0,,11,1,2020-07-05
 BE,Flanders,OostVlaanderen,6918.0,,22,3,2020-07-05
 BE,Flanders,WestVlaanderen,7049.0,,26,3,2020-07-05
 BE,Flanders,Antwerpen,8717.0,,31,7,2020-07-05
-BE,Wallonia,Namur,,,5,0,2020-07-05
-BE,Wallonia,Liège,,,14,1,2020-07-05
 BE,Wallonia,Hainaut,,,19,2,2020-07-05
 BE,Flanders,VlaamsBrabant,,,9,3,2020-07-05
+BE,Wallonia,Namur,,,5,0,2020-07-05
+BE,Wallonia,Liège,,,14,1,2020-07-05
 BE,MISSING,MISSING,1463.0,,,,2020-07-06
 BE,Wallonia,Luxembourg,1475.0,,6,0,2020-07-06
 BE,Wallonia,BrabantWallon,1562.0,,2,0,2020-07-06
 BE,Wallonia,Namur,2389.0,,5,0,2020-07-06
 BE,Flanders,VlaamsBrabant,5562.0,,10,1,2020-07-06
 BE,Brussels,Brussels,6489.0,,26,11,2020-07-06
-BE,Flanders,Limburg,6639.0,,11,1,2020-07-06
+BE,Flanders,Limburg,6638.0,,11,1,2020-07-06
 BE,Flanders,OostVlaanderen,6924.0,,24,2,2020-07-06
 BE,Wallonia,Liège,7058.0,,13,1,2020-07-06
 BE,Flanders,WestVlaanderen,7062.0,,27,2,2020-07-06
@@ -1519,7 +1519,7 @@ BE,Wallonia,BrabantWallon,1564.0,,1,0,2020-07-07
 BE,Wallonia,Namur,2391.0,,5,0,2020-07-07
 BE,Flanders,VlaamsBrabant,5570.0,,11,4,2020-07-07
 BE,Brussels,Brussels,6497.0,,28,11,2020-07-07
-BE,Flanders,Limburg,6646.0,,12,1,2020-07-07
+BE,Flanders,Limburg,6645.0,,12,1,2020-07-07
 BE,Flanders,OostVlaanderen,6935.0,,25,2,2020-07-07
 BE,Wallonia,Liège,7073.0,,12,1,2020-07-07
 BE,Flanders,WestVlaanderen,7074.0,,31,4,2020-07-07
@@ -1530,7 +1530,7 @@ BE,Wallonia,Luxembourg,1484.0,,5,0,2020-07-08
 BE,Wallonia,BrabantWallon,1569.0,,0,0,2020-07-08
 BE,Flanders,VlaamsBrabant,5579.0,,11,4,2020-07-08
 BE,Brussels,Brussels,6510.0,,33,11,2020-07-08
-BE,Flanders,Limburg,6668.0,,13,2,2020-07-08
+BE,Flanders,Limburg,6667.0,,13,2,2020-07-08
 BE,Flanders,OostVlaanderen,6945.0,,18,2,2020-07-08
 BE,Wallonia,Liège,7074.0,,10,2,2020-07-08
 BE,Flanders,WestVlaanderen,7099.0,,26,2,2020-07-08
@@ -1542,7 +1542,7 @@ BE,Wallonia,Luxembourg,1487.0,,6,0,2020-07-09
 BE,Wallonia,BrabantWallon,1574.0,,0,0,2020-07-09
 BE,Flanders,VlaamsBrabant,5586.0,,12,5,2020-07-09
 BE,Brussels,Brussels,6538.0,,29,12,2020-07-09
-BE,Flanders,Limburg,6682.0,,10,1,2020-07-09
+BE,Flanders,Limburg,6681.0,,10,1,2020-07-09
 BE,Flanders,OostVlaanderen,6955.0,,16,2,2020-07-09
 BE,Wallonia,Liège,7081.0,,8,2,2020-07-09
 BE,Flanders,WestVlaanderen,7119.0,,28,3,2020-07-09
@@ -1553,7 +1553,7 @@ BE,MISSING,MISSING,1471.0,,,,2020-07-10
 BE,Wallonia,Luxembourg,1493.0,,5,0,2020-07-10
 BE,Flanders,VlaamsBrabant,5596.0,,11,4,2020-07-10
 BE,Brussels,Brussels,6557.0,,28,11,2020-07-10
-BE,Flanders,Limburg,6692.0,,9,1,2020-07-10
+BE,Flanders,Limburg,6691.0,,9,1,2020-07-10
 BE,Flanders,OostVlaanderen,6962.0,,12,2,2020-07-10
 BE,Wallonia,Liège,7091.0,,9,2,2020-07-10
 BE,Flanders,WestVlaanderen,7132.0,,29,2,2020-07-10
@@ -1567,7 +1567,7 @@ BE,Wallonia,BrabantWallon,1575.0,,0,0,2020-07-11
 BE,Wallonia,Namur,2395.0,,4,0,2020-07-11
 BE,Flanders,VlaamsBrabant,5601.0,,9,3,2020-07-11
 BE,Brussels,Brussels,6559.0,,25,8,2020-07-11
-BE,Flanders,Limburg,6702.0,,9,2,2020-07-11
+BE,Flanders,Limburg,6701.0,,9,2,2020-07-11
 BE,Flanders,OostVlaanderen,6964.0,,13,3,2020-07-11
 BE,Wallonia,Liège,7101.0,,7,2,2020-07-11
 BE,Flanders,WestVlaanderen,7143.0,,29,1,2020-07-11
@@ -1577,7 +1577,7 @@ BE,Wallonia,Luxembourg,1495.0,,5,0,2020-07-12
 BE,Wallonia,BrabantWallon,1577.0,,0,0,2020-07-12
 BE,Flanders,VlaamsBrabant,5604.0,,9,3,2020-07-12
 BE,Brussels,Brussels,6563.0,,26,8,2020-07-12
-BE,Flanders,Limburg,6706.0,,8,1,2020-07-12
+BE,Flanders,Limburg,6705.0,,8,1,2020-07-12
 BE,Flanders,OostVlaanderen,6968.0,,12,3,2020-07-12
 BE,Wallonia,Liège,7102.0,,6,2,2020-07-12
 BE,Flanders,WestVlaanderen,7156.0,,31,2,2020-07-12
@@ -1590,7 +1590,7 @@ BE,Wallonia,BrabantWallon,1579.0,,0,0,2020-07-13
 BE,Wallonia,Namur,2396.0,,4,0,2020-07-13
 BE,Flanders,VlaamsBrabant,5613.0,,9,3,2020-07-13
 BE,Brussels,Brussels,6590.0,,25,5,2020-07-13
-BE,Flanders,Limburg,6725.0,,10,1,2020-07-13
+BE,Flanders,Limburg,6724.0,,10,1,2020-07-13
 BE,Flanders,OostVlaanderen,6978.0,,14,2,2020-07-13
 BE,Wallonia,Liège,7110.0,,7,2,2020-07-13
 BE,Flanders,WestVlaanderen,7192.0,,36,1,2020-07-13
@@ -1602,7 +1602,7 @@ BE,Wallonia,BrabantWallon,1583.0,,3,0,2020-07-14
 BE,Wallonia,Namur,2398.0,,4,0,2020-07-14
 BE,Flanders,VlaamsBrabant,5627.0,,8,2,2020-07-14
 BE,Brussels,Brussels,6620.0,,27,8,2020-07-14
-BE,Flanders,Limburg,6737.0,,13,2,2020-07-14
+BE,Flanders,Limburg,6736.0,,13,2,2020-07-14
 BE,Flanders,OostVlaanderen,6997.0,,11,2,2020-07-14
 BE,Wallonia,Liège,7139.0,,9,2,2020-07-14
 BE,Flanders,WestVlaanderen,7212.0,,38,3,2020-07-14
@@ -1614,7 +1614,7 @@ BE,Wallonia,BrabantWallon,1588.0,,3,0,2020-07-15
 BE,Wallonia,Namur,2403.0,,4,0,2020-07-15
 BE,Flanders,VlaamsBrabant,5644.0,,8,2,2020-07-15
 BE,Brussels,Brussels,6645.0,,27,8,2020-07-15
-BE,Flanders,Limburg,6760.0,,11,2,2020-07-15
+BE,Flanders,Limburg,6759.0,,11,2,2020-07-15
 BE,Flanders,OostVlaanderen,7013.0,,16,2,2020-07-15
 BE,Wallonia,Liège,7156.0,,8,2,2020-07-15
 BE,Wallonia,Hainaut,7230.0,,15,0,2020-07-15
@@ -1625,7 +1625,7 @@ BE,Wallonia,Luxembourg,1532.0,,3,0,2020-07-16
 BE,Wallonia,Namur,2408.0,,4,0,2020-07-16
 BE,Flanders,VlaamsBrabant,5662.0,,7,2,2020-07-16
 BE,Brussels,Brussels,6668.0,,24,8,2020-07-16
-BE,Flanders,Limburg,6771.0,,12,2,2020-07-16
+BE,Flanders,Limburg,6770.0,,12,2,2020-07-16
 BE,Flanders,OostVlaanderen,7027.0,,13,2,2020-07-16
 BE,Wallonia,Liège,7169.0,,7,2,2020-07-16
 BE,Wallonia,Hainaut,7256.0,,13,0,2020-07-16
@@ -1638,7 +1638,7 @@ BE,Wallonia,BrabantWallon,1591.0,,1,0,2020-07-17
 BE,Wallonia,Namur,2412.0,,4,0,2020-07-17
 BE,Flanders,VlaamsBrabant,5672.0,,6,2,2020-07-17
 BE,Brussels,Brussels,6686.0,,25,7,2020-07-17
-BE,Flanders,Limburg,6792.0,,13,2,2020-07-17
+BE,Flanders,Limburg,6791.0,,13,2,2020-07-17
 BE,Flanders,OostVlaanderen,7032.0,,12,2,2020-07-17
 BE,Wallonia,Liège,7188.0,,9,2,2020-07-17
 BE,Wallonia,Hainaut,7274.0,,9,1,2020-07-17
@@ -1650,7 +1650,7 @@ BE,Wallonia,BrabantWallon,1592.0,,2,0,2020-07-18
 BE,Wallonia,Namur,2417.0,,4,0,2020-07-18
 BE,Flanders,VlaamsBrabant,5679.0,,7,2,2020-07-18
 BE,Brussels,Brussels,6695.0,,21,6,2020-07-18
-BE,Flanders,Limburg,6797.0,,13,2,2020-07-18
+BE,Flanders,Limburg,6796.0,,13,2,2020-07-18
 BE,Flanders,OostVlaanderen,7039.0,,10,2,2020-07-18
 BE,Wallonia,Liège,7197.0,,9,2,2020-07-18
 BE,Wallonia,Hainaut,7283.0,,13,3,2020-07-18
@@ -1660,7 +1660,7 @@ BE,Wallonia,Luxembourg,1549.0,,2,0,2020-07-19
 BE,Wallonia,BrabantWallon,1594.0,,2,0,2020-07-19
 BE,Flanders,VlaamsBrabant,5680.0,,7,2,2020-07-19
 BE,Brussels,Brussels,6697.0,,21,8,2020-07-19
-BE,Flanders,Limburg,6809.0,,13,1,2020-07-19
+BE,Flanders,Limburg,6808.0,,13,1,2020-07-19
 BE,Flanders,OostVlaanderen,7046.0,,10,0,2020-07-19
 BE,Wallonia,Liège,7199.0,,10,3,2020-07-19
 BE,Wallonia,Hainaut,7288.0,,13,4,2020-07-19
@@ -1673,7 +1673,7 @@ BE,Wallonia,BrabantWallon,1599.0,,2,0,2020-07-20
 BE,Wallonia,Namur,2426.0,,4,0,2020-07-20
 BE,Flanders,VlaamsBrabant,5701.0,,8,2,2020-07-20
 BE,Brussels,Brussels,6724.0,,24,8,2020-07-20
-BE,Flanders,Limburg,6831.0,,18,2,2020-07-20
+BE,Flanders,Limburg,6830.0,,18,2,2020-07-20
 BE,Flanders,OostVlaanderen,7087.0,,11,0,2020-07-20
 BE,Wallonia,Liège,7232.0,,11,4,2020-07-20
 BE,Wallonia,Hainaut,7313.0,,13,4,2020-07-20
@@ -1685,7 +1685,7 @@ BE,Wallonia,BrabantWallon,1600.0,,1,0,2020-07-21
 BE,Wallonia,Namur,2428.0,,4,0,2020-07-21
 BE,Flanders,VlaamsBrabant,5702.0,,5,2,2020-07-21
 BE,Brussels,Brussels,6733.0,,25,6,2020-07-21
-BE,Flanders,Limburg,6854.0,,16,1,2020-07-21
+BE,Flanders,Limburg,6853.0,,16,1,2020-07-21
 BE,Flanders,OostVlaanderen,7098.0,,9,0,2020-07-21
 BE,Wallonia,Liège,7236.0,,11,4,2020-07-21
 BE,Wallonia,Hainaut,7323.0,,15,4,2020-07-21
@@ -1697,7 +1697,7 @@ BE,Wallonia,BrabantWallon,1606.0,,1,0,2020-07-22
 BE,Wallonia,Namur,2440.0,,4,0,2020-07-22
 BE,Flanders,VlaamsBrabant,5729.0,,5,2,2020-07-22
 BE,Brussels,Brussels,6775.0,,26,8,2020-07-22
-BE,Flanders,Limburg,6900.0,,12,2,2020-07-22
+BE,Flanders,Limburg,6899.0,,12,2,2020-07-22
 BE,Flanders,OostVlaanderen,7127.0,,14,0,2020-07-22
 BE,Wallonia,Liège,7273.0,,13,5,2020-07-22
 BE,Wallonia,Hainaut,7356.0,,18,6,2020-07-22
@@ -1709,7 +1709,7 @@ BE,Wallonia,BrabantWallon,1615.0,,1,0,2020-07-23
 BE,Wallonia,Namur,2447.0,,4,0,2020-07-23
 BE,Flanders,VlaamsBrabant,5747.0,,7,2,2020-07-23
 BE,Brussels,Brussels,6818.0,,34,10,2020-07-23
-BE,Flanders,Limburg,6925.0,,18,1,2020-07-23
+BE,Flanders,Limburg,6924.0,,18,1,2020-07-23
 BE,Flanders,OostVlaanderen,7160.0,,12,0,2020-07-23
 BE,Wallonia,Liège,7312.0,,13,3,2020-07-23
 BE,Wallonia,Hainaut,7365.0,,21,5,2020-07-23
@@ -1721,7 +1721,7 @@ BE,Wallonia,BrabantWallon,1623.0,,0,0,2020-07-24
 BE,Wallonia,Namur,2456.0,,5,0,2020-07-24
 BE,Flanders,VlaamsBrabant,5765.0,,7,2,2020-07-24
 BE,Brussels,Brussels,6847.0,,35,10,2020-07-24
-BE,Flanders,Limburg,6953.0,,21,2,2020-07-24
+BE,Flanders,Limburg,6952.0,,21,2,2020-07-24
 BE,Flanders,OostVlaanderen,7201.0,,15,1,2020-07-24
 BE,Wallonia,Liège,7344.0,,14,3,2020-07-24
 BE,Wallonia,Hainaut,7405.0,,19,6,2020-07-24
@@ -1733,7 +1733,7 @@ BE,Wallonia,BrabantWallon,1624.0,,1,0,2020-07-25
 BE,Wallonia,Namur,2458.0,,4,0,2020-07-25
 BE,Flanders,VlaamsBrabant,5772.0,,7,2,2020-07-25
 BE,Brussels,Brussels,6865.0,,29,10,2020-07-25
-BE,Flanders,Limburg,6972.0,,22,2,2020-07-25
+BE,Flanders,Limburg,6971.0,,22,2,2020-07-25
 BE,Flanders,OostVlaanderen,7220.0,,15,1,2020-07-25
 BE,Wallonia,Liège,7372.0,,12,4,2020-07-25
 BE,Wallonia,Hainaut,7425.0,,19,6,2020-07-25
@@ -1745,7 +1745,7 @@ BE,Wallonia,BrabantWallon,1625.0,,1,0,2020-07-26
 BE,Wallonia,Namur,2464.0,,3,0,2020-07-26
 BE,Flanders,VlaamsBrabant,5779.0,,6,2,2020-07-26
 BE,Brussels,Brussels,6869.0,,33,12,2020-07-26
-BE,Flanders,Limburg,6977.0,,22,2,2020-07-26
+BE,Flanders,Limburg,6976.0,,22,2,2020-07-26
 BE,Flanders,OostVlaanderen,7244.0,,18,1,2020-07-26
 BE,Wallonia,Liège,7382.0,,12,5,2020-07-26
 BE,Wallonia,Hainaut,7433.0,,19,5,2020-07-26
@@ -1757,7 +1757,7 @@ BE,Wallonia,BrabantWallon,1630.0,,1,0,2020-07-27
 BE,Wallonia,Namur,2475.0,,3,0,2020-07-27
 BE,Flanders,VlaamsBrabant,5803.0,,6,2,2020-07-27
 BE,Brussels,Brussels,6917.0,,32,12,2020-07-27
-BE,Flanders,Limburg,7015.0,,20,3,2020-07-27
+BE,Flanders,Limburg,7014.0,,20,3,2020-07-27
 BE,Flanders,OostVlaanderen,7291.0,,19,1,2020-07-27
 BE,Wallonia,Liège,7423.0,,14,6,2020-07-27
 BE,Wallonia,Hainaut,7463.0,,20,5,2020-07-27
@@ -1769,7 +1769,7 @@ BE,Wallonia,BrabantWallon,1646.0,,1,0,2020-07-28
 BE,Wallonia,Namur,2500.0,,3,0,2020-07-28
 BE,Flanders,VlaamsBrabant,5835.0,,5,2,2020-07-28
 BE,Brussels,Brussels,7003.0,,37,11,2020-07-28
-BE,Flanders,Limburg,7046.0,,23,3,2020-07-28
+BE,Flanders,Limburg,7045.0,,23,3,2020-07-28
 BE,Flanders,OostVlaanderen,7348.0,,15,1,2020-07-28
 BE,Wallonia,Liège,7495.0,,17,6,2020-07-28
 BE,Wallonia,Hainaut,7501.0,,16,4,2020-07-28
@@ -1780,7 +1780,7 @@ BE,Wallonia,BrabantWallon,1656.0,,2,0,2020-07-29
 BE,MISSING,MISSING,1668.0,,,,2020-07-29
 BE,Wallonia,Namur,2533.0,,4,0,2020-07-29
 BE,Flanders,VlaamsBrabant,5872.0,,5,2,2020-07-29
-BE,Flanders,Limburg,7084.0,,25,2,2020-07-29
+BE,Flanders,Limburg,7083.0,,25,2,2020-07-29
 BE,Brussels,Brussels,7099.0,,48,11,2020-07-29
 BE,Flanders,OostVlaanderen,7407.0,,17,2,2020-07-29
 BE,Wallonia,Liège,7543.0,,19,5,2020-07-29
@@ -1792,7 +1792,7 @@ BE,Wallonia,BrabantWallon,1664.0,,2,0,2020-07-30
 BE,MISSING,MISSING,1677.0,,,,2020-07-30
 BE,Wallonia,Namur,2543.0,,3,0,2020-07-30
 BE,Flanders,VlaamsBrabant,5920.0,,5,2,2020-07-30
-BE,Flanders,Limburg,7111.0,,20,2,2020-07-30
+BE,Flanders,Limburg,7110.0,,20,2,2020-07-30
 BE,Brussels,Brussels,7189.0,,56,9,2020-07-30
 BE,Flanders,OostVlaanderen,7454.0,,17,1,2020-07-30
 BE,Wallonia,Hainaut,7596.0,,22,6,2020-07-30
@@ -1804,7 +1804,7 @@ BE,Wallonia,BrabantWallon,1682.0,,0,0,2020-07-31
 BE,MISSING,MISSING,1700.0,,,,2020-07-31
 BE,Wallonia,Namur,2568.0,,3,1,2020-07-31
 BE,Flanders,VlaamsBrabant,5950.0,,4,2,2020-07-31
-BE,Flanders,Limburg,7133.0,,11,1,2020-07-31
+BE,Flanders,Limburg,7132.0,,11,1,2020-07-31
 BE,Brussels,Brussels,7257.0,,56,9,2020-07-31
 BE,Flanders,OostVlaanderen,7509.0,,17,2,2020-07-31
 BE,Wallonia,Hainaut,7632.0,,20,7,2020-07-31
@@ -1816,7 +1816,7 @@ BE,Wallonia,BrabantWallon,1694.0,,0,0,2020-08-01
 BE,MISSING,MISSING,1712.0,,,,2020-08-01
 BE,Wallonia,Namur,2573.0,,5,2,2020-08-01
 BE,Flanders,VlaamsBrabant,5965.0,,4,3,2020-08-01
-BE,Flanders,Limburg,7155.0,,9,1,2020-08-01
+BE,Flanders,Limburg,7154.0,,9,1,2020-08-01
 BE,Brussels,Brussels,7288.0,,55,10,2020-08-01
 BE,Flanders,OostVlaanderen,7537.0,,12,1,2020-08-01
 BE,Wallonia,Hainaut,7660.0,,26,9,2020-08-01
@@ -1828,7 +1828,7 @@ BE,Wallonia,BrabantWallon,1698.0,,0,0,2020-08-02
 BE,MISSING,MISSING,1714.0,,,,2020-08-02
 BE,Wallonia,Namur,2575.0,,5,2,2020-08-02
 BE,Flanders,VlaamsBrabant,5968.0,,5,3,2020-08-02
-BE,Flanders,Limburg,7164.0,,12,1,2020-08-02
+BE,Flanders,Limburg,7163.0,,12,1,2020-08-02
 BE,Brussels,Brussels,7308.0,,56,10,2020-08-02
 BE,Flanders,OostVlaanderen,7556.0,,14,2,2020-08-02
 BE,Flanders,WestVlaanderen,7672.0,,30,2,2020-08-02
@@ -1840,7 +1840,7 @@ BE,Wallonia,BrabantWallon,1713.0,,0,0,2020-08-03
 BE,MISSING,MISSING,1723.0,,,,2020-08-03
 BE,Wallonia,Namur,2599.0,,5,2,2020-08-03
 BE,Flanders,VlaamsBrabant,6016.0,,7,3,2020-08-03
-BE,Flanders,Limburg,7190.0,,12,1,2020-08-03
+BE,Flanders,Limburg,7189.0,,12,1,2020-08-03
 BE,Brussels,Brussels,7407.0,,65,7,2020-08-03
 BE,Flanders,OostVlaanderen,7629.0,,15,2,2020-08-03
 BE,Flanders,WestVlaanderen,7713.0,,33,2,2020-08-03
@@ -1852,7 +1852,7 @@ BE,Wallonia,BrabantWallon,1735.0,,0,0,2020-08-04
 BE,MISSING,MISSING,1741.0,,,,2020-08-04
 BE,Wallonia,Namur,2630.0,,4,2,2020-08-04
 BE,Flanders,VlaamsBrabant,6065.0,,6,4,2020-08-04
-BE,Flanders,Limburg,7235.0,,12,1,2020-08-04
+BE,Flanders,Limburg,7234.0,,12,1,2020-08-04
 BE,Brussels,Brussels,7544.0,,59,9,2020-08-04
 BE,Flanders,OostVlaanderen,7675.0,,13,3,2020-08-04
 BE,Flanders,WestVlaanderen,7746.0,,27,2,2020-08-04
@@ -1864,7 +1864,7 @@ BE,Wallonia,BrabantWallon,1750.0,,0,0,2020-08-05
 BE,MISSING,MISSING,1755.0,,,,2020-08-05
 BE,Wallonia,Namur,2653.0,,6,2,2020-08-05
 BE,Flanders,VlaamsBrabant,6119.0,,9,4,2020-08-05
-BE,Flanders,Limburg,7262.0,,9,2,2020-08-05
+BE,Flanders,Limburg,7261.0,,9,2,2020-08-05
 BE,Brussels,Brussels,7686.0,,68,9,2020-08-05
 BE,Flanders,OostVlaanderen,7746.0,,16,3,2020-08-05
 BE,Flanders,WestVlaanderen,7802.0,,29,2,2020-08-05
@@ -1876,7 +1876,7 @@ BE,Wallonia,BrabantWallon,1765.0,,0,0,2020-08-06
 BE,MISSING,MISSING,1770.0,,,,2020-08-06
 BE,Wallonia,Namur,2686.0,,6,2,2020-08-06
 BE,Flanders,VlaamsBrabant,6155.0,,5,1,2020-08-06
-BE,Flanders,Limburg,7289.0,,12,4,2020-08-06
+BE,Flanders,Limburg,7288.0,,12,4,2020-08-06
 BE,Brussels,Brussels,7790.0,,62,11,2020-08-06
 BE,Flanders,OostVlaanderen,7837.0,,17,3,2020-08-06
 BE,Flanders,WestVlaanderen,7853.0,,25,2,2020-08-06
@@ -1888,7 +1888,7 @@ BE,Wallonia,BrabantWallon,1789.0,,0,0,2020-08-07
 BE,MISSING,MISSING,1790.0,,,,2020-08-07
 BE,Wallonia,Namur,2711.0,,7,2,2020-08-07
 BE,Flanders,VlaamsBrabant,6193.0,,7,4,2020-08-07
-BE,Flanders,Limburg,7317.0,,12,3,2020-08-07
+BE,Flanders,Limburg,7316.0,,12,3,2020-08-07
 BE,Flanders,OostVlaanderen,7893.0,,19,3,2020-08-07
 BE,Flanders,WestVlaanderen,7905.0,,20,2,2020-08-07
 BE,Brussels,Brussels,7934.0,,69,12,2020-08-07
@@ -1900,7 +1900,7 @@ BE,Wallonia,BrabantWallon,1799.0,,0,0,2020-08-08
 BE,MISSING,MISSING,1808.0,,,,2020-08-08
 BE,Wallonia,Namur,2717.0,,9,1,2020-08-08
 BE,Flanders,VlaamsBrabant,6204.0,,6,3,2020-08-08
-BE,Flanders,Limburg,7336.0,,13,4,2020-08-08
+BE,Flanders,Limburg,7335.0,,13,4,2020-08-08
 BE,Flanders,WestVlaanderen,7912.0,,17,2,2020-08-08
 BE,Flanders,OostVlaanderen,7925.0,,17,3,2020-08-08
 BE,Wallonia,Hainaut,7961.0,,27,9,2020-08-08
@@ -1912,7 +1912,7 @@ BE,Wallonia,BrabantWallon,1800.0,,0,0,2020-08-09
 BE,MISSING,MISSING,1811.0,,,,2020-08-09
 BE,Wallonia,Namur,2719.0,,11,1,2020-08-09
 BE,Flanders,VlaamsBrabant,6215.0,,5,3,2020-08-09
-BE,Flanders,Limburg,7338.0,,11,4,2020-08-09
+BE,Flanders,Limburg,7337.0,,11,4,2020-08-09
 BE,Flanders,WestVlaanderen,7921.0,,17,2,2020-08-09
 BE,Flanders,OostVlaanderen,7932.0,,15,3,2020-08-09
 BE,Wallonia,Hainaut,7969.0,,29,9,2020-08-09
@@ -1924,7 +1924,7 @@ BE,Wallonia,BrabantWallon,1824.0,,0,0,2020-08-10
 BE,MISSING,MISSING,1838.0,,,,2020-08-10
 BE,Wallonia,Namur,2764.0,,12,1,2020-08-10
 BE,Flanders,VlaamsBrabant,6271.0,,7,3,2020-08-10
-BE,Flanders,Limburg,7388.0,,11,4,2020-08-10
+BE,Flanders,Limburg,7387.0,,11,4,2020-08-10
 BE,Flanders,WestVlaanderen,7953.0,,16,2,2020-08-10
 BE,Flanders,OostVlaanderen,7992.0,,18,3,2020-08-10
 BE,Wallonia,Hainaut,8022.0,,29,8,2020-08-10
@@ -1936,7 +1936,7 @@ BE,Wallonia,BrabantWallon,1844.0,,0,0,2020-08-11
 BE,MISSING,MISSING,1851.0,,,,2020-08-11
 BE,Wallonia,Namur,2789.0,,15,3,2020-08-11
 BE,Flanders,VlaamsBrabant,6308.0,,8,4,2020-08-11
-BE,Flanders,Limburg,7419.0,,11,6,2020-08-11
+BE,Flanders,Limburg,7418.0,,11,6,2020-08-11
 BE,Flanders,WestVlaanderen,7976.0,,15,2,2020-08-11
 BE,Flanders,OostVlaanderen,8047.0,,17,3,2020-08-11
 BE,Wallonia,Hainaut,8080.0,,29,7,2020-08-11
@@ -1948,7 +1948,7 @@ BE,Wallonia,BrabantWallon,1860.0,,1,0,2020-08-12
 BE,MISSING,MISSING,1879.0,,,,2020-08-12
 BE,Wallonia,Namur,2816.0,,17,3,2020-08-12
 BE,Flanders,VlaamsBrabant,6337.0,,9,4,2020-08-12
-BE,Flanders,Limburg,7428.0,,13,6,2020-08-12
+BE,Flanders,Limburg,7427.0,,13,6,2020-08-12
 BE,Flanders,WestVlaanderen,8008.0,,14,2,2020-08-12
 BE,Flanders,OostVlaanderen,8098.0,,19,2,2020-08-12
 BE,Wallonia,Hainaut,8109.0,,29,5,2020-08-12
@@ -1960,7 +1960,7 @@ BE,Wallonia,BrabantWallon,1881.0,,1,0,2020-08-13
 BE,MISSING,MISSING,1898.0,,,,2020-08-13
 BE,Wallonia,Namur,2832.0,,16,2,2020-08-13
 BE,Flanders,VlaamsBrabant,6384.0,,11,4,2020-08-13
-BE,Flanders,Limburg,7454.0,,14,6,2020-08-13
+BE,Flanders,Limburg,7453.0,,14,6,2020-08-13
 BE,Flanders,WestVlaanderen,8044.0,,14,0,2020-08-13
 BE,Wallonia,Hainaut,8156.0,,29,3,2020-08-13
 BE,Flanders,OostVlaanderen,8175.0,,21,2,2020-08-13
@@ -1972,7 +1972,7 @@ BE,Wallonia,BrabantWallon,1886.0,,2,0,2020-08-14
 BE,MISSING,MISSING,1916.0,,,,2020-08-14
 BE,Wallonia,Namur,2858.0,,16,1,2020-08-14
 BE,Flanders,VlaamsBrabant,6428.0,,12,4,2020-08-14
-BE,Flanders,Limburg,7471.0,,15,6,2020-08-14
+BE,Flanders,Limburg,7470.0,,15,6,2020-08-14
 BE,Flanders,WestVlaanderen,8068.0,,19,2,2020-08-14
 BE,Wallonia,Hainaut,8197.0,,29,2,2020-08-14
 BE,Flanders,OostVlaanderen,8235.0,,19,2,2020-08-14
@@ -1983,7 +1983,7 @@ BE,Wallonia,BrabantWallon,1891.0,,1,0,2020-08-15
 BE,MISSING,MISSING,1930.0,,,,2020-08-15
 BE,Wallonia,Namur,2863.0,,14,1,2020-08-15
 BE,Flanders,VlaamsBrabant,6442.0,,10,3,2020-08-15
-BE,Flanders,Limburg,7483.0,,14,6,2020-08-15
+BE,Flanders,Limburg,7482.0,,14,6,2020-08-15
 BE,Flanders,WestVlaanderen,8070.0,,21,2,2020-08-15
 BE,Wallonia,Hainaut,8203.0,,22,2,2020-08-15
 BE,Flanders,OostVlaanderen,8243.0,,19,4,2020-08-15
@@ -1996,7 +1996,7 @@ BE,Wallonia,BrabantWallon,1896.0,,2,0,2020-08-16
 BE,MISSING,MISSING,1932.0,,,,2020-08-16
 BE,Wallonia,Namur,2872.0,,15,1,2020-08-16
 BE,Flanders,VlaamsBrabant,6448.0,,11,4,2020-08-16
-BE,Flanders,Limburg,7492.0,,14,5,2020-08-16
+BE,Flanders,Limburg,7491.0,,14,5,2020-08-16
 BE,Flanders,WestVlaanderen,8083.0,,19,2,2020-08-16
 BE,Wallonia,Hainaut,8213.0,,23,2,2020-08-16
 BE,Flanders,OostVlaanderen,8254.0,,23,4,2020-08-16
@@ -2008,7 +2008,7 @@ BE,Wallonia,BrabantWallon,1909.0,,2,0,2020-08-17
 BE,MISSING,MISSING,1949.0,,,,2020-08-17
 BE,Wallonia,Namur,2897.0,,15,1,2020-08-17
 BE,Flanders,VlaamsBrabant,6513.0,,11,4,2020-08-17
-BE,Flanders,Limburg,7524.0,,11,5,2020-08-17
+BE,Flanders,Limburg,7523.0,,11,5,2020-08-17
 BE,Flanders,WestVlaanderen,8116.0,,20,2,2020-08-17
 BE,Wallonia,Hainaut,8283.0,,22,2,2020-08-17
 BE,Flanders,OostVlaanderen,8321.0,,25,6,2020-08-17
@@ -2020,7 +2020,7 @@ BE,Wallonia,BrabantWallon,1931.0,,1,0,2020-08-18
 BE,MISSING,MISSING,1963.0,,,,2020-08-18
 BE,Wallonia,Namur,2942.0,,11,1,2020-08-18
 BE,Flanders,VlaamsBrabant,6571.0,,9,4,2020-08-18
-BE,Flanders,Limburg,7555.0,,11,3,2020-08-18
+BE,Flanders,Limburg,7554.0,,11,3,2020-08-18
 BE,Flanders,WestVlaanderen,8134.0,,19,3,2020-08-18
 BE,Wallonia,Hainaut,8337.0,,18,2,2020-08-18
 BE,Flanders,OostVlaanderen,8379.0,,25,4,2020-08-18
@@ -2032,7 +2032,7 @@ BE,Wallonia,BrabantWallon,1942.0,,1,0,2020-08-19
 BE,MISSING,MISSING,1993.0,,,,2020-08-19
 BE,Wallonia,Namur,2955.0,,9,0,2020-08-19
 BE,Flanders,VlaamsBrabant,6614.0,,8,4,2020-08-19
-BE,Flanders,Limburg,7580.0,,13,3,2020-08-19
+BE,Flanders,Limburg,7579.0,,13,3,2020-08-19
 BE,Flanders,WestVlaanderen,8149.0,,14,2,2020-08-19
 BE,Wallonia,Hainaut,8402.0,,14,1,2020-08-19
 BE,Flanders,OostVlaanderen,8433.0,,25,2,2020-08-19
@@ -2044,7 +2044,7 @@ BE,Wallonia,BrabantWallon,1956.0,,1,0,2020-08-20
 BE,MISSING,MISSING,2013.0,,,,2020-08-20
 BE,Wallonia,Namur,2967.0,,7,1,2020-08-20
 BE,Flanders,VlaamsBrabant,6656.0,,7,4,2020-08-20
-BE,Flanders,Limburg,7620.0,,11,3,2020-08-20
+BE,Flanders,Limburg,7619.0,,11,3,2020-08-20
 BE,Flanders,WestVlaanderen,8175.0,,13,2,2020-08-20
 BE,Wallonia,Hainaut,8463.0,,10,1,2020-08-20
 BE,Flanders,OostVlaanderen,8477.0,,23,2,2020-08-20
@@ -2056,7 +2056,7 @@ BE,Wallonia,BrabantWallon,1974.0,,1,0,2020-08-21
 BE,MISSING,MISSING,2027.0,,,,2020-08-21
 BE,Wallonia,Namur,2986.0,,7,1,2020-08-21
 BE,Flanders,VlaamsBrabant,6705.0,,9,4,2020-08-21
-BE,Flanders,Limburg,7645.0,,11,3,2020-08-21
+BE,Flanders,Limburg,7644.0,,11,3,2020-08-21
 BE,Flanders,WestVlaanderen,8195.0,,12,3,2020-08-21
 BE,Flanders,OostVlaanderen,8516.0,,24,1,2020-08-21
 BE,Wallonia,Hainaut,8517.0,,11,1,2020-08-21
@@ -2068,7 +2068,7 @@ BE,Wallonia,BrabantWallon,1981.0,,2,0,2020-08-22
 BE,MISSING,MISSING,2043.0,,,,2020-08-22
 BE,Wallonia,Namur,2993.0,,6,2,2020-08-22
 BE,Flanders,VlaamsBrabant,6718.0,,10,4,2020-08-22
-BE,Flanders,Limburg,7652.0,,13,3,2020-08-22
+BE,Flanders,Limburg,7651.0,,13,3,2020-08-22
 BE,Flanders,WestVlaanderen,8208.0,,8,4,2020-08-22
 BE,Wallonia,Hainaut,8532.0,,14,2,2020-08-22
 BE,Flanders,OostVlaanderen,8532.0,,27,2,2020-08-22
@@ -2078,7 +2078,7 @@ BE,Flanders,Antwerpen,15093.0,,85,29,2020-08-22
 BE,Wallonia,BrabantWallon,1987.0,,3,0,2020-08-23
 BE,MISSING,MISSING,2063.0,,,,2020-08-23
 BE,Flanders,VlaamsBrabant,6725.0,,10,4,2020-08-23
-BE,Flanders,Limburg,7660.0,,13,3,2020-08-23
+BE,Flanders,Limburg,7659.0,,13,3,2020-08-23
 BE,Flanders,WestVlaanderen,8209.0,,11,4,2020-08-23
 BE,Wallonia,Hainaut,8538.0,,16,2,2020-08-23
 BE,Flanders,OostVlaanderen,8539.0,,23,3,2020-08-23
@@ -2092,7 +2092,7 @@ BE,Wallonia,BrabantWallon,2016.0,,4,0,2020-08-24
 BE,MISSING,MISSING,2076.0,,,,2020-08-24
 BE,Wallonia,Namur,3006.0,,5,2,2020-08-24
 BE,Flanders,VlaamsBrabant,6789.0,,12,5,2020-08-24
-BE,Flanders,Limburg,7692.0,,13,3,2020-08-24
+BE,Flanders,Limburg,7691.0,,13,3,2020-08-24
 BE,Flanders,WestVlaanderen,8228.0,,11,4,2020-08-24
 BE,Wallonia,Hainaut,8578.0,,19,2,2020-08-24
 BE,Flanders,OostVlaanderen,8589.0,,26,3,2020-08-24
@@ -2104,7 +2104,7 @@ BE,Wallonia,BrabantWallon,2032.0,,2,0,2020-08-25
 BE,MISSING,MISSING,2084.0,,,,2020-08-25
 BE,Wallonia,Namur,3017.0,,4,2,2020-08-25
 BE,Flanders,VlaamsBrabant,6838.0,,14,6,2020-08-25
-BE,Flanders,Limburg,7725.0,,12,3,2020-08-25
+BE,Flanders,Limburg,7724.0,,12,3,2020-08-25
 BE,Flanders,WestVlaanderen,8254.0,,10,4,2020-08-25
 BE,Wallonia,Hainaut,8615.0,,14,1,2020-08-25
 BE,Flanders,OostVlaanderen,8637.0,,24,4,2020-08-25
@@ -2116,7 +2116,7 @@ BE,Wallonia,BrabantWallon,2046.0,,1,0,2020-08-26
 BE,MISSING,MISSING,2103.0,,,,2020-08-26
 BE,Wallonia,Namur,3039.0,,4,2,2020-08-26
 BE,Flanders,VlaamsBrabant,6891.0,,15,7,2020-08-26
-BE,Flanders,Limburg,7750.0,,9,2,2020-08-26
+BE,Flanders,Limburg,7749.0,,9,2,2020-08-26
 BE,Flanders,WestVlaanderen,8274.0,,10,2,2020-08-26
 BE,Wallonia,Hainaut,8652.0,,12,0,2020-08-26
 BE,Flanders,OostVlaanderen,8669.0,,21,4,2020-08-26
@@ -2128,7 +2128,7 @@ BE,Wallonia,BrabantWallon,2063.0,,1,0,2020-08-27
 BE,MISSING,MISSING,2114.0,,,,2020-08-27
 BE,Wallonia,Namur,3057.0,,4,2,2020-08-27
 BE,Flanders,VlaamsBrabant,6950.0,,14,7,2020-08-27
-BE,Flanders,Limburg,7781.0,,7,2,2020-08-27
+BE,Flanders,Limburg,7780.0,,7,2,2020-08-27
 BE,Flanders,WestVlaanderen,8293.0,,12,1,2020-08-27
 BE,Flanders,OostVlaanderen,8708.0,,22,4,2020-08-27
 BE,Wallonia,Hainaut,8713.0,,14,0,2020-08-27
@@ -2140,7 +2140,7 @@ BE,Wallonia,BrabantWallon,2080.0,,1,0,2020-08-28
 BE,MISSING,MISSING,2127.0,,,,2020-08-28
 BE,Wallonia,Namur,3079.0,,3,1,2020-08-28
 BE,Flanders,VlaamsBrabant,7007.0,,15,8,2020-08-28
-BE,Flanders,Limburg,7800.0,,7,2,2020-08-28
+BE,Flanders,Limburg,7799.0,,7,2,2020-08-28
 BE,Flanders,WestVlaanderen,8329.0,,13,1,2020-08-28
 BE,Flanders,OostVlaanderen,8760.0,,18,3,2020-08-28
 BE,Wallonia,Hainaut,8775.0,,16,0,2020-08-28
@@ -2152,7 +2152,7 @@ BE,Wallonia,BrabantWallon,2088.0,,1,0,2020-08-29
 BE,MISSING,MISSING,2132.0,,,,2020-08-29
 BE,Wallonia,Namur,3086.0,,3,1,2020-08-29
 BE,Flanders,VlaamsBrabant,7024.0,,15,8,2020-08-29
-BE,Flanders,Limburg,7816.0,,6,2,2020-08-29
+BE,Flanders,Limburg,7815.0,,6,2,2020-08-29
 BE,Flanders,WestVlaanderen,8338.0,,15,1,2020-08-29
 BE,Flanders,OostVlaanderen,8773.0,,12,3,2020-08-29
 BE,Wallonia,Hainaut,8794.0,,12,0,2020-08-29
@@ -2164,7 +2164,7 @@ BE,Wallonia,BrabantWallon,2092.0,,1,0,2020-08-30
 BE,MISSING,MISSING,2133.0,,,,2020-08-30
 BE,Wallonia,Namur,3091.0,,3,1,2020-08-30
 BE,Flanders,VlaamsBrabant,7034.0,,16,8,2020-08-30
-BE,Flanders,Limburg,7823.0,,5,2,2020-08-30
+BE,Flanders,Limburg,7822.0,,5,2,2020-08-30
 BE,Flanders,WestVlaanderen,8339.0,,13,0,2020-08-30
 BE,Flanders,OostVlaanderen,8787.0,,15,3,2020-08-30
 BE,Wallonia,Hainaut,8797.0,,12,0,2020-08-30
@@ -2176,7 +2176,7 @@ BE,Wallonia,BrabantWallon,2113.0,,1,0,2020-08-31
 BE,MISSING,MISSING,2146.0,,,,2020-08-31
 BE,Wallonia,Namur,3110.0,,3,1,2020-08-31
 BE,Flanders,VlaamsBrabant,7089.0,,14,6,2020-08-31
-BE,Flanders,Limburg,7875.0,,4,2,2020-08-31
+BE,Flanders,Limburg,7874.0,,4,2,2020-08-31
 BE,Flanders,WestVlaanderen,8371.0,,16,0,2020-08-31
 BE,Wallonia,Hainaut,8837.0,,12,0,2020-08-31
 BE,Flanders,OostVlaanderen,8847.0,,17,3,2020-08-31
@@ -2188,7 +2188,7 @@ BE,Wallonia,BrabantWallon,2132.0,,2,0,2020-09-01
 BE,MISSING,MISSING,2161.0,,,,2020-09-01
 BE,Wallonia,Namur,3122.0,,3,1,2020-09-01
 BE,Flanders,VlaamsBrabant,7140.0,,14,6,2020-09-01
-BE,Flanders,Limburg,7920.0,,8,2,2020-09-01
+BE,Flanders,Limburg,7919.0,,8,2,2020-09-01
 BE,Flanders,WestVlaanderen,8397.0,,11,0,2020-09-01
 BE,Wallonia,Hainaut,8882.0,,10,0,2020-09-01
 BE,Flanders,OostVlaanderen,8884.0,,20,5,2020-09-01
@@ -2200,7 +2200,7 @@ BE,Wallonia,BrabantWallon,2156.0,,2,0,2020-09-02
 BE,MISSING,MISSING,2178.0,,,,2020-09-02
 BE,Wallonia,Namur,3140.0,,3,1,2020-09-02
 BE,Flanders,VlaamsBrabant,7178.0,,13,3,2020-09-02
-BE,Flanders,Limburg,7945.0,,12,2,2020-09-02
+BE,Flanders,Limburg,7944.0,,12,2,2020-09-02
 BE,Flanders,WestVlaanderen,8424.0,,10,0,2020-09-02
 BE,Flanders,OostVlaanderen,8940.0,,17,5,2020-09-02
 BE,Wallonia,Hainaut,8951.0,,10,0,2020-09-02
@@ -2212,7 +2212,7 @@ BE,Wallonia,BrabantWallon,2181.0,,2,0,2020-09-03
 BE,MISSING,MISSING,2200.0,,,,2020-09-03
 BE,Wallonia,Namur,3163.0,,3,1,2020-09-03
 BE,Flanders,VlaamsBrabant,7235.0,,12,3,2020-09-03
-BE,Flanders,Limburg,7972.0,,10,1,2020-09-03
+BE,Flanders,Limburg,7971.0,,10,1,2020-09-03
 BE,Flanders,WestVlaanderen,8450.0,,7,0,2020-09-03
 BE,Flanders,OostVlaanderen,8992.0,,18,5,2020-09-03
 BE,Wallonia,Hainaut,8995.0,,11,0,2020-09-03
@@ -2224,7 +2224,7 @@ BE,Wallonia,BrabantWallon,2214.0,,0,0,2020-09-04
 BE,MISSING,MISSING,2222.0,,,,2020-09-04
 BE,Wallonia,Namur,3181.0,,5,1,2020-09-04
 BE,Flanders,VlaamsBrabant,7283.0,,12,3,2020-09-04
-BE,Flanders,Limburg,7999.0,,11,1,2020-09-04
+BE,Flanders,Limburg,7998.0,,11,1,2020-09-04
 BE,Flanders,WestVlaanderen,8489.0,,6,0,2020-09-04
 BE,Flanders,OostVlaanderen,9067.0,,20,3,2020-09-04
 BE,Wallonia,Hainaut,9068.0,,8,1,2020-09-04
@@ -2236,7 +2236,7 @@ BE,MISSING,MISSING,2228.0,,,,2020-09-05
 BE,Wallonia,BrabantWallon,2229.0,,4,0,2020-09-05
 BE,Wallonia,Namur,3190.0,,7,1,2020-09-05
 BE,Flanders,VlaamsBrabant,7306.0,,11,3,2020-09-05
-BE,Flanders,Limburg,8005.0,,10,1,2020-09-05
+BE,Flanders,Limburg,8004.0,,10,1,2020-09-05
 BE,Flanders,WestVlaanderen,8517.0,,5,0,2020-09-05
 BE,Flanders,OostVlaanderen,9094.0,,21,3,2020-09-05
 BE,Wallonia,Hainaut,9103.0,,9,1,2020-09-05
@@ -2248,69 +2248,81 @@ BE,MISSING,MISSING,2232.0,,,,2020-09-06
 BE,Wallonia,BrabantWallon,2237.0,,4,0,2020-09-06
 BE,Wallonia,Namur,3195.0,,6,1,2020-09-06
 BE,Flanders,VlaamsBrabant,7320.0,,11,3,2020-09-06
-BE,Flanders,Limburg,8022.0,,9,1,2020-09-06
+BE,Flanders,Limburg,8021.0,,9,1,2020-09-06
 BE,Flanders,WestVlaanderen,8522.0,,6,0,2020-09-06
 BE,Flanders,OostVlaanderen,9107.0,,23,3,2020-09-06
 BE,Wallonia,Hainaut,9111.0,,11,1,2020-09-06
 BE,Wallonia,Liège,9423.0,,21,6,2020-09-06
 BE,Brussels,Brussels,11545.0,,79,23,2020-09-06
 BE,Flanders,Antwerpen,16419.0,,53,15,2020-09-06
-BE,Wallonia,Luxembourg,1883.0,,0,0,2020-09-07
+BE,Wallonia,Luxembourg,1885.0,,0,0,2020-09-07
 BE,MISSING,MISSING,2253.0,,,,2020-09-07
-BE,Wallonia,BrabantWallon,2267.0,,0,0,2020-09-07
-BE,Wallonia,Namur,3210.0,,6,1,2020-09-07
+BE,Wallonia,BrabantWallon,2268.0,,0,0,2020-09-07
+BE,Wallonia,Namur,3211.0,,6,1,2020-09-07
 BE,Flanders,VlaamsBrabant,7406.0,,9,2,2020-09-07
-BE,Flanders,Limburg,8058.0,,10,1,2020-09-07
+BE,Flanders,Limburg,8057.0,,10,1,2020-09-07
 BE,Flanders,WestVlaanderen,8606.0,,5,0,2020-09-07
 BE,Wallonia,Hainaut,9172.0,,12,1,2020-09-07
 BE,Flanders,OostVlaanderen,9216.0,,23,3,2020-09-07
-BE,Wallonia,Liège,9511.0,,23,6,2020-09-07
-BE,Brussels,Brussels,11732.0,,92,22,2020-09-07
+BE,Wallonia,Liège,9516.0,,23,6,2020-09-07
+BE,Brussels,Brussels,11733.0,,92,22,2020-09-07
 BE,Flanders,Antwerpen,16600.0,,55,16,2020-09-07
-BE,Wallonia,Luxembourg,1888.0,,0,0,2020-09-08
-BE,MISSING,MISSING,2266.0,,,,2020-09-08
-BE,Wallonia,BrabantWallon,2299.0,,3,0,2020-09-08
-BE,Wallonia,Namur,3219.0,,6,1,2020-09-08
-BE,Flanders,VlaamsBrabant,7477.0,,5,2,2020-09-08
-BE,Flanders,Limburg,8099.0,,9,0,2020-09-08
-BE,Flanders,WestVlaanderen,8657.0,,8,0,2020-09-08
-BE,Wallonia,Hainaut,9238.0,,17,4,2020-09-08
+BE,Wallonia,Luxembourg,1891.0,,0,0,2020-09-08
+BE,MISSING,MISSING,2269.0,,,,2020-09-08
+BE,Wallonia,BrabantWallon,2301.0,,3,0,2020-09-08
+BE,Wallonia,Namur,3223.0,,6,1,2020-09-08
+BE,Flanders,VlaamsBrabant,7478.0,,5,2,2020-09-08
+BE,Flanders,Limburg,8100.0,,9,0,2020-09-08
+BE,Flanders,WestVlaanderen,8658.0,,8,0,2020-09-08
+BE,Wallonia,Hainaut,9247.0,,17,4,2020-09-08
 BE,Flanders,OostVlaanderen,9298.0,,30,3,2020-09-08
-BE,Wallonia,Liège,9581.0,,28,8,2020-09-08
-BE,Brussels,Brussels,11930.0,,96,23,2020-09-08
+BE,Wallonia,Liège,9593.0,,28,8,2020-09-08
+BE,Brussels,Brussels,11935.0,,96,23,2020-09-08
 BE,Flanders,Antwerpen,16759.0,,58,18,2020-09-08
-BE,Wallonia,Luxembourg,1895.0,,0,0,2020-09-09
-BE,MISSING,MISSING,2278.0,,,,2020-09-09
-BE,Wallonia,BrabantWallon,2329.0,,2,0,2020-09-09
-BE,Wallonia,Namur,3231.0,,4,1,2020-09-09
-BE,Flanders,VlaamsBrabant,7511.0,,6,2,2020-09-09
-BE,Flanders,Limburg,8126.0,,6,0,2020-09-09
-BE,Flanders,WestVlaanderen,8690.0,,10,0,2020-09-09
-BE,Wallonia,Hainaut,9305.0,,18,4,2020-09-09
-BE,Flanders,OostVlaanderen,9372.0,,31,4,2020-09-09
-BE,Wallonia,Liège,9643.0,,28,8,2020-09-09
-BE,Brussels,Brussels,12081.0,,88,23,2020-09-09
-BE,Flanders,Antwerpen,16872.0,,57,18,2020-09-09
-BE,Wallonia,Luxembourg,1896.0,,0,0,2020-09-10
-BE,MISSING,MISSING,2280.0,,,,2020-09-10
-BE,Wallonia,BrabantWallon,2333.0,,1,0,2020-09-10
-BE,Wallonia,Namur,3234.0,,2,1,2020-09-10
-BE,Flanders,VlaamsBrabant,7513.0,,8,3,2020-09-10
-BE,Flanders,Limburg,8134.0,,5,1,2020-09-10
-BE,Flanders,WestVlaanderen,8702.0,,13,0,2020-09-10
-BE,Wallonia,Hainaut,9308.0,,18,4,2020-09-10
-BE,Flanders,OostVlaanderen,9396.0,,29,5,2020-09-10
-BE,Wallonia,Liège,9661.0,,28,8,2020-09-10
-BE,Brussels,Brussels,12093.0,,88,24,2020-09-10
-BE,Flanders,Antwerpen,16893.0,,57,19,2020-09-10
-BE,Flanders,Limburg,,,5,0,2020-09-11
-BE,Flanders,OostVlaanderen,,,29,8,2020-09-11
-BE,Brussels,Brussels,,,88,25,2020-09-11
-BE,Wallonia,Namur,,,3,1,2020-09-11
-BE,Wallonia,Luxembourg,,,1,0,2020-09-11
+BE,Wallonia,Luxembourg,1903.0,,0,0,2020-09-09
+BE,MISSING,MISSING,2282.0,,,,2020-09-09
+BE,Wallonia,BrabantWallon,2339.0,,2,0,2020-09-09
+BE,Wallonia,Namur,3239.0,,4,1,2020-09-09
+BE,Flanders,VlaamsBrabant,7537.0,,6,2,2020-09-09
+BE,Flanders,Limburg,8150.0,,6,0,2020-09-09
+BE,Flanders,WestVlaanderen,8706.0,,10,0,2020-09-09
+BE,Wallonia,Hainaut,9318.0,,18,4,2020-09-09
+BE,Flanders,OostVlaanderen,9394.0,,31,4,2020-09-09
+BE,Wallonia,Liège,9701.0,,28,8,2020-09-09
+BE,Brussels,Brussels,12137.0,,88,23,2020-09-09
+BE,Flanders,Antwerpen,16914.0,,57,18,2020-09-09
+BE,Wallonia,Luxembourg,1914.0,,0,0,2020-09-10
+BE,MISSING,MISSING,2303.0,,,,2020-09-10
+BE,Wallonia,BrabantWallon,2369.0,,1,0,2020-09-10
+BE,Wallonia,Namur,3273.0,,2,1,2020-09-10
+BE,Flanders,VlaamsBrabant,7575.0,,8,3,2020-09-10
+BE,Flanders,Limburg,8175.0,,5,1,2020-09-10
+BE,Flanders,WestVlaanderen,8743.0,,13,0,2020-09-10
+BE,Wallonia,Hainaut,9372.0,,18,4,2020-09-10
+BE,Flanders,OostVlaanderen,9470.0,,29,5,2020-09-10
+BE,Wallonia,Liège,9767.0,,28,8,2020-09-10
+BE,Brussels,Brussels,12257.0,,88,24,2020-09-10
+BE,Flanders,Antwerpen,17048.0,,57,19,2020-09-10
+BE,Wallonia,Luxembourg,1916.0,,1,0,2020-09-11
+BE,MISSING,MISSING,2306.0,,,,2020-09-11
+BE,Wallonia,Namur,3279.0,,3,1,2020-09-11
+BE,Flanders,VlaamsBrabant,7577.0,,9,3,2020-09-11
+BE,Flanders,Limburg,8181.0,,5,0,2020-09-11
+BE,Flanders,WestVlaanderen,8748.0,,15,0,2020-09-11
+BE,Wallonia,Hainaut,9386.0,,18,4,2020-09-11
+BE,Flanders,OostVlaanderen,9491.0,,29,8,2020-09-11
+BE,Brussels,Brussels,12269.0,,88,25,2020-09-11
+BE,Flanders,Antwerpen,17093.0,,58,18,2020-09-11
 BE,Wallonia,Liège,,,28,8,2020-09-11
-BE,Wallonia,Hainaut,,,18,4,2020-09-11
 BE,Wallonia,BrabantWallon,,,0,0,2020-09-11
-BE,Flanders,WestVlaanderen,,,15,0,2020-09-11
-BE,Flanders,Antwerpen,,,58,18,2020-09-11
-BE,Flanders,VlaamsBrabant,,,9,3,2020-09-11
+BE,Flanders,OostVlaanderen,9493.0,,28,6,2020-09-12
+BE,Flanders,Limburg,,,6,0,2020-09-12
+BE,Wallonia,Namur,,,1,1,2020-09-12
+BE,Wallonia,Luxembourg,,,1,0,2020-09-12
+BE,Wallonia,Liège,,,33,10,2020-09-12
+BE,Wallonia,Hainaut,,,20,5,2020-09-12
+BE,Wallonia,BrabantWallon,,,0,0,2020-09-12
+BE,Flanders,WestVlaanderen,,,17,1,2020-09-12
+BE,Brussels,Brussels,,,87,25,2020-09-12
+BE,Flanders,Antwerpen,,,59,17,2020-09-12
+BE,Flanders,VlaamsBrabant,,,8,3,2020-09-12
