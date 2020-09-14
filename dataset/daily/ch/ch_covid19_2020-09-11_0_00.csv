@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Obwalden,OW,108.0,0.0,,0.0,,2020-09-11
 CH,Uri,UR,138.0,7.0,,0.0,,2020-09-11
+CH,Nidwalden,NW,139.0,3.0,,1.0,1.0,2020-09-11
 CH,Glarus,GL,168.0,13.0,,0.0,,2020-09-11
 CH,Schaffhausen,SH,177.0,8.0,,0.0,0.0,2020-09-11
 CH,Jura,JU,288.0,7.0,,3.0,0.0,2020-09-11
@@ -14,15 +15,14 @@ CH,Basel-Landschaft,BL,1094.0,36.0,,0.0,0.0,2020-09-11
 CH,Lucerne,LU,1115.0,21.0,,6.0,1.0,2020-09-11
 CH,Basel-Stadt,BS,1265.0,54.0,,2.0,1.0,2020-09-11
 CH,Fribourg,FR,2037.0,88.0,,18.0,1.0,2020-09-11
+CH,Aargau,AG,2328.0,53.0,,,,2020-09-11
 CH,Valais,VS,2474.0,155.0,,5.0,0.0,2020-09-11
 CH,Berne,BE,2784.0,99.0,,8.0,2.0,2020-09-11
 CH,Ticino,TI,3577.0,350.0,,0.0,0.0,2020-09-11
-CH,Zürich,ZH,6886.0,144.0,,25.0,,2020-09-11
-CH,,,45900.0,2021.0,72603.0,124.0,15.0,2020-09-11
-CH,Aargau,AG,,,,,,2020-09-11
+CH,Zürich,ZH,6886.0,145.0,,25.0,,2020-09-11
+CH,Geneva,GE,7443.0,300.0,,18.0,1.0,2020-09-11
+CH,,,45958.0,2023.0,72603.0,124.0,15.0,2020-09-11
 CH,Appenzell Innerrhoden,AI,,,,,,2020-09-11
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-11
-CH,Geneva,GE,,,,18.0,1.0,2020-09-11
-CH,Nidwalden,NW,,,,,,2020-09-11
 CH,St. Gallen,SG,,,,,,2020-09-11
 CH,Vaud,VD,,,,,,2020-09-11
