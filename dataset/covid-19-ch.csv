@@ -6321,10 +6321,12 @@ CH,Glarus,GL,168.0,13,,0,,2020-09-14
 CH,Schaffhausen,SH,177.0,8,,0,0,2020-09-14
 CH,Schwyz,SZ,535.0,25,,,,2020-09-14
 CH,Thurgau,TG,640.0,19,,3,2,2020-09-14
+CH,Solothurn,SO,755.0,18,,2,,2020-09-14
+CH,Lucerne,LU,1124.0,23,,7,0,2020-09-14
 CH,Basel-Stadt,BS,1274.0,54,,,,2020-09-14
 CH,Fribourg,FR,2125.0,88,,22,2,2020-09-14
 CH,Ticino,TI,3590.0,350,,0,0,2020-09-14
-CH,,,46279.0,2021,72603,126,16,2020-09-14
+CH,,,46299.0,2023,72603,128,15,2020-09-14
 CH,Aargau,AG,,0,,,,2020-09-14
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-14
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-14
@@ -6333,12 +6335,10 @@ CH,Basel-Landschaft,BL,,0,,,,2020-09-14
 CH,Geneva,GE,,0,,,,2020-09-14
 CH,Grisons,GR,,0,,,,2020-09-14
 CH,Jura,JU,,0,,,,2020-09-14
-CH,Lucerne,LU,,0,,,,2020-09-14
 CH,Neuchâtel,NE,,0,,,,2020-09-14
 CH,Nidwalden,NW,,0,,,,2020-09-14
 CH,Obwalden,OW,,0,,,,2020-09-14
 CH,St. Gallen,SG,,0,,,,2020-09-14
-CH,Solothurn,SO,,0,,,,2020-09-14
 CH,Uri,UR,,0,,,,2020-09-14
 CH,Vaud,VD,,0,,,,2020-09-14
 CH,Valais,VS,,0,,,,2020-09-14
