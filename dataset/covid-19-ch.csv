@@ -6354,6 +6354,7 @@ CH,Zug,ZG,408.0,9,,1,,2020-09-15
 CH,Schwyz,SZ,536.0,25,,,,2020-09-15
 CH,Thurgau,TG,643.0,19,,3,2,2020-09-15
 CH,Solothurn,SO,759.0,18,,2,,2020-09-15
+CH,Neuchâtel,NE,998.0,0,,2,0,2020-09-15
 CH,Grisons,GR,1053.0,50,,1,0,2020-09-15
 CH,Basel-Landschaft,BL,1108.0,36,,3,0,2020-09-15
 CH,Lucerne,LU,1135.0,23,,5,0,2020-09-15
@@ -6366,10 +6367,9 @@ CH,Berne,BE,2893.0,99,,,,2020-09-15
 CH,Ticino,TI,3590.0,350,,1,0,2020-09-15
 CH,Zürich,ZH,7080.0,145,,28,,2020-09-15
 CH,Geneva,GE,7637.0,303,,29,2,2020-09-15
-CH,,,47657.0,2032,72603,159,16,2020-09-15
+CH,,,47662.0,2032,72603,160,16,2020-09-15
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-15
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-15
-CH,Neuchâtel,NE,,0,,1,0,2020-09-15
 CH,Vaud,VD,,0,,,,2020-09-15
 CH,Appenzell Innerrhoden,AI,28.0,0,,,,2020-09-16
 CH,Obwalden,OW,109.0,0,,0,,2020-09-16
@@ -6380,7 +6380,7 @@ CH,Schaffhausen,SH,178.0,8,,0,0,2020-09-16
 CH,Jura,JU,291.0,7,,2,0,2020-09-16
 CH,Zug,ZG,409.0,9,,1,,2020-09-16
 CH,Schwyz,SZ,541.0,25,,,,2020-09-16
-CH,Thurgau,TG,654.0,19,,3,2,2020-09-16
+CH,Thurgau,TG,662.0,19,,3,2,2020-09-16
 CH,Solothurn,SO,776.0,18,,2,,2020-09-16
 CH,Grisons,GR,1055.0,50,,1,0,2020-09-16
 CH,Basel-Landschaft,BL,1110.0,36,,3,0,2020-09-16
@@ -6392,22 +6392,24 @@ CH,Valais,VS,2529.0,155,,9,0,2020-09-16
 CH,Berne,BE,2947.0,99,,12,2,2020-09-16
 CH,Ticino,TI,3596.0,350,,1,0,2020-09-16
 CH,Zürich,ZH,7143.0,145,,25,,2020-09-16
-CH,,,47878.0,2039,72603,158,14,2020-09-16
+CH,,,47891.0,2039,72603,160,15,2020-09-16
 CH,Aargau,AG,,0,,,,2020-09-16
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-16
 CH,Geneva,GE,,0,,29,1,2020-09-16
-CH,Neuchâtel,NE,,0,,,,2020-09-16
+CH,Neuchâtel,NE,,0,,3,1,2020-09-16
 CH,Vaud,VD,,0,,,,2020-09-16
 CH,Schaffhausen,SH,181.0,8,,0,0,2020-09-17
 CH,Schwyz,SZ,544.0,25,,,,2020-09-17
-CH,,,47884.0,2039,72603,158,14,2020-09-17
+CH,Thurgau,TG,671.0,19,,3,2,2020-09-17
+CH,Fribourg,FR,2197.0,97,,15,1,2020-09-17
+CH,Ticino,TI,3604.0,350,,1,0,2020-09-17
+CH,,,47932.0,2041,72603,161,15,2020-09-17
 CH,Aargau,AG,,0,,,,2020-09-17
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-17
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-17
 CH,Berne,BE,,0,,,,2020-09-17
 CH,Basel-Landschaft,BL,,0,,,,2020-09-17
 CH,Basel-Stadt,BS,,0,,,,2020-09-17
-CH,Fribourg,FR,,0,,,,2020-09-17
 CH,Geneva,GE,,0,,,,2020-09-17
 CH,Glarus,GL,,0,,,,2020-09-17
 CH,Grisons,GR,,0,,,,2020-09-17
@@ -6418,8 +6420,6 @@ CH,Nidwalden,NW,,0,,,,2020-09-17
 CH,Obwalden,OW,,0,,,,2020-09-17
 CH,St. Gallen,SG,,0,,,,2020-09-17
 CH,Solothurn,SO,,0,,,,2020-09-17
-CH,Thurgau,TG,,0,,,,2020-09-17
-CH,Ticino,TI,,0,,,,2020-09-17
 CH,Uri,UR,,0,,,,2020-09-17
 CH,Vaud,VD,,0,,,,2020-09-17
 CH,Valais,VS,,0,,,,2020-09-17
