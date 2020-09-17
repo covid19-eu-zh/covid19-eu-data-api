@@ -1,4 +1,5 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Innerrhoden,AI,31.0,0.0,,,,2020-09-17
 CH,Glarus,GL,170.0,13.0,,0.0,,2020-09-17
 CH,Schaffhausen,SH,181.0,8.0,,0.0,0.0,2020-09-17
 CH,Zug,ZG,410.0,9.0,,0.0,,2020-09-17
@@ -10,9 +11,8 @@ CH,Basel-Stadt,BS,1282.0,54.0,,,,2020-09-17
 CH,Fribourg,FR,2197.0,97.0,,15.0,1.0,2020-09-17
 CH,Berne,BE,2990.0,99.0,,,,2020-09-17
 CH,Ticino,TI,3604.0,350.0,,1.0,0.0,2020-09-17
-CH,,,47999.0,2041.0,72603.0,161.0,15.0,2020-09-17
+CH,,,48002.0,2041.0,72603.0,161.0,15.0,2020-09-17
 CH,Aargau,AG,,,,,,2020-09-17
-CH,Appenzell Innerrhoden,AI,,,,,,2020-09-17
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-17
 CH,Basel-Landschaft,BL,,,,,,2020-09-17
 CH,Geneva,GE,,,,,,2020-09-17
