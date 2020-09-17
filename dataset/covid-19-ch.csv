@@ -6398,20 +6398,21 @@ CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-16
 CH,Geneva,GE,,0,,29,1,2020-09-16
 CH,Neuchâtel,NE,,0,,3,1,2020-09-16
 CH,Vaud,VD,,0,,,,2020-09-16
+CH,Glarus,GL,170.0,13,,0,,2020-09-17
 CH,Schaffhausen,SH,181.0,8,,0,0,2020-09-17
+CH,Zug,ZG,410.0,9,,0,,2020-09-17
 CH,Schwyz,SZ,544.0,25,,,,2020-09-17
 CH,Thurgau,TG,671.0,19,,3,2,2020-09-17
+CH,Basel-Stadt,BS,1282.0,54,,,,2020-09-17
 CH,Fribourg,FR,2197.0,97,,15,1,2020-09-17
+CH,Berne,BE,2990.0,99,,,,2020-09-17
 CH,Ticino,TI,3604.0,350,,1,0,2020-09-17
-CH,,,47932.0,2041,72603,161,15,2020-09-17
+CH,,,47980.0,2041,72603,160,15,2020-09-17
 CH,Aargau,AG,,0,,,,2020-09-17
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-17
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-17
-CH,Berne,BE,,0,,,,2020-09-17
 CH,Basel-Landschaft,BL,,0,,,,2020-09-17
-CH,Basel-Stadt,BS,,0,,,,2020-09-17
 CH,Geneva,GE,,0,,,,2020-09-17
-CH,Glarus,GL,,0,,,,2020-09-17
 CH,Grisons,GR,,0,,,,2020-09-17
 CH,Jura,JU,,0,,,,2020-09-17
 CH,Lucerne,LU,,0,,,,2020-09-17
@@ -6423,5 +6424,4 @@ CH,Solothurn,SO,,0,,,,2020-09-17
 CH,Uri,UR,,0,,,,2020-09-17
 CH,Vaud,VD,,0,,,,2020-09-17
 CH,Valais,VS,,0,,,,2020-09-17
-CH,Zug,ZG,,0,,,,2020-09-17
 CH,Zürich,ZH,,0,,,,2020-09-17
