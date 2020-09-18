@@ -2,7 +2,7 @@ country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
 BE,Wallonia,BrabantWallon,1408.0,,16.0,4.0,2020-05-17
 BE,Wallonia,Namur,2235.0,,72.0,14.0,2020-05-17
 BE,Flanders,VlaamsBrabant,5155.0,,54.0,14.0,2020-05-17
-BE,Brussels,Brussels,5704.0,,288.0,64.0,2020-05-17
+BE,Brussels,Brussels,5703.0,,288.0,64.0,2020-05-17
 BE,Flanders,Limburg,5938.0,,118.0,25.0,2020-05-17
 BE,Flanders,WestVlaanderen,6262.0,,223.0,41.0,2020-05-17
 BE,Flanders,OostVlaanderen,6295.0,,154.0,38.0,2020-05-17
