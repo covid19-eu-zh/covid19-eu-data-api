@@ -6428,15 +6428,17 @@ CH,Vaud,VD,,0,,,,2020-09-17
 CH,Schaffhausen,SH,182.0,8,,0,0,2020-09-18
 CH,Zug,ZG,414.0,9,,0,,2020-09-18
 CH,Schwyz,SZ,544.0,25,,,,2020-09-18
+CH,Thurgau,TG,677.0,19,,4,2,2020-09-18
+CH,Solothurn,SO,792.0,18,,3,,2020-09-18
+CH,Basel-Stadt,BS,1289.0,54,,3,1,2020-09-18
 CH,Fribourg,FR,2223.0,98,,14,2,2020-09-18
 CH,Ticino,TI,3608.0,350,,1,0,2020-09-18
-CH,,,48623.0,2043,72603,172,16,2020-09-18
+CH,,,48645.0,2043,72603,173,16,2020-09-18
 CH,Aargau,AG,,0,,,,2020-09-18
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-18
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-18
 CH,Berne,BE,,0,,,,2020-09-18
 CH,Basel-Landschaft,BL,,0,,,,2020-09-18
-CH,Basel-Stadt,BS,,0,,,,2020-09-18
 CH,Geneva,GE,,0,,,,2020-09-18
 CH,Glarus,GL,,0,,,,2020-09-18
 CH,Grisons,GR,,0,,,,2020-09-18
@@ -6446,8 +6448,6 @@ CH,Neuchâtel,NE,,0,,,,2020-09-18
 CH,Nidwalden,NW,,0,,,,2020-09-18
 CH,Obwalden,OW,,0,,,,2020-09-18
 CH,St. Gallen,SG,,0,,,,2020-09-18
-CH,Solothurn,SO,,0,,,,2020-09-18
-CH,Thurgau,TG,,0,,,,2020-09-18
 CH,Uri,UR,,0,,,,2020-09-18
 CH,Vaud,VD,,0,,,,2020-09-18
 CH,Valais,VS,,0,,,,2020-09-18
