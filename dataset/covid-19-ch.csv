@@ -6506,18 +6506,19 @@ CH,Uri,UR,,0,,,,2020-09-20
 CH,Vaud,VD,,0,,,,2020-09-20
 CH,Valais,VS,,0,,,,2020-09-20
 CH,Zürich,ZH,,0,,,,2020-09-20
+CH,Appenzell Innerrhoden,AI,33.0,0,,,,2020-09-21
 CH,Glarus,GL,172.0,13,,0,,2020-09-21
-CH,Zug,ZG,417.0,9,,0,,2020-09-21
+CH,Zug,ZG,416.0,9,,0,,2020-09-21
 CH,Schwyz,SZ,551.0,25,,,,2020-09-21
 CH,Thurgau,TG,689.0,19,,4,2,2020-09-21
+CH,Solothurn,SO,810.0,18,,6,,2020-09-21
 CH,Basel-Stadt,BS,1293.0,54,,,,2020-09-21
 CH,Fribourg,FR,2283.0,101,,9,3,2020-09-21
+CH,Berne,BE,3179.0,100,,17,5,2020-09-21
 CH,Ticino,TI,3618.0,350,,2,0,2020-09-21
-CH,,,49143.0,2048,72603,166,20,2020-09-21
+CH,,,49190.0,2048,72603,176,22,2020-09-21
 CH,Aargau,AG,,0,,,,2020-09-21
-CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-21
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-21
-CH,Berne,BE,,0,,,,2020-09-21
 CH,Basel-Landschaft,BL,,0,,,,2020-09-21
 CH,Geneva,GE,,0,,,,2020-09-21
 CH,Grisons,GR,,0,,,,2020-09-21
@@ -6528,7 +6529,6 @@ CH,Nidwalden,NW,,0,,,,2020-09-21
 CH,Obwalden,OW,,0,,,,2020-09-21
 CH,St. Gallen,SG,,0,,,,2020-09-21
 CH,Schaffhausen,SH,,0,,,,2020-09-21
-CH,Solothurn,SO,,0,,,,2020-09-21
 CH,Uri,UR,,0,,,,2020-09-21
 CH,Vaud,VD,,0,,,,2020-09-21
 CH,Valais,VS,,0,,,,2020-09-21
