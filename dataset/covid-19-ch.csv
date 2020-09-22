@@ -6537,10 +6537,12 @@ CH,Uri,UR,141.0,7,,0,,2020-09-22
 CH,Glarus,GL,174.0,13,,0,,2020-09-22
 CH,Schaffhausen,SH,185.0,8,,0,0,2020-09-22
 CH,Zug,ZG,417.0,9,,1,,2020-09-22
+CH,Thurgau,TG,692.0,19,,4,2,2020-09-22
+CH,Solothurn,SO,816.0,18,,5,,2020-09-22
 CH,Basel-Stadt,BS,1296.0,54,,2,0,2020-09-22
 CH,Fribourg,FR,2313.0,101,,9,3,2020-09-22
 CH,Ticino,TI,3621.0,350,,2,0,2020-09-22
-CH,,,49796.0,2053,72603,177,23,2020-09-22
+CH,,,49805.0,2053,72603,176,23,2020-09-22
 CH,Aargau,AG,,0,,,,2020-09-22
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-22
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-22
@@ -6554,9 +6556,7 @@ CH,Neuchâtel,NE,,0,,,,2020-09-22
 CH,Nidwalden,NW,,0,,,,2020-09-22
 CH,Obwalden,OW,,0,,,,2020-09-22
 CH,St. Gallen,SG,,0,,,,2020-09-22
-CH,Solothurn,SO,,0,,,,2020-09-22
 CH,Schwyz,SZ,,0,,,,2020-09-22
-CH,Thurgau,TG,,0,,,,2020-09-22
 CH,Vaud,VD,,0,,,,2020-09-22
 CH,Valais,VS,,0,,,,2020-09-22
 CH,Zürich,ZH,,0,,,,2020-09-22
