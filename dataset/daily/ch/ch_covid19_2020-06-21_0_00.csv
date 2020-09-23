@@ -1,6 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,124.0,3.0,,0.0,0.0,2020-06-21
-CH,Jura,JU,208.0,7.0,,0.0,0.0,2020-06-21
+CH,Jura,JU,208.0,7.0,,1.0,0.0,2020-06-21
 CH,Zug,ZG,215.0,9.0,,0.0,0.0,2020-06-21
 CH,Schwyz,SZ,309.0,23.0,,,,2020-06-21
 CH,Thurgau,TG,385.0,18.0,,0.0,0.0,2020-06-21
@@ -15,7 +15,7 @@ CH,Ticino,TI,3325.0,350.0,,6.0,0.0,2020-06-21
 CH,Zürich,ZH,3684.0,130.0,,10.0,,2020-06-21
 CH,Geneva,GE,5406.0,295.0,,4.0,,2020-06-21
 CH,Vaud,VD,5513.0,423.0,,20.0,4.0,2020-06-21
-CH,,,31455.0,1961.0,37875.0,91.0,12.0,2020-06-21
+CH,,,31455.0,1961.0,37875.0,92.0,12.0,2020-06-21
 CH,Aargau,AG,,,,,,2020-06-21
 CH,Appenzell Innerrhoden,AI,,,,,,2020-06-21
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-06-21
