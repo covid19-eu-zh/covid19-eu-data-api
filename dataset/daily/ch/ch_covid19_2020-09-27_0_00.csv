@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,145.0,3.0,,1.0,1.0,2020-09-27
+CH,Grisons,GR,1075.0,50.0,,3.0,0.0,2020-09-27
 CH,Basel-Stadt,BS,1309.0,54.0,,,,2020-09-27
 CH,Berne,BE,3408.0,101.0,,,,2020-09-27
 CH,,,51717.0,2064.0,72603.0,164.0,23.0,2020-09-27
@@ -10,7 +11,6 @@ CH,Basel-Landschaft,BL,,,,,,2020-09-27
 CH,Fribourg,FR,,,,,,2020-09-27
 CH,Geneva,GE,,,,,,2020-09-27
 CH,Glarus,GL,,,,,,2020-09-27
-CH,Grisons,GR,,,,,,2020-09-27
 CH,Jura,JU,,,,,,2020-09-27
 CH,Lucerne,LU,,,,,,2020-09-27
 CH,Neuchâtel,NE,,,,,,2020-09-27
