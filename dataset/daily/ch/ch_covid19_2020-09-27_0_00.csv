@@ -7,7 +7,7 @@ CH,Basel-Stadt,BS,1309.0,54.0,,,,2020-09-27
 CH,St. Gallen,SG,1617.0,41.0,,6.0,3.0,2020-09-27
 CH,Fribourg,FR,2387.0,102.0,,10.0,3.0,2020-09-27
 CH,Berne,BE,3408.0,101.0,,,,2020-09-27
-CH,,,51775.0,2064.0,72603.0,165.0,23.0,2020-09-27
+CH,,,51802.0,2064.0,72603.0,163.0,21.0,2020-09-27
 CH,Aargau,AG,,,,,,2020-09-27
 CH,Appenzell Innerrhoden,AI,,,,,,2020-09-27
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-27
@@ -16,7 +16,7 @@ CH,Geneva,GE,,,,,,2020-09-27
 CH,Glarus,GL,,,,,,2020-09-27
 CH,Jura,JU,,,,,,2020-09-27
 CH,Lucerne,LU,,,,,,2020-09-27
-CH,Neuchâtel,NE,,,,,,2020-09-27
+CH,Neuchâtel,NE,,,,0.0,0.0,2020-09-27
 CH,Obwalden,OW,,,,,,2020-09-27
 CH,Schaffhausen,SH,,,,,,2020-09-27
 CH,Solothurn,SO,,,,,,2020-09-27
