@@ -6697,14 +6697,15 @@ CH,Valais,VS,,0,,,,2020-09-27
 CH,Zürich,ZH,,0,,,,2020-09-27
 CH,Zug,ZG,432.0,9,,2,,2020-09-28
 CH,Schwyz,SZ,570.0,25,,,,2020-09-28
+CH,Basel-Stadt,BS,1311.0,54,,,,2020-09-28
 CH,Fribourg,FR,2390.0,102,,11,3,2020-09-28
-CH,,,51784.0,2064,72603,165,23,2020-09-28
+CH,Ticino,TI,3637.0,350,,2,0,2020-09-28
+CH,,,51789.0,2064,72603,164,23,2020-09-28
 CH,Aargau,AG,,0,,,,2020-09-28
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-28
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-28
 CH,Berne,BE,,0,,,,2020-09-28
 CH,Basel-Landschaft,BL,,0,,,,2020-09-28
-CH,Basel-Stadt,BS,,0,,,,2020-09-28
 CH,Geneva,GE,,0,,,,2020-09-28
 CH,Glarus,GL,,0,,,,2020-09-28
 CH,Grisons,GR,,0,,,,2020-09-28
@@ -6717,7 +6718,6 @@ CH,St. Gallen,SG,,0,,,,2020-09-28
 CH,Schaffhausen,SH,,0,,,,2020-09-28
 CH,Solothurn,SO,,0,,,,2020-09-28
 CH,Thurgau,TG,,0,,,,2020-09-28
-CH,Ticino,TI,,0,,,,2020-09-28
 CH,Uri,UR,,0,,,,2020-09-28
 CH,Vaud,VD,,0,,,,2020-09-28
 CH,Valais,VS,,0,,,,2020-09-28
