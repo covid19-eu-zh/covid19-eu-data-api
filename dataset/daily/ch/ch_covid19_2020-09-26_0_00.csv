@@ -1,14 +1,16 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,144.0,3.0,,1.0,1.0,2020-09-26
+CH,Zug,ZG,429.0,9.0,,3.0,,2020-09-26
+CH,Schwyz,SZ,567.0,25.0,,,,2020-09-26
 CH,Grisons,GR,1075.0,50.0,,3.0,0.0,2020-09-26
 CH,Basel-Stadt,BS,1305.0,54.0,,,,2020-09-26
+CH,Fribourg,FR,2369.0,102.0,,9.0,3.0,2020-09-26
 CH,Berne,BE,3373.0,101.0,,,,2020-09-26
-CH,,,51677.0,2064.0,72603.0,164.0,23.0,2020-09-26
+CH,,,51697.0,2064.0,72603.0,164.0,23.0,2020-09-26
 CH,Aargau,AG,,,,,,2020-09-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-09-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-26
 CH,Basel-Landschaft,BL,,,,,,2020-09-26
-CH,Fribourg,FR,,,,,,2020-09-26
 CH,Geneva,GE,,,,,,2020-09-26
 CH,Glarus,GL,,,,,,2020-09-26
 CH,Jura,JU,,,,,,2020-09-26
@@ -18,11 +20,9 @@ CH,Obwalden,OW,,,,,,2020-09-26
 CH,St. Gallen,SG,,,,,,2020-09-26
 CH,Schaffhausen,SH,,,,,,2020-09-26
 CH,Solothurn,SO,,,,,,2020-09-26
-CH,Schwyz,SZ,,,,,,2020-09-26
 CH,Thurgau,TG,,,,,,2020-09-26
 CH,Ticino,TI,,,,,,2020-09-26
 CH,Uri,UR,,,,,,2020-09-26
 CH,Vaud,VD,,,,,,2020-09-26
 CH,Valais,VS,,,,,,2020-09-26
-CH,Zug,ZG,,,,,,2020-09-26
 CH,Zürich,ZH,,,,,,2020-09-26

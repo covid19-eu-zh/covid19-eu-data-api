@@ -6642,15 +6642,17 @@ CH,Obwalden,OW,,0,,,,2020-09-25
 CH,St. Gallen,SG,,0,,,,2020-09-25
 CH,Vaud,VD,,0,,,,2020-09-25
 CH,Nidwalden,NW,144.0,3,,1,1,2020-09-26
+CH,Zug,ZG,429.0,9,,3,,2020-09-26
+CH,Schwyz,SZ,567.0,25,,,,2020-09-26
 CH,Grisons,GR,1075.0,50,,3,0,2020-09-26
 CH,Basel-Stadt,BS,1305.0,54,,,,2020-09-26
+CH,Fribourg,FR,2369.0,102,,9,3,2020-09-26
 CH,Berne,BE,3373.0,101,,,,2020-09-26
-CH,,,51677.0,2064,72603,164,23,2020-09-26
+CH,,,51697.0,2064,72603,164,23,2020-09-26
 CH,Aargau,AG,,0,,,,2020-09-26
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-26
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-26
 CH,Basel-Landschaft,BL,,0,,,,2020-09-26
-CH,Fribourg,FR,,0,,,,2020-09-26
 CH,Geneva,GE,,0,,,,2020-09-26
 CH,Glarus,GL,,0,,,,2020-09-26
 CH,Jura,JU,,0,,,,2020-09-26
@@ -6660,38 +6662,63 @@ CH,Obwalden,OW,,0,,,,2020-09-26
 CH,St. Gallen,SG,,0,,,,2020-09-26
 CH,Schaffhausen,SH,,0,,,,2020-09-26
 CH,Solothurn,SO,,0,,,,2020-09-26
-CH,Schwyz,SZ,,0,,,,2020-09-26
 CH,Thurgau,TG,,0,,,,2020-09-26
 CH,Ticino,TI,,0,,,,2020-09-26
 CH,Uri,UR,,0,,,,2020-09-26
 CH,Vaud,VD,,0,,,,2020-09-26
 CH,Valais,VS,,0,,,,2020-09-26
-CH,Zug,ZG,,0,,,,2020-09-26
 CH,Zürich,ZH,,0,,,,2020-09-26
 CH,Nidwalden,NW,145.0,3,,1,1,2020-09-27
+CH,Zug,ZG,429.0,9,,3,,2020-09-27
+CH,Schwyz,SZ,567.0,25,,,,2020-09-27
 CH,Grisons,GR,1075.0,50,,3,0,2020-09-27
 CH,Basel-Stadt,BS,1309.0,54,,,,2020-09-27
+CH,St. Gallen,SG,1617.0,41,,6,3,2020-09-27
+CH,Fribourg,FR,2387.0,102,,10,3,2020-09-27
 CH,Berne,BE,3408.0,101,,,,2020-09-27
-CH,,,51717.0,2064,72603,164,23,2020-09-27
+CH,,,51775.0,2064,72603,165,23,2020-09-27
 CH,Aargau,AG,,0,,,,2020-09-27
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-27
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-27
 CH,Basel-Landschaft,BL,,0,,,,2020-09-27
-CH,Fribourg,FR,,0,,,,2020-09-27
 CH,Geneva,GE,,0,,,,2020-09-27
 CH,Glarus,GL,,0,,,,2020-09-27
 CH,Jura,JU,,0,,,,2020-09-27
 CH,Lucerne,LU,,0,,,,2020-09-27
 CH,Neuchâtel,NE,,0,,,,2020-09-27
 CH,Obwalden,OW,,0,,,,2020-09-27
-CH,St. Gallen,SG,,0,,,,2020-09-27
 CH,Schaffhausen,SH,,0,,,,2020-09-27
 CH,Solothurn,SO,,0,,,,2020-09-27
-CH,Schwyz,SZ,,0,,,,2020-09-27
 CH,Thurgau,TG,,0,,,,2020-09-27
 CH,Ticino,TI,,0,,,,2020-09-27
 CH,Uri,UR,,0,,,,2020-09-27
 CH,Vaud,VD,,0,,,,2020-09-27
 CH,Valais,VS,,0,,,,2020-09-27
-CH,Zug,ZG,,0,,,,2020-09-27
 CH,Zürich,ZH,,0,,,,2020-09-27
+CH,Zug,ZG,432.0,9,,2,,2020-09-28
+CH,Schwyz,SZ,570.0,25,,,,2020-09-28
+CH,Fribourg,FR,2390.0,102,,11,3,2020-09-28
+CH,,,51784.0,2064,72603,165,23,2020-09-28
+CH,Aargau,AG,,0,,,,2020-09-28
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-28
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-28
+CH,Berne,BE,,0,,,,2020-09-28
+CH,Basel-Landschaft,BL,,0,,,,2020-09-28
+CH,Basel-Stadt,BS,,0,,,,2020-09-28
+CH,Geneva,GE,,0,,,,2020-09-28
+CH,Glarus,GL,,0,,,,2020-09-28
+CH,Grisons,GR,,0,,,,2020-09-28
+CH,Jura,JU,,0,,,,2020-09-28
+CH,Lucerne,LU,,0,,,,2020-09-28
+CH,Neuchâtel,NE,,0,,,,2020-09-28
+CH,Nidwalden,NW,,0,,,,2020-09-28
+CH,Obwalden,OW,,0,,,,2020-09-28
+CH,St. Gallen,SG,,0,,,,2020-09-28
+CH,Schaffhausen,SH,,0,,,,2020-09-28
+CH,Solothurn,SO,,0,,,,2020-09-28
+CH,Thurgau,TG,,0,,,,2020-09-28
+CH,Ticino,TI,,0,,,,2020-09-28
+CH,Uri,UR,,0,,,,2020-09-28
+CH,Vaud,VD,,0,,,,2020-09-28
+CH,Valais,VS,,0,,,,2020-09-28
+CH,Zürich,ZH,,0,,,,2020-09-28
