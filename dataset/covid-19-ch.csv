@@ -6727,10 +6727,11 @@ CH,Schaffhausen,SH,193.0,8,,0,0,2020-09-29
 CH,Zug,ZG,433.0,9,,3,,2020-09-29
 CH,Schwyz,SZ,573.0,25,,,,2020-09-29
 CH,Thurgau,TG,717.0,19,,2,2,2020-09-29
+CH,Lucerne,LU,1222.0,23,,6,0,2020-09-29
 CH,Basel-Stadt,BS,1312.0,54,,3,0,2020-09-29
 CH,Fribourg,FR,2405.0,102,,11,2,2020-09-29
 CH,Ticino,TI,3640.0,350,,3,0,2020-09-29
-CH,,,52205.0,2067,72603,194,20,2020-09-29
+CH,,,52209.0,2067,72603,192,20,2020-09-29
 CH,Aargau,AG,,0,,,,2020-09-29
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-29
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-29
@@ -6739,7 +6740,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-09-29
 CH,Geneva,GE,,0,,,,2020-09-29
 CH,Grisons,GR,,0,,,,2020-09-29
 CH,Jura,JU,,0,,,,2020-09-29
-CH,Lucerne,LU,,0,,,,2020-09-29
 CH,Neuchâtel,NE,,0,,,,2020-09-29
 CH,Nidwalden,NW,,0,,,,2020-09-29
 CH,Obwalden,OW,,0,,,,2020-09-29
