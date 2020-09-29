@@ -1,13 +1,15 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Schaffhausen,SH,193.0,8.0,,0.0,0.0,2020-09-29
+CH,Zug,ZG,433.0,9.0,,3.0,,2020-09-29
 CH,Schwyz,SZ,573.0,25.0,,,,2020-09-29
-CH,,,52178.0,2065.0,72603.0,191.0,21.0,2020-09-29
+CH,Basel-Stadt,BS,1312.0,54.0,,3.0,0.0,2020-09-29
+CH,Ticino,TI,3640.0,350.0,,3.0,0.0,2020-09-29
+CH,,,52183.0,2065.0,72603.0,193.0,21.0,2020-09-29
 CH,Aargau,AG,,,,,,2020-09-29
 CH,Appenzell Innerrhoden,AI,,,,,,2020-09-29
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-09-29
 CH,Berne,BE,,,,,,2020-09-29
 CH,Basel-Landschaft,BL,,,,,,2020-09-29
-CH,Basel-Stadt,BS,,,,,,2020-09-29
 CH,Fribourg,FR,,,,,,2020-09-29
 CH,Geneva,GE,,,,,,2020-09-29
 CH,Glarus,GL,,,,,,2020-09-29
@@ -20,9 +22,7 @@ CH,Obwalden,OW,,,,,,2020-09-29
 CH,St. Gallen,SG,,,,,,2020-09-29
 CH,Solothurn,SO,,,,,,2020-09-29
 CH,Thurgau,TG,,,,,,2020-09-29
-CH,Ticino,TI,,,,,,2020-09-29
 CH,Uri,UR,,,,,,2020-09-29
 CH,Vaud,VD,,,,,,2020-09-29
 CH,Valais,VS,,,,,,2020-09-29
-CH,Zug,ZG,,,,,,2020-09-29
 CH,Zürich,ZH,,,,,,2020-09-29
