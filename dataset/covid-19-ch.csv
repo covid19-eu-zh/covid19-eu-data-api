@@ -6722,6 +6722,7 @@ CH,Geneva,GE,8341.0,309,,26,1,2020-09-28
 CH,Vaud,VD,10296.0,446,,34,4,2020-09-28
 CH,,,52577.0,2070,72603,200,19,2020-09-28
 CH,Nidwalden,NW,,0,,,,2020-09-28
+CH,Appenzell Innerrhoden,AI,39.0,0,,,,2020-09-29
 CH,Obwalden,OW,122.0,0,,0,,2020-09-29
 CH,Uri,UR,142.0,7,,1,,2020-09-29
 CH,Glarus,GL,181.0,13,,1,,2020-09-29
@@ -6731,21 +6732,47 @@ CH,Zug,ZG,433.0,9,,3,,2020-09-29
 CH,Schwyz,SZ,573.0,25,,,,2020-09-29
 CH,Thurgau,TG,717.0,19,,2,2,2020-09-29
 CH,Solothurn,SO,866.0,18,,7,,2020-09-29
-CH,Grisons,GR,1085.0,50,,3,0,2020-09-29
+CH,Grisons,GR,1086.0,50,,3,0,2020-09-29
 CH,Basel-Landschaft,BL,1178.0,37,,0,0,2020-09-29
 CH,Lucerne,LU,1222.0,23,,6,0,2020-09-29
 CH,Basel-Stadt,BS,1312.0,54,,3,0,2020-09-29
+CH,St. Gallen,SG,1643.0,41,,6,2,2020-09-29
 CH,Fribourg,FR,2405.0,102,,11,2,2020-09-29
 CH,Valais,VS,2690.0,156,,9,1,2020-09-29
 CH,Berne,BE,3456.0,103,,,,2020-09-29
 CH,Ticino,TI,3640.0,350,,3,0,2020-09-29
 CH,Zürich,ZH,7863.0,147,,31,,2020-09-29
-CH,,,52705.0,2072,72603,199,18,2020-09-29
+CH,,,52727.0,2072,72603,199,18,2020-09-29
 CH,Aargau,AG,,0,,,,2020-09-29
-CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-29
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-29
 CH,Geneva,GE,,0,,27,1,2020-09-29
 CH,Neuchâtel,NE,,0,,,,2020-09-29
 CH,Nidwalden,NW,,0,,,,2020-09-29
-CH,St. Gallen,SG,,0,,,,2020-09-29
 CH,Vaud,VD,,0,,,,2020-09-29
+CH,Basel-Stadt,BS,1317.0,54,,,,2020-09-30
+CH,,,52732.0,2072,72603,199,18,2020-09-30
+CH,Aargau,AG,,0,,,,2020-09-30
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-09-30
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-09-30
+CH,Berne,BE,,0,,,,2020-09-30
+CH,Basel-Landschaft,BL,,0,,,,2020-09-30
+CH,Fribourg,FR,,0,,,,2020-09-30
+CH,Geneva,GE,,0,,,,2020-09-30
+CH,Glarus,GL,,0,,,,2020-09-30
+CH,Grisons,GR,,0,,,,2020-09-30
+CH,Jura,JU,,0,,,,2020-09-30
+CH,Lucerne,LU,,0,,,,2020-09-30
+CH,Neuchâtel,NE,,0,,,,2020-09-30
+CH,Nidwalden,NW,,0,,,,2020-09-30
+CH,Obwalden,OW,,0,,,,2020-09-30
+CH,St. Gallen,SG,,0,,,,2020-09-30
+CH,Schaffhausen,SH,,0,,,,2020-09-30
+CH,Solothurn,SO,,0,,,,2020-09-30
+CH,Schwyz,SZ,,0,,,,2020-09-30
+CH,Thurgau,TG,,0,,,,2020-09-30
+CH,Ticino,TI,,0,,,,2020-09-30
+CH,Uri,UR,,0,,,,2020-09-30
+CH,Vaud,VD,,0,,,,2020-09-30
+CH,Valais,VS,,0,,,,2020-09-30
+CH,Zug,ZG,,0,,,,2020-09-30
+CH,Zürich,ZH,,0,,,,2020-09-30
