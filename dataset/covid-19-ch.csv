@@ -6764,7 +6764,7 @@ CH,Grisons,GR,1095.0,50,,2,0,2020-09-30
 CH,Neuchâtel,NE,1111.0,0,,2,0,2020-09-30
 CH,Basel-Landschaft,BL,1180.0,37,,0,0,2020-09-30
 CH,Lucerne,LU,1236.0,24,,5,0,2020-09-30
-CH,Basel-Stadt,BS,1317.0,54,,,,2020-09-30
+CH,Basel-Stadt,BS,1317.0,54,,3,0,2020-09-30
 CH,St. Gallen,SG,1675.0,41,,7,2,2020-09-30
 CH,Fribourg,FR,2421.0,102,,9,2,2020-09-30
 CH,Valais,VS,2705.0,156,,8,1,2020-09-30
@@ -6776,22 +6776,22 @@ CH,Aargau,AG,,0,,,,2020-09-30
 CH,Geneva,GE,,0,,26,1,2020-09-30
 CH,Nidwalden,NW,,0,,,,2020-09-30
 CH,Vaud,VD,,0,,,,2020-09-30
+CH,Appenzell Innerrhoden,AI,41.0,0,,,,2020-10-01
 CH,Glarus,GL,186.0,13,,1,,2020-10-01
 CH,Schaffhausen,SH,203.0,8,,1,0,2020-10-01
 CH,Zug,ZG,447.0,9,,2,,2020-10-01
 CH,Schwyz,SZ,593.0,25,,,,2020-10-01
 CH,Thurgau,TG,734.0,19,,4,2,2020-10-01
 CH,Solothurn,SO,885.0,18,,4,,2020-10-01
+CH,Basel-Landschaft,BL,1186.0,37,,0,0,2020-10-01
 CH,Lucerne,LU,1244.0,24,,6,1,2020-10-01
-CH,Basel-Stadt,BS,1320.0,54,,,,2020-10-01
+CH,Basel-Stadt,BS,1320.0,54,,2,1,2020-10-01
 CH,Fribourg,FR,2446.0,102,,9,2,2020-10-01
 CH,Berne,BE,3553.0,103,,,,2020-10-01
 CH,Ticino,TI,3651.0,350,,2,0,2020-10-01
-CH,,,53260.0,2074,72603,187,18,2020-10-01
+CH,,,53267.0,2074,72603,186,19,2020-10-01
 CH,Aargau,AG,,0,,,,2020-10-01
-CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-01
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-01
-CH,Basel-Landschaft,BL,,0,,,,2020-10-01
 CH,Geneva,GE,,0,,,,2020-10-01
 CH,Grisons,GR,,0,,,,2020-10-01
 CH,Jura,JU,,0,,,,2020-10-01
