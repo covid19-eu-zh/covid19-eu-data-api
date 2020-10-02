@@ -6808,10 +6808,11 @@ CH,Schaffhausen,SH,206.0,8,,1,0,2020-10-02
 CH,Zug,ZG,450.0,9,,0,,2020-10-02
 CH,Schwyz,SZ,602.0,25,,,,2020-10-02
 CH,Thurgau,TG,740.0,19,,4,2,2020-10-02
+CH,Solothurn,SO,893.0,18,,4,,2020-10-02
 CH,Basel-Stadt,BS,1326.0,54,,2,1,2020-10-02
 CH,Fribourg,FR,2470.0,102,,8,2,2020-10-02
 CH,Ticino,TI,3661.0,350,,1,0,2020-10-02
-CH,,,53688.0,2075,72603,170,19,2020-10-02
+CH,,,53696.0,2075,72603,170,19,2020-10-02
 CH,Aargau,AG,,0,,,,2020-10-02
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-02
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-02
@@ -6826,7 +6827,6 @@ CH,Neuchâtel,NE,,0,,,,2020-10-02
 CH,Nidwalden,NW,,0,,,,2020-10-02
 CH,Obwalden,OW,,0,,,,2020-10-02
 CH,St. Gallen,SG,,0,,,,2020-10-02
-CH,Solothurn,SO,,0,,,,2020-10-02
 CH,Vaud,VD,,0,,,,2020-10-02
 CH,Valais,VS,,0,,,,2020-10-02
 CH,Zürich,ZH,,0,,,,2020-10-02
