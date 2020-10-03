@@ -6830,9 +6830,10 @@ CH,Neuchâtel,NE,,0,,,,2020-10-02
 CH,Nidwalden,NW,,0,,,,2020-10-02
 CH,St. Gallen,SG,,0,,,,2020-10-02
 CH,Vaud,VD,,0,,,,2020-10-02
+CH,Grisons,GR,1122.0,50,,2,0,2020-10-03
 CH,Basel-Stadt,BS,1339.0,54,,,,2020-10-03
 CH,Berne,BE,3656.0,104,,,,2020-10-03
-CH,,,54128.0,2077,72603,177,21,2020-10-03
+CH,,,54133.0,2077,72603,177,21,2020-10-03
 CH,Aargau,AG,,0,,,,2020-10-03
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-03
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-03
@@ -6840,7 +6841,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-10-03
 CH,Fribourg,FR,,0,,,,2020-10-03
 CH,Geneva,GE,,0,,,,2020-10-03
 CH,Glarus,GL,,0,,,,2020-10-03
-CH,Grisons,GR,,0,,,,2020-10-03
 CH,Jura,JU,,0,,,,2020-10-03
 CH,Lucerne,LU,,0,,,,2020-10-03
 CH,Neuchâtel,NE,,0,,,,2020-10-03
