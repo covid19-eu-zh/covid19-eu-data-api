@@ -6803,6 +6803,7 @@ CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-01
 CH,Geneva,GE,,0,,,,2020-10-01
 CH,Jura,JU,,0,,,,2020-10-01
 CH,Vaud,VD,,0,,,,2020-10-01
+CH,Appenzell Innerrhoden,AI,42.0,0,,,,2020-10-02
 CH,Obwalden,OW,124.0,0,,0,,2020-10-02
 CH,Uri,UR,146.0,7,,0,,2020-10-02
 CH,Appenzell Ausserrhoden,AR,185.0,3,,3,0,2020-10-02
@@ -6812,6 +6813,7 @@ CH,Zug,ZG,450.0,9,,0,,2020-10-02
 CH,Schwyz,SZ,602.0,25,,,,2020-10-02
 CH,Thurgau,TG,740.0,19,,4,2,2020-10-02
 CH,Solothurn,SO,893.0,18,,4,,2020-10-02
+CH,Grisons,GR,1117.0,50,,2,0,2020-10-02
 CH,Basel-Landschaft,BL,1191.0,37,,0,0,2020-10-02
 CH,Basel-Stadt,BS,1326.0,54,,2,1,2020-10-02
 CH,Fribourg,FR,2470.0,102,,8,2,2020-10-02
@@ -6819,24 +6821,22 @@ CH,Valais,VS,2753.0,156,,9,1,2020-10-02
 CH,Berne,BE,3608.0,104,,28,1,2020-10-02
 CH,Ticino,TI,3661.0,350,,1,0,2020-10-02
 CH,Zürich,ZH,8228.0,147,,31,,2020-10-02
-CH,,,53922.0,2076,72603,177,19,2020-10-02
+CH,,,53937.0,2076,72603,176,19,2020-10-02
 CH,Aargau,AG,,0,,,,2020-10-02
-CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-02
 CH,Geneva,GE,,0,,,,2020-10-02
-CH,Grisons,GR,,0,,,,2020-10-02
 CH,Jura,JU,,0,,,,2020-10-02
 CH,Lucerne,LU,,0,,,,2020-10-02
 CH,Neuchâtel,NE,,0,,,,2020-10-02
 CH,Nidwalden,NW,,0,,,,2020-10-02
 CH,St. Gallen,SG,,0,,,,2020-10-02
 CH,Vaud,VD,,0,,,,2020-10-02
-CH,,,53922.0,2076,72603,177,19,2020-10-03
+CH,Basel-Stadt,BS,1339.0,54,,,,2020-10-03
+CH,,,53950.0,2076,72603,176,19,2020-10-03
 CH,Aargau,AG,,0,,,,2020-10-03
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-03
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-03
 CH,Berne,BE,,0,,,,2020-10-03
 CH,Basel-Landschaft,BL,,0,,,,2020-10-03
-CH,Basel-Stadt,BS,,0,,,,2020-10-03
 CH,Fribourg,FR,,0,,,,2020-10-03
 CH,Geneva,GE,,0,,,,2020-10-03
 CH,Glarus,GL,,0,,,,2020-10-03
