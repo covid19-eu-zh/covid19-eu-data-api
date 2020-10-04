@@ -6806,6 +6806,7 @@ CH,Vaud,VD,,0,,,,2020-10-01
 CH,Appenzell Innerrhoden,AI,42.0,0,,,,2020-10-02
 CH,Obwalden,OW,124.0,0,,0,,2020-10-02
 CH,Uri,UR,146.0,7,,0,,2020-10-02
+CH,Nidwalden,NW,154.0,4,,1,1,2020-10-02
 CH,Appenzell Ausserrhoden,AR,185.0,3,,3,0,2020-10-02
 CH,Glarus,GL,186.0,13,,0,,2020-10-02
 CH,Schaffhausen,SH,206.0,8,,1,0,2020-10-02
@@ -6821,19 +6822,19 @@ CH,Valais,VS,2753.0,156,,9,1,2020-10-02
 CH,Berne,BE,3608.0,104,,28,1,2020-10-02
 CH,Ticino,TI,3661.0,350,,1,0,2020-10-02
 CH,Zürich,ZH,8228.0,147,,31,,2020-10-02
-CH,,,54067.0,2077,72603,177,21,2020-10-02
+CH,,,54069.0,2078,72603,177,21,2020-10-02
 CH,Aargau,AG,,0,,,,2020-10-02
 CH,Geneva,GE,,310,,27,3,2020-10-02
 CH,Jura,JU,,0,,,,2020-10-02
 CH,Lucerne,LU,,0,,,,2020-10-02
 CH,Neuchâtel,NE,,0,,,,2020-10-02
-CH,Nidwalden,NW,,0,,,,2020-10-02
 CH,St. Gallen,SG,,0,,,,2020-10-02
 CH,Vaud,VD,,0,,,,2020-10-02
+CH,Nidwalden,NW,156.0,4,,1,1,2020-10-03
 CH,Grisons,GR,1122.0,50,,2,0,2020-10-03
 CH,Basel-Stadt,BS,1339.0,54,,,,2020-10-03
 CH,Berne,BE,3656.0,104,,,,2020-10-03
-CH,,,54133.0,2077,72603,177,21,2020-10-03
+CH,,,54137.0,2078,72603,177,21,2020-10-03
 CH,Aargau,AG,,0,,,,2020-10-03
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-03
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-03
@@ -6844,7 +6845,6 @@ CH,Glarus,GL,,0,,,,2020-10-03
 CH,Jura,JU,,0,,,,2020-10-03
 CH,Lucerne,LU,,0,,,,2020-10-03
 CH,Neuchâtel,NE,,0,,,,2020-10-03
-CH,Nidwalden,NW,,0,,,,2020-10-03
 CH,Obwalden,OW,,0,,,,2020-10-03
 CH,St. Gallen,SG,,0,,,,2020-10-03
 CH,Schaffhausen,SH,,0,,,,2020-10-03
@@ -6857,9 +6857,10 @@ CH,Vaud,VD,,0,,,,2020-10-03
 CH,Valais,VS,,0,,,,2020-10-03
 CH,Zug,ZG,,0,,,,2020-10-03
 CH,Zürich,ZH,,0,,,,2020-10-03
+CH,Nidwalden,NW,159.0,4,,1,1,2020-10-04
 CH,Basel-Stadt,BS,1346.0,54,,,,2020-10-04
 CH,Berne,BE,3721.0,104,,,,2020-10-04
-CH,,,54205.0,2077,72603,177,21,2020-10-04
+CH,,,54212.0,2078,72603,177,21,2020-10-04
 CH,Aargau,AG,,0,,,,2020-10-04
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-04
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-04
@@ -6871,7 +6872,6 @@ CH,Grisons,GR,,0,,,,2020-10-04
 CH,Jura,JU,,0,,,,2020-10-04
 CH,Lucerne,LU,,0,,,,2020-10-04
 CH,Neuchâtel,NE,,0,,,,2020-10-04
-CH,Nidwalden,NW,,0,,,,2020-10-04
 CH,Obwalden,OW,,0,,,,2020-10-04
 CH,St. Gallen,SG,,0,,,,2020-10-04
 CH,Schaffhausen,SH,,0,,,,2020-10-04
