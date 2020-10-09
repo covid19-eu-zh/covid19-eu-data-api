@@ -6993,6 +6993,7 @@ CH,Neuchâtel,NE,,0,,10,0,2020-10-08
 CH,Solothurn,SO,,0,,,,2020-10-08
 CH,Vaud,VD,,0,,,,2020-10-08
 CH,Appenzell Innerrhoden,AI,52.0,0,,,,2020-10-09
+CH,Nidwalden,NW,195.0,4,,0,0,2020-10-09
 CH,Glarus,GL,197.0,13,,0,,2020-10-09
 CH,Appenzell Ausserrhoden,AR,218.0,3,,1,0,2020-10-09
 CH,Schaffhausen,SH,236.0,8,,2,0,2020-10-09
@@ -7004,14 +7005,13 @@ CH,Lucerne,LU,1400.0,24,,7,2,2020-10-09
 CH,Basel-Stadt,BS,1401.0,54,,1,1,2020-10-09
 CH,Fribourg,FR,2743.0,102,,12,2,2020-10-09
 CH,Ticino,TI,3818.0,350,,7,1,2020-10-09
-CH,,,59360.0,2088,72603,230,38,2020-10-09
+CH,,,59369.0,2088,72603,229,38,2020-10-09
 CH,Aargau,AG,,0,,,,2020-10-09
 CH,Berne,BE,,0,,,,2020-10-09
 CH,Geneva,GE,,0,,48,7,2020-10-09
 CH,Grisons,GR,,0,,,,2020-10-09
 CH,Jura,JU,,0,,,,2020-10-09
 CH,Neuchâtel,NE,,0,,,,2020-10-09
-CH,Nidwalden,NW,,0,,,,2020-10-09
 CH,Obwalden,OW,,0,,,,2020-10-09
 CH,St. Gallen,SG,,0,,,,2020-10-09
 CH,Solothurn,SO,,0,,,,2020-10-09
