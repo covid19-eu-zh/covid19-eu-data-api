@@ -7046,9 +7046,10 @@ CH,Vaud,VD,,0,,,,2020-10-10
 CH,Valais,VS,,0,,,,2020-10-10
 CH,Zug,ZG,,0,,,,2020-10-10
 CH,Zürich,ZH,,0,,,,2020-10-10
+CH,Grisons,GR,1259.0,50,,3,0,2020-10-11
 CH,Basel-Stadt,BS,1428.0,54,,,,2020-10-11
 CH,Berne,BE,4352.0,104,,,,2020-10-11
-CH,,,60233.0,2088,72603,255,38,2020-10-11
+CH,,,60248.0,2088,72603,256,38,2020-10-11
 CH,Aargau,AG,,0,,,,2020-10-11
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-11
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-11
@@ -7056,7 +7057,6 @@ CH,Basel-Landschaft,BL,,0,,,,2020-10-11
 CH,Fribourg,FR,,0,,,,2020-10-11
 CH,Geneva,GE,,0,,,,2020-10-11
 CH,Glarus,GL,,0,,,,2020-10-11
-CH,Grisons,GR,,0,,,,2020-10-11
 CH,Jura,JU,,0,,,,2020-10-11
 CH,Lucerne,LU,,0,,,,2020-10-11
 CH,Neuchâtel,NE,,0,,,,2020-10-11
