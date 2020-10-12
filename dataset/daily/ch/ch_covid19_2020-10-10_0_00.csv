@@ -1,4 +1,5 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Jura,JU,466.0,7.0,,12.0,2.0,2020-10-10
 CH,Zug,ZG,591.0,9.0,,6.0,,2020-10-10
 CH,Schwyz,SZ,880.0,25.0,,,,2020-10-10
 CH,Thurgau,TG,902.0,19.0,,6.0,2.0,2020-10-10
@@ -10,12 +11,12 @@ CH,St. Gallen,SG,2185.0,,,,,2020-10-10
 CH,Fribourg,FR,2889.0,102.0,,14.0,1.0,2020-10-10
 CH,Aargau,AG,2995.0,55.0,,,,2020-10-10
 CH,Berne,BE,4218.0,104.0,,,,2020-10-10
-CH,,,60633.0,2090.0,72603.0,260.0,39.0,2020-10-10
+CH,Zürich,ZH,9566.0,149.0,,42.0,,2020-10-10
+CH,,,60972.0,2091.0,72603.0,273.0,39.0,2020-10-10
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-10
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-10
 CH,Geneva,GE,,,,,,2020-10-10
 CH,Glarus,GL,,,,,,2020-10-10
-CH,Jura,JU,,,,,,2020-10-10
 CH,Lucerne,LU,,,,,,2020-10-10
 CH,Nidwalden,NW,,,,,,2020-10-10
 CH,Obwalden,OW,,,,,,2020-10-10
@@ -25,4 +26,3 @@ CH,Ticino,TI,,,,,,2020-10-10
 CH,Uri,UR,,,,,,2020-10-10
 CH,Vaud,VD,,,,,,2020-10-10
 CH,Valais,VS,,,,,,2020-10-10
-CH,Zürich,ZH,,,,,,2020-10-10
