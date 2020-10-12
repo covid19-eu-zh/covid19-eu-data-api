@@ -1,11 +1,14 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
-CH,,,60439.0,2088.0,72603.0,256.0,38.0,2020-10-12
+CH,Schaffhausen,SH,248.0,8.0,,2.0,0.0,2020-10-12
+CH,Schwyz,SZ,974.0,26.0,,,,2020-10-12
+CH,Basel-Stadt,BS,1462.0,54.0,,,,2020-10-12
+CH,Ticino,TI,3907.0,350.0,,12.0,1.0,2020-10-12
+CH,,,60668.0,2089.0,72603.0,261.0,38.0,2020-10-12
 CH,Aargau,AG,,,,,,2020-10-12
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-12
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-12
 CH,Berne,BE,,,,,,2020-10-12
 CH,Basel-Landschaft,BL,,,,,,2020-10-12
-CH,Basel-Stadt,BS,,,,,,2020-10-12
 CH,Fribourg,FR,,,,,,2020-10-12
 CH,Geneva,GE,,,,,,2020-10-12
 CH,Glarus,GL,,,,,,2020-10-12
@@ -16,11 +19,8 @@ CH,Neuchâtel,NE,,,,,,2020-10-12
 CH,Nidwalden,NW,,,,,,2020-10-12
 CH,Obwalden,OW,,,,,,2020-10-12
 CH,St. Gallen,SG,,,,,,2020-10-12
-CH,Schaffhausen,SH,,,,,,2020-10-12
 CH,Solothurn,SO,,,,,,2020-10-12
-CH,Schwyz,SZ,,,,,,2020-10-12
 CH,Thurgau,TG,,,,,,2020-10-12
-CH,Ticino,TI,,,,,,2020-10-12
 CH,Uri,UR,,,,,,2020-10-12
 CH,Vaud,VD,,,,,,2020-10-12
 CH,Valais,VS,,,,,,2020-10-12
