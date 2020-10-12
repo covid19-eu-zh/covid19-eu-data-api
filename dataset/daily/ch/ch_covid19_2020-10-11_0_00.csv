@@ -1,8 +1,9 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
-CH,Grisons,GR,1259.0,50.0,,3.0,0.0,2020-10-11
+CH,Grisons,GR,1259.0,50.0,,2.0,1.0,2020-10-11
 CH,Basel-Stadt,BS,1428.0,54.0,,,,2020-10-11
+CH,St. Gallen,SG,2201.0,42.0,,10.0,3.0,2020-10-11
 CH,Berne,BE,4352.0,104.0,,,,2020-10-11
-CH,,,60248.0,2088.0,72603.0,256.0,38.0,2020-10-11
+CH,,,60439.0,2088.0,72603.0,256.0,38.0,2020-10-11
 CH,Aargau,AG,,,,,,2020-10-11
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-11
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-11
@@ -15,7 +16,6 @@ CH,Lucerne,LU,,,,,,2020-10-11
 CH,Neuchâtel,NE,,,,,,2020-10-11
 CH,Nidwalden,NW,,,,,,2020-10-11
 CH,Obwalden,OW,,,,,,2020-10-11
-CH,St. Gallen,SG,,,,,,2020-10-11
 CH,Schaffhausen,SH,,,,,,2020-10-11
 CH,Solothurn,SO,,,,,,2020-10-11
 CH,Schwyz,SZ,,,,,,2020-10-11
