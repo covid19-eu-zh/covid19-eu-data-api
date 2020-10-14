@@ -1,7 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,131.0,3.0,,0.0,0.0,2020-08-22
 CH,Jura,JU,264.0,7.0,,1.0,0.0,2020-08-22
-CH,Zug,ZG,323.0,9.0,,0.0,,2020-08-22
+CH,Zug,ZG,323.0,9.0,,0.0,0.0,2020-08-22
 CH,Schwyz,SZ,460.0,25.0,,,,2020-08-22
 CH,Thurgau,TG,558.0,19.0,,4.0,1.0,2020-08-22
 CH,Neuchâtel,NE,844.0,84.0,,0.0,0.0,2020-08-22
