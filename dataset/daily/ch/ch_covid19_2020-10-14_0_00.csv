@@ -1,28 +1,28 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,92.0,0.0,,,,2020-10-14
-CH,Obwalden,OW,190.0,1.0,,1.0,,2020-10-14
+CH,Obwalden,OW,191.0,1.0,,1.0,,2020-10-14
+CH,Uri,UR,193.0,7.0,,2.0,,2020-10-14
 CH,Glarus,GL,230.0,13.0,,0.0,,2020-10-14
+CH,Nidwalden,NW,233.0,4.0,,0.0,0.0,2020-10-14
 CH,Schaffhausen,SH,263.0,8.0,,3.0,0.0,2020-10-14
 CH,Zug,ZG,746.0,9.0,,8.0,,2020-10-14
 CH,Thurgau,TG,973.0,19.0,,10.0,2.0,2020-10-14
 CH,Schwyz,SZ,1123.0,28.0,,,,2020-10-14
+CH,Basel-Landschaft,BL,1395.0,37.0,,3.0,0.0,2020-10-14
 CH,Basel-Stadt,BS,1512.0,54.0,,,,2020-10-14
 CH,Lucerne,LU,1655.0,24.0,,13.0,0.0,2020-10-14
 CH,Ticino,TI,4054.0,351.0,,10.0,1.0,2020-10-14
 CH,Zürich,ZH,10410.0,150.0,,47.0,,2020-10-14
-CH,,,66668.0,2108.0,72603.0,383.0,41.0,2020-10-14
+CH,,,66848.0,2109.0,72603.0,384.0,41.0,2020-10-14
 CH,Aargau,AG,,,,,,2020-10-14
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-14
 CH,Berne,BE,,,,,,2020-10-14
-CH,Basel-Landschaft,BL,,,,,,2020-10-14
 CH,Fribourg,FR,,,,,,2020-10-14
 CH,Geneva,GE,,,,76.0,4.0,2020-10-14
 CH,Grisons,GR,,,,,,2020-10-14
 CH,Jura,JU,,,,,,2020-10-14
 CH,Neuchâtel,NE,,,,,,2020-10-14
-CH,Nidwalden,NW,,,,,,2020-10-14
 CH,St. Gallen,SG,,,,,,2020-10-14
 CH,Solothurn,SO,,,,,,2020-10-14
-CH,Uri,UR,,,,,,2020-10-14
 CH,Vaud,VD,,,,,,2020-10-14
 CH,Valais,VS,,,,,,2020-10-14
