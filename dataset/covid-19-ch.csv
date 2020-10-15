@@ -7160,8 +7160,9 @@ CH,Zug,ZG,792.0,9,,8,1,2020-10-15
 CH,Thurgau,TG,1027.0,19,,12,2,2020-10-15
 CH,Schwyz,SZ,1242.0,28,,,,2020-10-15
 CH,Basel-Stadt,BS,1521.0,54,,,,2020-10-15
+CH,Lucerne,LU,1758.0,24,,15,1,2020-10-15
 CH,Ticino,TI,4133.0,351,,14,1,2020-10-15
-CH,,,68105.0,2110,72603,421,50,2020-10-15
+CH,,,68208.0,2110,72603,423,51,2020-10-15
 CH,Aargau,AG,,0,,,,2020-10-15
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-15
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-15
@@ -7171,7 +7172,6 @@ CH,Fribourg,FR,,0,,,,2020-10-15
 CH,Geneva,GE,,0,,,,2020-10-15
 CH,Grisons,GR,,0,,,,2020-10-15
 CH,Jura,JU,,0,,,,2020-10-15
-CH,Lucerne,LU,,0,,,,2020-10-15
 CH,Neuchâtel,NE,,0,,,,2020-10-15
 CH,Nidwalden,NW,,0,,,,2020-10-15
 CH,Obwalden,OW,,0,,,,2020-10-15
