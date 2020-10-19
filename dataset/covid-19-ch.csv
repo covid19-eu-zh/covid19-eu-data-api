@@ -7262,9 +7262,11 @@ CH,Uri,UR,,0,,,,2020-10-18
 CH,Vaud,VD,,0,,,,2020-10-18
 CH,Valais,VS,,0,,,,2020-10-18
 CH,Zürich,ZH,,0,,,,2020-10-18
+CH,Schaffhausen,SH,311.0,8,,1,0,2020-10-19
 CH,Zug,ZG,962.0,10,,15,2,2020-10-19
 CH,Schwyz,SZ,1596.0,32,,,,2020-10-19
-CH,,,75679.0,2129,72603,580,59,2020-10-19
+CH,Ticino,TI,4517.0,352,,30,1,2020-10-19
+CH,,,75739.0,2130,72603,584,59,2020-10-19
 CH,Aargau,AG,,0,,,,2020-10-19
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-19
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-19
@@ -7281,10 +7283,8 @@ CH,Neuchâtel,NE,,0,,,,2020-10-19
 CH,Nidwalden,NW,,0,,,,2020-10-19
 CH,Obwalden,OW,,0,,,,2020-10-19
 CH,St. Gallen,SG,,0,,,,2020-10-19
-CH,Schaffhausen,SH,,0,,,,2020-10-19
 CH,Solothurn,SO,,0,,,,2020-10-19
 CH,Thurgau,TG,,0,,,,2020-10-19
-CH,Ticino,TI,,0,,,,2020-10-19
 CH,Uri,UR,,0,,,,2020-10-19
 CH,Vaud,VD,,0,,,,2020-10-19
 CH,Valais,VS,,0,,,,2020-10-19
