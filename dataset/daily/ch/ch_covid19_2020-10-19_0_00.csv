@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,148.0,0.0,,,,2020-10-19
 CH,Uri,UR,232.0,7.0,,1.0,,2020-10-19
+CH,Obwalden,OW,252.0,3.0,,1.0,,2020-10-19
 CH,Glarus,GL,280.0,13.0,,1.0,,2020-10-19
 CH,Schaffhausen,SH,311.0,8.0,,1.0,0.0,2020-10-19
 CH,Appenzell Ausserrhoden,AR,343.0,3.0,,13.0,2.0,2020-10-19
@@ -14,7 +15,7 @@ CH,Lucerne,LU,2160.0,24.0,,18.0,2.0,2020-10-19
 CH,Ticino,TI,4517.0,352.0,,30.0,1.0,2020-10-19
 CH,Berne,BE,6195.0,105.0,,82.0,12.0,2020-10-19
 CH,Zürich,ZH,12734.0,155.0,,84.0,,2020-10-19
-CH,,,80813.0,2138.0,72603.0,743.0,74.0,2020-10-19
+CH,,,80844.0,2138.0,72603.0,744.0,74.0,2020-10-19
 CH,Aargau,AG,,,,,,2020-10-19
 CH,Fribourg,FR,,,,,,2020-10-19
 CH,Geneva,GE,,,,134.0,6.0,2020-10-19
@@ -22,7 +23,6 @@ CH,Grisons,GR,,,,,,2020-10-19
 CH,Jura,JU,,,,,,2020-10-19
 CH,Neuchâtel,NE,,,,,,2020-10-19
 CH,Nidwalden,NW,,,,,,2020-10-19
-CH,Obwalden,OW,,,,,,2020-10-19
 CH,St. Gallen,SG,,,,,,2020-10-19
 CH,Vaud,VD,,,,,,2020-10-19
 CH,Valais,VS,,,,,,2020-10-19
