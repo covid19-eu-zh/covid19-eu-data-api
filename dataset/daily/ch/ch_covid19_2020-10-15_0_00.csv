@@ -1,7 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,104.0,0.0,,,,2020-10-15
 CH,Obwalden,OW,207.0,2.0,,0.0,,2020-10-15
-CH,Glarus,GL,240.0,13.0,,1.0,,2020-10-15
+CH,Glarus,GL,240.0,13.0,,1.0,0.0,2020-10-15
 CH,Nidwalden,NW,240.0,4.0,,0.0,0.0,2020-10-15
 CH,Schaffhausen,SH,268.0,8.0,,2.0,0.0,2020-10-15
 CH,Jura,JU,682.0,8.0,,11.0,2.0,2020-10-15
