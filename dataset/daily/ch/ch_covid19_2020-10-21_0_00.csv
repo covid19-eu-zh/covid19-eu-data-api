@@ -1,13 +1,14 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Zug,ZG,1023.0,10.0,,14.0,1.0,2020-10-21
+CH,Basel-Stadt,BS,1729.0,54.0,,,,2020-10-21
 CH,Schwyz,SZ,1845.0,36.0,,,,2020-10-21
-CH,,,86248.0,2148.0,72603.0,929.0,88.0,2020-10-21
+CH,Ticino,TI,4909.0,352.0,,35.0,3.0,2020-10-21
+CH,,,86546.0,2148.0,72603.0,933.0,89.0,2020-10-21
 CH,Aargau,AG,,,,,,2020-10-21
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-21
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-21
 CH,Berne,BE,,,,,,2020-10-21
 CH,Basel-Landschaft,BL,,,,,,2020-10-21
-CH,Basel-Stadt,BS,,,,,,2020-10-21
 CH,Fribourg,FR,,,,,,2020-10-21
 CH,Geneva,GE,,,,,,2020-10-21
 CH,Glarus,GL,,,,,,2020-10-21
@@ -21,7 +22,6 @@ CH,St. Gallen,SG,,,,,,2020-10-21
 CH,Schaffhausen,SH,,,,,,2020-10-21
 CH,Solothurn,SO,,,,,,2020-10-21
 CH,Thurgau,TG,,,,,,2020-10-21
-CH,Ticino,TI,,,,,,2020-10-21
 CH,Uri,UR,,,,,,2020-10-21
 CH,Vaud,VD,,,,,,2020-10-21
 CH,Valais,VS,,,,,,2020-10-21

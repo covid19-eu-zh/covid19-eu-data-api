@@ -7317,14 +7317,15 @@ CH,Geneva,GE,,0,,169,7,2020-10-20
 CH,Neuchâtel,NE,,0,,,,2020-10-20
 CH,Vaud,VD,,0,,,,2020-10-20
 CH,Zug,ZG,1023.0,10,,14,1,2020-10-21
+CH,Basel-Stadt,BS,1729.0,54,,,,2020-10-21
 CH,Schwyz,SZ,1845.0,36,,,,2020-10-21
-CH,,,86248.0,2148,72603,929,88,2020-10-21
+CH,Ticino,TI,4909.0,352,,35,3,2020-10-21
+CH,,,86546.0,2148,72603,933,89,2020-10-21
 CH,Aargau,AG,,0,,,,2020-10-21
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-21
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-21
 CH,Berne,BE,,0,,,,2020-10-21
 CH,Basel-Landschaft,BL,,0,,,,2020-10-21
-CH,Basel-Stadt,BS,,0,,,,2020-10-21
 CH,Fribourg,FR,,0,,,,2020-10-21
 CH,Geneva,GE,,0,,,,2020-10-21
 CH,Glarus,GL,,0,,,,2020-10-21
@@ -7338,7 +7339,6 @@ CH,St. Gallen,SG,,0,,,,2020-10-21
 CH,Schaffhausen,SH,,0,,,,2020-10-21
 CH,Solothurn,SO,,0,,,,2020-10-21
 CH,Thurgau,TG,,0,,,,2020-10-21
-CH,Ticino,TI,,0,,,,2020-10-21
 CH,Uri,UR,,0,,,,2020-10-21
 CH,Vaud,VD,,0,,,,2020-10-21
 CH,Valais,VS,,0,,,,2020-10-21
