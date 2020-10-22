@@ -1,9 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Glarus,GL,315.0,14.0,,0.0,,2020-10-22
 CH,Schaffhausen,SH,368.0,8.0,,3.0,2.0,2020-10-22
+CH,Zug,ZG,1149.0,10.0,,17.0,2.0,2020-10-22
+CH,Thurgau,TG,1509.0,21.0,,18.0,6.0,2020-10-22
 CH,Basel-Stadt,BS,1804.0,54.0,,,,2020-10-22
 CH,Schwyz,SZ,1961.0,38.0,,,,2020-10-22
-CH,Ticino,TI,5032.0,352.0,,44.0,3.0,2020-10-22
-CH,,,91910.0,2042.0,72603.0,1074.0,106.0,2020-10-22
+CH,Ticino,TI,5032.0,352.0,,44.0,4.0,2020-10-22
+CH,,,92383.0,2043.0,72603.0,1089.0,109.0,2020-10-22
 CH,Aargau,AG,,,,,,2020-10-22
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-22
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-22
@@ -11,18 +14,15 @@ CH,Berne,BE,,,,,,2020-10-22
 CH,Basel-Landschaft,BL,,,,,,2020-10-22
 CH,Fribourg,FR,,,,,,2020-10-22
 CH,Geneva,GE,,,,,,2020-10-22
-CH,Glarus,GL,,,,,,2020-10-22
 CH,Grisons,GR,,,,,,2020-10-22
 CH,Jura,JU,,,,,,2020-10-22
 CH,Lucerne,LU,,,,,,2020-10-22
-CH,Neuchâtel,NE,,,,,,2020-10-22
+CH,Neuchâtel,NE,,,,49.0,5.0,2020-10-22
 CH,Nidwalden,NW,,,,,,2020-10-22
 CH,Obwalden,OW,,,,,,2020-10-22
 CH,St. Gallen,SG,,,,,,2020-10-22
 CH,Solothurn,SO,,,,,,2020-10-22
-CH,Thurgau,TG,,,,,,2020-10-22
 CH,Uri,UR,,,,,,2020-10-22
 CH,Vaud,VD,,,,,,2020-10-22
 CH,Valais,VS,,,,,,2020-10-22
-CH,Zug,ZG,,,,,,2020-10-22
 CH,Zürich,ZH,,,,,,2020-10-22
