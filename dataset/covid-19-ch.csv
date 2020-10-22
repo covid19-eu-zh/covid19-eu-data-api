@@ -7323,6 +7323,7 @@ CH,Nidwalden,NW,303.0,4,,4,1,2020-10-21
 CH,Glarus,GL,309.0,13,,1,,2020-10-21
 CH,Schaffhausen,SH,337.0,8,,3,2,2020-10-21
 CH,Appenzell Ausserrhoden,AR,404.0,4,,13,1,2020-10-21
+CH,Jura,JU,1075.0,9,,33,2,2020-10-21
 CH,Zug,ZG,1075.0,10,,14,1,2020-10-21
 CH,Solothurn,SO,1395.0,18,,10,,2020-10-21
 CH,Thurgau,TG,1415.0,21,,17,6,2020-10-21
@@ -7337,19 +7338,21 @@ CH,Ticino,TI,4909.0,352,,35,3,2020-10-21
 CH,Valais,VS,6225.0,170,,93,8,2020-10-21
 CH,Berne,BE,6953.0,107,,121,13,2020-10-21
 CH,Zürich,ZH,14052.0,157,,99,,2020-10-21
-CH,,,91447.0,2040,72603,1059,105,2020-10-21
+CH,,,91565.0,2040,72603,1065,106,2020-10-21
 CH,Aargau,AG,,0,,,,2020-10-21
 CH,Geneva,GE,,0,,200,7,2020-10-21
-CH,Jura,JU,,0,,,,2020-10-21
 CH,Neuchâtel,NE,,0,,,,2020-10-21
 CH,Vaud,VD,,0,,,,2020-10-21
-CH,,,91447.0,2040,72603,1059,105,2020-10-22
+CH,Schaffhausen,SH,368.0,8,,3,2,2020-10-22
+CH,Basel-Stadt,BS,1804.0,54,,,,2020-10-22
+CH,Schwyz,SZ,1961.0,38,,,,2020-10-22
+CH,Ticino,TI,5032.0,352,,44,3,2020-10-22
+CH,,,91910.0,2042,72603,1074,106,2020-10-22
 CH,Aargau,AG,,0,,,,2020-10-22
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-22
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-22
 CH,Berne,BE,,0,,,,2020-10-22
 CH,Basel-Landschaft,BL,,0,,,,2020-10-22
-CH,Basel-Stadt,BS,,0,,,,2020-10-22
 CH,Fribourg,FR,,0,,,,2020-10-22
 CH,Geneva,GE,,0,,,,2020-10-22
 CH,Glarus,GL,,0,,,,2020-10-22
@@ -7360,11 +7363,8 @@ CH,Neuchâtel,NE,,0,,,,2020-10-22
 CH,Nidwalden,NW,,0,,,,2020-10-22
 CH,Obwalden,OW,,0,,,,2020-10-22
 CH,St. Gallen,SG,,0,,,,2020-10-22
-CH,Schaffhausen,SH,,0,,,,2020-10-22
 CH,Solothurn,SO,,0,,,,2020-10-22
-CH,Schwyz,SZ,,0,,,,2020-10-22
 CH,Thurgau,TG,,0,,,,2020-10-22
-CH,Ticino,TI,,0,,,,2020-10-22
 CH,Uri,UR,,0,,,,2020-10-22
 CH,Vaud,VD,,0,,,,2020-10-22
 CH,Valais,VS,,0,,,,2020-10-22
