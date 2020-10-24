@@ -1,10 +1,10 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Ticino,TI,5584.0,354.0,,62.0,5.0,2020-10-24
-CH,,,102363.0,2068.0,72603.0,1295.0,119.0,2020-10-24
+CH,Berne,BE,9022.0,108.0,,,,2020-10-24
+CH,,,103162.0,2071.0,72603.0,1302.0,119.0,2020-10-24
 CH,Aargau,AG,,,,,,2020-10-24
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-24
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-24
-CH,Berne,BE,,,,,,2020-10-24
 CH,Basel-Landschaft,BL,,,,,,2020-10-24
 CH,Basel-Stadt,BS,,,,,,2020-10-24
 CH,Fribourg,FR,,,,,,2020-10-24
