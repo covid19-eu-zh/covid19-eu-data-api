@@ -7397,15 +7397,16 @@ CH,Geneva,GE,,0,,228,9,2020-10-23
 CH,Neuchâtel,NE,,0,,,,2020-10-23
 CH,St. Gallen,SG,,0,,,,2020-10-23
 CH,Valais,VS,,0,,,,2020-10-23
+CH,Appenzell Innerrhoden,AI,222.0,0,,,,2020-10-24
+CH,Nidwalden,NW,357.0,4,,6,0,2020-10-24
 CH,Basel-Stadt,BS,1981.0,54,,,,2020-10-24
 CH,Basel-Landschaft,BL,2061.0,39,,23,4,2020-10-24
 CH,Schwyz,SZ,2165.0,45,,,,2020-10-24
 CH,Ticino,TI,5584.0,354,,62,5,2020-10-24
 CH,Fribourg,FR,6044.0,117,,66,10,2020-10-24
 CH,Berne,BE,9022.0,108,,,,2020-10-24
-CH,,,104970.0,2081,72603,1325,123,2020-10-24
+CH,,,105002.0,2081,72603,1325,123,2020-10-24
 CH,Aargau,AG,,0,,,,2020-10-24
-CH,Appenzell Innerrhoden,AI,,0,,,,2020-10-24
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-10-24
 CH,Geneva,GE,,0,,,,2020-10-24
 CH,Glarus,GL,,0,,,,2020-10-24
@@ -7413,7 +7414,6 @@ CH,Grisons,GR,,0,,,,2020-10-24
 CH,Jura,JU,,0,,,,2020-10-24
 CH,Lucerne,LU,,0,,,,2020-10-24
 CH,Neuchâtel,NE,,0,,,,2020-10-24
-CH,Nidwalden,NW,,0,,,,2020-10-24
 CH,Obwalden,OW,,0,,,,2020-10-24
 CH,St. Gallen,SG,,0,,,,2020-10-24
 CH,Schaffhausen,SH,,0,,,,2020-10-24

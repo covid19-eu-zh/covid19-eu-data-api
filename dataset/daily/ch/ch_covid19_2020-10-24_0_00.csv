@@ -1,13 +1,14 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Innerrhoden,AI,222.0,0.0,,,,2020-10-24
+CH,Nidwalden,NW,357.0,4.0,,6.0,0.0,2020-10-24
 CH,Basel-Stadt,BS,1981.0,54.0,,,,2020-10-24
 CH,Basel-Landschaft,BL,2061.0,39.0,,23.0,4.0,2020-10-24
 CH,Schwyz,SZ,2165.0,45.0,,,,2020-10-24
 CH,Ticino,TI,5584.0,354.0,,62.0,5.0,2020-10-24
 CH,Fribourg,FR,6044.0,117.0,,66.0,10.0,2020-10-24
 CH,Berne,BE,9022.0,108.0,,,,2020-10-24
-CH,,,104970.0,2081.0,72603.0,1325.0,123.0,2020-10-24
+CH,,,105002.0,2081.0,72603.0,1325.0,123.0,2020-10-24
 CH,Aargau,AG,,,,,,2020-10-24
-CH,Appenzell Innerrhoden,AI,,,,,,2020-10-24
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-24
 CH,Geneva,GE,,,,,,2020-10-24
 CH,Glarus,GL,,,,,,2020-10-24
@@ -15,7 +16,6 @@ CH,Grisons,GR,,,,,,2020-10-24
 CH,Jura,JU,,,,,,2020-10-24
 CH,Lucerne,LU,,,,,,2020-10-24
 CH,Neuchâtel,NE,,,,,,2020-10-24
-CH,Nidwalden,NW,,,,,,2020-10-24
 CH,Obwalden,OW,,,,,,2020-10-24
 CH,St. Gallen,SG,,,,,,2020-10-24
 CH,Schaffhausen,SH,,,,,,2020-10-24
