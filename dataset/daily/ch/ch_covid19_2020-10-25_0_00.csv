@@ -1,12 +1,13 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Nidwalden,NW,361.0,4.0,,6.0,0.0,2020-10-25
 CH,Basel-Stadt,BS,2062.0,54.0,,,,2020-10-25
+CH,Basel-Landschaft,BL,2144.0,39.0,,23.0,4.0,2020-10-25
 CH,Ticino,TI,5840.0,356.0,,65.0,4.0,2020-10-25
 CH,Berne,BE,9556.0,110.0,,,,2020-10-25
-CH,,,105963.0,2085.0,72603.0,1326.0,123.0,2020-10-25
+CH,,,106751.0,2086.0,72603.0,1332.0,129.0,2020-10-25
 CH,Aargau,AG,,,,,,2020-10-25
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-25
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-25
-CH,Basel-Landschaft,BL,,,,,,2020-10-25
 CH,Fribourg,FR,,,,,,2020-10-25
 CH,Geneva,GE,,,,,,2020-10-25
 CH,Glarus,GL,,,,,,2020-10-25
@@ -14,7 +15,6 @@ CH,Grisons,GR,,,,,,2020-10-25
 CH,Jura,JU,,,,,,2020-10-25
 CH,Lucerne,LU,,,,,,2020-10-25
 CH,Neuchâtel,NE,,,,,,2020-10-25
-CH,Nidwalden,NW,,,,,,2020-10-25
 CH,Obwalden,OW,,,,,,2020-10-25
 CH,St. Gallen,SG,,,,,,2020-10-25
 CH,Schaffhausen,SH,,,,,,2020-10-25
