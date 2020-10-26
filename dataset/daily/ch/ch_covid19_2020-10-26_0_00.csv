@@ -1,16 +1,16 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Innerrhoden,AI,239.0,0.0,,,,2020-10-26
 CH,Schaffhausen,SH,530.0,8.0,,6.0,2.0,2020-10-26
 CH,Zug,ZG,1403.0,10.0,,15.0,3.0,2020-10-26
+CH,Basel-Stadt,BS,2103.0,54.0,,,,2020-10-26
 CH,Schwyz,SZ,2443.0,45.0,,,,2020-10-26
 CH,Lucerne,LU,3420.0,25.0,,52.0,7.0,2020-10-26
 CH,Ticino,TI,5987.0,356.0,,80.0,6.0,2020-10-26
-CH,,,109210.0,2090.0,72603.0,1426.0,142.0,2020-10-26
+CH,,,109268.0,2090.0,72603.0,1426.0,142.0,2020-10-26
 CH,Aargau,AG,,,,,,2020-10-26
-CH,Appenzell Innerrhoden,AI,,,,,,2020-10-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-26
 CH,Berne,BE,,,,,,2020-10-26
 CH,Basel-Landschaft,BL,,,,,,2020-10-26
-CH,Basel-Stadt,BS,,,,,,2020-10-26
 CH,Fribourg,FR,,,,,,2020-10-26
 CH,Geneva,GE,,,,,,2020-10-26
 CH,Glarus,GL,,,,,,2020-10-26
