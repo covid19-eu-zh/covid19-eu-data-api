@@ -1,8 +1,10 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Schaffhausen,SH,530.0,8.0,,6.0,2.0,2020-10-26
 CH,Zug,ZG,1403.0,10.0,,15.0,3.0,2020-10-26
 CH,Schwyz,SZ,2443.0,45.0,,,,2020-10-26
+CH,Lucerne,LU,3420.0,25.0,,52.0,7.0,2020-10-26
 CH,Ticino,TI,5987.0,356.0,,80.0,6.0,2020-10-26
-CH,,,108509.0,2089.0,72603.0,1379.0,136.0,2020-10-26
+CH,,,109210.0,2090.0,72603.0,1426.0,142.0,2020-10-26
 CH,Aargau,AG,,,,,,2020-10-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-26
@@ -14,12 +16,10 @@ CH,Geneva,GE,,,,,,2020-10-26
 CH,Glarus,GL,,,,,,2020-10-26
 CH,Grisons,GR,,,,,,2020-10-26
 CH,Jura,JU,,,,,,2020-10-26
-CH,Lucerne,LU,,,,,,2020-10-26
 CH,Neuchâtel,NE,,,,,,2020-10-26
 CH,Nidwalden,NW,,,,,,2020-10-26
 CH,Obwalden,OW,,,,,,2020-10-26
 CH,St. Gallen,SG,,,,,,2020-10-26
-CH,Schaffhausen,SH,,,,,,2020-10-26
 CH,Solothurn,SO,,,,,,2020-10-26
 CH,Thurgau,TG,,,,,,2020-10-26
 CH,Uri,UR,,,,,,2020-10-26
