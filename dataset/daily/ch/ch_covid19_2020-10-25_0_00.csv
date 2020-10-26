@@ -2,18 +2,19 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Nidwalden,NW,361.0,4.0,,6.0,0.0,2020-10-25
 CH,Zug,ZG,1212.0,10.0,,16.0,2.0,2020-10-25
 CH,Grisons,GR,1917.0,50.0,,17.0,4.0,2020-10-25
+CH,Thurgau,TG,1943.0,24.0,,27.0,8.0,2020-10-25
 CH,Basel-Stadt,BS,2062.0,54.0,,34.0,5.0,2020-10-25
 CH,Basel-Landschaft,BL,2144.0,39.0,,23.0,4.0,2020-10-25
 CH,Schwyz,SZ,2165.0,45.0,,,,2020-10-25
 CH,St. Gallen,SG,5231.0,48.0,,110.0,12.0,2020-10-25
+CH,Aargau,AG,5467.0,59.0,,,,2020-10-25
 CH,Ticino,TI,5840.0,356.0,,65.0,4.0,2020-10-25
 CH,Fribourg,FR,6328.0,117.0,,74.0,13.0,2020-10-25
 CH,Berne,BE,9556.0,110.0,,,,2020-10-25
-CH,,,107893.0,2090.0,72603.0,1408.0,138.0,2020-10-25
-CH,Aargau,AG,,,,,,2020-10-25
+CH,Geneva,GE,15398.0,331.0,,296.0,12.0,2020-10-25
+CH,,,110820.0,2100.0,72603.0,1498.0,141.0,2020-10-25
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-25
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-25
-CH,Geneva,GE,,,,,,2020-10-25
 CH,Glarus,GL,,,,,,2020-10-25
 CH,Jura,JU,,15.0,,68.0,3.0,2020-10-25
 CH,Lucerne,LU,,,,,,2020-10-25
@@ -21,7 +22,6 @@ CH,Neuchâtel,NE,,,,68.0,8.0,2020-10-25
 CH,Obwalden,OW,,,,,,2020-10-25
 CH,Schaffhausen,SH,,,,,,2020-10-25
 CH,Solothurn,SO,,,,,,2020-10-25
-CH,Thurgau,TG,,,,,,2020-10-25
 CH,Uri,UR,,,,,,2020-10-25
 CH,Vaud,VD,,,,,,2020-10-25
 CH,Valais,VS,,,,,,2020-10-25
