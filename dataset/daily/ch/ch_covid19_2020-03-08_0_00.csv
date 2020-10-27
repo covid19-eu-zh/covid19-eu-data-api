@@ -2,7 +2,7 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Appenzell Ausserrhoden,AR,1.0,,,,,2020-03-08
 CH,Thurgau,TG,1.0,0.0,,,,2020-03-08
 CH,Zug,ZG,3.0,0.0,,0.0,0.0,2020-03-08
-CH,Jura,JU,5.0,0.0,,5.0,0.0,2020-03-08
+CH,Jura,JU,4.0,0.0,,5.0,0.0,2020-03-08
 CH,St. Gallen,SG,5.0,,,,,2020-03-08
 CH,Fribourg,FR,7.0,0.0,,0.0,,2020-03-08
 CH,Aargau,AG,14.0,0.0,,,,2020-03-08
@@ -15,7 +15,7 @@ CH,Vaud,VD,40.0,1.0,,22.0,3.0,2020-03-08
 CH,Zürich,ZH,40.0,,,,,2020-03-08
 CH,Geneva,GE,44.0,0.0,1681.0,9.0,0.0,2020-03-08
 CH,Ticino,TI,49.0,0.0,,0.0,0.0,2020-03-08
-CH,,,334.0,2.0,1952.0,61.0,6.0,2020-03-08
+CH,,,333.0,2.0,1952.0,61.0,6.0,2020-03-08
 CH,Appenzell Innerrhoden,AI,,,,,,2020-03-08
 CH,Berne,BE,,,,,,2020-03-08
 CH,Glarus,GL,,,,,,2020-03-08

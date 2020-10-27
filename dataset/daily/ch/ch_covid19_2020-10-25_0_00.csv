@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,361.0,4.0,,6.0,0.0,2020-10-25
 CH,Zug,ZG,1212.0,10.0,,16.0,2.0,2020-10-25
+CH,Jura,JU,1387.0,15.0,,68.0,3.0,2020-10-25
 CH,Grisons,GR,1917.0,50.0,,17.0,4.0,2020-10-25
 CH,Thurgau,TG,1943.0,24.0,,27.0,8.0,2020-10-25
 CH,Basel-Stadt,BS,2062.0,54.0,,34.0,5.0,2020-10-25
@@ -14,15 +15,14 @@ CH,Valais,VS,9290.0,197.0,,147.0,10.0,2020-10-25
 CH,Berne,BE,9556.0,110.0,,,,2020-10-25
 CH,Geneva,GE,15398.0,331.0,,296.0,12.0,2020-10-25
 CH,Zürich,ZH,17238.0,161.0,,159.0,,2020-10-25
-CH,,,115138.0,2126.0,72603.0,1584.0,145.0,2020-10-25
+CH,Vaud,VD,19507.0,334.0,,206.0,30.0,2020-10-25
+CH,,,116108.0,2133.0,72603.0,1620.0,147.0,2020-10-25
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-25
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-25
 CH,Glarus,GL,,,,,,2020-10-25
-CH,Jura,JU,,15.0,,68.0,3.0,2020-10-25
 CH,Lucerne,LU,,,,,,2020-10-25
-CH,Neuchâtel,NE,,,,68.0,8.0,2020-10-25
+CH,Neuchâtel,NE,,97.0,,68.0,8.0,2020-10-25
 CH,Obwalden,OW,,,,,,2020-10-25
 CH,Schaffhausen,SH,,,,,,2020-10-25
 CH,Solothurn,SO,,,,,,2020-10-25
 CH,Uri,UR,,,,,,2020-10-25
-CH,Vaud,VD,,,,,,2020-10-25
