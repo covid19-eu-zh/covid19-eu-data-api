@@ -1,12 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Glarus,GL,401.0,14.0,,7.0,,2020-10-28
 CH,Schaffhausen,SH,569.0,8.0,,11.0,3.0,2020-10-28
 CH,Zug,ZG,1544.0,10.0,,23.0,2.0,2020-10-28
 CH,Solothurn,SO,2104.0,18.0,,33.0,,2020-10-28
 CH,Basel-Stadt,BS,2274.0,54.0,,,,2020-10-28
 CH,Schwyz,SZ,2758.0,46.0,,,,2020-10-28
 CH,Ticino,TI,6530.0,356.0,,105.0,8.0,2020-10-28
-CH,Valais,VS,9853.0,198.0,,0.0,,2020-10-28
-CH,,,126747.0,2154.0,72603.0,1873.0,189.0,2020-10-28
+CH,,,127616.0,2154.0,72603.0,2060.0,190.0,2020-10-28
 CH,Aargau,AG,,,,,,2020-10-28
 CH,Appenzell Innerrhoden,AI,,,,,,2020-10-28
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-10-28
@@ -14,7 +14,6 @@ CH,Berne,BE,,,,,,2020-10-28
 CH,Basel-Landschaft,BL,,,,,,2020-10-28
 CH,Fribourg,FR,,,,,,2020-10-28
 CH,Geneva,GE,,,,,,2020-10-28
-CH,Glarus,GL,,,,,,2020-10-28
 CH,Grisons,GR,,,,,,2020-10-28
 CH,Jura,JU,,,,,,2020-10-28
 CH,Lucerne,LU,,,,,,2020-10-28
@@ -25,4 +24,5 @@ CH,St. Gallen,SG,,,,,,2020-10-28
 CH,Thurgau,TG,,,,,,2020-10-28
 CH,Uri,UR,,,,,,2020-10-28
 CH,Vaud,VD,,,,,,2020-10-28
+CH,Valais,VS,,,,,,2020-10-28
 CH,Zürich,ZH,,,,,,2020-10-28
