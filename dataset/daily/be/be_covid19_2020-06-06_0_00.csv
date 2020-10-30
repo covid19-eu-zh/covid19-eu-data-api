@@ -1,5 +1,5 @@
 country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
-BE,Wallonia,Luxembourg,1407.0,,10.0,0.0,2020-06-06
+BE,Wallonia,Luxembourg,1408.0,,10.0,0.0,2020-06-06
 BE,Wallonia,BrabantWallon,1494.0,,2.0,0.0,2020-06-06
 BE,Flanders,VlaamsBrabant,5371.0,,16.0,2.0,2020-06-06
 BE,Brussels,Brussels,6085.0,,126.0,30.0,2020-06-06

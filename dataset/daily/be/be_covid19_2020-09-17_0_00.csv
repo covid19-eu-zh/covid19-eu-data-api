@@ -1,5 +1,5 @@
 country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
-BE,Wallonia,Luxembourg,2094.0,,4.0,1.0,2020-09-17
+BE,Wallonia,Luxembourg,2095.0,,4.0,1.0,2020-09-17
 BE,MISSING,MISSING,2567.0,,,,2020-09-17
 BE,Wallonia,BrabantWallon,2814.0,,2.0,0.0,2020-09-17
 BE,Wallonia,Namur,3533.0,,3.0,1.0,2020-09-17
