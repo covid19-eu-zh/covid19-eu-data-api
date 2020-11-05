@@ -7724,11 +7724,12 @@ CH,Vaud,VD,,0,,,,2020-11-04
 CH,Schaffhausen,SH,883.0,9,,20,3,2020-11-05
 CH,Zug,ZG,2062.0,11,,35,4,2020-11-05
 CH,Schwyz,SZ,3684.0,58,,,,2020-11-05
-CH,,,190767.0,2569,201200,3375,394,2020-11-05
+CH,Ticino,TI,9310.0,381,,224,18,2020-11-05
+CH,Berne,BE,17149.0,155,,,,2020-11-05
+CH,,,192197.0,2575,201200,3392,396,2020-11-05
 CH,Aargau,AG,,0,,,,2020-11-05
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-11-05
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-11-05
-CH,Berne,BE,,0,,,,2020-11-05
 CH,Basel-Landschaft,BL,,0,,,,2020-11-05
 CH,Basel-Stadt,BS,,0,,,,2020-11-05
 CH,Fribourg,FR,,0,,,,2020-11-05
@@ -7743,7 +7744,6 @@ CH,Obwalden,OW,,0,,,,2020-11-05
 CH,St. Gallen,SG,,0,,,,2020-11-05
 CH,Solothurn,SO,,0,,,,2020-11-05
 CH,Thurgau,TG,,0,,,,2020-11-05
-CH,Ticino,TI,,0,,,,2020-11-05
 CH,Uri,UR,,0,,,,2020-11-05
 CH,Vaud,VD,,0,,,,2020-11-05
 CH,Valais,VS,,0,,,,2020-11-05
