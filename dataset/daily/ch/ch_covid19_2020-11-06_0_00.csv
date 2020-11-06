@@ -1,9 +1,13 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Obwalden,OW,518.0,6.0,,11.0,,2020-11-06
 CH,Uri,UR,541.0,9.0,,7.0,,2020-11-06
+CH,Glarus,GL,623.0,15.0,,15.0,,2020-11-06
 CH,Schaffhausen,SH,928.0,11.0,,17.0,2.0,2020-11-06
+CH,Zug,ZG,2133.0,12.0,,30.0,4.0,2020-11-06
+CH,Thurgau,TG,3743.0,39.0,,43.0,9.0,2020-11-06
 CH,Schwyz,SZ,3765.0,62.0,,,,2020-11-06
-CH,,,200144.0,2647.0,210782.0,3433.0,403.0,2020-11-06
+CH,Ticino,TI,9682.0,388.0,,243.0,21.0,2020-11-06
+CH,,,201282.0,2656.0,210782.0,3454.0,409.0,2020-11-06
 CH,Aargau,AG,,,,,,2020-11-06
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-06
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-06
@@ -12,7 +16,6 @@ CH,Basel-Landschaft,BL,,,,,,2020-11-06
 CH,Basel-Stadt,BS,,,,,,2020-11-06
 CH,Fribourg,FR,,,,,,2020-11-06
 CH,Geneva,GE,,,,,,2020-11-06
-CH,Glarus,GL,,,,,,2020-11-06
 CH,Grisons,GR,,,,,,2020-11-06
 CH,Jura,JU,,,,,,2020-11-06
 CH,Lucerne,LU,,,,,,2020-11-06
@@ -20,9 +23,6 @@ CH,Neuchâtel,NE,,,,,,2020-11-06
 CH,Nidwalden,NW,,,,,,2020-11-06
 CH,St. Gallen,SG,,,,,,2020-11-06
 CH,Solothurn,SO,,,,,,2020-11-06
-CH,Thurgau,TG,,,,,,2020-11-06
-CH,Ticino,TI,,,,,,2020-11-06
 CH,Vaud,VD,,,,,,2020-11-06
 CH,Valais,VS,,,,,,2020-11-06
-CH,Zug,ZG,,,,,,2020-11-06
 CH,Zürich,ZH,,,,,,2020-11-06
