@@ -7830,10 +7830,13 @@ CH,Vaud,VD,,0,,,,2020-11-08
 CH,Valais,VS,,0,,,,2020-11-08
 CH,Zürich,ZH,,0,,,,2020-11-08
 CH,Obwalden,OW,588.0,6,,11,,2020-11-09
+CH,Glarus,GL,661.0,15,,21,,2020-11-09
 CH,Schaffhausen,SH,1025.0,13,,16,2,2020-11-09
 CH,Zug,ZG,2276.0,13,,31,5,2020-11-09
+CH,Solothurn,SO,3813.0,30,,59,12,2020-11-09
 CH,Schwyz,SZ,3958.0,66,,,,2020-11-09
-CH,,,216122.0,2803,210782,3658,436,2020-11-09
+CH,Ticino,TI,10389.0,401,,290,23,2020-11-09
+CH,,,216710.0,2812,210782,3674,438,2020-11-09
 CH,Aargau,AG,,0,,,,2020-11-09
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-11-09
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-11-09
@@ -7842,16 +7845,13 @@ CH,Basel-Landschaft,BL,,0,,,,2020-11-09
 CH,Basel-Stadt,BS,,0,,,,2020-11-09
 CH,Fribourg,FR,,0,,,,2020-11-09
 CH,Geneva,GE,,0,,,,2020-11-09
-CH,Glarus,GL,,0,,,,2020-11-09
 CH,Grisons,GR,,0,,,,2020-11-09
 CH,Jura,JU,,0,,,,2020-11-09
 CH,Lucerne,LU,,0,,,,2020-11-09
 CH,Neuchâtel,NE,,0,,,,2020-11-09
 CH,Nidwalden,NW,,0,,,,2020-11-09
 CH,St. Gallen,SG,,0,,,,2020-11-09
-CH,Solothurn,SO,,0,,,,2020-11-09
 CH,Thurgau,TG,,0,,,,2020-11-09
-CH,Ticino,TI,,0,,,,2020-11-09
 CH,Uri,UR,,0,,,,2020-11-09
 CH,Vaud,VD,,0,,,,2020-11-09
 CH,Valais,VS,,0,,,,2020-11-09
