@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Zug,ZG,2276.0,13.0,,31.0,5.0,2020-11-09
-CH,,,214324.0,2773.0,210782.0,3640.0,435.0,2020-11-09
+CH,Schwyz,SZ,3958.0,66.0,,,,2020-11-09
+CH,,,215277.0,2792.0,210782.0,3649.0,436.0,2020-11-09
 CH,Aargau,AG,,,,,,2020-11-09
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-09
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-09
@@ -19,7 +20,6 @@ CH,Obwalden,OW,,,,,,2020-11-09
 CH,St. Gallen,SG,,,,,,2020-11-09
 CH,Schaffhausen,SH,,,,,,2020-11-09
 CH,Solothurn,SO,,,,,,2020-11-09
-CH,Schwyz,SZ,,,,,,2020-11-09
 CH,Thurgau,TG,,,,,,2020-11-09
 CH,Ticino,TI,,,,,,2020-11-09
 CH,Uri,UR,,,,,,2020-11-09
