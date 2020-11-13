@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,471.0,8.0,,,,2020-11-13
+CH,Uri,UR,643.0,9.0,,5.0,,2020-11-13
 CH,Obwalden,OW,664.0,10.0,,14.0,,2020-11-13
 CH,Glarus,GL,752.0,16.0,,20.0,,2020-11-13
 CH,Appenzell Ausserrhoden,AR,1161.0,12.0,,23.0,2.0,2020-11-13
@@ -7,12 +8,12 @@ CH,Schaffhausen,SH,1200.0,17.0,,15.0,2.0,2020-11-13
 CH,Zug,ZG,2506.0,16.0,,30.0,6.0,2020-11-13
 CH,Basel-Stadt,BS,3751.0,56.0,,130.0,24.0,2020-11-13
 CH,Schwyz,SZ,4190.0,76.0,,,,2020-11-13
-CH,Solothurn,SO,4354.0,39.0,,140.0,13.0,2020-11-13
+CH,Solothurn,SO,4354.0,39.0,,69.0,13.0,2020-11-13
 CH,Basel-Landschaft,BL,4389.0,49.0,,62.0,7.0,2020-11-13
 CH,Thurgau,TG,4758.0,66.0,,64.0,12.0,2020-11-13
 CH,Ticino,TI,11876.0,421.0,,336.0,33.0,2020-11-13
 CH,Berne,BE,21832.0,233.0,,402.0,54.0,2020-11-13
-CH,,,251281.0,3287.0,235677.0,3961.0,506.0,2020-11-13
+CH,,,251296.0,3287.0,235677.0,3890.0,506.0,2020-11-13
 CH,Aargau,AG,,,,,,2020-11-13
 CH,Fribourg,FR,,,,,,2020-11-13
 CH,Geneva,GE,,,,629.0,29.0,2020-11-13
@@ -22,7 +23,6 @@ CH,Lucerne,LU,,,,67.0,,2020-11-13
 CH,Neuchâtel,NE,,,,,,2020-11-13
 CH,Nidwalden,NW,,,,,,2020-11-13
 CH,St. Gallen,SG,,,,,,2020-11-13
-CH,Uri,UR,,,,,,2020-11-13
 CH,Vaud,VD,,,,,,2020-11-13
 CH,Valais,VS,,,,,,2020-11-13
 CH,Zürich,ZH,,,,,,2020-11-13
