@@ -1,19 +1,19 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Glarus,GL,786.0,16.0,,14.0,,2020-11-16
 CH,Zug,ZG,2644.0,20.0,,31.0,2.0,2020-11-16
+CH,Basel-Stadt,BS,4042.0,57.0,,,,2020-11-16
 CH,Schwyz,SZ,4321.0,82.0,,,,2020-11-16
 CH,Solothurn,SO,4628.0,46.0,,73.0,14.0,2020-11-16
 CH,Thurgau,TG,5043.0,71.0,,69.0,13.0,2020-11-16
 CH,Ticino,TI,12610.0,439.0,,349.0,32.0,2020-11-16
-CH,,,260331.0,3444.0,235677.0,3965.0,498.0,2020-11-16
+CH,Berne,BE,23110.0,262.0,,412.0,63.0,2020-11-16
+CH,,,262429.0,3488.0,235677.0,3986.0,504.0,2020-11-16
 CH,Aargau,AG,,,,,,2020-11-16
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-16
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-16
-CH,Berne,BE,,,,,,2020-11-16
 CH,Basel-Landschaft,BL,,,,,,2020-11-16
-CH,Basel-Stadt,BS,,,,,,2020-11-16
 CH,Fribourg,FR,,,,,,2020-11-16
-CH,Geneva,GE,,,,,,2020-11-16
+CH,Geneva,GE,,,,642.0,31.0,2020-11-16
 CH,Grisons,GR,,,,,,2020-11-16
 CH,Jura,JU,,,,,,2020-11-16
 CH,Lucerne,LU,,,,69.0,,2020-11-16
