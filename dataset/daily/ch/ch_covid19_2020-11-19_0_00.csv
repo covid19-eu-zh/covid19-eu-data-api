@@ -1,27 +1,27 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Obwalden,OW,783.0,13.0,,9.0,,2020-11-19
+CH,Glarus,GL,831.0,18.0,,7.0,,2020-11-19
 CH,Schaffhausen,SH,1440.0,21.0,,13.0,3.0,2020-11-19
 CH,Zug,ZG,2835.0,23.0,,27.0,3.0,2020-11-19
+CH,Basel-Stadt,BS,4395.0,63.0,,,,2020-11-19
 CH,Schwyz,SZ,4498.0,87.0,,,,2020-11-19
+CH,Thurgau,TG,5401.0,76.0,,57.0,15.0,2020-11-19
 CH,Ticino,TI,13374.0,467.0,,321.0,36.0,2020-11-19
-CH,,,276845.0,3790.0,236291.0,3353.0,540.0,2020-11-19
+CH,,,277116.0,3800.0,236291.0,3346.0,539.0,2020-11-19
 CH,Aargau,AG,,,,,,2020-11-19
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-19
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-19
 CH,Berne,BE,,,,,,2020-11-19
 CH,Basel-Landschaft,BL,,,,,,2020-11-19
-CH,Basel-Stadt,BS,,,,,,2020-11-19
 CH,Fribourg,FR,,,,,,2020-11-19
 CH,Geneva,GE,,,,,,2020-11-19
-CH,Glarus,GL,,,,,,2020-11-19
 CH,Grisons,GR,,,,,,2020-11-19
 CH,Jura,JU,,,,,,2020-11-19
 CH,Lucerne,LU,,,,,,2020-11-19
 CH,Neuchâtel,NE,,,,,,2020-11-19
 CH,Nidwalden,NW,,,,,,2020-11-19
-CH,Obwalden,OW,,,,,,2020-11-19
 CH,St. Gallen,SG,,,,,,2020-11-19
 CH,Solothurn,SO,,,,,,2020-11-19
-CH,Thurgau,TG,,,,,,2020-11-19
 CH,Uri,UR,,,,,,2020-11-19
 CH,Vaud,VD,,,,,,2020-11-19
 CH,Valais,VS,,,,,,2020-11-19
