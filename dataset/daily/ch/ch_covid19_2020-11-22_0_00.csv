@@ -1,12 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Basel-Stadt,BS,4707.0,66.0,,,,2020-11-22
+CH,Basel-Landschaft,BL,5551.0,63.0,,74.0,7.0,2020-11-22
 CH,Ticino,TI,14129.0,491.0,,340.0,35.0,2020-11-22
 CH,Berne,BE,25671.0,313.0,,,,2020-11-22
-CH,,,288276.0,4049.0,236291.0,3196.0,530.0,2020-11-22
+CH,,,288375.0,4050.0,236291.0,3199.0,530.0,2020-11-22
 CH,Aargau,AG,,,,,,2020-11-22
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-22
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-22
-CH,Basel-Landschaft,BL,,,,,,2020-11-22
 CH,Fribourg,FR,,,,,,2020-11-22
 CH,Geneva,GE,,,,,,2020-11-22
 CH,Glarus,GL,,,,,,2020-11-22
