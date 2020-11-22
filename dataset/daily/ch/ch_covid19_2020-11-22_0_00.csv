@@ -1,18 +1,18 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,853.0,8.0,,4.0,3.0,2020-11-22
 CH,Zug,ZG,2982.0,27.0,,18.0,5.0,2020-11-22
-CH,Basel-Stadt,BS,4707.0,66.0,,,,2020-11-22
+CH,Grisons,GR,4449.0,86.0,,41.0,10.0,2020-11-22
+CH,Basel-Stadt,BS,4707.0,67.0,,,,2020-11-22
 CH,Basel-Landschaft,BL,5551.0,63.0,,74.0,7.0,2020-11-22
 CH,Ticino,TI,14129.0,491.0,,340.0,35.0,2020-11-22
 CH,Fribourg,FR,19477.0,311.0,,133.0,23.0,2020-11-22
 CH,Berne,BE,25671.0,313.0,,,,2020-11-22
-CH,,,288516.0,4055.0,236291.0,3192.0,531.0,2020-11-22
+CH,,,288580.0,4056.0,236291.0,3189.0,531.0,2020-11-22
 CH,Aargau,AG,,,,,,2020-11-22
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-22
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-22
 CH,Geneva,GE,,,,,,2020-11-22
 CH,Glarus,GL,,,,,,2020-11-22
-CH,Grisons,GR,,,,,,2020-11-22
 CH,Jura,JU,,,,,,2020-11-22
 CH,Lucerne,LU,,,,,,2020-11-22
 CH,Neuchâtel,NE,,,,,,2020-11-22
