@@ -1,23 +1,23 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,853.0,8.0,,4.0,3.0,2020-11-22
 CH,Zug,ZG,2982.0,27.0,,18.0,5.0,2020-11-22
+CH,Jura,JU,3529.0,77.0,,31.0,5.0,2020-11-22
 CH,Grisons,GR,4449.0,86.0,,41.0,10.0,2020-11-22
 CH,Schwyz,SZ,4614.0,91.0,,,,2020-11-22
 CH,Basel-Stadt,BS,4707.0,67.0,,,,2020-11-22
 CH,Basel-Landschaft,BL,5551.0,63.0,,74.0,7.0,2020-11-22
+CH,Neuchâtel,NE,9063.0,154.0,,128.0,17.0,2020-11-22
 CH,Ticino,TI,14129.0,491.0,,339.0,35.0,2020-11-22
 CH,St. Gallen,SG,15142.0,215.0,,127.0,34.0,2020-11-22
 CH,Fribourg,FR,19477.0,311.0,,133.0,23.0,2020-11-22
 CH,Berne,BE,25671.0,313.0,,,,2020-11-22
-CH,,,289548.0,4079.0,236291.0,3193.0,536.0,2020-11-22
+CH,,,289597.0,4083.0,236291.0,3193.0,539.0,2020-11-22
 CH,Aargau,AG,,,,,,2020-11-22
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-22
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-22
 CH,Geneva,GE,,,,,,2020-11-22
 CH,Glarus,GL,,,,,,2020-11-22
-CH,Jura,JU,,,,,,2020-11-22
 CH,Lucerne,LU,,,,,,2020-11-22
-CH,Neuchâtel,NE,,,,,,2020-11-22
 CH,Obwalden,OW,,,,,,2020-11-22
 CH,Schaffhausen,SH,,,,,,2020-11-22
 CH,Solothurn,SO,,,,,,2020-11-22
