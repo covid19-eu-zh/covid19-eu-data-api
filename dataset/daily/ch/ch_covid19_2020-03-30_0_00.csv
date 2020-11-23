@@ -1,7 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,14.0,0.0,,,,2020-03-30
 CH,Schaffhausen,SH,42.0,0.0,,16.0,3.0,2020-03-30
-CH,Obwalden,OW,46.0,0.0,,,,2020-03-30
+CH,Obwalden,OW,46.0,0.0,,3.0,,2020-03-30
 CH,Appenzell Ausserrhoden,AR,50.0,2.0,,,,2020-03-30
 CH,Glarus,GL,51.0,2.0,,3.0,,2020-03-30
 CH,Uri,UR,53.0,,,7.0,,2020-03-30

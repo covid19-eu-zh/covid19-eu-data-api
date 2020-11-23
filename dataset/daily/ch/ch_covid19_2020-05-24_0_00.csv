@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,25.0,0.0,,,,2020-05-24
+CH,Obwalden,OW,82.0,0.0,,0.0,,2020-05-24
 CH,Uri,UR,93.0,7.0,,1.0,,2020-05-24
 CH,Nidwalden,NW,123.0,3.0,,0.0,0.0,2020-05-24
 CH,Jura,JU,199.0,7.0,,1.0,2.0,2020-05-24
@@ -23,6 +24,5 @@ CH,Vaud,VD,5440.0,300.0,,23.0,11.0,2020-05-24
 CH,,,30843.0,1814.0,34902.0,185.0,52.0,2020-05-24
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-05-24
 CH,Glarus,GL,,,,,,2020-05-24
-CH,Obwalden,OW,,,,,,2020-05-24
 CH,Schaffhausen,SH,,,,,,2020-05-24
 CH,Solothurn,SO,,,,,,2020-05-24
