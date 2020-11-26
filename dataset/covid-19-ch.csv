@@ -8291,13 +8291,15 @@ CH,Vaud,VD,,0,,,,2020-11-25
 CH,Schaffhausen,SH,1695.0,30,,18,2,2020-11-26
 CH,Zug,ZG,3186.0,28,,21,5,2020-11-26
 CH,Schwyz,SZ,4889.0,94,,,,2020-11-26
-CH,,,304835.0,4409,236687,3036,528,2020-11-26
+CH,Basel-Stadt,BS,5105.0,73,,,,2020-11-26
+CH,Solothurn,SO,5817.0,65,,57,14,2020-11-26
+CH,Ticino,TI,14932.0,518,,320,42,2020-11-26
+CH,,,305329.0,4418,236687,3028,527,2020-11-26
 CH,Aargau,AG,,0,,,,2020-11-26
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-11-26
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-11-26
 CH,Berne,BE,,0,,,,2020-11-26
 CH,Basel-Landschaft,BL,,0,,,,2020-11-26
-CH,Basel-Stadt,BS,,0,,,,2020-11-26
 CH,Fribourg,FR,,0,,,,2020-11-26
 CH,Geneva,GE,,0,,,,2020-11-26
 CH,Glarus,GL,,0,,,,2020-11-26
@@ -8308,9 +8310,7 @@ CH,Neuchâtel,NE,,0,,,,2020-11-26
 CH,Nidwalden,NW,,0,,,,2020-11-26
 CH,Obwalden,OW,,0,,,,2020-11-26
 CH,St. Gallen,SG,,0,,,,2020-11-26
-CH,Solothurn,SO,,0,,,,2020-11-26
 CH,Thurgau,TG,,0,,,,2020-11-26
-CH,Ticino,TI,,0,,,,2020-11-26
 CH,Uri,UR,,0,,,,2020-11-26
 CH,Vaud,VD,,0,,,,2020-11-26
 CH,Valais,VS,,0,,,,2020-11-26
