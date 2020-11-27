@@ -1,5 +1,5 @@
 country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
-BE,MISSING,MISSING,8885.0,,,,2020-11-14
+BE,MISSING,MISSING,8887.0,,,,2020-11-14
 BE,Wallonia,Luxembourg,14975.0,,152.0,34.0,2020-11-14
 BE,Wallonia,BrabantWallon,21988.0,,112.0,17.0,2020-11-14
 BE,Flanders,Limburg,22082.0,,270.0,74.0,2020-11-14
@@ -9,5 +9,5 @@ BE,Flanders,VlaamsBrabant,41281.0,,291.0,72.0,2020-11-14
 BE,Flanders,OostVlaanderen,48571.0,,757.0,181.0,2020-11-14
 BE,Flanders,Antwerpen,62330.0,,790.0,192.0,2020-11-14
 BE,Brussels,Brussels,72829.0,,969.0,206.0,2020-11-14
-BE,Wallonia,Hainaut,86637.0,,1230.0,236.0,2020-11-14
-BE,Wallonia,Liège,87439.0,,928.0,175.0,2020-11-14
+BE,Wallonia,Hainaut,86638.0,,1230.0,236.0,2020-11-14
+BE,Wallonia,Liège,87440.0,,928.0,175.0,2020-11-14
