@@ -8315,8 +8315,11 @@ CH,Geneva,GE,,0,,348,25,2020-11-26
 CH,Lucerne,LU,,0,,100,,2020-11-26
 CH,Neuchâtel,NE,,0,,109,16,2020-11-26
 CH,Vaud,VD,,0,,,,2020-11-26
+CH,Schaffhausen,SH,1745.0,31,,18,2,2020-11-27
 CH,Zug,ZG,3227.0,28,,18,5,2020-11-27
-CH,,,308844.0,4513,236687,2861,522,2020-11-27
+CH,Schwyz,SZ,4957.0,94,,,,2020-11-27
+CH,Ticino,TI,15211.0,523,,318,39,2020-11-27
+CH,,,309241.0,4519,236687,2859,519,2020-11-27
 CH,Aargau,AG,,0,,,,2020-11-27
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-11-27
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-11-27
@@ -8333,11 +8336,8 @@ CH,Neuchâtel,NE,,0,,,,2020-11-27
 CH,Nidwalden,NW,,0,,,,2020-11-27
 CH,Obwalden,OW,,0,,,,2020-11-27
 CH,St. Gallen,SG,,0,,,,2020-11-27
-CH,Schaffhausen,SH,,0,,,,2020-11-27
 CH,Solothurn,SO,,0,,,,2020-11-27
-CH,Schwyz,SZ,,0,,,,2020-11-27
 CH,Thurgau,TG,,0,,,,2020-11-27
-CH,Ticino,TI,,0,,,,2020-11-27
 CH,Uri,UR,,0,,,,2020-11-27
 CH,Vaud,VD,,0,,,,2020-11-27
 CH,Valais,VS,,0,,,,2020-11-27
