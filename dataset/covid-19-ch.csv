@@ -8350,12 +8350,12 @@ CH,Basel-Stadt,BS,5276.0,75,,,,2020-11-28
 CH,Basel-Landschaft,BL,6397.0,67,,53,10,2020-11-28
 CH,Neuchâtel,NE,9625.0,0,,145,10,2020-11-28
 CH,Ticino,TI,15457.0,530,,313,39,2020-11-28
+CH,Fribourg,FR,20375.0,342,,113,18,2020-11-28
 CH,Berne,BE,28314.0,373,,,,2020-11-28
-CH,,,314291.0,4628,236687,2804,510,2020-11-28
+CH,,,314404.0,4633,236687,2796,508,2020-11-28
 CH,Aargau,AG,,0,,,,2020-11-28
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-11-28
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-11-28
-CH,Fribourg,FR,,0,,,,2020-11-28
 CH,Geneva,GE,,0,,317,20,2020-11-28
 CH,Glarus,GL,,0,,,,2020-11-28
 CH,Lucerne,LU,,0,,,,2020-11-28
@@ -8369,11 +8369,12 @@ CH,Vaud,VD,,0,,,,2020-11-28
 CH,Valais,VS,,0,,,,2020-11-28
 CH,Zug,ZG,,0,,,,2020-11-28
 CH,Zürich,ZH,,0,,,,2020-11-28
+CH,Nidwalden,NW,921.0,10,,5,3,2020-11-29
 CH,Basel-Stadt,BS,5368.0,76,,,,2020-11-29
 CH,Basel-Landschaft,BL,6513.0,69,,55,10,2020-11-29
 CH,Ticino,TI,15667.0,538,,304,43,2020-11-29
 CH,Berne,BE,28628.0,379,,,,2020-11-29
-CH,,,315023.0,4645,236687,2798,513,2020-11-29
+CH,,,315139.0,4650,236687,2790,511,2020-11-29
 CH,Aargau,AG,,0,,,,2020-11-29
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-11-29
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-11-29
@@ -8384,7 +8385,6 @@ CH,Grisons,GR,,0,,,,2020-11-29
 CH,Jura,JU,,0,,,,2020-11-29
 CH,Lucerne,LU,,0,,,,2020-11-29
 CH,Neuchâtel,NE,,0,,,,2020-11-29
-CH,Nidwalden,NW,,0,,,,2020-11-29
 CH,Obwalden,OW,,0,,,,2020-11-29
 CH,St. Gallen,SG,,0,,,,2020-11-29
 CH,Schaffhausen,SH,,0,,,,2020-11-29
