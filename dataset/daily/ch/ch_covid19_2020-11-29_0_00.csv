@@ -1,11 +1,13 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,921.0,10.0,,5.0,3.0,2020-11-29
+CH,Zug,ZG,3329.0,31.0,,17.0,5.0,2020-11-29
 CH,Grisons,GR,5098.0,97.0,,33.0,8.0,2020-11-29
 CH,Basel-Stadt,BS,5368.0,76.0,,,,2020-11-29
 CH,Basel-Landschaft,BL,6513.0,69.0,,55.0,10.0,2020-11-29
 CH,Ticino,TI,15667.0,538.0,,304.0,43.0,2020-11-29
+CH,St. Gallen,SG,17189.0,250.0,,128.0,30.0,2020-11-29
 CH,Berne,BE,28628.0,379.0,,,,2020-11-29
-CH,,,315196.0,4650.0,236687.0,2790.0,510.0,2020-11-29
+CH,,,316029.0,4675.0,236687.0,2800.0,510.0,2020-11-29
 CH,Aargau,AG,,,,,,2020-11-29
 CH,Appenzell Innerrhoden,AI,,,,,,2020-11-29
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-11-29
@@ -16,7 +18,6 @@ CH,Jura,JU,,,,,,2020-11-29
 CH,Lucerne,LU,,,,,,2020-11-29
 CH,Neuchâtel,NE,,,,,,2020-11-29
 CH,Obwalden,OW,,,,,,2020-11-29
-CH,St. Gallen,SG,,,,,,2020-11-29
 CH,Schaffhausen,SH,,,,,,2020-11-29
 CH,Solothurn,SO,,,,,,2020-11-29
 CH,Schwyz,SZ,,,,,,2020-11-29
@@ -24,5 +25,4 @@ CH,Thurgau,TG,,,,,,2020-11-29
 CH,Uri,UR,,,,,,2020-11-29
 CH,Vaud,VD,,,,,,2020-11-29
 CH,Valais,VS,,,,,,2020-11-29
-CH,Zug,ZG,,,,,,2020-11-29
 CH,Zürich,ZH,,,,,,2020-11-29
