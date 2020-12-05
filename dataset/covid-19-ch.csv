@@ -8531,13 +8531,14 @@ CH,Jura,JU,,0,,,,2020-12-04
 CH,Lucerne,LU,,0,,87,,2020-12-04
 CH,Neuchâtel,NE,,0,,,,2020-12-04
 CH,St. Gallen,SG,,0,,,,2020-12-04
+CH,Nidwalden,NW,1012.0,10,,4,2,2020-12-05
 CH,Zug,ZG,3641.0,37,,22,3,2020-12-05
 CH,Schwyz,SZ,5464.0,105,,,,2020-12-05
 CH,Basel-Stadt,BS,5935.0,87,,125,21,2020-12-05
 CH,Basel-Landschaft,BL,7380.0,82,,53,7,2020-12-05
 CH,Ticino,TI,17034.0,580,,311,39,2020-12-05
 CH,Berne,BE,31123.0,440,,,,2020-12-05
-CH,,,340471.0,5324,237165,2616,480,2020-12-05
+CH,,,340493.0,5324,237165,2616,480,2020-12-05
 CH,Aargau,AG,,0,,,,2020-12-05
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-05
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-05
@@ -8548,7 +8549,6 @@ CH,Grisons,GR,,0,,,,2020-12-05
 CH,Jura,JU,,0,,,,2020-12-05
 CH,Lucerne,LU,,0,,,,2020-12-05
 CH,Neuchâtel,NE,,0,,,,2020-12-05
-CH,Nidwalden,NW,,0,,,,2020-12-05
 CH,Obwalden,OW,,0,,,,2020-12-05
 CH,St. Gallen,SG,,0,,,,2020-12-05
 CH,Schaffhausen,SH,,0,,,,2020-12-05
