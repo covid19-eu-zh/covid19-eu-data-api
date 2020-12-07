@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,563.0,14.0,,,,2020-12-07
 CH,Uri,UR,1014.0,29.0,,8.0,,2020-12-07
+CH,Nidwalden,NW,1044.0,10.0,,4.0,2.0,2020-12-07
 CH,Glarus,GL,1054.0,21.0,,13.0,,2020-12-07
 CH,Obwalden,OW,1103.0,26.0,,6.0,,2020-12-07
 CH,Appenzell Ausserrhoden,AR,1800.0,30.0,,24.0,2.0,2020-12-07
@@ -12,8 +13,9 @@ CH,Solothurn,SO,7235.0,98.0,,68.0,12.0,2020-12-07
 CH,Basel-Landschaft,BL,7595.0,88.0,,53.0,6.0,2020-12-07
 CH,Thurgau,TG,7758.0,119.0,,55.0,22.0,2020-12-07
 CH,Ticino,TI,17374.0,598.0,,316.0,36.0,2020-12-07
+CH,Valais,VS,23277.0,528.0,,116.0,16.0,2020-12-07
 CH,Berne,BE,31756.0,449.0,,258.0,55.0,2020-12-07
-CH,,,346202.0,5456.0,237165.0,2644.0,480.0,2020-12-07
+CH,,,346502.0,5466.0,237165.0,2640.0,476.0,2020-12-07
 CH,Aargau,AG,,,,,,2020-12-07
 CH,Fribourg,FR,,,,,,2020-12-07
 CH,Geneva,GE,,,,216.0,20.0,2020-12-07
@@ -21,8 +23,6 @@ CH,Grisons,GR,,,,,,2020-12-07
 CH,Jura,JU,,,,,,2020-12-07
 CH,Lucerne,LU,,,,97.0,,2020-12-07
 CH,Neuchâtel,NE,,,,,,2020-12-07
-CH,Nidwalden,NW,,,,,,2020-12-07
 CH,St. Gallen,SG,,,,,,2020-12-07
 CH,Vaud,VD,,,,,,2020-12-07
-CH,Valais,VS,,,,,,2020-12-07
 CH,Zürich,ZH,,,,,,2020-12-07
