@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Nidwalden,NW,1037.0,10.0,,5.0,2.0,2020-12-06
+CH,Schwyz,SZ,5464.0,105.0,,,,2020-12-06
 CH,Grisons,GR,5757.0,105.0,,39.0,8.0,2020-12-06
 CH,Basel-Stadt,BS,6010.0,91.0,,133.0,20.0,2020-12-06
 CH,Basel-Landschaft,BL,7463.0,82.0,,56.0,6.0,2020-12-06
@@ -19,7 +20,6 @@ CH,Neuchâtel,NE,,,,,,2020-12-06
 CH,Obwalden,OW,,,,,,2020-12-06
 CH,Schaffhausen,SH,,,,,,2020-12-06
 CH,Solothurn,SO,,,,,,2020-12-06
-CH,Schwyz,SZ,,,,,,2020-12-06
 CH,Thurgau,TG,,,,,,2020-12-06
 CH,Uri,UR,,,,,,2020-12-06
 CH,Vaud,VD,,,,,,2020-12-06

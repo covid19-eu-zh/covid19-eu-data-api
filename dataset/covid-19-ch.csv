@@ -8559,6 +8559,7 @@ CH,Vaud,VD,,0,,,,2020-12-05
 CH,Valais,VS,,0,,,,2020-12-05
 CH,Zürich,ZH,,0,,,,2020-12-05
 CH,Nidwalden,NW,1037.0,10,,5,2,2020-12-06
+CH,Schwyz,SZ,5464.0,105,,,,2020-12-06
 CH,Grisons,GR,5757.0,105,,39,8,2020-12-06
 CH,Basel-Stadt,BS,6010.0,91,,133,20,2020-12-06
 CH,Basel-Landschaft,BL,7463.0,82,,56,6,2020-12-06
@@ -8578,15 +8579,15 @@ CH,Neuchâtel,NE,,0,,,,2020-12-06
 CH,Obwalden,OW,,0,,,,2020-12-06
 CH,Schaffhausen,SH,,0,,,,2020-12-06
 CH,Solothurn,SO,,0,,,,2020-12-06
-CH,Schwyz,SZ,,0,,,,2020-12-06
 CH,Thurgau,TG,,0,,,,2020-12-06
 CH,Uri,UR,,0,,,,2020-12-06
 CH,Vaud,VD,,0,,,,2020-12-06
 CH,Valais,VS,,0,,,,2020-12-06
 CH,Zug,ZG,,0,,,,2020-12-06
 CH,Zürich,ZH,,0,,,,2020-12-06
-CH,Uri,UR,1014.0,29,,10,,2020-12-07
-CH,,,342378.0,5373,237165,2592,483,2020-12-07
+CH,Uri,UR,1014.0,29,,8,,2020-12-07
+CH,Schwyz,SZ,5563.0,110,,,,2020-12-07
+CH,,,342477.0,5378,237165,2590,483,2020-12-07
 CH,Aargau,AG,,0,,,,2020-12-07
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-07
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-07
@@ -8605,7 +8606,6 @@ CH,Obwalden,OW,,0,,,,2020-12-07
 CH,St. Gallen,SG,,0,,,,2020-12-07
 CH,Schaffhausen,SH,,0,,,,2020-12-07
 CH,Solothurn,SO,,0,,,,2020-12-07
-CH,Schwyz,SZ,,0,,,,2020-12-07
 CH,Thurgau,TG,,0,,,,2020-12-07
 CH,Ticino,TI,,0,,,,2020-12-07
 CH,Vaud,VD,,0,,,,2020-12-07
