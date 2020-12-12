@@ -8721,13 +8721,14 @@ CH,Neuchâtel,NE,,0,,,,2020-12-11
 CH,St. Gallen,SG,,0,,,,2020-12-11
 CH,Vaud,VD,,0,,,,2020-12-11
 CH,Uri,UR,1094.0,30,,8,,2020-12-12
+CH,Nidwalden,NW,1124.0,11,,3,,2020-12-12
 CH,Zug,ZG,3961.0,47,,21,4,2020-12-12
 CH,Schwyz,SZ,6029.0,116,,,,2020-12-12
 CH,Basel-Stadt,BS,6622.0,106,,121,18,2020-12-12
 CH,Basel-Landschaft,BL,8542.0,103,,58,8,2020-12-12
 CH,Ticino,TI,18735.0,640,,300,39,2020-12-12
 CH,Berne,BE,34560.0,497,,,,2020-12-12
-CH,,,369250.0,5972,237692,2507,468,2020-12-12
+CH,,,369265.0,5973,237692,2506,468,2020-12-12
 CH,Aargau,AG,,0,,,,2020-12-12
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-12
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-12
@@ -8738,7 +8739,6 @@ CH,Grisons,GR,,0,,,,2020-12-12
 CH,Jura,JU,,0,,,,2020-12-12
 CH,Lucerne,LU,,0,,,,2020-12-12
 CH,Neuchâtel,NE,,0,,,,2020-12-12
-CH,Nidwalden,NW,,0,,,,2020-12-12
 CH,Obwalden,OW,,0,,,,2020-12-12
 CH,St. Gallen,SG,,0,,,,2020-12-12
 CH,Schaffhausen,SH,,0,,,,2020-12-12
