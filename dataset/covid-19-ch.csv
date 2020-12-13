@@ -8747,12 +8747,13 @@ CH,Thurgau,TG,,0,,,,2020-12-12
 CH,Vaud,VD,,0,,,,2020-12-12
 CH,Valais,VS,,0,,,,2020-12-12
 CH,Zürich,ZH,,0,,,,2020-12-12
+CH,Nidwalden,NW,1136.0,11,,2,1,2020-12-13
 CH,Zug,ZG,4001.0,47,,19,4,2020-12-13
 CH,Basel-Stadt,BS,6680.0,109,,130,16,2020-12-13
 CH,Basel-Landschaft,BL,8621.0,103,,54,7,2020-12-13
 CH,Ticino,TI,19000.0,644,,298,41,2020-12-13
 CH,Berne,BE,34999.0,498,,,,2020-12-13
-CH,,,370323.0,5984,237692,2520,469,2020-12-13
+CH,,,370335.0,5984,237692,2520,469,2020-12-13
 CH,Aargau,AG,,0,,,,2020-12-13
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-13
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-13
@@ -8763,7 +8764,6 @@ CH,Grisons,GR,,0,,,,2020-12-13
 CH,Jura,JU,,0,,,,2020-12-13
 CH,Lucerne,LU,,0,,,,2020-12-13
 CH,Neuchâtel,NE,,0,,,,2020-12-13
-CH,Nidwalden,NW,,0,,,,2020-12-13
 CH,Obwalden,OW,,0,,,,2020-12-13
 CH,St. Gallen,SG,,0,,,,2020-12-13
 CH,Schaffhausen,SH,,0,,,,2020-12-13
