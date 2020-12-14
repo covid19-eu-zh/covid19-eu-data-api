@@ -1,6 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Uri,UR,1094.0,30.0,,8.0,,2020-12-12
-CH,Nidwalden,NW,1124.0,11.0,,3.0,,2020-12-12
+CH,Nidwalden,NW,1124.0,11.0,,3.0,0.0,2020-12-12
 CH,Zug,ZG,3961.0,47.0,,21.0,4.0,2020-12-12
 CH,Schwyz,SZ,6029.0,116.0,,,,2020-12-12
 CH,Grisons,GR,6401.0,114.0,,37.0,8.0,2020-12-12
@@ -8,8 +8,9 @@ CH,Basel-Stadt,BS,6622.0,106.0,,121.0,18.0,2020-12-12
 CH,Basel-Landschaft,BL,8542.0,103.0,,58.0,8.0,2020-12-12
 CH,Ticino,TI,18735.0,640.0,,300.0,39.0,2020-12-12
 CH,Fribourg,FR,21821.0,377.0,,69.0,16.0,2020-12-12
+CH,St. Gallen,SG,22021.0,,,,,2020-12-12
 CH,Berne,BE,34560.0,497.0,,,,2020-12-12
-CH,,,369441.0,5976.0,237692.0,2516.0,471.0,2020-12-12
+CH,,,370143.0,5976.0,237692.0,2517.0,470.0,2020-12-12
 CH,Aargau,AG,,,,,,2020-12-12
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-12
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-12
@@ -19,7 +20,6 @@ CH,Jura,JU,,,,,,2020-12-12
 CH,Lucerne,LU,,,,,,2020-12-12
 CH,Neuchâtel,NE,,,,,,2020-12-12
 CH,Obwalden,OW,,,,,,2020-12-12
-CH,St. Gallen,SG,,,,,,2020-12-12
 CH,Schaffhausen,SH,,,,,,2020-12-12
 CH,Solothurn,SO,,,,,,2020-12-12
 CH,Thurgau,TG,,,,,,2020-12-12
