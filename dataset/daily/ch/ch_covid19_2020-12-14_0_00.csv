@@ -1,5 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Innerrhoden,AI,620.0,15.0,,,,2020-12-14
 CH,Uri,UR,1122.0,30.0,,9.0,,2020-12-14
+CH,Obwalden,OW,1189.0,26.0,,7.0,,2020-12-14
 CH,Glarus,GL,1242.0,31.0,,9.0,,2020-12-14
 CH,Appenzell Ausserrhoden,AR,1998.0,31.0,,11.0,1.0,2020-12-14
 CH,Schaffhausen,SH,2418.0,42.0,,15.0,4.0,2020-12-14
@@ -7,21 +9,19 @@ CH,Zug,ZG,4038.0,48.0,,20.0,4.0,2020-12-14
 CH,Schwyz,SZ,6205.0,116.0,,,,2020-12-14
 CH,Basel-Stadt,BS,6739.0,109.0,,120.0,17.0,2020-12-14
 CH,Solothurn,SO,8383.0,129.0,,61.0,14.0,2020-12-14
+CH,Basel-Landschaft,BL,8721.0,106.0,,56.0,6.0,2020-12-14
 CH,Thurgau,TG,9060.0,134.0,,62.0,23.0,2020-12-14
 CH,Ticino,TI,19174.0,652.0,,310.0,43.0,2020-12-14
-CH,,,374649.0,6069.0,237692.0,2508.0,473.0,2020-12-14
+CH,Berne,BE,35311.0,505.0,,282.0,57.0,2020-12-14
+CH,,,375115.0,6079.0,237692.0,2540.0,477.0,2020-12-14
 CH,Aargau,AG,,,,,,2020-12-14
-CH,Appenzell Innerrhoden,AI,,,,,,2020-12-14
-CH,Berne,BE,,,,,,2020-12-14
-CH,Basel-Landschaft,BL,,,,,,2020-12-14
 CH,Fribourg,FR,,,,,,2020-12-14
-CH,Geneva,GE,,,,,,2020-12-14
+CH,Geneva,GE,,,,-20.0,20.0,2020-12-14
 CH,Grisons,GR,,,,,,2020-12-14
 CH,Jura,JU,,,,,,2020-12-14
 CH,Lucerne,LU,,,,92.0,,2020-12-14
 CH,Neuchâtel,NE,,,,,,2020-12-14
 CH,Nidwalden,NW,,,,,,2020-12-14
-CH,Obwalden,OW,,,,,,2020-12-14
 CH,St. Gallen,SG,,,,,,2020-12-14
 CH,Vaud,VD,,,,,,2020-12-14
 CH,Valais,VS,,,,,,2020-12-14
