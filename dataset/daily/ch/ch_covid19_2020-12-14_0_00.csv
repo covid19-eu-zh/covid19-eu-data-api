@@ -1,6 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Appenzell Innerrhoden,AI,620.0,15.0,,,,2020-12-14
 CH,Uri,UR,1122.0,30.0,,9.0,,2020-12-14
+CH,Nidwalden,NW,1158.0,11.0,,1.0,2.0,2020-12-14
 CH,Obwalden,OW,1189.0,26.0,,7.0,,2020-12-14
 CH,Glarus,GL,1242.0,31.0,,9.0,,2020-12-14
 CH,Appenzell Ausserrhoden,AR,1998.0,31.0,,11.0,1.0,2020-12-14
@@ -16,13 +17,12 @@ CH,Fribourg,FR,21981.0,382.0,,73.0,14.0,2020-12-14
 CH,Valais,VS,24042.0,560.0,,77.0,20.0,2020-12-14
 CH,Berne,BE,35311.0,505.0,,282.0,57.0,2020-12-14
 CH,Zürich,ZH,55938.0,607.0,,438.0,97.0,2020-12-14
-CH,,,378449.0,6151.0,237692.0,2600.0,481.0,2020-12-14
+CH,,,378471.0,6151.0,237692.0,2599.0,482.0,2020-12-14
 CH,Aargau,AG,,,,,,2020-12-14
 CH,Geneva,GE,,,,-20.0,20.0,2020-12-14
 CH,Grisons,GR,,,,,,2020-12-14
 CH,Jura,JU,,,,,,2020-12-14
 CH,Lucerne,LU,,,,92.0,,2020-12-14
 CH,Neuchâtel,NE,,,,,,2020-12-14
-CH,Nidwalden,NW,,,,,,2020-12-14
 CH,St. Gallen,SG,,,,,,2020-12-14
 CH,Vaud,VD,,,,,,2020-12-14
