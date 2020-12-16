@@ -8829,12 +8829,14 @@ CH,Lucerne,LU,,0,,93,,2020-12-15
 CH,Neuchâtel,NE,,0,,,,2020-12-15
 CH,Vaud,VD,,0,,,,2020-12-15
 CH,Uri,UR,1165.0,30,,12,,2020-12-16
+CH,Appenzell Ausserrhoden,AR,2065.0,32,,13,1,2020-12-16
 CH,Schaffhausen,SH,2525.0,43,,14,4,2020-12-16
 CH,Zug,ZG,4157.0,54,,19,4,2020-12-16
-CH,,,383563.0,6275,238769,2626,483,2020-12-16
+CH,Schwyz,SZ,6366.0,117,,,,2020-12-16
+CH,Ticino,TI,19705.0,673,,297,40,2020-12-16
+CH,,,384024.0,6289,238769,2611,481,2020-12-16
 CH,Aargau,AG,,0,,,,2020-12-16
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-16
-CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-16
 CH,Berne,BE,,0,,,,2020-12-16
 CH,Basel-Landschaft,BL,,0,,,,2020-12-16
 CH,Basel-Stadt,BS,,0,,,,2020-12-16
@@ -8849,9 +8851,7 @@ CH,Nidwalden,NW,,0,,,,2020-12-16
 CH,Obwalden,OW,,0,,,,2020-12-16
 CH,St. Gallen,SG,,0,,,,2020-12-16
 CH,Solothurn,SO,,0,,,,2020-12-16
-CH,Schwyz,SZ,,0,,,,2020-12-16
 CH,Thurgau,TG,,0,,,,2020-12-16
-CH,Ticino,TI,,0,,,,2020-12-16
 CH,Vaud,VD,,0,,,,2020-12-16
 CH,Valais,VS,,0,,,,2020-12-16
 CH,Zürich,ZH,,0,,,,2020-12-16
