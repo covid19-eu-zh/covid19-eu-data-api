@@ -1,8 +1,10 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Uri,UR,1177.0,32.0,,8.0,,2020-12-17
 CH,Schaffhausen,SH,2565.0,44.0,,13.0,4.0,2020-12-17
+CH,Zug,ZG,4220.0,54.0,,20.0,4.0,2020-12-17
 CH,Schwyz,SZ,6474.0,120.0,,,,2020-12-17
-CH,,,387743.0,6399.0,238769.0,2556.0,475.0,2020-12-17
+CH,Ticino,TI,19963.0,682.0,,294.0,38.0,2020-12-17
+CH,,,388143.0,6409.0,238769.0,2561.0,472.0,2020-12-17
 CH,Aargau,AG,,,,,,2020-12-17
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-17
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-17
@@ -21,8 +23,6 @@ CH,Obwalden,OW,,,,,,2020-12-17
 CH,St. Gallen,SG,,,,,,2020-12-17
 CH,Solothurn,SO,,,,,,2020-12-17
 CH,Thurgau,TG,,,,,,2020-12-17
-CH,Ticino,TI,,,,,,2020-12-17
 CH,Vaud,VD,,,,,,2020-12-17
 CH,Valais,VS,,,,,,2020-12-17
-CH,Zug,ZG,,,,,,2020-12-17
 CH,Zürich,ZH,,,,,,2020-12-17
