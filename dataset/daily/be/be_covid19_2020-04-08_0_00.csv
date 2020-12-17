@@ -1,7 +1,7 @@
 country,nuts_1,nuts_2,cases,deaths,hospitalized,intensive_care,datetime
 BE,MISSING,MISSING,533.0,,,,2020-04-08
 BE,Wallonia,BrabantWallon,713.0,,67.0,15.0,2020-04-08
-BE,Wallonia,Luxembourg,839.0,,116.0,27.0,2020-04-08
+BE,Wallonia,Luxembourg,840.0,,116.0,27.0,2020-04-08
 BE,Wallonia,Namur,953.0,,173.0,48.0,2020-04-08
 BE,Flanders,VlaamsBrabant,2857.0,,303.0,74.0,2020-04-08
 BE,Flanders,WestVlaanderen,2990.0,,652.0,131.0,2020-04-08
