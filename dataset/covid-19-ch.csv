@@ -8909,13 +8909,14 @@ CH,Jura,JU,,0,,,,2020-12-18
 CH,Lucerne,LU,,0,,91,,2020-12-18
 CH,Neuchâtel,NE,,0,,,,2020-12-18
 CH,St. Gallen,SG,,0,,,,2020-12-18
+CH,Nidwalden,NW,1256.0,12,,4,3,2020-12-19
 CH,Zug,ZG,4327.0,56,,21,4,2020-12-19
 CH,Schwyz,SZ,6717.0,124,,,,2020-12-19
 CH,Basel-Stadt,BS,7273.0,125,,128,19,2020-12-19
 CH,Basel-Landschaft,BL,9504.0,132,,58,4,2020-12-19
 CH,Ticino,TI,20511.0,691,,303,42,2020-12-19
 CH,Berne,BE,38115.0,554,,,,2020-12-19
-CH,,,399221.0,6597,238769,2471,452,2020-12-19
+CH,,,399233.0,6597,238769,2472,452,2020-12-19
 CH,Aargau,AG,,0,,,,2020-12-19
 CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-19
 CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-19
@@ -8926,7 +8927,6 @@ CH,Grisons,GR,,0,,,,2020-12-19
 CH,Jura,JU,,0,,,,2020-12-19
 CH,Lucerne,LU,,0,,,,2020-12-19
 CH,Neuchâtel,NE,,0,,,,2020-12-19
-CH,Nidwalden,NW,,0,,,,2020-12-19
 CH,Obwalden,OW,,0,,,,2020-12-19
 CH,St. Gallen,SG,,0,,,,2020-12-19
 CH,Schaffhausen,SH,,0,,,,2020-12-19
