@@ -1,7 +1,7 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Uri,UR,1236.0,32.0,,8.0,,2020-12-21
 CH,Schwyz,SZ,6858.0,125.0,,,,2020-12-21
-CH,,,400772.0,6623.0,268883.0,2483.0,451.0,2020-12-21
+CH,,,401480.0,6650.0,268883.0,2472.0,446.0,2020-12-21
 CH,Aargau,AG,,,,,,2020-12-21
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-21
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-21
