@@ -1,28 +1,28 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Appenzell Innerrhoden,AI,653.0,15.0,,5.0,,2020-12-22
 CH,Uri,UR,1248.0,32.0,,10.0,,2020-12-22
 CH,Glarus,GL,1423.0,35.0,,13.0,,2020-12-22
 CH,Appenzell Ausserrhoden,AR,2213.0,38.0,,17.0,1.0,2020-12-22
 CH,Schaffhausen,SH,2728.0,45.0,,18.0,3.0,2020-12-22
 CH,Zug,ZG,4481.0,61.0,,22.0,3.0,2020-12-22
 CH,Schwyz,SZ,6924.0,128.0,,,,2020-12-22
+CH,Basel-Stadt,BS,7476.0,130.0,,135.0,18.0,2020-12-22
 CH,Solothurn,SO,9637.0,168.0,,67.0,12.0,2020-12-22
+CH,Thurgau,TG,10546.0,172.0,,74.0,17.0,2020-12-22
 CH,Ticino,TI,21157.0,710.0,,311.0,39.0,2020-12-22
-CH,,,408504.0,6817.0,268883.0,2571.0,446.0,2020-12-22
+CH,,,408893.0,6839.0,268883.0,2576.0,446.0,2020-12-22
 CH,Aargau,AG,,,,,,2020-12-22
-CH,Appenzell Innerrhoden,AI,,,,,,2020-12-22
 CH,Berne,BE,,,,,,2020-12-22
 CH,Basel-Landschaft,BL,,,,,,2020-12-22
-CH,Basel-Stadt,BS,,,,,,2020-12-22
 CH,Fribourg,FR,,,,,,2020-12-22
 CH,Geneva,GE,,,,,,2020-12-22
 CH,Grisons,GR,,,,,,2020-12-22
 CH,Jura,JU,,,,,,2020-12-22
-CH,Lucerne,LU,,,,,,2020-12-22
+CH,Lucerne,LU,,,,107.0,,2020-12-22
 CH,Neuchâtel,NE,,,,,,2020-12-22
 CH,Nidwalden,NW,,,,,,2020-12-22
 CH,Obwalden,OW,,,,,,2020-12-22
 CH,St. Gallen,SG,,,,,,2020-12-22
-CH,Thurgau,TG,,,,,,2020-12-22
 CH,Vaud,VD,,,,,,2020-12-22
 CH,Valais,VS,,,,,,2020-12-22
 CH,Zürich,ZH,,,,,,2020-12-22
