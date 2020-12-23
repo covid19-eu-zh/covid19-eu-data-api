@@ -9007,13 +9007,40 @@ CH,Ticino,TI,21157.0,710,,311,39,2020-12-22
 CH,Valais,VS,24745.0,581,,63,18,2020-12-22
 CH,Berne,BE,39275.0,574,,278,53,2020-12-22
 CH,Zürich,ZH,62678.0,747,,407,101,2020-12-22
-CH,,,411864.0,6924,268883,2504,446,2020-12-22
+CH,,,411864.0,6924,268883,2505,446,2020-12-22
 CH,Aargau,AG,,0,,,,2020-12-22
 CH,Fribourg,FR,,0,,,,2020-12-22
 CH,Geneva,GE,,0,,-13,13,2020-12-22
 CH,Jura,JU,,0,,,,2020-12-22
 CH,Lucerne,LU,,0,,107,,2020-12-22
 CH,Neuchâtel,NE,,0,,,,2020-12-22
-CH,Obwalden,OW,,0,,,,2020-12-22
+CH,Obwalden,OW,,0,,5,,2020-12-22
 CH,St. Gallen,SG,,0,,,,2020-12-22
 CH,Vaud,VD,,0,,,,2020-12-22
+CH,,,411864.0,6924,268883,2505,446,2020-12-23
+CH,Aargau,AG,,0,,,,2020-12-23
+CH,Appenzell Innerrhoden,AI,,0,,,,2020-12-23
+CH,Appenzell Ausserrhoden,AR,,0,,,,2020-12-23
+CH,Berne,BE,,0,,,,2020-12-23
+CH,Basel-Landschaft,BL,,0,,,,2020-12-23
+CH,Basel-Stadt,BS,,0,,,,2020-12-23
+CH,Fribourg,FR,,0,,,,2020-12-23
+CH,Geneva,GE,,0,,,,2020-12-23
+CH,Glarus,GL,,0,,,,2020-12-23
+CH,Grisons,GR,,0,,,,2020-12-23
+CH,Jura,JU,,0,,,,2020-12-23
+CH,Lucerne,LU,,0,,,,2020-12-23
+CH,Neuchâtel,NE,,0,,,,2020-12-23
+CH,Nidwalden,NW,,0,,,,2020-12-23
+CH,Obwalden,OW,,0,,,,2020-12-23
+CH,St. Gallen,SG,,0,,,,2020-12-23
+CH,Schaffhausen,SH,,0,,,,2020-12-23
+CH,Solothurn,SO,,0,,,,2020-12-23
+CH,Schwyz,SZ,,0,,,,2020-12-23
+CH,Thurgau,TG,,0,,,,2020-12-23
+CH,Ticino,TI,,0,,,,2020-12-23
+CH,Uri,UR,,0,,,,2020-12-23
+CH,Vaud,VD,,0,,,,2020-12-23
+CH,Valais,VS,,0,,,,2020-12-23
+CH,Zug,ZG,,0,,,,2020-12-23
+CH,Zürich,ZH,,0,,,,2020-12-23
