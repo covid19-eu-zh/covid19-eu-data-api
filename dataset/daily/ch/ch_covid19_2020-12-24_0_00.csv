@@ -1,8 +1,9 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
-CH,,,416660.0,7029.0,275645.0,2426.0,448.0,2020-12-24
+CH,Appenzell Ausserrhoden,AR,2287.0,38.0,,16.0,1.0,2020-12-24
+CH,Schaffhausen,SH,2813.0,45.0,,17.0,4.0,2020-12-24
+CH,,,417103.0,7038.0,275645.0,2439.0,450.0,2020-12-24
 CH,Aargau,AG,,,,,,2020-12-24
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-24
-CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-24
 CH,Berne,BE,,,,,,2020-12-24
 CH,Basel-Landschaft,BL,,,,,,2020-12-24
 CH,Basel-Stadt,BS,,,,,,2020-12-24
@@ -16,7 +17,6 @@ CH,Neuchâtel,NE,,,,,,2020-12-24
 CH,Nidwalden,NW,,,,,,2020-12-24
 CH,Obwalden,OW,,,,,,2020-12-24
 CH,St. Gallen,SG,,,,,,2020-12-24
-CH,Schaffhausen,SH,,,,,,2020-12-24
 CH,Solothurn,SO,,,,,,2020-12-24
 CH,Schwyz,SZ,,,,,,2020-12-24
 CH,Thurgau,TG,,,,,,2020-12-24
