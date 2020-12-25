@@ -1,15 +1,16 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Zug,ZG,4627.0,61.0,,13.0,4.0,2020-12-25
 CH,Schwyz,SZ,7275.0,131.0,,,,2020-12-25
+CH,Basel-Stadt,BS,7735.0,136.0,,112.0,19.0,2020-12-25
 CH,Solothurn,SO,10067.0,184.0,,39.0,13.0,2020-12-25
+CH,Thurgau,TG,11152.0,184.0,,83.0,23.0,2020-12-25
 CH,Ticino,TI,22036.0,728.0,,305.0,38.0,2020-12-25
 CH,Berne,BE,40845.0,602.0,,,,2020-12-25
-CH,,,421517.0,7127.0,275645.0,2364.0,442.0,2020-12-25
+CH,,,421711.0,7131.0,275645.0,2374.0,443.0,2020-12-25
 CH,Aargau,AG,,,,,,2020-12-25
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-25
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-25
 CH,Basel-Landschaft,BL,,,,,,2020-12-25
-CH,Basel-Stadt,BS,,,,,,2020-12-25
 CH,Fribourg,FR,,,,,,2020-12-25
 CH,Geneva,GE,,,,,,2020-12-25
 CH,Glarus,GL,,,,,,2020-12-25
@@ -21,7 +22,6 @@ CH,Nidwalden,NW,,,,,,2020-12-25
 CH,Obwalden,OW,,,,,,2020-12-25
 CH,St. Gallen,SG,,,,,,2020-12-25
 CH,Schaffhausen,SH,,,,,,2020-12-25
-CH,Thurgau,TG,,,,,,2020-12-25
 CH,Uri,UR,,,,,,2020-12-25
 CH,Vaud,VD,,,,,,2020-12-25
 CH,Valais,VS,,,,,,2020-12-25
