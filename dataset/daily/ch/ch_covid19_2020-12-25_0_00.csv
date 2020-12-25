@@ -1,5 +1,6 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
-CH,,,420328.0,7098.0,275645.0,2368.0,447.0,2020-12-25
+CH,Solothurn,SO,10067.0,,,39.0,13.0,2020-12-25
+CH,,,420446.0,7098.0,275645.0,2358.0,447.0,2020-12-25
 CH,Aargau,AG,,,,,,2020-12-25
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-25
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-25
@@ -17,7 +18,6 @@ CH,Nidwalden,NW,,,,,,2020-12-25
 CH,Obwalden,OW,,,,,,2020-12-25
 CH,St. Gallen,SG,,,,,,2020-12-25
 CH,Schaffhausen,SH,,,,,,2020-12-25
-CH,Solothurn,SO,,,,,,2020-12-25
 CH,Schwyz,SZ,,,,,,2020-12-25
 CH,Thurgau,TG,,,,,,2020-12-25
 CH,Ticino,TI,,,,,,2020-12-25
