@@ -1,12 +1,13 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Uri,UR,1307.0,32.0,,7.0,,2020-12-26
+CH,Nidwalden,NW,1345.0,12.0,,4.0,1.0,2020-12-26
 CH,Zug,ZG,4650.0,63.0,,11.0,4.0,2020-12-26
 CH,Basel-Stadt,BS,7779.0,136.0,,118.0,22.0,2020-12-26
 CH,Basel-Landschaft,BL,10347.0,148.0,,59.0,11.0,2020-12-26
 CH,Ticino,TI,22184.0,735.0,,310.0,39.0,2020-12-26
 CH,Geneva,GE,40163.0,628.0,,129.0,12.0,2020-12-26
 CH,Berne,BE,41103.0,605.0,,,,2020-12-26
-CH,,,424225.0,7193.0,275645.0,2343.0,446.0,2020-12-26
+CH,,,424231.0,7193.0,275645.0,2343.0,446.0,2020-12-26
 CH,Aargau,AG,,,,,,2020-12-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-26
@@ -16,7 +17,6 @@ CH,Grisons,GR,,,,,,2020-12-26
 CH,Jura,JU,,,,,,2020-12-26
 CH,Lucerne,LU,,,,,,2020-12-26
 CH,Neuchâtel,NE,,,,,,2020-12-26
-CH,Nidwalden,NW,,,,,,2020-12-26
 CH,Obwalden,OW,,,,,,2020-12-26
 CH,St. Gallen,SG,,,,,,2020-12-26
 CH,Schaffhausen,SH,,,,,,2020-12-26
