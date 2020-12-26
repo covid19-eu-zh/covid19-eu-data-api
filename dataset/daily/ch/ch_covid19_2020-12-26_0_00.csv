@@ -1,10 +1,10 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
 CH,Geneva,GE,40140.0,628.0,,,,2020-12-26
-CH,,,423058.0,7164.0,275645.0,2338.0,448.0,2020-12-26
+CH,Berne,BE,41103.0,605.0,,,,2020-12-26
+CH,,,423862.0,7182.0,275645.0,2326.0,442.0,2020-12-26
 CH,Aargau,AG,,,,,,2020-12-26
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-26
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-26
-CH,Berne,BE,,,,,,2020-12-26
 CH,Basel-Landschaft,BL,,,,,,2020-12-26
 CH,Basel-Stadt,BS,,,,,,2020-12-26
 CH,Fribourg,FR,,,,,,2020-12-26
