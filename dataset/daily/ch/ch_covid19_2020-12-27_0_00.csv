@@ -1,8 +1,9 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Zug,ZG,4683.0,63.0,,11.0,4.0,2020-12-27
 CH,Ticino,TI,22352.0,742.0,,313.0,44.0,2020-12-27
 CH,Geneva,GE,40222.0,628.0,,,,2020-12-27
 CH,Berne,BE,41309.0,611.0,,,,2020-12-27
-CH,,,424772.0,7206.0,275645.0,2344.0,449.0,2020-12-27
+CH,,,424805.0,7206.0,275645.0,2344.0,449.0,2020-12-27
 CH,Aargau,AG,,,,,,2020-12-27
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-27
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-27
@@ -24,5 +25,4 @@ CH,Thurgau,TG,,,,,,2020-12-27
 CH,Uri,UR,,,,,,2020-12-27
 CH,Vaud,VD,,,,,,2020-12-27
 CH,Valais,VS,,,,,,2020-12-27
-CH,Zug,ZG,,,,,,2020-12-27
 CH,Zürich,ZH,,,,,,2020-12-27
