@@ -2,23 +2,23 @@ country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,dateti
 CH,Uri,UR,1331.0,32.0,,9.0,,2020-12-28
 CH,Obwalden,OW,1348.0,30.0,,5.0,,2020-12-28
 CH,Glarus,GL,1504.0,35.0,,16.0,,2020-12-28
+CH,Appenzell Ausserrhoden,AR,2340.0,38.0,,13.0,1.0,2020-12-28
 CH,Schaffhausen,SH,2914.0,49.0,,20.0,2.0,2020-12-28
 CH,Zug,ZG,4710.0,65.0,,12.0,3.0,2020-12-28
 CH,Schwyz,SZ,7397.0,133.0,,,,2020-12-28
+CH,Basel-Stadt,BS,7901.0,139.0,,116.0,25.0,2020-12-28
 CH,Thurgau,TG,11376.0,192.0,,60.0,18.0,2020-12-28
 CH,Ticino,TI,22513.0,750.0,,322.0,44.0,2020-12-28
 CH,Geneva,GE,40305.0,628.0,,,,2020-12-28
-CH,,,426512.0,7260.0,275645.0,2342.0,446.0,2020-12-28
+CH,Berne,BE,41596.0,620.0,,241.0,47.0,2020-12-28
+CH,,,427826.0,7283.0,275645.0,2333.0,447.0,2020-12-28
 CH,Aargau,AG,,,,,,2020-12-28
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-28
-CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-28
-CH,Berne,BE,,,,,,2020-12-28
 CH,Basel-Landschaft,BL,,,,,,2020-12-28
-CH,Basel-Stadt,BS,,,,,,2020-12-28
 CH,Fribourg,FR,,,,,,2020-12-28
 CH,Grisons,GR,,,,,,2020-12-28
 CH,Jura,JU,,,,,,2020-12-28
-CH,Lucerne,LU,,,,,,2020-12-28
+CH,Lucerne,LU,,,,110.0,,2020-12-28
 CH,Neuchâtel,NE,,,,,,2020-12-28
 CH,Nidwalden,NW,,,,,,2020-12-28
 CH,St. Gallen,SG,,,,,,2020-12-28
