@@ -22,7 +22,7 @@ CH,Zürich,ZH,60563.0,723.0,,396.0,97.0,2020-12-19
 CH,,,403393.0,6747.0,268883.0,2441.0,457.0,2020-12-19
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-19
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-19
-CH,Glarus,GL,,,,,,2020-12-19
+CH,Glarus,GL,,,,-1.0,1.0,2020-12-19
 CH,Schaffhausen,SH,,,,,,2020-12-19
 CH,Solothurn,SO,,,,,,2020-12-19
 CH,Uri,UR,,,,,,2020-12-19
