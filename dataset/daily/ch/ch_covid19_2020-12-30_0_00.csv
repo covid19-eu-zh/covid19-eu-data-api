@@ -1,8 +1,12 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Obwalden,OW,1369.0,30.0,,5.0,,2020-12-30
+CH,Schaffhausen,SH,2977.0,52.0,,18.0,1.0,2020-12-30
+CH,Zug,ZG,4829.0,66.0,,14.0,3.0,2020-12-30
 CH,Schwyz,SZ,7574.0,142.0,,,,2020-12-30
-CH,Solothurn,SO,10526.0,,,47.0,10.0,2020-12-30
+CH,Solothurn,SO,10526.0,202.0,,47.0,10.0,2020-12-30
+CH,Ticino,TI,23096.0,768.0,,330.0,43.0,2020-12-30
 CH,Berne,BE,42538.0,659.0,,,,2020-12-30
-CH,,,437328.0,7527.0,277767.0,2423.0,442.0,2020-12-30
+CH,,,437835.0,7541.0,277767.0,2423.0,441.0,2020-12-30
 CH,Aargau,AG,,,,,,2020-12-30
 CH,Appenzell Innerrhoden,AI,,,,,,2020-12-30
 CH,Appenzell Ausserrhoden,AR,,,,,,2020-12-30
@@ -16,13 +20,9 @@ CH,Jura,JU,,,,,,2020-12-30
 CH,Lucerne,LU,,,,,,2020-12-30
 CH,Neuchâtel,NE,,,,,,2020-12-30
 CH,Nidwalden,NW,,,,,,2020-12-30
-CH,Obwalden,OW,,,,,,2020-12-30
 CH,St. Gallen,SG,,,,,,2020-12-30
-CH,Schaffhausen,SH,,,,,,2020-12-30
 CH,Thurgau,TG,,,,,,2020-12-30
-CH,Ticino,TI,,,,,,2020-12-30
 CH,Uri,UR,,,,,,2020-12-30
 CH,Vaud,VD,,,,,,2020-12-30
 CH,Valais,VS,,,,,,2020-12-30
-CH,Zug,ZG,,,,,,2020-12-30
 CH,Zürich,ZH,,,,,,2020-12-30
