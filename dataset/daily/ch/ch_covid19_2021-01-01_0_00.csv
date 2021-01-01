@@ -1,13 +1,13 @@
 country,nuts_3,nuts_3_code,cases,deaths,tests,hospitalized,intensive_care,datetime
+CH,Basel-Stadt,BS,8182.0,153.0,,101.0,16.0,2021-01-01
 CH,Thurgau,TG,12022.0,206.0,,96.0,19.0,2021-01-01
 CH,Ticino,TI,23705.0,785.0,,319.0,47.0,2021-01-01
-CH,,,444442.0,7658.0,277767.0,2360.0,428.0,2021-01-01
+CH,,,444516.0,7662.0,277767.0,2346.0,423.0,2021-01-01
 CH,Aargau,AG,,,,,,2021-01-01
 CH,Appenzell Innerrhoden,AI,,,,,,2021-01-01
 CH,Appenzell Ausserrhoden,AR,,,,,,2021-01-01
 CH,Berne,BE,,,,,,2021-01-01
 CH,Basel-Landschaft,BL,,,,,,2021-01-01
-CH,Basel-Stadt,BS,,,,,,2021-01-01
 CH,Fribourg,FR,,,,,,2021-01-01
 CH,Geneva,GE,,,,,,2021-01-01
 CH,Glarus,GL,,,,,,2021-01-01
