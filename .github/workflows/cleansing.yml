@@ -6,6 +6,12 @@ on:
     - 'cleansing/full.py'
   schedule:
     - cron:  '0 7/1 * * *'
+  workflow_dispatch:
+    inputs:
+      whotriggered:
+        description: 'Manual Trigger'
+        default: 'Why'
+        required: false
 
 jobs:
   build:
